@@ -12,9 +12,12 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 git remote add origin git@github.com:user/repo.git
 ```
 
-Note that there may be a need to create a token on github to create a new local repository.
+Note that there may be a need to create a token on github to create a new local repository in case you initiate with SSH. There is a pubkey saved in janus, and this is the one that was generated in github: 
+
 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
 
+Apparently, there's issues using SSH, although it's a good option for people concerned about security. In general cases, stick with https.
+==attention==: even with https you may need to authenticate on browser. If so, a pop up window will appear.
 ### git bash
 basically git's own terminal! easy to use on windows after you install git. good alternative to windows' trash CD language.
 
