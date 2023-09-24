@@ -1,5 +1,7 @@
 [Carbon verification | Smithsonian Tropical Research Institute (si.edu)](https://stri.si.edu/story/carbon-verification)
 
+[The importance of stupidity in scientific research | Journal of Cell Science | The Company of Biologists](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
+
 [Animals are key to restoring the world’s forests | Max-Planck-Gesellschaft (mpg.de)](https://www.mpg.de/19560696/1125-ornr-animals-are-key-to-restoring-the-world-s-forests-987453-x)
 
 [The Key to Species Diversity May Be in Their Similarities | Quanta Magazine](https://www.quantamagazine.org/the-key-to-species-diversity-may-be-in-their-similarities-20230626/)

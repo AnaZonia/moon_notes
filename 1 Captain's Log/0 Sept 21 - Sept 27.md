@@ -16,7 +16,7 @@ Rest/study in the evening, prepare for coming week.
 
 Coding. Work on the code FIRST - then, for the evening, weekend menu or time to read papers/study.
 
-Spent some time becoming good at github. Everything is smooth now and making perfect sense. I have my own note to guide me.
+Spent some time becoming good at [[Github]]. Everything is smooth now and making perfect sense. Vault is backed up, so is my code. Ready to organize everything across Polaris, Janus and Athina!
 
 
 

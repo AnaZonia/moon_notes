@@ -19,5 +19,7 @@
 - [ ] Transcribe Andrew/stats notes
 - [ ] Set up morning/bed/gym routine
 - [ ] Use excalidraw to make photosynthesis/N cycle schemes
+- [ ] check out [Ilya](https://twitter.com/Artifexx) twitter for good obsidian ideas!
+- [ ] Read 
 
 
