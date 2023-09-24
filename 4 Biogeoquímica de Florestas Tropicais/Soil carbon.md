@@ -1,0 +1,1 @@
+-carbon isotopes (12, 13, 14)

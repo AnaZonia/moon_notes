@@ -1,0 +1,18 @@
+{
+  "attachmentFolderPath": "Files",
+  "newFileLocation": "current",
+  "newFileFolderPath": "0 Zettelkasten",
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "readableLineLength": true,
+  "showInlineTitle": true,
+  "showIndentGuide": false,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

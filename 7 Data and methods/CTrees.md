@@ -1,0 +1,1 @@
+[CTrees selected as data provider for Verra’s consolidated REDD methodology - CTrees](https://ctrees.org/news/ctrees-selected-as-data-provider-for-verras-consolidated)
