@@ -18,6 +18,25 @@ Coding. Work on the code FIRST - then, for the evening, weekend menu or time to 
 
 Spent some time becoming good at [[Github]]. Everything is smooth now and making perfect sense. Vault is backed up, so is my code. Ready to organize everything across Polaris, Janus and Athina!
 
+### QGIS
+Merging the rasters was fast, masking is taking a while. It's okay, it only has to be done once. It'll run overnight and will be ready by tomorrow.
+Meanwhile, it's very easy to check modern data on QGIS with the google earth satellite, overlaying histories, and comparing historical data with what I see on google earth pro.
+- I looked into secondary patches in cities I know in Rio, areas that are very disturbed so they stay low, and they are all secondary forests (check pedra da gávea, por exemplo). So, it seems like it classifies a ton of secondary forests, so it's important to select only the ones with land use history. A few tiny patches in disturbed areas are mistakenly classified as secondary.
+- Looking into the Amazon, however, it shows where the data really shines. Indeed, looking at the history, it seems like there are good predictions being made, with few confusing lone patches in intermediate growth areas.
+
+- $ I just calculated and it seems like if I read 20 papers a week, which I think is a fair amount, I'll be done with my pile in six months.
+	- That means reading 4 papers a day, 5 days a week. That's really not bad, and in the weekend I can read more and have the pile come down even faster!
+	- Also keeping in mind some of these papers are for future projects (health, theoretical) or for very superficial reading (data, remote sensing) it gets even more feasible.
+	- Of course there's also the Amazon assessment reports and such, which will take longer.
+		- I believe there should be a priority order to reading - regrowth, amazonia, biochemistry, biodiversity, ecology, forest ecology, and the rest. Not too bad, very feasible.
+
+Brainstorming about the current issues to be solved:
+- What regions may cause more systematic bias. (contact remsens ppl)
+- See if the variation within patch corresponds with error rates.
+- Fallow periods could be correlated with error rates or bias?
+- Sparse matrices can be easier to handle. It's the structure that you want in R.
+- Where do the biases matter? Where do the biases cause weighting to cause problems?
+- Could very high variance cause to eliminate patches with very low or very high weight?
 
 
 ## Sept 23, Saturday
@@ -59,9 +78,10 @@ In the evening, got a bit of the weekend menu done.
 - [ ] Contacts that went cold: Jonathas/Jude/Javier/Beth
 	Write email on LU classification and SAR biomass
 - [ ] Email Brian about Panama
-- [ ] Email everyone about being sick
-- [ ] Merge data in QGIS
 
+
+- [x] Merge data in QGIS
+- [x] Email everyone about being sick
 - [x] Incorporate new branch on GitHub to test changes
 - [/] Plan time investment/schedules
 	So far, I feel like it's okay to keep things fluid for the most part. There's always going to be a ton of unpredictability, also as the seasons change. Setting up a morning and bedtime routine, and time tracking, would be a smarter strategy.

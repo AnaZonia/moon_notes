@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ae8c1465da4350c",
+            "id": "442bbfeefde4f1c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/Sept 28 - Oct 4th.md",
+                "file": "7 Data and methods/Github.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "6c1e4861b711f82b",
+            "id": "bba3e480080a2b4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/Sept 28 - Oct 4th.md",
+                "file": "1 Captain's Log/0 Sept 21 - Sept 27.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/Sept 28 - Oct 4th.md",
+                "file": "1 Captain's Log/0 Sept 21 - Sept 27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/Sept 28 - Oct 4th.md",
+                "file": "1 Captain's Log/0 Sept 21 - Sept 27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/Sept 28 - Oct 4th.md"
+                "file": "1 Captain's Log/0 Sept 21 - Sept 27.md"
               }
             }
           },
@@ -157,7 +157,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 299.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,40 +171,42 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "float-search:Search Obsidian In Modal": false
     }
   },
-  "active": "6c1e4861b711f82b",
+  "active": "bba3e480080a2b4c",
   "lastOpenFiles": [
+    "8 People and networks/Restor.md",
+    "Templates/People and networks.md",
+    "7 Data and methods/Github.md",
     "1 Captain's Log/0 Sept 21 - Sept 27.md",
     "1 Captain's Log/Sept 28 - Oct 4th.md",
+    "8 People and networks/Ricardo Dalagnol.md",
+    "1 Captain's Log/Fall 2023/Sept 14 - Sept 20.md",
+    "1 Captain's Log/Fall 2023/Sept 14th - Sept 21st.md",
+    "8 People and networks/REGENERA.md",
+    "8 People and networks/Rita Mesquita.md",
+    "4 Biogeoquímica de Florestas Tropicais/Ecosystem services.md",
+    "8 People and networks/Untitled.md",
+    "8 People and networks/Aliança pela Restauração da Amazônia.md",
+    "5 Insights/Como uma árvore bebe água - e como isso garante a nossa chuva.md",
+    "5 Insights/De onde vem a massa das arvores.md",
+    "4 Biogeoquímica de Florestas Tropicais/Tepui.md",
+    "Files/Tepui.png",
+    "4 Biogeoquímica de Florestas Tropicais/Net ecosystem production.md",
+    "8 People and networks/Tep.md",
+    "8 People and networks/PARTNERS.md",
+    "8 People and networks/Science Panel for the Amazon.md",
+    "8 People and networks/2ndFOR.md",
+    "7 Data and methods/Ricardo Dalagnol.md",
+    "7 Data and methods/Planetary Computer.md",
+    "7 Data and methods/MODIS.md",
+    "7 Data and methods/CTrees.md",
     "6 Talks and Essays/Articles to read.md",
-    "7 Data and methods/Github.md",
     "Files/Screenshot 2023-09-24 143749.png",
     "Files/Screenshot 2023-09-24 142630.png",
     "Files/Screenshot 2023-09-24 142014.png",
-    "5 Insights/De onde vem a massa das arvores.md",
-    "8 People and networks/Serrapilheira.md",
-    "5 Insights/005 MOC Science Outreach.md",
-    "5 Insights/003 MOC Dengue and Regrowth.md",
-    "5 Insights/004 MOC Social Context of Latin America.md",
-    "5 Insights/MOC Social Context of Latin America.md",
-    "5 Insights/002 MOC Climate Change.md",
-    "5 Insights/MOC Dengue and Regrowth.md",
-    "5 Insights/MOC Climate Change.md",
-    "3 Estatística para Ecologia/001 Introdução à Estatística.md",
-    "3 Estatística para Ecologia/017 Aprendizado de Máquina.md",
-    "3 Estatística para Ecologia/016 Ecologia Teórica.md",
-    "3 Estatística para Ecologia/015 Análise Temporal e Espacial.md",
-    "3 Estatística para Ecologia/013 Modelos de Markov.md",
-    "3 Estatística para Ecologia/012 Inferência Bayesiana.md",
-    "3 Estatística para Ecologia/011 Métodos de comparação de modelos.md",
-    "3 Estatística para Ecologia/007 Regressão Não Linear.md",
-    "3 Estatística para Ecologia/006 Regressão Linear.md",
-    "3 Estatística para Ecologia/005 Análise de Variância (ANOVA).md",
-    "3 Estatística para Ecologia/004 Testes de Hipóteses.md",
-    "3 Estatística para Ecologia/003 Bootstrapping e Inferência Não Paramétrica.md",
-    "3 Estatística para Ecologia/002 Distribuições de Amostragem e Estimação.md",
     "Files/cerrado.webp",
     "Untitled.canvas",
     "Zotero/YF98BZL3",
@@ -221,7 +224,6 @@
     "Files/WhatsApp Image 2023-09-17 at 08.53.52.jpg",
     "Files/Screenshot 2023-08-23 160245.png",
     "Files/Screenshot 2023-08-23 154749.png",
-    "Files/Pasted image 20230910160056.png",
     "2 Literature/Regrowth/Regrowth literature.canvas",
     "2 Literature/Biogeochemistry/Biogeochemistry.canvas"
   ]

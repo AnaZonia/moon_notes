@@ -12,5 +12,7 @@
   "highlightr-plugin",
   "tag-wrangler",
   "obsidian-git",
-  "obsidian-paste-image-rename"
+  "obsidian-paste-image-rename",
+  "float-search",
+  "obsidian-admonition"
 ]
