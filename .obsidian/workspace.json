@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Insights/Don't even think about it - why our brains are wired to ignore climate change.md",
+                "file": "5 Insights/002 MOC Climate Change.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Insights/Don't even think about it - why our brains are wired to ignore climate change.md",
+                "file": "5 Insights/002 MOC Climate Change.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Insights/Don't even think about it - why our brains are wired to ignore climate change.md",
+                "file": "5 Insights/002 MOC Climate Change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Insights/Don't even think about it - why our brains are wired to ignore climate change.md"
+                "file": "5 Insights/002 MOC Climate Change.md"
               }
             }
           },
@@ -225,20 +225,20 @@
   },
   "active": "72b3de35b00be03f",
   "lastOpenFiles": [
-    "Files/Don't even think about it - why our brains are wired to ignore climate change.png",
-    "Files/Untitled.png",
+    "5 Insights/Chapter 1 - Forest Regrowth in Brazil.md",
+    "6 Talks and Essays/Articles to read.md",
     "5 Insights/Carbon exports.md",
     "5 Insights/Don't even think about it - why our brains are wired to ignore climate change.md",
+    "Files/Don't even think about it - why our brains are wired to ignore climate change.png",
+    "Files/Untitled.png",
     "5 Insights/Green New Deal.md",
     "5 Insights/Debt-for-climate swaps.md",
     "5 Insights/002 MOC Climate Change.md",
-    "5 Insights/Chapter 1 - Forest Regrowth in Brazil.md",
     "5 Insights/Títulos verdes.md",
     "8 People and networks/REDD+.md",
     "5 Insights/De onde vem a massa das arvores.md",
     "8 People and networks/IPCC.md",
     "5 Insights/CIAT.md",
-    "6 Talks and Essays/Articles to read.md",
     "1 Captain's Log/0 Sept 21 - Sept 27.md",
     "8 People and networks/Restor.md",
     "Templates/People and networks.md",
@@ -271,7 +271,6 @@
     "Zotero/tst.pdf",
     "Zotero/8LK862PJ",
     "Files/WhatsApp Image 2023-09-17 at 08.53.52.jpg",
-    "Files/Screenshot 2023-08-23 160245.png",
     "2 Literature/Regrowth/Regrowth literature.canvas",
     "2 Literature/Biogeochemistry/Biogeochemistry.canvas"
   ]

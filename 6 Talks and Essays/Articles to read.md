@@ -1,5 +1,9 @@
 [Carbon verification | Smithsonian Tropical Research Institute (si.edu)](https://stri.si.edu/story/carbon-verification)
 
+[Ending Amazon deforestation: 4 essential reads about the future of the world's largest rainforest (theconversation.com)](https://theconversation.com/ending-amazon-deforestation-4-essential-reads-about-the-future-of-the-worlds-largest-rainforest-194800)
+
+[Amazon Deforestation and Climate Change (nationalgeographic.org)](https://education.nationalgeographic.org/resource/amazon-deforestation-and-climate-change/)
+
 [The importance of stupidity in scientific research | Journal of Cell Science | The Company of Biologists](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
 
 [Animals are key to restoring the world’s forests | Max-Planck-Gesellschaft (mpg.de)](https://www.mpg.de/19560696/1125-ornr-animals-are-key-to-restoring-the-world-s-forests-987453-x)

@@ -7,6 +7,7 @@
 - Brazil has the largest extent of rainforest cover, including nearly two-thirds of the Amazon.
 - An estimated 50 percent of terrestrial biodiversity is found in rainforests
 - Deforestation and degradation of tropical forests account for roughly 10 percent of global greenhouse emissions from human activities
+- amazon absorbs one fourth of all CO2 absorbed by land on earth (pan et al 2011)
 
 41 anthropogenic CO2 emissions are removed by terrestrial ecosystems, mainly forests"
 
