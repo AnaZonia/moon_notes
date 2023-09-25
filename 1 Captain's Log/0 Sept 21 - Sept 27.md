@@ -37,6 +37,7 @@ Brainstorming about the current issues to be solved:
 - Sparse matrices can be easier to handle. It's the structure that you want in R.
 - Where do the biases matter? Where do the biases cause weighting to cause problems?
 - Could very high variance cause to eliminate patches with very low or very high weight?
+- 
 
 
 ## Sept 23, Saturday
@@ -73,13 +74,13 @@ In the evening, got a bit of the weekend menu done.
 
 ## Weekend menu
 - [ ] Finish and submit FRQNT
-- [ ] Draft slides for FSCI 198
 - [ ] Organize code
 - [ ] Contacts that went cold: Jonathas/Jude/Javier/Beth
 	Write email on LU classification and SAR biomass
 - [ ] Email Brian about Panama
 
 
+- [x] Draft slides for FSCI 198
 - [x] Merge data in QGIS
 - [x] Email everyone about being sick
 - [x] Incorporate new branch on GitHub to test changes

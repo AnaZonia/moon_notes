@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Insights/002 MOC Climate Change.md",
+                "file": "1 Captain's Log/0 Sept 21 - Sept 27.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Insights/002 MOC Climate Change.md",
+                "file": "1 Captain's Log/0 Sept 21 - Sept 27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Insights/002 MOC Climate Change.md",
+                "file": "1 Captain's Log/0 Sept 21 - Sept 27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Insights/002 MOC Climate Change.md"
+                "file": "1 Captain's Log/0 Sept 21 - Sept 27.md"
               }
             }
           },
@@ -177,6 +177,7 @@
   },
   "active": "bba3e480080a2b4c",
   "lastOpenFiles": [
+    "5 Insights/002 MOC Climate Change.md",
     "1 Captain's Log/0 Sept 21 - Sept 27.md",
     "8 People and networks/Restor.md",
     "Templates/People and networks.md",
@@ -203,7 +204,6 @@
     "7 Data and methods/Planetary Computer.md",
     "7 Data and methods/MODIS.md",
     "7 Data and methods/CTrees.md",
-    "6 Talks and Essays/Articles to read.md",
     "Files/Screenshot 2023-09-24 143749.png",
     "Files/Screenshot 2023-09-24 142630.png",
     "Files/Screenshot 2023-09-24 142014.png",
