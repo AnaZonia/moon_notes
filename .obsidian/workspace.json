@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72b3de35b00be03f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Insights/Don't even think about it - why our brains are wired to ignore climate change.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Insights/Carbon exports.md",
+                "file": "5 Insights/Don't even think about it - why our brains are wired to ignore climate change.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Insights/Carbon exports.md",
+                "file": "5 Insights/Don't even think about it - why our brains are wired to ignore climate change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Insights/Carbon exports.md"
+                "file": "5 Insights/Don't even think about it - why our brains are wired to ignore climate change.md"
               }
             }
           },
@@ -211,12 +223,15 @@
       "float-search:Search Obsidian In Modal": false
     }
   },
-  "active": "73760276f664cd91",
+  "active": "72b3de35b00be03f",
   "lastOpenFiles": [
+    "Files/Don't even think about it - why our brains are wired to ignore climate change.png",
+    "Files/Untitled.png",
+    "5 Insights/Carbon exports.md",
+    "5 Insights/Don't even think about it - why our brains are wired to ignore climate change.md",
     "5 Insights/Green New Deal.md",
     "5 Insights/Debt-for-climate swaps.md",
     "5 Insights/002 MOC Climate Change.md",
-    "5 Insights/Carbon exports.md",
     "5 Insights/Chapter 1 - Forest Regrowth in Brazil.md",
     "5 Insights/Títulos verdes.md",
     "8 People and networks/REDD+.md",
@@ -237,8 +252,6 @@
     "4 Biogeoquímica de Florestas Tropicais/Ecosystem services.md",
     "8 People and networks/Untitled.md",
     "8 People and networks/Aliança pela Restauração da Amazônia.md",
-    "5 Insights/Como uma árvore bebe água - e como isso garante a nossa chuva.md",
-    "4 Biogeoquímica de Florestas Tropicais/Tepui.md",
     "Files/Tepui.png",
     "Files/Screenshot 2023-09-24 143749.png",
     "Files/Screenshot 2023-09-24 142630.png",
@@ -259,7 +272,6 @@
     "Zotero/8LK862PJ",
     "Files/WhatsApp Image 2023-09-17 at 08.53.52.jpg",
     "Files/Screenshot 2023-08-23 160245.png",
-    "Files/Screenshot 2023-08-23 154749.png",
     "2 Literature/Regrowth/Regrowth literature.canvas",
     "2 Literature/Biogeochemistry/Biogeochemistry.canvas"
   ]
