@@ -8,67 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "442bbfeefde4f1c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 Data and methods/Github.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bba3e480080a2b4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Insights/002 MOC Climate Change.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e0092a30f31fb14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Insights/002 MOC Climate Change.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2656bfcd8d6253be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Insights/Debt-for-climate swaps.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00884057bfffd2a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5 Insights/Carbon exports.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72b3de35b00be03f",
+            "id": "4e7df6a7a1ae93c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,17 +162,18 @@
       "float-search:Search Obsidian In Modal": false
     }
   },
-  "active": "72b3de35b00be03f",
+  "active": "4e7df6a7a1ae93c7",
   "lastOpenFiles": [
-    "5 Insights/Chapter 1 - Forest Regrowth in Brazil.md",
+    "5 Insights/Telecoupling.md",
+    "5 Insights/002 MOC Climate Change.md",
     "6 Talks and Essays/Articles to read.md",
+    "5 Insights/Chapter 1 - Forest Regrowth in Brazil.md",
     "5 Insights/Carbon exports.md",
     "5 Insights/Don't even think about it - why our brains are wired to ignore climate change.md",
     "Files/Don't even think about it - why our brains are wired to ignore climate change.png",
     "Files/Untitled.png",
     "5 Insights/Green New Deal.md",
     "5 Insights/Debt-for-climate swaps.md",
-    "5 Insights/002 MOC Climate Change.md",
     "5 Insights/Títulos verdes.md",
     "8 People and networks/REDD+.md",
     "5 Insights/De onde vem a massa das arvores.md",

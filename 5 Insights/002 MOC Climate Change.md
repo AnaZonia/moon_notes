@@ -3,9 +3,6 @@ Educated professionals of the Global North have great power to help change the c
 
 # 1. Why is it interesting or significant for non-academic readers? (100 word limit)
 Often, citizens of countries like Canada, that have access to a breadth of 
-
-
-
 # Idea 1) Local government – what is happening where I’m from?
 
 - Looking up what climate-related, good and bad, decisions are being made by politicians in your city/province/country. What about the world?... leads to idea 3
@@ -41,10 +38,6 @@ Often, citizens of countries like Canada, that have access to a breadth of
 [Why Lobbying Is Legal and Important in the U.S. (investopedia.com)](https://www.investopedia.com/articles/investing/043015/why-lobbying-legal-and-important-us.asp)
 
 [Bob Howarth Seeks Relevance with Still More Pseudo-Science - Shale Directories](https://www.shaledirectories.com/blog-1/bob-howarth-seeks-relevance-with-still-more-pseudo-science/)
-
-telecoupling
-
-Libya and Brazil floods
 
 [Agribusiness giant again linked to Amazon deforestation Agribusiness giant again linked to Amazon deforestation - Unearthed (greenpeace.org)](https://unearthed.greenpeace.org/2022/01/14/agribusiness-giant-cargill-amazon-deforestation/)
 
