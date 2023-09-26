@@ -10,8 +10,7 @@ TA meeting in the afternoon, then can come home and code some more.
 
 ## Sept 25, Monday
 
-Start coding on Monday morning, 9AM.
-Rest/study in the evening, prepare for coming week.
+Did the slides almost all day.
 ## Sept 24, Sunday
 
 Coding. Work on the code FIRST - then, for the evening, weekend menu or time to read papers/study.
