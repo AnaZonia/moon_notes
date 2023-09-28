@@ -1,0 +1,33 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "ddd, MMM Do YYYY",
+    "folder": "1 Captain's Log",
+    "template": "Templates/Captain's Log",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "MMM Do YYYY, ddd",
+    "template": "Templates/Captain's Log - Review.md",
+    "folder": "1 Captain's Log/Weekly",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "Templates/Captain's Log - Review.md",
+    "folder": "",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}
