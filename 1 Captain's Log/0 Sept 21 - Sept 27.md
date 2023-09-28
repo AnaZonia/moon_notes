@@ -1,5 +1,4 @@
-https://samgeo.gishub.org/
-https://joss.theoj.org/papers/10.21105/joss.05663
+
 ## Sept 27, Wednesday
 
 Lendo o projeto [Pioneiras](https://www.gov.br/cnpq/pt-br/acesso-a-informacao/acoes-e-programas/programas/mulher-e-ciencia/pioneiras-da-ciencia-1/pioneiras-7a-edicao), descobri a professora Beatriz Alvarenga, que é realmente uma inspiração. Provavelmente não vai chegar a ela, mas eu gostei de escrever esse parágrafo.
@@ -21,7 +20,7 @@ FRQNT almost finished. Only need to finish the canadian cv form, a few more revi
 ## Sept 26, Tuesday
 
 Sick, so I stayed home.
-Spent the day getting documentation done and finishing the experience document. I definitely thought this was not going to take this long! Still, I've learned a lot about what I have done and how to write a compelling grant. It's definitely been a worthwhile effort.
+Spent the day getting documentation done and finishing the experience document/CV. I definitely thought this was not going to take this long! Still, I've learned a lot about what I have done and how to write a compelling grant. It's definitely been a worthwhile effort.
 
 In the evening I translated for Nicolinha and Scott Roberts. I think these may be interesting ways for me to get more involved with outreach.
 

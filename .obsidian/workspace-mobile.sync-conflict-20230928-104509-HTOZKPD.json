@@ -11,12 +11,8 @@
             "id": "adf788cd84d75e87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 Social sciences/Edgar Allan Poe.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "10 Social sciences/Edgar Allan Poe.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "10 Social sciences/Edgar Allan Poe.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "10 Social sciences/Edgar Allan Poe.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -130,22 +122,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "float-search:Search Obsidian In Modal": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "b775d4ddd6bb478a",
+  "active": "adf788cd84d75e87",
   "lastOpenFiles": [
-    "Files/Obsidian Menu.png",
-    "Templates/New Note.md",
-    "Edgar Allan Poe.md",
-    "9 Science Skills/Obsidian Menu.md",
-    "000 The Bridge.md",
-    "Files/Edgar Allan Poe.pdf",
-    "Files/Obsidian Menu-1.png",
-    "5 Insights/006 MOC Debates and Discourse.md",
     "Excalidraw/Drawing 2023-09-23 23.29.21.excalidraw.md",
     "2 Literature/jakovacResilienceAmazonianLandscapes2015.md",
     "2 Literature/jakovacResilienceAmazonianLandscapes2015.md.tacitpart",
@@ -158,6 +139,7 @@
     "Zotero/Biodiversity/zeuginTreeDiversityImportant2010.pdf.tacitpart",
     "Zotero/Biodiversity/wilseyBiodiversityEcosystemFunctioning2000.pdf",
     "Zotero/Biodiversity/wilseyBiodiversityEcosystemFunctioning2000.pdf.tacitpart",
+    "Zotero/Biodiversity/williamsRemoteSpectralDetection2021.pdf",
     "Templates/People and networks.md",
     "8 People and networks/Seringueira.md",
     "8 People and networks/Ritz-Jaen.md",
@@ -175,6 +157,12 @@
     "7 Data and methods/Carbon/GFW Carbon.md",
     "7 Data and methods/Carbon/GEDI.md",
     "7 Data and methods/Carbon/ESA GlobBiomass & CCI Biomass CORE.md",
+    "7 Data and methods/Carbon/CTrees.md",
+    "7 Data and methods/Carbon/Asner.md",
+    "7 Data and methods/Carbon/100 MOC Carbon data.md",
+    "Templates/Remote sensing product.md",
+    "Templates/Contact or institute.md",
+    "Templates/Captain's Log.md",
     "Files/SAR1.png",
     "Files/santoro20181.png"
   ]

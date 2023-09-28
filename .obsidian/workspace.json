@@ -25,14 +25,69 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/0 Sept 21 - Sept 27.md",
+                "file": "Templates/Research article.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecd027071627030c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 The Bridge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "769fd000b10a6b80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14066824c92c1d18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Captain's Log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e017d82e97ef074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/New Note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee80a2737a05e3e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Edgar Allan Poe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +116,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "bridge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/0 Sept 21 - Sept 27.md",
+                "file": "000 The Bridge.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/0 Sept 21 - Sept 27.md",
+                "file": "000 The Bridge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/0 Sept 21 - Sept 27.md"
+                "file": "000 The Bridge.md"
               }
             }
           },
@@ -175,54 +230,55 @@
       "float-search:Search Obsidian In Modal": false
     }
   },
-  "active": "d83483196e0a30aa",
+  "active": "ecd027071627030c",
   "lastOpenFiles": [
+    "Edgar Allan Poe.md",
+    "000 The Bridge.md",
+    "10 Social sciences/Edgar Allan Poe.md",
+    "Templates/New Note.md",
+    "Templates/Captain's Log.md",
+    "2 Literature/Biogeochemistry/0 MOC Biogeochemistry.md",
+    "2 Literature/Biogeochemistry/1 Biogeochem Dataview.md",
+    "excalibrain.md",
+    "9 Science Skills/Obsidian Menu.md",
+    "Files/Obsidian Menu-1.png",
+    "Files/Obsidian Menu.png",
+    "Templates/Research article.md",
+    "Templates/Remote sensing product.md",
+    "Templates/People and networks.md",
+    "Templates/Data source.md",
+    "5 Insights/005 MOC Science Outreach.md",
+    "5 Insights/006 MOC Debates and Discourse.md",
+    "1 Captain's Log/0 Sept 21 - Sept 27.md",
+    "Files/Edgar Allan Poe.pdf",
+    "Files/Edgar Allan Poe-1.pdf",
+    "Files/Edgar Allan Poe.pdf",
+    "10 Social sciences/Household Horror  Domestic Masculinity in Poe s The Black Cat.pdf",
+    "7 Data and methods/Carbon/CTrees.md",
+    "7 Data and methods/Carbon/CTrees(1).md",
+    "1 Captain's Log/Sept 28 - Oct 4th.md",
+    "7 Data and methods/200 MOC Remote sensing for land use classification.md",
     "Excalidraw/Drawing 2023-09-27 20.01.17.excalidraw.md",
     "Excalidraw/Drawing 2023-09-23 23.29.21.excalidraw.md",
     "Files/Pasted Image 20230927200705_510.png",
     "Files/Pasted Image 20230927200635_478.png",
     "Files/Pasted Image 20230927200535_425.png",
     "Files/Pasted Image 20230927200450_412.png",
-    "1 Captain's Log/0 Sept 21 - Sept 27.md",
-    "5 Insights/005 MOC Science Outreach.md",
-    "1 Captain's Log/Sept 28 - Oct 4th.md",
     "5 Insights/001 Chapter 1 - Forest Regrowth in Brazil.md",
     "4 Biogeoquímica de Florestas Tropicais/Costa Rican regrowth context.md",
     "3 Estatística para Ecologia/001 Introdução à Estatística.md",
     "7 Data and methods/Carbon/ESA Biomass.md",
-    "7 Data and methods/Carbon/CTrees.md",
-    "10 Social sciences/Edgar Allan Poe.md",
     "10 Social sciences",
-    "5 Insights/Where did the jaguar get its spots.md",
-    "5 Insights/De onde vem a massa das arvores.md",
-    "5 Insights/Don't even think about it - why our brains are wired to ignore climate change.md",
-    "5 Insights/Como uma árvore bebe água - e como isso garante a nossa chuva.md",
-    "5 Insights/Carbon exports.md",
-    "8 People and networks/Elizabeth Goeth.md",
-    "8 People and networks/Lenore Fahrig.md",
-    "8 People and networks/Alliance Biodiversity International & CIAT.md",
-    "8 People and networks/Jude Kong.md",
-    "8 People and networks/SBPC - Sociedade Brasileira para o Progresso da Ciência.md",
-    "6 Talks and Essays/Articles to read.md",
     "Files/Articles to read.png",
-    "5 Insights/002 MOC Climate Change.md",
-    "8 People and networks/2ndFOR.md",
-    "5 Insights/004 MOC Social Context of Latin America.md",
     "Files/Don't even think about it - why our brains are wired to ignore climate change.png",
     "Files/Untitled.png",
     "Files/Tepui.png",
-    "Files/Screenshot 2023-09-24 143749.png",
-    "Files/Screenshot 2023-09-24 142630.png",
     "Untitled.canvas",
     "Zotero/YF98BZL3",
     "Zotero/TIFVV7VD",
     "Zotero/S3BY3B45",
     "Zotero/RC3FXM39",
     "Zotero/EVPU87C8",
-    "Zotero/5XCZU6F9",
-    "Zotero",
-    "7 Data and methods/Land Use",
-    "Zotero/tst.pdf",
     "2 Literature/Regrowth/Regrowth literature.canvas",
     "2 Literature/Biogeochemistry/Biogeochemistry.canvas"
   ]

@@ -34,3 +34,5 @@ O exemplo que o Marcelo fez pro [relógio de sol](https://drive.google.com/file/
 [Desenvolvimento Android Completo - Crie 18 Apps | Udemy](https://www.udemy.com/course/curso-de-desenvolvimento-android-oreo/)
 
 [[Where did the jaguar get its spots]]
+
+[[10 Social sciences/Edgar Allan Poe]]

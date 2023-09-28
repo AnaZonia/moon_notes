@@ -13,6 +13,8 @@ at-a-glance:
 {% if bibliography %}
 **Bibliography:** {{bibliography}}{% endif %} 
 
-## Notes 
+>[!summary] Summary
+> 
+
 
 {% for annotation in annotations -%} {%- if annotation.annotatedText -%} <p> {% if 'Green' in annotation.colorCategory %} <span style="color: #90EE90">{{ annotation.annotatedText }}</span> {% elif 'Red' in annotation.colorCategory %} <span style="color: #DE1738">{{ annotation.annotatedText }}</span> {% elif 'Yellow' in annotation.colorCategory %} <span style="color: #F9E076">{{ annotation.annotatedText }}</span> {% else %}<span style="color: #ADD8E6"> {{ annotation.annotatedText }}</span> {% endif %} </p>{%- endif %} {% endfor %}

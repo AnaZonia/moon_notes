@@ -2,7 +2,7 @@
 ## Oct 3rd, Tuesday
 - $ FRQNT due
 ## Oct 2nd, Monday
-- $ FSCI TALK!
+
 ## Oct 1st, Sunday
 ## Sept 30, Saturday
 ## Sept 29, Friday
@@ -31,7 +31,7 @@
 ## Weekend menu
 - [ ] Quebec forms
 - [ ] Email Brian about Panama
-- [ ] Check what's wrong with Udemy
+- [ ] Organize courses
 - [ ] Finish bringing data sources/lit from excel to Obsidian
 - [ ] Transcribe Andrew/stats notes
 - [ ] Set up morning/bed/gym routine
