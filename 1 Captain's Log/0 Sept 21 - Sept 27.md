@@ -1,4 +1,5 @@
-
+https://samgeo.gishub.org/
+https://joss.theoj.org/papers/10.21105/joss.05663
 ## Sept 27, Wednesday
 
 Lendo o projeto [Pioneiras](https://www.gov.br/cnpq/pt-br/acesso-a-informacao/acoes-e-programas/programas/mulher-e-ciencia/pioneiras-da-ciencia-1/pioneiras-7a-edicao), descobri a professora Beatriz Alvarenga, que é realmente uma inspiração. Provavelmente não vai chegar a ela, mas eu gostei de escrever esse parágrafo.
