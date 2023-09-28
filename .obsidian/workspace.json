@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/Weekly/August 1st.md",
+                "file": "2023-09-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/Weekly/August 1st.md",
+                "file": "2023-09-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/Weekly/August 1st.md",
+                "file": "2023-09-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/Weekly/August 1st.md"
+                "file": "2023-09-28.md"
               }
             }
           },
@@ -195,8 +195,11 @@
       "float-search:Search Obsidian In Modal": false
     }
   },
-  "active": "73760276f664cd91",
+  "active": "ecd027071627030c",
   "lastOpenFiles": [
+    "1 Captain's Log/0 Sept 21 - Sept 27.md",
+    "2023-09-28.md",
+    "1 Captain's Log/Weekly/August 1st.md",
     "1 Captain's Log/Weekly/Sept 14 - Sept 20.md",
     "5 Interests/Edgar Allan Poe.md",
     "1 Captain's Log/Weekly",
@@ -210,7 +213,6 @@
     "2 Literature/aragaoSpatialPatternsFire2007.md",
     "excalibrain.md",
     "1 Captain's Log/Sept 28 - Oct 4th.md",
-    "1 Captain's Log/0 Sept 21 - Sept 27.md",
     "10 Social sciences/Edgar Allan Poe.md",
     "Templates/New Note.md",
     "Templates/Captain's Log.md",
@@ -224,12 +226,10 @@
     "Templates/People and networks.md",
     "Templates/Data source.md",
     "5 Interests/005 MOC Science Outreach.md",
-    "5 Interests/006 MOC Debates and Discourse.md",
     "Files/Edgar Allan Poe.pdf",
     "Files/Edgar Allan Poe-1.pdf",
     "Files/Edgar Allan Poe.pdf",
     "10 Social sciences/Household Horror  Domestic Masculinity in Poe s The Black Cat.pdf",
-    "7 Data and methods/Carbon/CTrees.md",
     "Files/Pasted Image 20230927200705_510.png",
     "Files/Pasted Image 20230927200635_478.png",
     "Files/Pasted Image 20230927200535_425.png",

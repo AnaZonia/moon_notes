@@ -6,19 +6,13 @@ format: word_document
 
 ---
 
-  
-
 ```{R, include = FALSE}
-
 setwd("/home/aavila/forest_regrowth")
 
 data <- readRDS('santoro_ESA_alldata.rds')
 
 library(tidyverse)
-
 ```
-
-  
 
 Hi Brian and Fiona - here's me trying to figure out how to do this!
 
