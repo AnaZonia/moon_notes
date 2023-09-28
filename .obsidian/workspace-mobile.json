@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0bcce5cf0d4f5096",
+        "id": "ec3af46e4f38ffb3",
         "type": "tabs",
         "children": [
           {
-            "id": "a31bb955bcb4a877",
+            "id": "adf788cd84d75e87",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -125,8 +125,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a31bb955bcb4a877",
+  "active": "adf788cd84d75e87",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-09-23 23.29.21.excalidraw.md",
     "2 Literature/jakovacResilienceAmazonianLandscapes2015.md",
     "2 Literature/jakovacResilienceAmazonianLandscapes2015.md.tacitpart",
     "1 Captain's Log/0 Sept 21 - Sept 27.md.tacitpart",
@@ -162,7 +163,6 @@
     "Templates/Remote sensing product.md",
     "Templates/Contact or institute.md",
     "Templates/Captain's Log.md",
-    "People and institutes/Ritz-Jaen.md",
     "Files/SAR1.png",
     "Files/santoro20181.png"
   ]

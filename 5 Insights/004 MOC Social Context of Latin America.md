@@ -19,4 +19,4 @@ Cacao agroforestry may be a viable substitute to monocultures in Latin America. 
 	Main issue is whether these products would be exportable - who would buy very expensive cacao? - and whether carbon credits can be used in the 3 years that it takes cacao to reach maturity.
 
 
-[[CIAT]] is a billion-dollar NGO working with Latin American sustainable agriculture.
+[[Alliance Biodiversity International & CIAT]] is a billion-dollar NGO working with Latin American sustainable agriculture.

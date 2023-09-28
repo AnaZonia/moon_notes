@@ -8,18 +8,39 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e7df6a7a1ae93c7",
+            "id": "278b52e3ebeb3005",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Insights/002 MOC Climate Change.md",
+                "file": "1 Captain's Log/0 Sept 21 - Sept 27.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "d83483196e0a30aa",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-09-27 20.01.17.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "c6800d812a286788",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Insights/002 MOC Climate Change.md",
+                "file": "Excalidraw/Drawing 2023-09-27 20.01.17.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Insights/002 MOC Climate Change.md",
+                "file": "Excalidraw/Drawing 2023-09-27 20.01.17.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Insights/002 MOC Climate Change.md"
+                "file": "Excalidraw/Drawing 2023-09-27 20.01.17.excalidraw.md"
               }
             }
           },
@@ -162,41 +183,44 @@
       "float-search:Search Obsidian In Modal": false
     }
   },
-  "active": "4e7df6a7a1ae93c7",
+  "active": "c6800d812a286788",
   "lastOpenFiles": [
-    "5 Insights/005 MOC Science Outreach.md",
-    "5 Insights/Debt-for-climate swaps.md",
-    "5 Insights/De onde vem a massa das arvores.md",
-    "5 Insights/Como uma árvore bebe água - e como isso garante a nossa chuva.md",
-    "5 Insights/Don't even think about it - why our brains are wired to ignore climate change.md",
+    "Excalidraw/Drawing 2023-09-23 23.29.21.excalidraw.md",
+    "Files/Pasted Image 20230927200705_510.png",
+    "Files/Pasted Image 20230927200635_478.png",
+    "Files/Pasted Image 20230927200535_425.png",
+    "Files/Pasted Image 20230927200450_412.png",
     "1 Captain's Log/0 Sept 21 - Sept 27.md",
-    "5 Insights/002 MOC Climate Change.md",
-    "5 Insights/Telecoupling.md",
-    "6 Talks and Essays/Articles to read.md",
-    "5 Insights/Chapter 1 - Forest Regrowth in Brazil.md",
+    "Excalidraw/Drawing 2023-09-27 20.01.17.excalidraw.md",
+    "5 Insights/005 MOC Science Outreach.md",
+    "1 Captain's Log/Sept 28 - Oct 4th.md",
+    "5 Insights/001 Chapter 1 - Forest Regrowth in Brazil.md",
+    "4 Biogeoquímica de Florestas Tropicais/Costa Rican regrowth context.md",
+    "3 Estatística para Ecologia/001 Introdução à Estatística.md",
+    "7 Data and methods/Carbon/ESA Biomass.md",
+    "7 Data and methods/Carbon/CTrees.md",
+    "10 Social sciences/Edgar Allan Poe.md",
+    "10 Social sciences",
+    "5 Insights/Where did the jaguar get its spots.md",
+    "5 Insights/De onde vem a massa das arvores.md",
+    "5 Insights/Don't even think about it - why our brains are wired to ignore climate change.md",
+    "5 Insights/Como uma árvore bebe água - e como isso garante a nossa chuva.md",
     "5 Insights/Carbon exports.md",
+    "8 People and networks/Elizabeth Goeth.md",
+    "8 People and networks/Lenore Fahrig.md",
+    "8 People and networks/Alliance Biodiversity International & CIAT.md",
+    "8 People and networks/Jude Kong.md",
+    "8 People and networks/SBPC - Sociedade Brasileira para o Progresso da Ciência.md",
+    "6 Talks and Essays/Articles to read.md",
+    "Files/Articles to read.png",
+    "5 Insights/002 MOC Climate Change.md",
+    "8 People and networks/2ndFOR.md",
+    "5 Insights/004 MOC Social Context of Latin America.md",
     "Files/Don't even think about it - why our brains are wired to ignore climate change.png",
     "Files/Untitled.png",
-    "5 Insights/Green New Deal.md",
-    "5 Insights/Títulos verdes.md",
-    "8 People and networks/REDD+.md",
-    "8 People and networks/IPCC.md",
-    "5 Insights/CIAT.md",
-    "8 People and networks/Restor.md",
-    "Templates/People and networks.md",
-    "7 Data and methods/Github.md",
-    "1 Captain's Log/Sept 28 - Oct 4th.md",
-    "8 People and networks/Ricardo Dalagnol.md",
-    "1 Captain's Log/Fall 2023/Sept 14 - Sept 20.md",
-    "1 Captain's Log/Fall 2023/Sept 14th - Sept 21st.md",
-    "8 People and networks/REGENERA.md",
-    "8 People and networks/Rita Mesquita.md",
-    "4 Biogeoquímica de Florestas Tropicais/Ecosystem services.md",
     "Files/Tepui.png",
     "Files/Screenshot 2023-09-24 143749.png",
     "Files/Screenshot 2023-09-24 142630.png",
-    "Files/Screenshot 2023-09-24 142014.png",
-    "Files/cerrado.webp",
     "Untitled.canvas",
     "Zotero/YF98BZL3",
     "Zotero/TIFVV7VD",
@@ -205,12 +229,8 @@
     "Zotero/EVPU87C8",
     "Zotero/5XCZU6F9",
     "Zotero",
-    "Files/3-matas-da-floresta.png",
-    "Files/Distribution_of_tropical_cloud_forests.png",
     "7 Data and methods/Land Use",
     "Zotero/tst.pdf",
-    "Zotero/8LK862PJ",
-    "Files/WhatsApp Image 2023-09-17 at 08.53.52.jpg",
     "2 Literature/Regrowth/Regrowth literature.canvas",
     "2 Literature/Biogeochemistry/Biogeochemistry.canvas"
   ]

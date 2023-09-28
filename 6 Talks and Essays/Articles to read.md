@@ -38,7 +38,19 @@
 [The p‐value statement, five years on - Matthews - 2021 - Significance - Wiley Online Library](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/1740-9713.01505)
 
 [Rainforest carbon credit schemes misleading and ineffective, finds report | Carbon offsetting | The Guardian](https://www.theguardian.com/environment/2023/sep/15/rainforest-carbon-credit-schemes-misleading-and-ineffective-finds-report?CMP=share_btn_tw)
-
-
 [[REDD+]]
+
+[Why Lobbying Is Legal and Important in the U.S. (investopedia.com)](https://www.investopedia.com/articles/investing/043015/why-lobbying-legal-and-important-us.asp)
+
+[Bob Howarth Seeks Relevance with Still More Pseudo-Science - Shale Directories](https://www.shaledirectories.com/blog-1/bob-howarth-seeks-relevance-with-still-more-pseudo-science/)
+
+[Agribusiness giant again linked to Amazon deforestation Agribusiness giant again linked to Amazon deforestation - Unearthed (greenpeace.org)](https://unearthed.greenpeace.org/2022/01/14/agribusiness-giant-cargill-amazon-deforestation/)
+
+[Standing firm: The Land and Environmental Defenders on the frontlines of the climate crisis | Global Witness](https://www.globalwitness.org/en/campaigns/environmental-activists/standing-firm/)
+![[Articles to read.png]]
+[Ecuadorians Vote to “Keep the Oil in the Soil" in the Amazon | Human Rights Watch (hrw.org)](https://www.hrw.org/news/2023/08/23/ecuadorians-vote-keep-oil-soil-amazon#:~:text=The%20people%20of%20Ecuador%20voted,activists%20from%20across%20the%20country.)
+
+[Perú destinará un canje de deuda verde a la protección de los bosques tropicales en Amazonia — MercoPress](https://es.mercopress.com/2023/09/14/peru-destinara-un-canje-de-deuda-verde-a-la-proteccion-de-los-bosques-tropicales-en-amazonia)
+
+[What is climate change lobbying? - Grantham Research Institute on climate change and the environment (lse.ac.uk)](https://www.lse.ac.uk/granthaminstitute/explainers/what-is-climate-change-lobbying/)
 
