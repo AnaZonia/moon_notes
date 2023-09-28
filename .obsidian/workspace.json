@@ -37,50 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 The Bridge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "769fd000b10a6b80",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "14066824c92c1d18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Captain's Log.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e017d82e97ef074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/New Note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee80a2737a05e3e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Edgar Allan Poe.md",
+                "file": "1 Captain's Log/Weekly/August 1st.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "1 Captain's Log/Weekly/August 1st.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "1 Captain's Log/Weekly/August 1st.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 The Bridge.md"
+                "file": "1 Captain's Log/Weekly/August 1st.md"
               }
             }
           },
@@ -205,6 +162,14 @@
               "state": {
                 "sortOrder": "frequency"
               }
+            }
+          },
+          {
+            "id": "d73c2ac9c7017086",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ],
@@ -230,16 +195,27 @@
       "float-search:Search Obsidian In Modal": false
     }
   },
-  "active": "ecd027071627030c",
+  "active": "73760276f664cd91",
   "lastOpenFiles": [
-    "Edgar Allan Poe.md",
+    "1 Captain's Log/Weekly/Sept 14 - Sept 20.md",
+    "5 Interests/Edgar Allan Poe.md",
+    "1 Captain's Log/Weekly",
+    "1 Captain's Log/Untitled.md",
+    "Reading Map.md",
     "000 The Bridge.md",
+    "7 Data and methods/200 MOC Remote sensing in LULC.md",
+    "7 Data and methods/Github.md",
+    "7 Data and methods/Earth System Models.md",
+    "7 Data and methods/100 MOC Earth System Models.md",
+    "2 Literature/aragaoSpatialPatternsFire2007.md",
+    "excalibrain.md",
+    "1 Captain's Log/Sept 28 - Oct 4th.md",
+    "1 Captain's Log/0 Sept 21 - Sept 27.md",
     "10 Social sciences/Edgar Allan Poe.md",
     "Templates/New Note.md",
     "Templates/Captain's Log.md",
     "2 Literature/Biogeochemistry/0 MOC Biogeochemistry.md",
     "2 Literature/Biogeochemistry/1 Biogeochem Dataview.md",
-    "excalibrain.md",
     "9 Science Skills/Obsidian Menu.md",
     "Files/Obsidian Menu-1.png",
     "Files/Obsidian Menu.png",
@@ -247,27 +223,17 @@
     "Templates/Remote sensing product.md",
     "Templates/People and networks.md",
     "Templates/Data source.md",
-    "5 Insights/005 MOC Science Outreach.md",
-    "5 Insights/006 MOC Debates and Discourse.md",
-    "1 Captain's Log/0 Sept 21 - Sept 27.md",
+    "5 Interests/005 MOC Science Outreach.md",
+    "5 Interests/006 MOC Debates and Discourse.md",
     "Files/Edgar Allan Poe.pdf",
     "Files/Edgar Allan Poe-1.pdf",
     "Files/Edgar Allan Poe.pdf",
     "10 Social sciences/Household Horror  Domestic Masculinity in Poe s The Black Cat.pdf",
     "7 Data and methods/Carbon/CTrees.md",
-    "7 Data and methods/Carbon/CTrees(1).md",
-    "1 Captain's Log/Sept 28 - Oct 4th.md",
-    "7 Data and methods/200 MOC Remote sensing for land use classification.md",
-    "Excalidraw/Drawing 2023-09-27 20.01.17.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-23 23.29.21.excalidraw.md",
     "Files/Pasted Image 20230927200705_510.png",
     "Files/Pasted Image 20230927200635_478.png",
     "Files/Pasted Image 20230927200535_425.png",
     "Files/Pasted Image 20230927200450_412.png",
-    "5 Insights/001 Chapter 1 - Forest Regrowth in Brazil.md",
-    "4 Biogeoquímica de Florestas Tropicais/Costa Rican regrowth context.md",
-    "3 Estatística para Ecologia/001 Introdução à Estatística.md",
-    "7 Data and methods/Carbon/ESA Biomass.md",
     "10 Social sciences",
     "Files/Articles to read.png",
     "Files/Don't even think about it - why our brains are wired to ignore climate change.png",
@@ -278,7 +244,6 @@
     "Zotero/TIFVV7VD",
     "Zotero/S3BY3B45",
     "Zotero/RC3FXM39",
-    "Zotero/EVPU87C8",
     "2 Literature/Regrowth/Regrowth literature.canvas",
     "2 Literature/Biogeochemistry/Biogeochemistry.canvas"
   ]
