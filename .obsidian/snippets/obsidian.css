@@ -1,3 +1,5 @@
+
+
 #calendar-container [data-emoji-tag]::after {
     content: attr(data-emoji-tag);
     position: absolute;

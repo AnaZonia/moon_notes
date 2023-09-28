@@ -1,5 +1,7 @@
+---
+sticker: lucide//rocket
+---
 [[Reading Map]]
-
 
 ## Tasks
 - [ ] Finish and submit [FRQNT 2024-2025](https://frq.gouv.qc.ca/en/program/frqnt-2024-2025-doctoral-training-scholarships/)
@@ -44,4 +46,5 @@ TABLE rows.file.link AS "Note", rows.file.cday AS "Date"
 FROM #stub
 sort date ASCENDING
 ```
+
 

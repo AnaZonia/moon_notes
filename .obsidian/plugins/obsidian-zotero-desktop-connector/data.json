@@ -14,7 +14,7 @@
   "exportFormats": [
     {
       "name": "Import Paper",
-      "outputPathTemplate": "2 Literature/{{citekey}}.md",
+      "outputPathTemplate": "Literature/{{citekey}}.md",
       "imageOutputPathTemplate": "Files/Zotero/{{citekey}}/",
       "imageBaseNameTemplate": "{{citekey}}",
       "templatePath": "Templates/Research article.md"

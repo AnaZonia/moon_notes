@@ -5,7 +5,8 @@
   "baseFontSize": 18,
   "translucency": false,
   "enabledCssSnippets": [
-    "dataview_width"
+    "dataview_width",
+    "obsidian"
   ],
   "showViewHeader": true
 }

@@ -15,12 +15,16 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "1 Captain's Log",
+      "folder": "Captain's Log",
       "template": "Templates/Captain's Log.md"
     },
     {
-      "folder": "8 People and networks",
+      "folder": "People and networks",
       "template": "Templates/People and networks.md"
+    },
+    {
+      "folder": "Alexandria",
+      "template": "Templates/New Scroll.md"
     }
   ],
   "syntax_highlighting": true,

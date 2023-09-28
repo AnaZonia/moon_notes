@@ -1,0 +1,57 @@
+
+
+
+Tuesday August 8th
+
+I think on Wednesdays, after my meeting, I need to plan the whole week. Day by day.
+
+For now, focus on getting the basic thing - just the model - done to show Brian tomorrow and get some help from him so you can do your own thing.
+
+I can get these goals done in not an infinite amount of time if I plan well and set firm, short deadlines. This is actually not as overwhelming as it may seem at first if I'm progressing firmly. Once I learn, I won't need to learn again.
+
+Monday August 7th
+
+Shriram's committee meeting - jaguar dispersal
+Why does the exploration behavior matter?
+- The least cost path, resistance surface, and "likely path" are ways to simulate movement. Circuit theory is a strategy of dispersal modelling.
+It is a probability transition matrix model.
+
+Getting home, the first thing is to run the model with CWD and AET and see what happens then.
+
+
+I am okay not focusing on finishing my notetaking/literature stuff for now until my modelling is nice and fancy and set. This will be an ongoing struggle as I write my thesis and that's okay! I'll work on this through the next two years.
+
+
+
+Sunday August 6th
+
+I spent some long but necessary time this weekend improving my citation
+management and future-proofing a lot of my work.
+
+In the next weekend I want to:
+- finish setting up Obsidian
+- improve my book storage
+- start biting away at the stats content.
+
+At this point it's important for me to stay focused and realize that reading is not my
+main priority right now. I may want to do it, but at this point it's more out of the despair over the ongrowing pile than a real need to read. The qualifying exam is done, and the writing part will only come after the results are gotten. For now, focus on getting the results and then the time will come. In one day all of the articles can be set up if the system is efficient and I'm being gradual with it (not getting nitpicky with each article I open).
+
+For now, I will start Quarto and get the list of the next meeting with B&F done.
+
+Which means:
+1) finish the mature forest stuff with the new script
+2)  insert what's in the other papers - CWD and AET and such.
+3)   understand how st dev goes into the model
+4)   not standardize biomass - only the predictors
+5)   look into options for local minima
+
+
+Now - I get that it's hard to start the week, right after the meeting, straight with the goals of the week. The temptation is big to think but, but, I know my things are a mess and I need to organize them... I like to feel progress and like all of my workflow to be spotless, working like oiled gears. But I really, REALLY need to start the week by focusing on what matters and getting the rest done later, so that I am not fumbling after to keep up on Monday, as it happens every single damn week.
+
+This week I seem to be in a bit of better position. I'm starting not as far behind as I have before and things seem to be flowing nicely. I'll sleep early and wake up early and start with the first priority.
+
+I understand that literature became a priority because I had to look back on the articles I had already read and got horrified by how bad is my notetaking/organization. But one thing at a time, we'll get there.
+
+It's taking me a while to remember where information is stored. What I read last week was kept in the data/literature folders, which is good.
+
+Right now it weirdly looks like CWD is calculated only from rainfall?....

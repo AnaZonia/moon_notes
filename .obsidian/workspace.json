@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b19ae555a6aa3723",
+        "id": "ef8fb9cbf15a763a",
         "type": "tabs",
         "children": [
           {
-            "id": "1c907df11eaf11bf",
+            "id": "36e10769a57588d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "Files/Templates/Captain's Log - Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bridge",
+                "query": "[\"cssclasses\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "071ae8adb8efbb6d",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "Files/Templates/Captain's Log - Review.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,19 +111,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "Files/Templates/Captain's Log - Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "f6a230dcc8184e2d",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
               }
             }
           },
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 The Bridge.md"
+                "file": "Files/Templates/Captain's Log - Review.md"
               }
             }
           },
@@ -148,11 +147,27 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
+      },
+      {
+        "id": "3dbac5c2f60b2e8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6a230dcc8184e2d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 364.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,43 +178,45 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "templater-obsidian:Templater": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "d73c2ac9c7017086",
+  "active": "071ae8adb8efbb6d",
   "lastOpenFiles": [
-    "1 Captain's Log/Thu, Sep 28th 2023.md",
-    "9 Science Skills/001 MOC Notetaking.md",
-    "1 Captain's Log/Sept 28 - Oct 4th.md",
-    "1 Captain's Log/Tue, Oct 3rd 2023.md",
-    "1 Captain's Log/Weekly/0 Sept 21 - Sept 27.md",
-    "1 Captain's Log/Daily",
-    "9 Science Skills/Obsidian Menu.md",
-    "Templates/Captain's Log.md",
-    "Templates/Research article.md",
+    "Workbench/Workbench.md",
     "000 The Bridge.md",
-    "Templates/Captain's Log - Review.md",
-    "Templates/Data source.md",
-    "Templates/Remote sensing product.md",
-    "Templates/People and networks.md",
-    "Templates/New Note.md",
-    "2023-09-28.md",
-    "1 Captain's Log/Weekly/August 1st.md",
-    "1 Captain's Log/Weekly/Sept 14 - Sept 20.md",
-    "5 Interests/Edgar Allan Poe.md",
-    "1 Captain's Log/Weekly",
-    "1 Captain's Log/Untitled.md",
+    "Captain's Log/2 Weekly/August 1st.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "Alexandria/Articles to read.md",
+    "Science Skills/003 Lit Review.md",
+    "Science Skills/Obsidian Menu.md",
     "Reading Map.md",
-    "7 Data and methods/200 MOC Remote sensing in LULC.md",
-    "7 Data and methods/Github.md",
-    "7 Data and methods/Earth System Models.md",
-    "7 Data and methods/100 MOC Earth System Models.md",
-    "2 Literature/aragaoSpatialPatternsFire2007.md",
-    "excalibrain.md",
-    "Files/Obsidian Menu-1.png",
     "Files/Obsidian Menu.png",
+    "Captain's Log/1 Daily/Tue, Oct 3rd 2023.md",
+    "Files/Templates/Captain's Log.md",
+    "Captain's Log/2 Weekly/0 Sept 21 - Sept 27.md",
+    "1 Captain's Log/2 Weekly/39 - Sep 26th 2023, Tue.md",
+    "Captain's Log/2 Weekly/40 - Oct 3rd 2023, Tue.md",
+    "Alexandria/Don't even think about it - why our brains are wired to ignore climate change.md",
+    "1 Captain's Log/2 Weekly/(40) Oct 3rd 2023, Tue.md",
+    "1 Captain's Log/2 Weekly/Oct 3rd 2023, Tue.md",
+    "1 Captain's Log/2 Weekly/2023-W40.md",
+    "1 Captain's Log/2023-W40.md",
+    "6 Alexandria/Untitled.md",
+    "Excalidraw/Drawing 2023-09-23 23.29.21.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-27 20.01.17.excalidraw.md",
+    "Workbench/Edgar Allan Poe.md",
+    "Alexandria/Household Horror - Domestic Masculinity in Poe’s The Black Cat.md",
+    "Files/Templates/New Scroll.md",
+    "Workbench/005 MOC Science Outreach.md",
+    "Lit Review/Forest Ecology/notes.md",
+    "Workbench/001 Chapter 1 - Forest Regrowth in Brazil.md",
+    "1 Captain's Log/Weekly",
+    "Captain's Log/3 Monthly",
+    "Captain's Log/1 Daily",
+    "Captain's Log/2 Weekly",
+    "Files/Obsidian Menu-1.png",
     "Files/Edgar Allan Poe.pdf",
     "Files/Edgar Allan Poe-1.pdf",
     "Files/Edgar Allan Poe.pdf",
@@ -208,15 +225,11 @@
     "Files/Pasted Image 20230927200635_478.png",
     "Files/Pasted Image 20230927200535_425.png",
     "Files/Pasted Image 20230927200450_412.png",
-    "10 Social sciences",
     "Files/Articles to read.png",
     "Files/Don't even think about it - why our brains are wired to ignore climate change.png",
     "Files/Untitled.png",
     "Files/Tepui.png",
     "Untitled.canvas",
-    "Zotero/YF98BZL3",
-    "Zotero/TIFVV7VD",
-    "Zotero/S3BY3B45",
     "2 Literature/Regrowth/Regrowth literature.canvas",
     "2 Literature/Biogeochemistry/Biogeochemistry.canvas"
   ]
