@@ -1,10 +1,12 @@
 ## Priorities for today
 
 
-## Daily report
-### Research
+## Research Progress
 
-### Ana's Brain
+
+
+## How're you today?
+
 
 
 ## Priorities for tomorrow

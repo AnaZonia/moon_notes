@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "de5fcd10a09bf918",
+        "id": "b19ae555a6aa3723",
         "type": "tabs",
         "children": [
           {
-            "id": "278b52e3ebeb3005",
+            "id": "1c907df11eaf11bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Captain's Log/0 Sept 21 - Sept 27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d83483196e0a30aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Research article.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecd027071627030c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-09-28.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-09-28.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-09-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2023-09-28.md"
-              }
+              "state": {}
             }
           },
           {
@@ -195,9 +162,20 @@
       "float-search:Search Obsidian In Modal": false
     }
   },
-  "active": "ecd027071627030c",
+  "active": "1c907df11eaf11bf",
   "lastOpenFiles": [
+    "9 Science Skills/Obsidian Menu.md",
+    "Templates/Captain's Log.md",
+    "Templates/Research article.md",
     "1 Captain's Log/0 Sept 21 - Sept 27.md",
+    "000 The Bridge.md",
+    "1 Captain's Log/Sept 28 - Oct 4th.md",
+    "1 Captain's Log/Thu, Sep 28th 2023.md",
+    "Templates/Captain's Log - Review.md",
+    "Templates/Data source.md",
+    "Templates/Remote sensing product.md",
+    "Templates/People and networks.md",
+    "Templates/New Note.md",
     "2023-09-28.md",
     "1 Captain's Log/Weekly/August 1st.md",
     "1 Captain's Log/Weekly/Sept 14 - Sept 20.md",
@@ -205,27 +183,16 @@
     "1 Captain's Log/Weekly",
     "1 Captain's Log/Untitled.md",
     "Reading Map.md",
-    "000 The Bridge.md",
     "7 Data and methods/200 MOC Remote sensing in LULC.md",
     "7 Data and methods/Github.md",
     "7 Data and methods/Earth System Models.md",
     "7 Data and methods/100 MOC Earth System Models.md",
     "2 Literature/aragaoSpatialPatternsFire2007.md",
     "excalibrain.md",
-    "1 Captain's Log/Sept 28 - Oct 4th.md",
     "10 Social sciences/Edgar Allan Poe.md",
-    "Templates/New Note.md",
-    "Templates/Captain's Log.md",
     "2 Literature/Biogeochemistry/0 MOC Biogeochemistry.md",
-    "2 Literature/Biogeochemistry/1 Biogeochem Dataview.md",
-    "9 Science Skills/Obsidian Menu.md",
     "Files/Obsidian Menu-1.png",
     "Files/Obsidian Menu.png",
-    "Templates/Research article.md",
-    "Templates/Remote sensing product.md",
-    "Templates/People and networks.md",
-    "Templates/Data source.md",
-    "5 Interests/005 MOC Science Outreach.md",
     "Files/Edgar Allan Poe.pdf",
     "Files/Edgar Allan Poe-1.pdf",
     "Files/Edgar Allan Poe.pdf",
