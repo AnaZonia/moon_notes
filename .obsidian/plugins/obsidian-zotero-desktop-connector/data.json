@@ -1,6 +1,6 @@
 {
   "database": "Zotero",
-  "noteImportFolder": "2 Literature/",
+  "noteImportFolder": "3 Research/",
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
@@ -14,10 +14,10 @@
   "exportFormats": [
     {
       "name": "Import Paper",
-      "outputPathTemplate": "Literature/{{citekey}}.md",
+      "outputPathTemplate": "3 Research/{{citekey}}.md",
       "imageOutputPathTemplate": "Files/Zotero/{{citekey}}/",
       "imageBaseNameTemplate": "{{citekey}}",
-      "templatePath": "Templates/Research article.md"
+      "templatePath": "Templates/3 Research article.md"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",

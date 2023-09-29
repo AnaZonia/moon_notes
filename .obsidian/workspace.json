@@ -4,22 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "ef8fb9cbf15a763a",
+        "id": "4b1f0f1729ecb961",
         "type": "tabs",
         "children": [
           {
-            "id": "36e10769a57588d8",
+            "id": "8f48c4130e3eef53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Files/Templates/Captain's Log - Review.md",
+                "file": "2 Workstation/001 MOC Amazonia.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "7cbbfc23d2f2fe10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Workstation/001 MOC Amazonia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9c8a73b7ff6702c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Alexandria/Household Horror - Domestic Masculinity in Poe’s The Black Cat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2348b105d7c195d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Workstation/Floresta Amazônica.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fd8be18c1f031886",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Cadet.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -48,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"cssclasses\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -66,7 +115,7 @@
             }
           },
           {
-            "id": "071ae8adb8efbb6d",
+            "id": "9d2fec07239ffcbf",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -74,11 +123,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 310.5
+    "width": 238.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -94,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Files/Templates/Captain's Log - Review.md",
+                "file": "Templates/Cadet.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/Templates/Captain's Log - Review.md",
+                "file": "Templates/Cadet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/Templates/Captain's Log - Review.md"
+                "file": "Templates/Cadet.md"
               }
             }
           },
@@ -145,9 +194,44 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "2d97f16d7ce37209",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Templates/Cadet.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "3dbac5c2f60b2e8e",
@@ -171,56 +255,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "071ae8adb8efbb6d",
+  "active": "fd8be18c1f031886",
   "lastOpenFiles": [
-    "Workbench/Workbench.md",
+    "2 Workstation/Untitled.sync-conflict-20230928-223834-F7IEYDS.md",
+    "2 Workstation/~syncthing~Untitled.sync-conflict-20230928-223834-F7IEYDS.md.tmp",
+    "2 Workstation/Where did the jaguar get its spots.md",
+    "2 Workstation/Untitled.md",
+    "4 Alexandria/Household Horror - Domestic Masculinity in Poe’s The Black Cat.md",
+    "2 Workstation/Edgar Allan Poe.md",
+    "Templates/Cadet.md",
+    "Templates/4 New Scroll.md",
+    "2 Workstation/Como uma árvore bebe água - e como isso garante a nossa chuva.md",
+    "2 Workstation/Floresta Amazônica.md",
+    "2 Workstation/005 MOC Science Outreach.md",
+    "2 Workstation/001 MOC Amazonia.md",
+    "2 Workstation/005 MOC Biogeoquímica.md",
+    "2 Workstation/001 Chapter 1 - Forest Regrowth in Brazil.md",
     "000 The Bridge.md",
-    "Captain's Log/2 Weekly/August 1st.md",
+    "001 Reading Map.md",
+    "8 Warp Core/Github.md",
+    "8 Warp Core/Untitled.md",
+    "8 Engineering/Github.md",
+    "8 Engineering/003 Literature Review.md",
+    "8 Engineering/haddawayEightProblemsLiterature2020.md",
+    "8 Engineering/Obsidian Menu.md",
+    "8 Engineering/202 Writing Science - Science Writing as Storytelling.md",
+    "8 Engineering/romanelliFourChallengesWhen2021.md",
+    "8 Engineering/The Konik Method for Making Useful Notes.md",
+    "8 Engineering/002 MOC Writing Science.md",
+    "8 Engineering/203 Writing Science - Making a story sticky.md",
+    "8 Engineering",
+    "3 Workbench",
     "Context/spacesLastSync.log",
+    "Context/000 The Bridge.log",
     "Context",
-    "Alexandria/Articles to read.md",
-    "Science Skills/003 Lit Review.md",
-    "Science Skills/Obsidian Menu.md",
-    "Reading Map.md",
     "Files/Obsidian Menu.png",
-    "Captain's Log/1 Daily/Tue, Oct 3rd 2023.md",
-    "Files/Templates/Captain's Log.md",
-    "Captain's Log/2 Weekly/0 Sept 21 - Sept 27.md",
-    "1 Captain's Log/2 Weekly/39 - Sep 26th 2023, Tue.md",
-    "Captain's Log/2 Weekly/40 - Oct 3rd 2023, Tue.md",
-    "Alexandria/Don't even think about it - why our brains are wired to ignore climate change.md",
-    "1 Captain's Log/2 Weekly/(40) Oct 3rd 2023, Tue.md",
-    "1 Captain's Log/2 Weekly/Oct 3rd 2023, Tue.md",
-    "1 Captain's Log/2 Weekly/2023-W40.md",
-    "1 Captain's Log/2023-W40.md",
-    "6 Alexandria/Untitled.md",
-    "Excalidraw/Drawing 2023-09-23 23.29.21.excalidraw.md",
-    "Excalidraw/Drawing 2023-09-27 20.01.17.excalidraw.md",
-    "Workbench/Edgar Allan Poe.md",
-    "Alexandria/Household Horror - Domestic Masculinity in Poe’s The Black Cat.md",
-    "Files/Templates/New Scroll.md",
-    "Workbench/005 MOC Science Outreach.md",
-    "Lit Review/Forest Ecology/notes.md",
-    "Workbench/001 Chapter 1 - Forest Regrowth in Brazil.md",
     "1 Captain's Log/Weekly",
-    "Captain's Log/3 Monthly",
-    "Captain's Log/1 Daily",
-    "Captain's Log/2 Weekly",
+    "1 Captain's Log/3 Monthly",
+    "1 Captain's Log/1 Daily",
+    "1 Captain's Log/2 Weekly",
     "Files/Obsidian Menu-1.png",
-    "Files/Edgar Allan Poe.pdf",
-    "Files/Edgar Allan Poe-1.pdf",
-    "Files/Edgar Allan Poe.pdf",
-    "10 Social sciences/Household Horror  Domestic Masculinity in Poe s The Black Cat.pdf",
     "Files/Pasted Image 20230927200705_510.png",
     "Files/Pasted Image 20230927200635_478.png",
     "Files/Pasted Image 20230927200535_425.png",

@@ -4,20 +4,20 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "ddd, MMM Do YYYY",
-    "folder": "Captain's Log/1 Daily",
+    "folder": "1 Captain's Log/1 Daily",
     "template": "Templates/Captain's Log",
     "enabled": true
   },
   "weekly": {
     "format": "w - MMM Do YYYY, ddd",
     "template": "Templates/Captain's Log - Review.md",
-    "folder": "Captain's Log/2 Weekly",
+    "folder": "1 Captain's Log/2 Weekly",
     "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "Templates/Captain's Log - Review.md",
-    "folder": "Captain's Log/3 Monthly",
+    "folder": "1 Captain's Log/3 Monthly",
     "enabled": true
   },
   "quarterly": {

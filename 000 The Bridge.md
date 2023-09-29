@@ -1,7 +1,9 @@
----
-sticker: lucide//rocket
----
-[[Reading Map]]
+
+
+## For learning we can use:
+
+
+[[001 Reading Map]]
 
 ## Tasks
 - [ ] Finish and submit [FRQNT 2024-2025](https://frq.gouv.qc.ca/en/program/frqnt-2024-2025-doctoral-training-scholarships/)
@@ -39,8 +41,7 @@ sticker: lucide//rocket
 	[Prioritizing where to restore Earth’s ecosystems (nature.com)](https://www.nature.com/articles/d41586-020-02750-2)
 
 
-
-## Ongoing missions
+## Tribbles
 ```dataview
 TABLE rows.file.link AS "Note", rows.file.cday AS "Date"  
 FROM #stub

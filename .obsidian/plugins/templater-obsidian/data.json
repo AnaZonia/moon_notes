@@ -15,16 +15,28 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Captain's Log",
-      "template": "Templates/Captain's Log.md"
+      "folder": "1 Captain's Log",
+      "template": "Templates/1 Captain's Log.md"
     },
     {
-      "folder": "People and networks",
-      "template": "Templates/People and networks.md"
+      "folder": "7 People and networks",
+      "template": "Templates/7 People and networks.md"
     },
     {
-      "folder": "Alexandria",
-      "template": "Templates/New Scroll.md"
+      "folder": "4 Alexandria",
+      "template": "Templates/4 New Scroll.md"
+    },
+    {
+      "folder": "6 Data and methods",
+      "template": "Templates/6 Data and methods.md"
+    },
+    {
+      "folder": "2 Workstation",
+      "template": "Templates/Cadet.md"
+    },
+    {
+      "folder": "8 Warp Core",
+      "template": "Templates/Cadet.md"
     }
   ],
   "syntax_highlighting": true,

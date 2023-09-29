@@ -1,0 +1,6 @@
+---
+tags:
+  - stub
+url: 
+type:
+---

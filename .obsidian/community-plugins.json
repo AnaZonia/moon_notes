@@ -5,15 +5,14 @@
   "dataview",
   "obsidian-zotero-desktop-connector",
   "obsidian-style-settings",
+  "obsidian-list-callouts",
   "nuke-orphans",
   "obsidian-annotator",
+  "obsidian-textgenerator-plugin",
   "highlightr-plugin",
   "tag-wrangler",
   "obsidian-git",
   "obsidian-paste-image-rename",
-  "excalibrain",
-  "calendar",
-  "periodic-notes",
-  "note-refactor-obsidian",
-  "make-md"
+  "float-search",
+  "excalibrain"
 ]

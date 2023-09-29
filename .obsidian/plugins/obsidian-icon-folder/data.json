@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiSettings",
+      "LiStar",
+      "SiTheconversation",
+      "RiFilePaper2Line",
+      "RiSpeakLine"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "4 Alexandria": "SiInternetarchive",
+  "1 Captain's Log": "LiRocket",
+  "3 Research": "LiLibrary",
+  "000 The Bridge.md": "SiStartrek",
+  "Templates/1 Captain's Log.md": "LiRocket",
+  "Templates/1 Captain's Log - Review.md": "LiRocket",
+  "Templates/4 New Scroll.md": "SiInternetarchive",
+  "Templates/3 Research article.md": "LiLibrary",
+  "5 Estatística para Ecologia": "LiLineChart",
+  "6 Data and methods": "TiSatellite",
+  "7 People and networks": "TiHeartHandshake",
+  "001 Reading Map.md": "LiMap",
+  "2 Workstation": "RiToolsFill",
+  "2 Workstation/002 MOC Climate Change.md": "RiEarthLine",
+  "2 Workstation/003 MOC Dengue and Regrowth.md": "RiVirusLine",
+  "2 Workstation/004 MOC Social Context of Latin America.md": "LiPersonStanding",
+  "2 Workstation/005 MOC Science Outreach.md": "LiExpand",
+  "2 Workstation/006 MOC Debates and Discourse.md": "RiSpeakLine",
+  "2 Workstation/001 Chapter 1 - Forest Regrowth in Brazil.md": "RiFilePaper2Line",
+  "Templates/6 Data and methods.md": "TiSatellite",
+  "Templates/7 People and networks.md": "TiHeartHandshake",
+  "Templates/Cadet.md": "LiStar",
+  "8 Warp Core": "TiSettings",
+  "2 Workstation/005 MOC Biogeoquímica.md": "LiLeaf",
+  "2 Workstation/001 MOC Amazonia.md": "RiTreeLine"
+}
