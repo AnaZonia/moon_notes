@@ -1,20 +1,23 @@
-
+  
 ---
-aliases: [Dissolved nutrient exports from natural and human-impacted Neotropical catchments]
-url: https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12417
-citekey: guckerDissolvedNutrientExports2016a
-tags: [Atlantic forest, Cerrado savanna, land-use change, nitrogen, phosphorus, seasonality] 
+aliases: [Dissolved nutrient exports from natural and human-impacted Neotropical catchments] 
 year: 2016 
+first-author: Gücker, Björn
 publisher: "Global Ecology and Biogeography" 
+tags:   #Phosphorus      #Nitrogen      #LULC      #Cerrado   
+url: https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12417 
 type: lit-note
-at-a-glance: "Agriculture affects N and P runoff"
+at-a-glance: ""
 
 --- 
 
+authors: [[Gücker, Björn]], [[Silva, Ricky C. S.]], [[Graeber, Daniel]], [[Monteiro, José A. F.]], [[Brookshire, E. N. Jack]], [[Chaves, Ronaldo C.]], [[Boëchat, Iola G.]]
 
->**Bibliography:** Gücker, Björn, Ricky C. S. Silva, Daniel Graeber, José A. F. Monteiro, E. N. Jack Brookshire, Ronaldo C. Chaves, and Iola G. Boëchat. ‘Dissolved Nutrient Exports from Natural and Human-Impacted Neotropical Catchments’. _Global Ecology and Biogeography_ 25, no. 4 (2016): 378–90. [https://doi.org/10.1111/geb.12417](https://doi.org/10.1111/geb.12417).
+**Bibliography:** Gücker, Björn, Ricky C. S. Silva, Daniel Graeber, José A. F. Monteiro, E. N. Jack Brookshire, Ronaldo C. Chaves, and Iola G. Boëchat. ‘Dissolved Nutrient Exports from Natural and Human-Impacted Neotropical Catchments’. _Global Ecology and Biogeography_ 25, no. 4 (2016): 378–90. [https://doi.org/10.1111/geb.12417](https://doi.org/10.1111/geb.12417). 
 
-### Notes
+>[!summary] Summary
+> 
+
 
 Dissolved nutrient exports from natural and human-impacted neotropical catchments
 
@@ -40,7 +43,4 @@ Our results suggest the possibility of a broad gradient of N richness in the Neo
 
 land-use change in the Neotropics might affect the timing and seasonality of dissolved nutrient exports, with potentially important implications for downstream systems.
 
------------------------------------------------------------------------------------------------------------------------------------------
-
-
-%% Import Date: 2023-09-10T15:33:03.561-04:00 %%
+%% Import Date: 2023-09-29T10:07:31.936-04:00 %%

@@ -1,8 +1,7 @@
   
 --- 
 aliases: [Human impacts outpace natural processes in the Amazon] 
-authors: [[Albert, James S.]], [[Carnaval, Ana C.]], [[Flantua, Suzette G. A.]], [[Lohmann, Lúcia G.]], [[Ribas, Camila C.]], [[Riff, Douglas]], [[Carrillo, Juan D.]], [[Fan, Ying]], [[Figueiredo, Jorge J. P.]], [[Guayasamin, Juan M.]], [[Hoorn, Carina]], [[De Melo, Gustavo H.]], [[Nascimento, Nathália]], [[Quesada, Carlos A.]], [[Ulloa Ulloa, Carmen]], [[Val, Pedro]], [[Arieira, Julia]], [[Encalada, Andrea C.]], [[Nobre, Carlos A.]]
-tags: #LULC, #Deforestation, [[001 MOC Amazonia]]
+first-author: Albert, James S.
 year: 2023 
 publisher: "Science" 
 url: https://www.science.org/doi/10.1126/science.abo5003 
@@ -10,6 +9,10 @@ type: [lit-note]
 at-a-glance: 
 
 --- 
+
+tags: #LULC, #Deforestation, [[001 MOC Amazonia]]
+authors: [[Albert, James S.]], [[Carnaval, Ana C.]], [[Flantua, Suzette G. A.]], [[Lohmann, Lúcia G.]], [[Ribas, Camila C.]], [[Riff, Douglas]], [[Carrillo, Juan D.]], [[Fan, Ying]], [[Figueiredo, Jorge J. P.]], [[Guayasamin, Juan M.]], [[Hoorn, Carina]], [[De Melo, Gustavo H.]], [[Nascimento, Nathália]], [[Quesada, Carlos A.]], [[Ulloa Ulloa, Carmen]], [[Val, Pedro]], [[Arieira, Julia]], [[Encalada, Andrea C.]], [[Nobre, Carlos A.]]
+
 
 **Bibliography:** Albert, James S., Ana C. Carnaval, Suzette G. A. Flantua, Lúcia G. Lohmann, Camila C. Ribas, Douglas Riff, Juan D. Carrillo, et al. ‘Human Impacts Outpace Natural Processes in the Amazon’. _Science_ 379, no. 6630 (27 January 2023): eabo5003. [https://doi.org/10.1126/science.abo5003](https://doi.org/10.1126/science.abo5003). 
 

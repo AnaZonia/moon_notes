@@ -32,7 +32,7 @@
 - [ ] Transcribe Andrew/stats notes
 - [ ] Set up morning/bed/gym routine
 - [ ] Use excalidraw to make photosynthesis/N cycle schemes
-- [ ] check out [Ilya](https://twitter.com/Artifexx) twitter for good obsidian ideas!
+- [x] check out [Ilya](https://twitter.com/Artifexx) twitter for good obsidian ideas! ✅ 2023-09-29
 - [ ] set up google keep for fleeting notes
 - [ ] Look into how to easier maintain [zotero tags](https://pressbooks.library.yorku.ca/masteringzotero/chapter/working-with-tags/)
 	- Brainstorm topics with Excalidraw to get meaningful tags
@@ -42,6 +42,8 @@
 
 
 ## Tribbles
+
+
 ```dataview
 TABLE file.cday AS "stardate"  
 FROM #tribble and -"Templates"

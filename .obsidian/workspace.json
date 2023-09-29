@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "99fc1a55596a62bb",
+        "id": "68e073f2e272481f",
         "type": "tabs",
         "children": [
           {
-            "id": "d932da01631f7f02",
+            "id": "cc71600b4478f988",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "2 Workstation/De onde vem a massa das arvores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9046411096bfbcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Research/At-a-glance.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"authors\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 454.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -106,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Research/At-a-glance.md",
+                "file": "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Research/At-a-glance.md",
+                "file": "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +121,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -146,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Research/At-a-glance.md"
+                "file": "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md"
               }
             }
           },
@@ -164,9 +149,9 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 Research/At-a-glance.md",
+                "file": "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -187,8 +172,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+                  "scale": 0.7132754626224425,
+                  "close": true
                 }
               }
             }
@@ -225,44 +210,87 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false,
       "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "a9046411096bfbcb",
+  "floating": {
+    "id": "9b54faf2b59855a2",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e6d3aa668a27be5b",
+        "type": "window",
+        "children": [
+          {
+            "id": "f63e1d240574745d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "28789a2492e65094",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1034,
+        "y": -412,
+        "width": 1024,
+        "height": 1032,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "cc71600b4478f988",
   "lastOpenFiles": [
-    "3 Research/Biogeochemistry/alvesChangingRatesPatterns2009.md",
-    "3 Research/Biogeochemistry/guckerDissolvedNutrientExports2016a.md",
-    "3 Research/At-a-glance.md",
-    "3 Research/Biodiversity/poorterBiodiversityClimateDetermine2017.md",
-    "3 Research/Amazonia/albertHumanImpactsOutpace2023.md",
-    "3 Research/Biodiversity/potvinEcosystemApproachBiodiversity2011.md",
-    "001 MOC Amazonia.md",
-    "3 Research/Biodiversity/Untitled.md",
-    "3 Research/Amazonia/Forest Landscape Restoration in the Amazon.md",
-    "7 People and networks/Nobre, Carlos A..md",
-    "Templates/3 Research article.md",
-    "000 The Bridge.md",
-    "005 MOC Biogeoquímica.md",
-    "2 Workstation/Untitled.md",
-    "2 Workstation/De onde vem a massa das arvores.md",
-    "Templates/Cadet.md",
-    "001 Forest Regrowth in Brazil - Project.md",
-    "Untitled.md",
-    "8 Warp Core/Obsidian Menu.md",
-    "002 MOC Climate Change.md",
-    "200 Remote sensing in LULC MOC.md",
-    "3 Research/Biogeochemistry/mengeQuestionThatLaunched2014.md",
-    "Files/Zotero/albertHumanImpactsOutpace2023/albertHumanImpactsOutpace2023-1-x388-y562.jpg",
-    "3 Research/Biogeochemistry/vitousekNitrogenLimitationLand1991.md",
-    "1 Captain's Log/1 Daily/Fri, Sep 29th 2023.md",
-    "1 Captain's Log/1 Daily/Sun, Oct 1st 2023.md",
-    "2 Workstation/Ecological filtering theory.md",
-    "Files/Zotero/albertHumanImpactsOutpace2023/Cadet-1.jpg",
-    "Files/Zotero/albertHumanImpactsOutpace2023/albertHumanImpactsOutpace2023-7-x208-y386.jpg",
-    "Files/Zotero/albertHumanImpactsOutpace2023/albertHumanImpactsOutpace2023-7-x208-y391.jpg",
-    "Files/Zotero/albertHumanImpactsOutpace2023/Cadet.jpg",
+    "Excalidraw/Nitrogen Cycle Sept 27th 2023.excalidraw.md",
+    "Excalidraw/Is active reforestation more efficient than passive.md",
+    "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
+    "Excalidraw/Drawing 2023-09-23 23.29.21.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
+    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.md",
+    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically.md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically.svg",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
+    "Excalidraw/Scripts/Downloaded/Fixed spacing.svg",
+    "Excalidraw/Scripts/Downloaded/Fixed spacing.md",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
+    "Excalidraw/Scripts/Downloaded/Modify background color opacity.svg",
+    "Excalidraw/Scripts/Downloaded/Modify background color opacity.md",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.svg",
+    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
+    "Excalidraw/Scripts/Downloaded/Organic Line.svg",
+    "Excalidraw/Scripts/Downloaded/Organic Line.md",
+    "Excalidraw/Scripts/Downloaded/Palette loader.svg",
+    "Excalidraw/Scripts/Downloaded/Palette loader.md",
+    "Excalidraw/Scripts/Downloaded/Reverse arrows.md",
+    "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
+    "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
+    "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.md",
+    "Excalidraw/Scripts/Downloaded/Slideshow.md",
+    "Excalidraw/Scripts/Downloaded/Split Ellipse.md",
+    "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded/Uniform size.md",
+    "Excalidraw/Scripts/Downloaded/Text Arch.md",
+    "Excalidraw/Scripts/Downloaded/Split text by lines.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw/How do mature forests keep on sequestering carbon after they've reached peak community.md",
+    "Excalidraw/Does biodiversity increase biomass accumulation rates.md",
+    "3 Research/test",
     "Files/Zotero/albertHumanImpactsOutpace2023",
     "Files/Zotero",
     "3 Research/~syncthing~alvesChangingRatesPatterns2009.sync-conflict-20230928-224757-HTOZKPD.md.tmp",
@@ -270,14 +298,6 @@
     "2 Workstation/~syncthing~Untitled.sync-conflict-20230928-223834-F7IEYDS.md.tmp",
     "8 Engineering",
     "3 Workbench",
-    "Context/spacesLastSync.log",
-    "Context/000 The Bridge.log",
-    "Context",
-    "Files/Obsidian Menu.png",
-    "Files/Obsidian Menu-1.png",
-    "Files/Pasted Image 20230927200705_510.png",
-    "Files/Pasted Image 20230927200635_478.png",
-    "Files/Pasted Image 20230927200535_425.png",
     "Untitled.canvas",
     "2 Literature/Regrowth/Regrowth literature.canvas",
     "2 Literature/Biogeochemistry/Biogeochemistry.canvas"

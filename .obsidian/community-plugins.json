@@ -1,7 +1,6 @@
 [
   "obsidian-minimal-settings",
   "obsidian-excalidraw-plugin",
-  "dataview",
   "obsidian-zotero-desktop-connector",
   "obsidian-style-settings",
   "obsidian-list-callouts",
@@ -21,5 +20,7 @@
   "periodic-notes",
   "templater-obsidian",
   "table-editor-obsidian",
-  "cmdr"
+  "cmdr",
+  "dataview",
+  "obsidian-tasks-plugin"
 ]

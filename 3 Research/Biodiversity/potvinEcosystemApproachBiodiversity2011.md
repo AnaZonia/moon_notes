@@ -7,17 +7,11 @@ aliases:
 url: https://linkinghub.elsevier.com/retrieve/pii/S0378112710006857
 citekey: potvinEcosystemApproachBiodiversity2011
 keywords: 
-authors: Catherine Potvin, Lady Mancilla, Nina Buchmann, Jose Monteza, Tim Moore, Meaghan Murphy, Yvonne Oelmann, Michael Scherer-Lorenzen, Benjamin L. Turner, Wolfgang Wilcke, Fabienne Zeugin, Sebastian Wolf
+authors: [[Catherine Potvin]], [[Lady Mancilla]]
 year: 1293858000000
----
+
 --- 
-citekey: potvinEcosystemApproachBiodiversity2011 
-aliases: ["An ecosystem approach to biodiversity effects: Carbon pools in a tropical tree plantation"]
-authors: Catherine Potvin, Lady Mancilla, Nina Buchmann, Jose Monteza, Tim Moore, Meaghan Murphy, Yvonne Oelmann, Michael Scherer-Lorenzen, Benjamin L. Turner, Wolfgang Wilcke, Fabienne Zeugin, Sebastian Wolf 
-tags: [] 
-year: 2011 
-publisher: "For. Ecol. Manage." 
-doi: 10.1016/j.foreco.2010.11.015 --- 
+
 
 # [An ecosystem approach to biodiversity effects: Carbon pools in a tropical tree plantation](zotero://select/library/items/3ND8MZYJ)
 

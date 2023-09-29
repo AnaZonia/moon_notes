@@ -11,7 +11,7 @@
   "drawingFilenamePrefix": "Drawing ",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
-  "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
+  "drawingFilenameDateTime": "MMM Do YYYY",
   "useExcalidrawExtension": true,
   "previewImageType": "SVG",
   "allowImageCache": true,
@@ -39,8 +39,8 @@
   "hoverPreviewWithoutCTRL": false,
   "linkOpacity": 1,
   "openInAdjacentPane": false,
-  "openInMainWorkspace": true,
-  "showLinkBrackets": true,
+  "openInMainWorkspace": false,
+  "showLinkBrackets": false,
   "allowCtrlClick": true,
   "forceWrap": false,
   "pageTransclusionCharLimit": 200,
@@ -72,7 +72,77 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.19",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "id": "QQg54KEfrEMUT24cjjxVx",
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "line",
+            "version": 456,
+            "versionNonce": 2012090692,
+            "isDeleted": false,
+            "id": "zUxDC6bcUMPqhiHZHFi7s",
+            "fillStyle": "hachure",
+            "strokeWidth": 0.5,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": 78.49567099567014,
+            "y": 454.831270292208,
+            "strokeColor": "#2f9e44",
+            "backgroundColor": "#b2f2bb",
+            "width": 190.30303030303017,
+            "height": 209.6969696969695,
+            "seed": 614387836,
+            "groupIds": [],
+            "frameId": null,
+            "roundness": null,
+            "boundElements": [],
+            "updated": 1695999786237,
+            "link": null,
+            "locked": false,
+            "startBinding": null,
+            "endBinding": null,
+            "lastCommittedPoint": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                1.2121212121211968,
+                114.54545454545445
+              ],
+              [
+                -59.99999999999997,
+                112.12121212121205
+              ],
+              [
+                29.090909090909065,
+                209.09090909090892
+              ],
+              [
+                130.3030303030302,
+                116.36363636363632
+              ],
+              [
+                65.15151515151504,
+                113.3333333333332
+              ],
+              [
+                64.84848484848482,
+                -0.6060606060605664
+              ]
+            ]
+          }
+        ],
+        "created": 1695999793672
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,
