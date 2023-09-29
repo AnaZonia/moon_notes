@@ -5,7 +5,7 @@
 
 [[001 Reading Map]]
 
-## Tasks
+## Make it so
 - [ ] Finish and submit [FRQNT 2024-2025](https://frq.gouv.qc.ca/en/program/frqnt-2024-2025-doctoral-training-scholarships/)
 - [ ] Organize code
 - [ ] Contacts that went cold: Jonathas/Jude/Javier/Beth
@@ -24,9 +24,9 @@
 	- Mature forest cover
 	- AET
 
-## Weekend menu
+## Shore leave
 - [ ] Quebec forms
-- [ ] Email Brian about Panama
+- [x] Email Brian about Panama
 - [ ] Organize courses
 - [ ] Finish bringing data sources/lit from excel to Obsidian
 - [ ] Transcribe Andrew/stats notes
@@ -43,9 +43,10 @@
 
 ## Tribbles
 ```dataview
-TABLE rows.file.link AS "Note", rows.file.cday AS "Date"  
-FROM #stub
-sort date ASCENDING
+TABLE file.cday AS "stardate"  
+FROM #tribble and -"Templates"
+SORT file.cday ASC
 ```
+
 
 

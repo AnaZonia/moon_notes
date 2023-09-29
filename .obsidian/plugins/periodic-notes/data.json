@@ -5,18 +5,18 @@
   "daily": {
     "format": "ddd, MMM Do YYYY",
     "folder": "1 Captain's Log/1 Daily",
-    "template": "Templates/Captain's Log",
+    "template": "Templates/1 Captain's Log.md",
     "enabled": true
   },
   "weekly": {
     "format": "w - MMM Do YYYY, ddd",
-    "template": "Templates/Captain's Log - Review.md",
+    "template": "Templates/1 Captain's Log - Review.md",
     "folder": "1 Captain's Log/2 Weekly",
     "enabled": true
   },
   "monthly": {
     "format": "",
-    "template": "Templates/Captain's Log - Review.md",
+    "template": "Templates/1 Captain's Log - Review.md",
     "folder": "1 Captain's Log/3 Monthly",
     "enabled": true
   },

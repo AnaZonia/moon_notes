@@ -1,6 +1,7 @@
 ---
 tags:
-  - stub
+  - tribble
 url: 
-type:
+type: 
+stardate: <% tp.file.creation_date() %>
 ---

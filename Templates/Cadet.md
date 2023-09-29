@@ -1,11 +1,6 @@
 ---
-date: {date:YYYY-MM-DD} 
-
-date updated: <%+ tp.file.last_modified_date("YYYY-MM-DD HH:mm:ss") %>
-
+stardate: <% tp.file.creation_date("MMM Do YYYY") %>
+update: <% tp.file.last_modified_date("MMM Do YYYY") %>
 tags:
-  - tribble
-url:
+  - "#tribble"
 ---
-
-

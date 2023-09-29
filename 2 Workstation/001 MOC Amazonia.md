@@ -1,3 +1,5 @@
+#Amazonia
+
 
 [[Albert 2013 - Human impacts outpace natural processes in the Amazon]]
 - Summary of anthropogenic effects on the forest. Land use change is relevant. Science Panel for the Amazon Assessment Report is mentioned.

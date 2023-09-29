@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4b1f0f1729ecb961",
+        "id": "99fc1a55596a62bb",
         "type": "tabs",
         "children": [
           {
-            "id": "8f48c4130e3eef53",
+            "id": "d932da01631f7f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -16,59 +16,10 @@
                 "file": "2 Workstation/001 MOC Amazonia.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "7cbbfc23d2f2fe10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Workstation/001 MOC Amazonia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e9c8a73b7ff6702c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 Alexandria/Household Horror - Domestic Masculinity in Poe’s The Black Cat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2348b105d7c195d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Workstation/Floresta Amazônica.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fd8be18c1f031886",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Cadet.md",
-                "mode": "source",
-                "source": true
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -143,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Cadet.md",
+                "file": "2 Workstation/001 MOC Amazonia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Cadet.md",
+                "file": "2 Workstation/001 MOC Amazonia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Cadet.md"
+                "file": "2 Workstation/001 MOC Amazonia.md"
               }
             }
           },
@@ -201,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Cadet.md",
+                "file": "2 Workstation/001 MOC Amazonia.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +181,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "3dbac5c2f60b2e8e",
@@ -262,57 +212,59 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd8be18c1f031886",
+  "active": "d932da01631f7f02",
   "lastOpenFiles": [
-    "2 Workstation/Untitled.sync-conflict-20230928-223834-F7IEYDS.md",
-    "2 Workstation/~syncthing~Untitled.sync-conflict-20230928-223834-F7IEYDS.md.tmp",
-    "2 Workstation/Where did the jaguar get its spots.md",
-    "2 Workstation/Untitled.md",
-    "4 Alexandria/Household Horror - Domestic Masculinity in Poe’s The Black Cat.md",
-    "2 Workstation/Edgar Allan Poe.md",
-    "Templates/Cadet.md",
-    "Templates/4 New Scroll.md",
-    "2 Workstation/Como uma árvore bebe água - e como isso garante a nossa chuva.md",
-    "2 Workstation/Floresta Amazônica.md",
-    "2 Workstation/005 MOC Science Outreach.md",
-    "2 Workstation/001 MOC Amazonia.md",
-    "2 Workstation/005 MOC Biogeoquímica.md",
-    "2 Workstation/001 Chapter 1 - Forest Regrowth in Brazil.md",
+    "8 Warp Core/Obsidian Menu.md",
+    "1 Captain's Log/1 Daily/Fri, Sep 29th 2023.md",
+    "1 Captain's Log/1 Daily/Sun, Oct 1st 2023.md",
+    "2 Workstation/Ecological filtering theory.md",
+    "2 Workstation/Ecosystem functioning.md",
+    "2 Workstation/Ecosystem services.md",
+    "1 Captain's Log/1 Daily/Tue, Oct 3rd 2023.md",
+    "1 Captain's Log/1 Daily/Thu, Sep 28th 2023.md",
+    "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
     "000 The Bridge.md",
     "001 Reading Map.md",
-    "8 Warp Core/Github.md",
-    "8 Warp Core/Untitled.md",
-    "8 Engineering/Github.md",
-    "8 Engineering/003 Literature Review.md",
-    "8 Engineering/haddawayEightProblemsLiterature2020.md",
-    "8 Engineering/Obsidian Menu.md",
-    "8 Engineering/202 Writing Science - Science Writing as Storytelling.md",
-    "8 Engineering/romanelliFourChallengesWhen2021.md",
-    "8 Engineering/The Konik Method for Making Useful Notes.md",
-    "8 Engineering/002 MOC Writing Science.md",
-    "8 Engineering/203 Writing Science - Making a story sticky.md",
+    "2 Workstation/200 MOC Remote sensing in LULC.md",
+    "2 Workstation/Edgar Allan Poe.md",
+    "Templates/Cadet.md",
+    "2 Workstation/Costa Rican regrowth context.md",
+    "Templates/1 Captain's Log.md",
+    "2 Workstation/Títulos verdes.md",
+    "2 Workstation/Tepui.md",
+    "2 Workstation/Photoinhibition.md",
+    "2 Workstation/Untitled 1.md",
+    "2 Workstation/Tropical Montane Forest.md",
+    "Templates/4 New Scroll.md",
+    "2 Workstation/Untitled 2.md",
+    "2 Workstation/Photosynthesis.md",
+    "Templates/7 People and networks.md",
+    "2 Workstation/Untitled.sync-conflict-20230928-223834-F7IEYDS.md",
+    "Files/Zotero/albertHumanImpactsOutpace2023/Cadet-1.jpg",
+    "Files/Zotero/albertHumanImpactsOutpace2023/albertHumanImpactsOutpace2023-7-x208-y386.jpg",
+    "Files/Zotero/albertHumanImpactsOutpace2023/albertHumanImpactsOutpace2023-7-x208-y391.jpg",
+    "Files/Zotero/albertHumanImpactsOutpace2023/Cadet.jpg",
+    "Files/Zotero/albertHumanImpactsOutpace2023",
+    "Files/Zotero",
+    "3 Research/~syncthing~alvesChangingRatesPatterns2009.sync-conflict-20230928-224757-HTOZKPD.md.tmp",
+    "3 Research/~syncthing~alvesChangingRatesPatterns2009.md.tmp",
+    "2 Workstation/~syncthing~Untitled.sync-conflict-20230928-223834-F7IEYDS.md.tmp",
     "8 Engineering",
     "3 Workbench",
     "Context/spacesLastSync.log",
     "Context/000 The Bridge.log",
     "Context",
     "Files/Obsidian Menu.png",
-    "1 Captain's Log/Weekly",
-    "1 Captain's Log/3 Monthly",
-    "1 Captain's Log/1 Daily",
-    "1 Captain's Log/2 Weekly",
     "Files/Obsidian Menu-1.png",
     "Files/Pasted Image 20230927200705_510.png",
     "Files/Pasted Image 20230927200635_478.png",
     "Files/Pasted Image 20230927200535_425.png",
     "Files/Pasted Image 20230927200450_412.png",
-    "Files/Articles to read.png",
-    "Files/Don't even think about it - why our brains are wired to ignore climate change.png",
-    "Files/Untitled.png",
-    "Files/Tepui.png",
     "Untitled.canvas",
     "2 Literature/Regrowth/Regrowth literature.canvas",
     "2 Literature/Biogeochemistry/Biogeochemistry.canvas"

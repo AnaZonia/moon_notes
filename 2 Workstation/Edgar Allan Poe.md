@@ -1,8 +1,9 @@
 ---
+stardate: Sep 28th 2023
+update: Sep 28th 2023
 tags:
-  - stub
+  - "#tribble"
 ---
-[[Household Horror - Domestic Masculinity in Poe’s The Black Cat]]
 ## Poe and Science
 
 Poe was fascinated with science, but also annoyed at its coldness at approaching facts. 

@@ -49,5 +49,6 @@
   "minimal-style@@workspace-background-translucent@@dark": "#132703",
   "minimal-style@@tag-border-width": "0",
   "minimal-style@@tag-background@@dark": "#3A4C34",
-  "minimal-style@@tag-color@@dark": "#F7EDDE"
+  "minimal-style@@tag-color@@dark": "#F7EDDE",
+  "minimal-style@@bold-color@@dark": "#DB94D9"
 }

@@ -1,7 +1,6 @@
 [
   "obsidian-minimal-settings",
   "obsidian-excalidraw-plugin",
-  "templater-obsidian",
   "dataview",
   "obsidian-zotero-desktop-connector",
   "obsidian-style-settings",
@@ -14,5 +13,13 @@
   "obsidian-git",
   "obsidian-paste-image-rename",
   "float-search",
-  "excalibrain"
+  "excalibrain",
+  "obsidian-icon-folder",
+  "calendar",
+  "obsidian-admonition",
+  "note-refactor-obsidian",
+  "periodic-notes",
+  "templater-obsidian",
+  "table-editor-obsidian",
+  "cmdr"
 ]
