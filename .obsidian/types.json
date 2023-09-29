@@ -5,6 +5,7 @@
     "tags": "tags",
     "field": "multitext",
     "source": "multitext",
-    "location": "multitext"
+    "location": "multitext",
+    "authors": "multitext"
   }
 }

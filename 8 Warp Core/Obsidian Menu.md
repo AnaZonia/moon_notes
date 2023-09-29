@@ -1,11 +1,3 @@
-## Transform tags into links
-cd to your vault folder and execute the following command:
-
-`sed -i 's/#MYTAG/\[\[MYTAG\]\]/g' *.md`
-
-Replace `MYTAG` with the name of the tag you want to convert to a link.
-
-The above command will replace all occurrences of `#MYTAG` with `[[MYTAG]]` in all of your markdown files in the current directory.
 ## Twitter
 [kepano (@kepano)](https://twitter.com/kepano)
 [Ilya Shabanov (@Artifexx)](https://twitter.com/Artifexx)
@@ -53,3 +45,14 @@ The above command will replace all occurrences of `#MYTAG` with `[[MYTAG]]` 
 ## Checkbox
 
 ![[Obsidian Menu.png]]![[Obsidian Menu-1.png]]
+
+## Zotero tag import snippet
+{% if tags.length > 0 -%}{% for t in tags -%}#{% if t.tag == "secondary" %}source/secondary{% if not loop.last %}{% endif %}{% elif t.tag == "primary" %}source/primary{% if not loop.last %}{% endif %}{% elif "-project" in t.tag %}project/{{t.tag | lower | replace(" ", "-") | replace("-project", "")}}{% else %}subject/{{t.tag | lower | replace(" ", "-")}}{% endif %}{% if not loop.last %} {% endif %}{%- endfor %}{%- endif %}
+## Transform tags into links
+cd to your vault folder and execute the following command:
+
+`sed -i 's/#MYTAG/\[\[MYTAG\]\]/g' *.md`
+
+Replace `MYTAG` with the name of the tag you want to convert to a link.
+
+The above command will replace all occurrences of `#MYTAG` with `[[MYTAG]]` in all of your markdown files in the current directory.

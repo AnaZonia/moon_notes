@@ -2,7 +2,7 @@
 --- 
 aliases: [{{title}}] 
 authors: {% for t in creators %}[[{{t.lastName}}, {{t.firstName}}]]{% if not loop.last %}, {% endif %}{% endfor %}
-tags: {% for t in tags %}#{{ t.tag }}{% if not loop.last %}, {% endif %}{% endfor %}
+tags: {% for t in tags %}{% if t.tag == 'Amazonia' %}[[001 MOC Amazonia]]{% elif t.tag == 'Climate change' %}[[002 MOC Climate Change]]{% else %}#{{ t.tag }}{% endif %}{% if not loop.last %}, {% endif %}{% endfor %}
 year: {{date | format("YYYY")}} 
 publisher: "{{publicationTitle}}" 
 url: {{url}} 

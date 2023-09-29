@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiGoogleearth",
       "TiSettings",
       "LiStar",
       "SiTheconversation",
-      "RiFilePaper2Line",
-      "RiSpeakLine"
+      "RiFilePaper2Line"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -35,16 +35,17 @@
   "7 People and networks": "TiHeartHandshake",
   "001 Reading Map.md": "LiMap",
   "2 Workstation": "RiToolsFill",
-  "2 Workstation/002 MOC Climate Change.md": "RiEarthLine",
-  "2 Workstation/003 MOC Dengue and Regrowth.md": "RiVirusLine",
-  "2 Workstation/004 MOC Social Context of Latin America.md": "LiPersonStanding",
-  "2 Workstation/005 MOC Science Outreach.md": "LiExpand",
-  "2 Workstation/006 MOC Debates and Discourse.md": "RiSpeakLine",
-  "2 Workstation/001 Chapter 1 - Forest Regrowth in Brazil.md": "RiFilePaper2Line",
   "Templates/6 Data and methods.md": "TiSatellite",
   "Templates/7 People and networks.md": "TiHeartHandshake",
   "Templates/Cadet.md": "LiStar",
   "8 Warp Core": "TiSettings",
-  "2 Workstation/005 MOC Biogeoquímica.md": "LiLeaf",
-  "2 Workstation/001 MOC Amazonia.md": "RiTreeLine"
+  "001 MOC Amazonia.md": "RiTreeLine",
+  "002 MOC Climate Change.md": "RiEarthLine",
+  "003 MOC Dengue and Regrowth.md": "RiVirusLine",
+  "004 MOC Social Context of Latin America.md": "LiPersonStanding",
+  "005 MOC Biogeoquímica.md": "LiLeaf",
+  "005 MOC Science Outreach.md": "LiExpand",
+  "006 MOC Debates and Discourse.md": "RiSpeakLine",
+  "200 Remote sensing in LULC MOC.md": "SiGoogleearth",
+  "001 Forest Regrowth in Brazil - Project.md": "RiFilePaper2Line"
 }

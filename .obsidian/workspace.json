@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Workstation/001 MOC Amazonia.md",
+                "file": "2 Workstation/De onde vem a massa das arvores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9046411096bfbcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Research/At-a-glance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"authors\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Workstation/001 MOC Amazonia.md",
+                "file": "3 Research/At-a-glance.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Workstation/001 MOC Amazonia.md",
+                "file": "3 Research/At-a-glance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Workstation/001 MOC Amazonia.md"
+                "file": "3 Research/At-a-glance.md"
               }
             }
           },
@@ -151,7 +164,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Workstation/001 MOC Amazonia.md",
+                "file": "3 Research/At-a-glance.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -217,34 +230,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d932da01631f7f02",
+  "active": "a9046411096bfbcb",
   "lastOpenFiles": [
+    "3 Research/Biogeochemistry/alvesChangingRatesPatterns2009.md",
+    "3 Research/Biogeochemistry/guckerDissolvedNutrientExports2016a.md",
+    "3 Research/At-a-glance.md",
+    "3 Research/Biodiversity/poorterBiodiversityClimateDetermine2017.md",
+    "3 Research/Amazonia/albertHumanImpactsOutpace2023.md",
+    "3 Research/Biodiversity/potvinEcosystemApproachBiodiversity2011.md",
+    "001 MOC Amazonia.md",
+    "3 Research/Biodiversity/Untitled.md",
+    "3 Research/Amazonia/Forest Landscape Restoration in the Amazon.md",
+    "7 People and networks/Nobre, Carlos A..md",
+    "Templates/3 Research article.md",
+    "000 The Bridge.md",
+    "005 MOC Biogeoquímica.md",
+    "2 Workstation/Untitled.md",
+    "2 Workstation/De onde vem a massa das arvores.md",
+    "Templates/Cadet.md",
+    "001 Forest Regrowth in Brazil - Project.md",
+    "Untitled.md",
     "8 Warp Core/Obsidian Menu.md",
+    "002 MOC Climate Change.md",
+    "200 Remote sensing in LULC MOC.md",
+    "3 Research/Biogeochemistry/mengeQuestionThatLaunched2014.md",
+    "Files/Zotero/albertHumanImpactsOutpace2023/albertHumanImpactsOutpace2023-1-x388-y562.jpg",
+    "3 Research/Biogeochemistry/vitousekNitrogenLimitationLand1991.md",
     "1 Captain's Log/1 Daily/Fri, Sep 29th 2023.md",
     "1 Captain's Log/1 Daily/Sun, Oct 1st 2023.md",
     "2 Workstation/Ecological filtering theory.md",
-    "2 Workstation/Ecosystem functioning.md",
-    "2 Workstation/Ecosystem services.md",
-    "1 Captain's Log/1 Daily/Tue, Oct 3rd 2023.md",
-    "1 Captain's Log/1 Daily/Thu, Sep 28th 2023.md",
-    "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
-    "000 The Bridge.md",
-    "001 Reading Map.md",
-    "2 Workstation/200 MOC Remote sensing in LULC.md",
-    "2 Workstation/Edgar Allan Poe.md",
-    "Templates/Cadet.md",
-    "2 Workstation/Costa Rican regrowth context.md",
-    "Templates/1 Captain's Log.md",
-    "2 Workstation/Títulos verdes.md",
-    "2 Workstation/Tepui.md",
-    "2 Workstation/Photoinhibition.md",
-    "2 Workstation/Untitled 1.md",
-    "2 Workstation/Tropical Montane Forest.md",
-    "Templates/4 New Scroll.md",
-    "2 Workstation/Untitled 2.md",
-    "2 Workstation/Photosynthesis.md",
-    "Templates/7 People and networks.md",
-    "2 Workstation/Untitled.sync-conflict-20230928-223834-F7IEYDS.md",
     "Files/Zotero/albertHumanImpactsOutpace2023/Cadet-1.jpg",
     "Files/Zotero/albertHumanImpactsOutpace2023/albertHumanImpactsOutpace2023-7-x208-y386.jpg",
     "Files/Zotero/albertHumanImpactsOutpace2023/albertHumanImpactsOutpace2023-7-x208-y391.jpg",
@@ -264,7 +278,6 @@
     "Files/Pasted Image 20230927200705_510.png",
     "Files/Pasted Image 20230927200635_478.png",
     "Files/Pasted Image 20230927200535_425.png",
-    "Files/Pasted Image 20230927200450_412.png",
     "Untitled.canvas",
     "2 Literature/Regrowth/Regrowth literature.canvas",
     "2 Literature/Biogeochemistry/Biogeochemistry.canvas"

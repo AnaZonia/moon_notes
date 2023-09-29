@@ -27,7 +27,7 @@ doi: 10.1111/geb.12668 ---
 
 >**Bibliography:** Poorter, Lourens, Masha T. van der Sande, Eric J. M. M. Arets, Nataly Ascarrunz, Brian J. Enquist, Bryan Finegan, Juan Carlos Licona, et al. ‘Biodiversity and Climate Determine the Functioning of Neotropical Forests’. _Global Ecology and Biogeography_ 26, no. 12 (2017): 1423–34. [https://doi.org/10.1111/geb.12668](https://doi.org/10.1111/geb.12668).
 
->**Tags:** #biodiversity, #biomass, #productivity, #ecosystem-functioning, #tropical-forest, #forest-dynamics, #carbon, #soil-fertility, #water, #model
+>**Tags:** #biodiversity, #biomass, #productivity, #ecosystem/functioning, #tropical-forest, #forest-dynamics, #carbon, #soil-fertility, #water, #model
 
 >**PDF:** [Full Text PDF](file:///C:\Users\anaca\Zotero\storage\KUDXWQA3\Poorter%20et%20al.%20-%202017%20-%20Biodiversity%20and%20climate%20determine%20the%20functioning.pdf)
 

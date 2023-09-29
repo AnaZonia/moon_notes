@@ -11,7 +11,6 @@ at-a-glance: "Agriculture affects N and P runoff"
 
 --- 
 
-# [Dissolved nutrient exports from natural and human-impacted Neotropical catchments](zotero://select/library/items/Z7TQPNZZ)
 
 >**Bibliography:** Gücker, Björn, Ricky C. S. Silva, Daniel Graeber, José A. F. Monteiro, E. N. Jack Brookshire, Ronaldo C. Chaves, and Iola G. Boëchat. ‘Dissolved Nutrient Exports from Natural and Human-Impacted Neotropical Catchments’. _Global Ecology and Biogeography_ 25, no. 4 (2016): 378–90. [https://doi.org/10.1111/geb.12417](https://doi.org/10.1111/geb.12417).
 
