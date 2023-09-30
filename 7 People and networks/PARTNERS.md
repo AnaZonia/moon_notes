@@ -1,9 +1,10 @@
 ---
-field:
-  - social
-  - regrowth
 location: 
 url: https://partners-rcn.org/
-type:
+type: 
+tags:
+  - eco_services
 ---
 ###### Related contacts/institutes: [[Ana Catarina Jakovac]]
+
+![[PARTNERS.png]]

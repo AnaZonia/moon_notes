@@ -1,8 +1,7 @@
 ---
 tags:
+  - literature
 ---
-
-
 Summary written for Professor Tober English 1301 28 January 2016
 
 In “Household Horror: Domestic Masculinity in Poe’s ‘The Black Cat´,” Ann Bliss analyzes the domestic violence committed by the story’s narrator “through the lens of gender construction,” to argue it is motivated and escalated by his sense of “failed masculinity” (96).

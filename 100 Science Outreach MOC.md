@@ -1,4 +1,4 @@
-> [!sun] Divulgação e comunicação científica no Brasil
+> [!success] Estratégias e iniciativas para divulgação e comunicação científica no Brasil
 
 Chicão (Arraial)
 
@@ -44,8 +44,7 @@ O exemplo que o Marcelo fez pro [relógio de sol](https://drive.google.com/file/
 ```dataview
 TABLE
 FROM "2 Workstation"
-WHERE type='scicomm_article'
-SORT date
-
+WHERE type == 'scicomm/article'
+SORT stardate
 ```
 

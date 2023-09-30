@@ -6,7 +6,9 @@ field:
 location:
   - Kenya
 url: https://www.cifor-icraf.org/
-type: research network
+type:
+  - research network
+tags:
 ---
 ###### Related contacts/institutes: [[Alliance Biodiversity International & CIAT#CGIAR]]
 

@@ -1,4 +1,6 @@
 
+[[020 Writing Science MOC]]
+
 Science writing must be engaging yet dispassionate, like journalism. The main issue happens when you let your biases and desires permeate the writing. We don't impose the story into the data; instead, we must take the story from it.
 
 Provide knowledge/understanding from the data/information; don't forget the big picture. Listen for the story the data is trying to tell. Take time to explore it, and do not publish too soon so you may publish better later.

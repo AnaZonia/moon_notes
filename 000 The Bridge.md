@@ -1,10 +1,4 @@
 
-
-## For learning we can use:
-
-
-[[001 Reading Map]]
-
 ## Make it so
 - [ ] Finish and submit [FRQNT 2024-2025](https://frq.gouv.qc.ca/en/program/frqnt-2024-2025-doctoral-training-scholarships/)
 - [ ] Organize code
@@ -52,3 +46,10 @@ SORT file.cday ASC
 
 
 
+![[Boldly Going Sept 29th 2023.excalidraw]]
+
+
+
+```dataview
+TABLE 'Excalidraw/Boldly Going Sept 29th 2023.excalidraw'.tags
+```

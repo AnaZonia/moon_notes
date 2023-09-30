@@ -10,7 +10,7 @@ at-a-glance:
 
 --- 
 
-tags: #LULC, #Deforestation, [[001 MOC Amazonia]]
+tags: #LULC, #Deforestation, [[010 Amazonia MOC]]
 authors: [[Albert, James S.]], [[Carnaval, Ana C.]], [[Flantua, Suzette G. A.]], [[Lohmann, Lúcia G.]], [[Ribas, Camila C.]], [[Riff, Douglas]], [[Carrillo, Juan D.]], [[Fan, Ying]], [[Figueiredo, Jorge J. P.]], [[Guayasamin, Juan M.]], [[Hoorn, Carina]], [[De Melo, Gustavo H.]], [[Nascimento, Nathália]], [[Quesada, Carlos A.]], [[Ulloa Ulloa, Carmen]], [[Val, Pedro]], [[Arieira, Julia]], [[Encalada, Andrea C.]], [[Nobre, Carlos A.]]
 
 

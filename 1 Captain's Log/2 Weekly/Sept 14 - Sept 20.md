@@ -87,7 +87,7 @@ statistical rethinking - book recommended
 Remember the difference between error of real data and standard deviation of expected values.
 with the size of the error bars, we can weigh their effect on the final AGB estimate.
 ### Meeting with Martín Giraldo
-Had an interesting conversation about potential of agroforestry in Latin America - began the [[004 MOC Social Context of Latin America]] page to write down notes on the topic going forward.
+Had an interesting conversation about potential of agroforestry in Latin America - began the [[040 Social Context of Latin America MOC]] page to write down notes on the topic going forward.
 
 Also, some progress was made with FRQNT application.
 ## Sept 14th, Thursday

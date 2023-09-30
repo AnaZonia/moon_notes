@@ -1,19 +1,21 @@
 ---
 tags:
 ---
-
 ## Priorities for today
 
-tags
-ecosystem
-nitrogen
-biogeochemistry
-
-okay so it makes sense. Not every tag needs a MOC.
+Finish the organization of the vault and the tags so we can move on to adding review notes to obsidian.
 ## Daily report
 ### Research
-
+Helped out Fiona with her writing. FRQNT really made me better prepared to deal with this kind of thing.
 ### Ana's Brain
-
+I'm sleep deprived a bit, as I couldn't let go of this to fall asleep - also haven't eaten much today, as I also couldn't let go of this. the hyperfocus is real. I don't think it's much the fault of the medication though.
 
 ## Priorities for tomorrow
+
+Add tasks to daily note and the bridge
+Prioritize tasks / plan week
+Finish tag organization
+Add references properly to Obsidian
+Finish referencing and experiences file
+Submit FRQNT
+Organize code

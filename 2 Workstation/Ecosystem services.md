@@ -3,5 +3,5 @@ aliases:
   - serviços ecossistêmicos
 tags:
   - "#tribble"
-  - ecosystem
+  - eco_services
 ---

@@ -1,8 +1,12 @@
 ---
-field: 
 location: 
 url: 
-type: research network
+type:
+  - research network
+tags:
+  - conservation
+  - land_use
+  - agroforestry
 ---
 ###### Related contacts/institutes: [@ChrisJKettle](https://twitter.com/ChrisJKettle)
 

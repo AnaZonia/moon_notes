@@ -12,7 +12,7 @@ at-a-glance: ""
 --- 
 authors: [[Zeugin, F.]], [[Potvin, C.]], [[Jansa, J.]], [[Scherer-Lorenzen, M.]]
 
-[[Biodiversity MOC]] 
+[[070 Biodiversity MOC]] 
 
 
 **Bibliography:** Zeugin, F., C. Potvin, J. Jansa, and M. Scherer-Lorenzen. ‘Is Tree Diversity an Important Driver for Phosphorus and Nitrogen Acquisition of a Young Tropical Plantation?’ _For. Ecol. Manage._ 260 (2010): 1424–33. [https://doi.org/10.1016/j.foreco.2010.07.020](https://doi.org/10.1016/j.foreco.2010.07.020). 

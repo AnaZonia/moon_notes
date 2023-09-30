@@ -1,12 +1,12 @@
 ---
-field:
-  - outreach
-  - science communication
-  - quantitative ecology
+tags:
+  - scicomm
+  - teaching
 location:
   - Brasil
 url: https://serrapilheira.org/
-type: NGO
+type:
+  - NGO
 ---
 ###### Related contacts/institutes:
 
