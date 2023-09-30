@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "131cf68386ace474",
+        "id": "7c69d4cd6a4e3746",
         "type": "tabs",
         "children": [
           {
-            "id": "d2c75763c699f001",
+            "id": "52fa9f524a0b28f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 People and networks/Brancalion, Pedro H. S..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "112919037cdfea88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "090 Debates and Discourse MOC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "023465dd3fbe2c09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 Data and methods/MODIS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a4a609b28b2af3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,7 +144,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 364.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,40 +205,76 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "6a4a609b28b2af3d",
+  "floating": {
+    "id": "cda34acbd8e56cb9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3d779d1ca12c2725",
+        "type": "window",
+        "children": [
+          {
+            "id": "74ed33dd12ed2319",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "36c2a4f5bcdbf333",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1286,
+        "y": -412,
+        "width": 1024,
+        "height": 929,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "52fa9f524a0b28f5",
   "lastOpenFiles": [
+    "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
+    "4 Alexandria/Quando - Sophia de Mello Breyner.md",
+    "4 Alexandria/De Repente - Elaine Matos.md",
+    "110 Interests MOC.md",
+    "De Repente - Elaine Matos.md",
+    "4 Alexandria/Rationality.md",
+    "3 Research/Biogeochemistry/mengeQuestionThatLaunched2014.md",
+    "2 Workstation/Katherine Hayhoe - Why Facts Aren't Enough.md",
+    "2 Workstation/How much carbon is stored in soil.md",
+    "4 Alexandria/Katherine Hayhoe - Why Facts Aren't Enough.md",
+    "2 Workstation/aaaaa.md",
+    "tst.md",
+    "2 Workstation/Where did the jaguar get its spots.md",
+    "2 Workstation/Photosynthesis.md",
+    "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
+    "2 Workstation/Etnobiology.md",
+    "Etnobiology/n.md",
+    "Etnobiology",
+    "1 Captain's Log/1 Daily/Mon, Oct 16th 2023.md",
+    "1 Captain's Log/1 Daily/Tue, Oct 3rd 2023.md",
+    "1 Captain's Log/1 Daily/Sun, Oct 1st 2023.md",
+    "1 Captain's Log/1 Daily/Fri, Sep 29th 2023.md",
+    "1 Captain's Log/1 Daily/Thu, Sep 28th 2023.md",
     "8 Warp Core/The Konik Method for Making Useful Notes.md",
     "8 Warp Core/haddawayEightProblemsLiterature2020.md",
-    "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
-    "1 Captain's Log/1 Daily/Fri, Sep 29th 2023.md",
-    "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
     "000 The Bridge.md",
     "2 Workstation/Does biodiversity increase biomass accumulation rates.md",
-    "7 People and networks/Erika Berenguer.md",
-    "6 Data and methods/SAM geospatial.md",
-    "6 Data and methods/MODIS.md",
-    "Excalidraw/Untitled.md",
-    "080 Tropical Ecology MOC.md",
-    "090 Debates and Discourse MOC.md",
-    "100 Science Outreach MOC.md",
-    "070 Biodiversity MOC.md",
-    "060 Remote Sensing MOC.md",
-    "050 Biogeochemistry MOC.md",
-    "040 Social Context of Latin America MOC.md",
-    "020 Climate Change MOC.md",
-    "030 Disturbance and Disease MOC.md",
-    "010 Amazonia MOC.md",
     "Files/Pasted Image 20230929162322_671.png",
-    "7 People and networks/Brancalion, Pedro H. S..md",
-    "7 People and networks/Convention on Biological Diversity.md",
-    "4 Alexandria/Household Horror - Domestic Masculinity in Poe’s The Black Cat.md",
-    "4 Alexandria/Articles to read.md",
-    "4 Alexandria/Partners Climate Change Webinar - Regrowth.md",
     "Files/Pasted Image 20230929152446_009.png",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
     "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.svg",
@@ -303,7 +293,6 @@
     "3 Research/~syncthing~alvesChangingRatesPatterns2009.md.tmp",
     "2 Workstation/~syncthing~Untitled.sync-conflict-20230928-223834-F7IEYDS.md.tmp",
     "8 Engineering",
-    "3 Workbench",
     "Untitled.canvas",
     "2 Literature/Regrowth/Regrowth literature.canvas",
     "2 Literature/Biogeochemistry/Biogeochemistry.canvas"

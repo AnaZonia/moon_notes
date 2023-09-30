@@ -2015,6 +2015,17 @@
         "description": "Fixed horizontal spacing between elements"
       },
       "Remember last spacing?": false
+    },
+    "Downloaded/Scribble Helper": {
+      "Default action": {
+        "value": "Text",
+        "valueset": [
+          "Text",
+          "Sticky",
+          "Wrap"
+        ],
+        "description": "What type of element should CTRL/CMD+ENTER create. TEXT: A regular text element. STICKY: A sticky note with border color and background color (using the current setting of the canvas). STICKY: A sticky note with transparent border and background color."
+      }
     }
   },
   "defaultTrayMode": true,
@@ -2027,22 +2038,7 @@
   "taskboneAPIkey": "",
   "pinnedScripts": [
     "Excalidraw/Scripts/Downloaded/Zoom to Fit Selected Elements.md",
-    "Excalidraw/Scripts/Downloaded/Uniform size.md",
-    "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.md",
-    "Excalidraw/Scripts/Downloaded/Slideshow.md",
-    "Excalidraw/Scripts/Downloaded/Split Ellipse.md",
-    "Excalidraw/Scripts/Downloaded/Split text by lines.md",
-    "Excalidraw/Scripts/Downloaded/Text Arch.md",
-    "Excalidraw/Scripts/Downloaded/Select Elements of Type.md",
-    "Excalidraw/Scripts/Downloaded/Scribble Helper.md",
-    "Excalidraw/Scripts/Downloaded/Reverse arrows.md",
-    "Excalidraw/Scripts/Downloaded/Organic Line.md",
-    "Excalidraw/Scripts/Downloaded/Normalize Selected Arrows.md",
-    "Excalidraw/Scripts/Downloaded/Modify background color opacity.md",
-    "Excalidraw/Scripts/Downloaded/Mindmap connector.md",
-    "Excalidraw/Scripts/Downloaded/Fixed spacing.md",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.md",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md"
+    "Excalidraw/Scripts/Downloaded/Modify background color opacity.md"
   ],
   "customPens": [
     {

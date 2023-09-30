@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiBook",
       "LiBird",
       "TiSatellite",
       "LiDna",
-      "SiGoogleearth",
-      "TiSettings"
+      "SiGoogleearth"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,6 @@
   "050 Biogeochemistry MOC.md": "LiLeaf",
   "090 Debates and Discourse MOC.md": "RiSpeakLine",
   "100 Science Outreach MOC.md": "LiExpand",
-  "080 Tropical Ecology MOC.md": "LiBird"
+  "080 Tropical Ecology MOC.md": "LiBird",
+  "110 Interests MOC.md": "TiBook"
 }
