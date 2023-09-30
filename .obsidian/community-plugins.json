@@ -23,5 +23,7 @@
   "cmdr",
   "dataview",
   "obsidian-tasks-plugin",
-  "quickadd"
+  "quickadd",
+  "drawio-obsidian",
+  "obsidian-latex-suite"
 ]

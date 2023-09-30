@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7c69d4cd6a4e3746",
+        "id": "e1fe4852d34f6712",
         "type": "tabs",
         "children": [
           {
-            "id": "52fa9f524a0b28f5",
+            "id": "0461a7bed0a6d578",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md"
+              }
             }
           },
           {
@@ -144,6 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -194,11 +203,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 339.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open today": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -206,7 +216,6 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "periodic-notes:Open today": false,
       "templater-obsidian:Templater": false
     }
   },
@@ -245,8 +254,24 @@
       }
     ]
   },
-  "active": "52fa9f524a0b28f5",
+  "active": "0461a7bed0a6d578",
   "lastOpenFiles": [
+    "8 Warp Core/Obsidian Menu.md",
+    "000 The Bridge.md",
+    "Etnobiology/n.md",
+    "4 Alexandria/Fragile Dominion - Complexity and the Commons.md",
+    "3 Research/Biodiversity/ruiz-jaenCanWePredict2011.md",
+    "3 Research/Biodiversity/poorterBiodiversityClimateDetermine2017.md",
+    "3 Research/Biodiversity/potvinEcosystemApproachBiodiversity2011.md",
+    "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
+    "080 Tropical Ecology MOC.md",
+    "090 Debates and Discourse MOC.md",
+    "Excalidraw/Nitrogen Cycle Sept 27th 2023.excalidraw.md",
+    "Files/tst.svg",
+    "Files/Thesis flowchart.svg",
+    "Excalidraw/Drawing Sep 30th 2023.excalidraw.md",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
     "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
     "4 Alexandria/Quando - Sophia de Mello Breyner.md",
     "4 Alexandria/De Repente - Elaine Matos.md",
@@ -260,20 +285,7 @@
     "2 Workstation/aaaaa.md",
     "tst.md",
     "2 Workstation/Where did the jaguar get its spots.md",
-    "2 Workstation/Photosynthesis.md",
-    "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
-    "2 Workstation/Etnobiology.md",
-    "Etnobiology/n.md",
     "Etnobiology",
-    "1 Captain's Log/1 Daily/Mon, Oct 16th 2023.md",
-    "1 Captain's Log/1 Daily/Tue, Oct 3rd 2023.md",
-    "1 Captain's Log/1 Daily/Sun, Oct 1st 2023.md",
-    "1 Captain's Log/1 Daily/Fri, Sep 29th 2023.md",
-    "1 Captain's Log/1 Daily/Thu, Sep 28th 2023.md",
-    "8 Warp Core/The Konik Method for Making Useful Notes.md",
-    "8 Warp Core/haddawayEightProblemsLiterature2020.md",
-    "000 The Bridge.md",
-    "2 Workstation/Does biodiversity increase biomass accumulation rates.md",
     "Files/Pasted Image 20230929162322_671.png",
     "Files/Pasted Image 20230929152446_009.png",
     "Excalidraw/Scripts/Downloaded/Palette loader.svg",
@@ -281,9 +293,6 @@
     "Files/PARTNERS.png",
     "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
     "Excalidraw/Scripts/Downloaded/Expand rectangles vertically.svg",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically keep text centered.svg",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.svg",
-    "Excalidraw/Scripts/Downloaded/Fixed spacing.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "3 Research/test",

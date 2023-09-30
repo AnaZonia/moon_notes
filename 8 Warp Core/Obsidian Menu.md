@@ -41,6 +41,7 @@
 ## Dataview
 
 [Dataview Cheatsheet](https://github.com/seburbandev/obsidian-dataview-cheatsheet)
+[Dataview Query Builder](https://s-blu.github.io/basic-dataview-query-builder/)
 
 ## Checkbox
 
