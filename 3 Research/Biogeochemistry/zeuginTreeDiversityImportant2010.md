@@ -10,7 +10,7 @@ type: lit-note
 at-a-glance: ""
 
 --- 
-authors: [[Zeugin, F.]], [[Potvin, C.]], [[Jansa, J.]], [[Scherer-Lorenzen, M.]]
+authors: [[Zeugin, F.]], [[Potvin, Catherine]], [[Jansa, J.]], [[Scherer-Lorenzen, M.]]
 
 [[070 Biodiversity MOC]] 
 

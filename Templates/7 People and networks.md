@@ -1,7 +1,6 @@
 ---
-field: 
-location: 
+tags: 
 url: 
-type:
+type: 
+aliases:
 ---
-###### Related contacts/institutes:

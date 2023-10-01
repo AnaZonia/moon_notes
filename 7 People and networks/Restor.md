@@ -1,13 +1,12 @@
 ---
-source: 
 url: https://restor.eco/blog/restor-new-platform-connects-the-global-restoration-movement-for-the-first/3XfOB5sMtHiH9RmZEJUCHT/
 type: NGO
-field:
+tags:
   - regrowth
 location:
   - global
 ---
-#UNDecadeEcosystemRestoration
+#UN Decade Ecosystem Restoration
 ###### Related contacts/institutes:
 
 - & The largest network of restoration and conservation sites

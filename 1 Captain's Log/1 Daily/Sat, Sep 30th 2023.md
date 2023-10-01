@@ -1,37 +1,47 @@
 ---
 tags:
 ---
-## Priorities for today
+# Make it so
 
-Add tasks to daily note and the bridge [obsidian-tasks-group/obsidian-tasks: Task management for the Obsidian knowledge base. (github.com)](https://github.com/obsidian-tasks-group/obsidian-tasks)
+## Do Today
+undone tasks that are due or scheduled today
+```tasks
+not done
+due today OR scheduled today
+```
 
-Finish tag organization
+## Do Next
+other high priority tasks
+```tasks
+not done
+priority is high
+```
 
-Add references properly to Obsidian
-Finish referencing and experiences file
-Submit FRQNT
+## Upcoming
+other tasks due soon
+```tasks
+not done
+due after today
+due before in one week
+short mode
+hide edit button
+hide backlink
+```
 
-Organize code
-[organize code](https://twitter.com/Artifexx/status/1698280586236895346)
-Canvas for mind maps
-[Ilya Shabanov (@Artifexx) / X (twitter.com)](https://twitter.com/Artifexx/status/1650777930107166720/photo/1)
+# Day planner
 
-Grade FSCI 198
-
-By tomorrow, I can have all of the work done. I really only need this done by tomorrow at 5 pm - it's enough time if I'm objective about it.
-
-
-Prioritize tasks / plan week
-- Daily routine
-- Organize LifeDashboard food
-- Google Earth Engine - how are we doing that?
-- Make lists of books (look into advanced tables plugin)
+Pomodoro - 50 - 15 break
+- 08:00 - 08:30 New item
 
 
 ## Daily report
 ### Research
 
 ### Ana's Brain
+By tomorrow, I can have all of the work done. I really only need this done by tomorrow at 5 pm - it's enough time if I'm objective about it.
 
+Panicked a bit about not having enough time for everything, but it will all get done soon. It's okay!
 
-## Priorities for tomorrow
+Reading during Pomodoro breaks actually sounds like a great idea...
+
+## Reflections

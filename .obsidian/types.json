@@ -6,6 +6,9 @@
     "source": "multitext",
     "location": "multitext",
     "authors": "multitext",
-    "type": "multitext"
+    "type": "multitext",
+    "status": "multitext",
+    "stardate": "text",
+    "due": "date"
   }
 }

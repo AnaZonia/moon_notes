@@ -1,0 +1,4 @@
+![[cerrado.webp]]
+
+
+

@@ -1,4 +1,13 @@
-#REDD
+---
+tags: 
+url: 
+type: 
+aliases:
+location:
+---
+
+
+#redd
 
 "Reducing Emissions from Deforestation and forest Degradation”
 

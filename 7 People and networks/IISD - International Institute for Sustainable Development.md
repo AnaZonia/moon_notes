@@ -1,9 +1,9 @@
 ---
-field:
-  - social
+tags: []
 location: 
 url: https://www.iisd.org/
-type: think-tank
+type:
+  - think-tank
 ---
 ###### Related contacts/institutes:
 

@@ -1,11 +1,11 @@
 ---
-field:
-  - outreach
-  - science communication
+tags:
+  - scicomm
 location:
   - FIOCRUZ
 url: https://portal.fiocruz.br/mulheres-e-meninas-na-ciencia
-type: network
+type:
+  - network
 ---
 ###### Related contacts/institutes: Scientista
 

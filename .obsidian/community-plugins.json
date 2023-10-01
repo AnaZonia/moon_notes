@@ -15,7 +15,6 @@
   "excalibrain",
   "obsidian-icon-folder",
   "calendar",
-  "obsidian-admonition",
   "note-refactor-obsidian",
   "periodic-notes",
   "templater-obsidian",
@@ -25,5 +24,6 @@
   "obsidian-tasks-plugin",
   "quickadd",
   "drawio-obsidian",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-day-planner"
 ]

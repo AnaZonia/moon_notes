@@ -1,15 +1,15 @@
 ---
-field:
+tags:
   - regrowth
   - synthesis
 location: 
 url: https://www.gov.br/cnpq/pt-br/sinbiose-old/regeneracao-natural-pode-recuperar-servicos-ecossistemicos-na-floresta-amazonica
 type:
 ---
-###### Related contacts/institutes: [[Ana Catarina Jakovac]]
+###### Related contacts/institutes: [[Jakovac, Catarina C.]]
 [[Paulo Massoca]]
 
-[[Rita Mesquita]]
+[[7 People and networks/Mesquita, Rita]]
 
 ## Sinbiose
 

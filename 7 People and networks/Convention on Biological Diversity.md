@@ -1,8 +1,7 @@
 ---
-field:
+tags:
   - biodiversity
-  - climate change
-  - social
+  - climate_change
 location: 
 url: https://www.cbd.int/intro/
 type:

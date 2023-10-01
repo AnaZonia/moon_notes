@@ -4,7 +4,7 @@ aliases: ["Nitrogen limitation on land and in the sea: How can it occur?"]
 year: 1991 
 first-author: Vitousek, PeterM.
 publisher: "Biogeochemistry" 
-tags:   #Nitrogen   
+tags:   #nitrogen   #phosphorus
 url: http://link.springer.com/10.1007/BF00002772 
 type: lit-note
 at-a-glance: ""

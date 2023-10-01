@@ -1,14 +1,13 @@
 ---
-field:
-  - land use
+tags:
+  - land_use
   - regrowth
-  - agroforestry
+  - eco_services/NTFP/agroforestry
 location:
   - Kenya
 url: https://www.cifor-icraf.org/
 type:
   - research network
-tags:
 ---
 ###### Related contacts/institutes: [[Alliance Biodiversity International & CIAT#CGIAR]]
 

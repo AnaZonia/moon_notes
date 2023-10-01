@@ -31,15 +31,20 @@
       "template": "Templates/6 Data and methods.md"
     },
     {
-      "folder": "2 Workstation",
+      "folder": "/",
       "template": "Templates/Cadet.md"
     },
     {
       "folder": "8 Warp Core",
       "template": "Templates/Cadet.md"
+    },
+    {
+      "folder": "2 Workstation",
+      "template": "Templates/Workstation todo.md"
     }
   ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     ""
   ],

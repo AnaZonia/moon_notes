@@ -1,6 +1,6 @@
 
 
-Mixed intercept effects? [Isabella R. Ghement on Twitter: "Mixed effects model tweeps, this terminology issue is bugging me: referring to random intercepts as "random intercept effects". Are they really "effects"? I thought effects require a predictor variable to be involved. #rstats" / X](https://twitter.com/IsabellaGhement/status/1603884459576942593)
+Mixed intercept effects? [Isabella R. Ghement on Twitter: "Mixed effects model tweeps, this terminology issue is bugging me: referring to random intercepts as "random intercept effects". Are they really "effects"? I thought effects require a predictor variable to be involved. " / X](https://twitter.com/IsabellaGhement/status/1603884459576942593)
 
 
 

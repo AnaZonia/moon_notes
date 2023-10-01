@@ -9,6 +9,7 @@ Now it's my turn to finish adding in all the data and run the model in all possi
 - Look at the coefficients for the equations in all three ranges - low, medium and high - and the R squared. List out their magnitudes so we understand better how they behave.
 - work through the math to figure out the functional form
 - Add yearly data
+
 		monthly <- pars['env']*(pars['jan']*data$jan + pars['fev']*data$fev + ... + pars['dec']*data$dec)
 		yearly <- same but even longer?...
 
@@ -26,7 +27,7 @@ First you investigate what you have right now. Next week you'll add:
 - radiation
 - MODIS burned area vs. MAPBIOMAS
 - GEDI biomass vs. ESA
-- Number of deforestation events as a predictor of disturbance (as done on [[Heinrich et al 2021 - Large carbon sink potential of secondary forests in the Brazilian Amazon to mitigate climate change]])
+- Number of deforestation events as a predictor of disturbance (as done on heinrich 2021)
 
 
 1) Running the model with medians within the ongoing functional form:
@@ -95,16 +96,16 @@ By fitting right away, once more, the predicted values converged to a local mini
 Grouping by low/med/high cwd, optim is way underperformed by lm:
 With high cwd:
 lm: mean((data$agbd - predicted_values)^2)
-[1] 52.54239
+52.54239
 optim: mean((data$agbd - pred)^2)
-[1] 163.5283
+163.5283
 Predicted vs observed:
 ![[Screenshot 2023-08-23 175424.png]]
 With low cwd:
 lm: mean((sum_stats$agbd - predicted_values)^2)
-[1] 68.09265
+ 68.09265
 optim: mean((data$agbd - pred)^2)
-[1] 219.7581
+ 219.7581
 Predicted vs observed with the growth curve:
 ![[Screenshot 2023-08-23 175724.png]]
 

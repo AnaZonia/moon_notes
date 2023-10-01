@@ -1,6 +1,11 @@
-## Twitter
-[kepano (@kepano)](https://twitter.com/kepano)
-[Ilya Shabanov (@Artifexx)](https://twitter.com/Artifexx)
+## Excalidraw
+- exporting a region of the drawing as a group will allow updates to go smoothly on the note it's inserted in!
+
+## Tasks
+
+due before in one week
+group by filename (if in different files)
+hide backlink or short mode
 
 ## Calendar
 [Calendar Cheatsheet](https://github.com/liamcain/obsidian-calendar-plugin/blob/master/README.md)

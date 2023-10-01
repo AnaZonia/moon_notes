@@ -2,7 +2,7 @@
 
 library(ggplot2)
 
-#Set the working directory will need to change for each user
+Set the working directory will need to change for each user
 
 setwd("/home/aavila/forest_regrowth/heinrich_poorter/Fig1_data_input/Fig1_data_input/")
 
@@ -124,7 +124,8 @@ o
 
 NLL = function(pars) {
 
-  if(pars['sd'] < 0){ #avoiding NAs by keeping the st dev positive
+  if(pars['sd'] < 0){ 
+  avoiding NAs by keeping the st dev positive
 
     return(-Inf)
 
@@ -281,7 +282,7 @@ o
 
   
 
-#let's investigate why NLL breaks, making zeroes.
+let's investigate why NLL breaks, making zeroes.
 
   
 
@@ -317,7 +318,7 @@ NLL = function(pars) {
 
 pars = c(A = 133, age = 0.02992, theta = 1.1162) #, sd = 0.05)
 
-#pars = c(A = 87.07455636, age = 0.07435007, theta = 1.69029407) #, sd = 0.05)
+pars = c(A = 87.07455636, age = 0.07435007, theta = 1.69029407) #, sd = 0.05)
 
   
 

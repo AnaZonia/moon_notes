@@ -9,6 +9,10 @@ tags:
 
 ## Daily report
 ### Research
+#### Meeting
+- Ask about potentially joining NEO
+
+-------------
 
 ### Ana's Brain
 

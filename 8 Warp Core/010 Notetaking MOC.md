@@ -13,3 +13,8 @@ Linking your Thinking - best YouTube channel for the topic!
 
 Also Eleanor Konik
 [Eleanor Konik - YouTube](https://www.youtube.com/@eleanorkonik4704)
+
+## Twitter
+[kepano (@kepano)](https://twitter.com/kepano)
+[Ilya Shabanov (@Artifexx)](https://twitter.com/Artifexx)
+[The Effortless Academic | Ilya Shabanov | Substack](https://ilyashabanov.substack.com/)

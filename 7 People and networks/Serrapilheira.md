@@ -1,7 +1,6 @@
 ---
 tags:
   - scicomm
-  - teaching
 location:
   - Brasil
 url: https://serrapilheira.org/
@@ -15,7 +14,7 @@ type:
 - Formação em ecologia quantitativa
 - Jornalismo e mídia (divulgação científica)
 - Capacitação e financiamento de pesquisa (grant)
-	[[Ana Catarina Jakovac]] foi beneficiada
+	[[Jakovac, Catarina C.]] foi beneficiada
 
 ## Blog Ciencia Fundamental na Folha
 

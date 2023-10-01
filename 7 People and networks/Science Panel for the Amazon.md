@@ -1,9 +1,15 @@
 ---
-field: 
-location: 
+tags: 
 url: https://www.theamazonwewant.org/
-type:
+type: 
+aliases: 
+location:
 ---
+
+
+
 ###### Related contacts/institutes:
 
-Amazon Assessment Report
+
+
+Amazon assessment report

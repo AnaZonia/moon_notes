@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e1fe4852d34f6712",
+        "id": "cea31b06e2ce7500",
         "type": "tabs",
         "children": [
           {
-            "id": "0461a7bed0a6d578",
+            "id": "5c9fa14f9d3a1d45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
+                "file": "000 The Bridge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "696a65df11ba70ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 The Bridge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"location\"]",
+                "query": "tag:#UNDecadeEcosystemRestoration",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +99,7 @@
       {
         "id": "6b3e5e477cb16920",
         "type": "tabs",
-        "dimension": 62.41534988713319,
+        "dimension": 64.84907497565725,
         "children": [
           {
             "id": "b0c74e50e28a8d26",
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
+                "file": "000 The Bridge.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
+                "file": "000 The Bridge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md"
+                "file": "000 The Bridge.md"
               }
             }
           },
@@ -152,7 +165,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
+                "file": "000 The Bridge.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -182,12 +195,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "3dbac5c2f60b2e8e",
         "type": "tabs",
-        "dimension": 37.58465011286682,
+        "dimension": 35.15092502434275,
         "children": [
           {
             "id": "f6a230dcc8184e2d",
@@ -198,12 +211,22 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "2395f299747361ac",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 461.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,7 +239,8 @@
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-day-planner:Week plan": false
     }
   },
   "floating": {
@@ -224,15 +248,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "3d779d1ca12c2725",
+        "id": "fd71ba5ec04ca448",
         "type": "window",
         "children": [
           {
-            "id": "74ed33dd12ed2319",
+            "id": "d0f231e53802e4ca",
             "type": "tabs",
             "children": [
               {
-                "id": "36c2a4f5bcdbf333",
+                "id": "4971f0dcf0fb36f0",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
@@ -245,46 +269,51 @@
           }
         ],
         "direction": "vertical",
-        "x": -1286,
-        "y": -412,
+        "x": -1696,
+        "y": -319,
         "width": 1024,
-        "height": 929,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "0461a7bed0a6d578",
+  "active": "696a65df11ba70ac",
   "lastOpenFiles": [
-    "8 Warp Core/Obsidian Menu.md",
+    "001 Mess Hall.md",
     "000 The Bridge.md",
-    "Etnobiology/n.md",
-    "4 Alexandria/Fragile Dominion - Complexity and the Commons.md",
+    "8 Warp Core/Obsidian Menu.md",
+    "3 Research/000 Research MOC.md",
+    "7 People and networks/Restor.md",
+    "6 Data and methods/010 R Data Visualization MOC.md",
+    "7 People and networks/Serrapilheira.md",
+    "7 People and networks/REGENERA.md",
+    "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
+    "8 Warp Core/What is the difference between a synthesis and a review.md",
+    "1 Captain's Log/2 Weekly/August 30th.md",
+    "5 Estatística para Ecologia/010 Modelagem de Efeitos Mistos.md",
+    "7 People and networks/Mulheres e meninas na ciência.md",
+    "Tepui.md",
+    "7 People and networks/Fahrig, Lenore.md",
+    "7 People and networks/IIS - International Institute for Sustainability.md",
+    "5 Estatística para Ecologia/004 Testes de Hipóteses.md",
+    "7 People and networks/Convention on Biological Diversity.md",
+    "3 Research/Amazonia/albertHumanImpactsOutpace2023.md",
     "3 Research/Biodiversity/ruiz-jaenCanWePredict2011.md",
-    "3 Research/Biodiversity/poorterBiodiversityClimateDetermine2017.md",
+    "3 Research/Biodiversity/ruiz-jaenTreeDiversityExplains2010.md",
     "3 Research/Biodiversity/potvinEcosystemApproachBiodiversity2011.md",
-    "1 Captain's Log/1 Daily/Sat, Sep 30th 2023.md",
-    "080 Tropical Ecology MOC.md",
-    "090 Debates and Discourse MOC.md",
-    "Excalidraw/Nitrogen Cycle Sept 27th 2023.excalidraw.md",
+    "7 People and networks/Potvin, Catherine.md",
+    "7 People and networks/Ruiz-Jaen, Maria C..md",
+    "3 Research/Biodiversity/poorterBiodiversityClimateDetermine2017.md",
+    "3 Research/Biodiversity/andereggRepresentingPlantDiversity2021 1.md",
+    "2 Workstation/1 - Predicting Regrowth in the Amazon/Regrowth in Amazonia.canvas",
+    "2 Workstation/2 - Predicting Regrowth in Panama",
+    "2 Workstation/1 - Predicting Regrowth in the Amazon",
+    "2 Workstation",
+    "20 Python MOC.canvas",
     "Files/tst.svg",
     "Files/Thesis flowchart.svg",
-    "Excalidraw/Drawing Sep 30th 2023.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg",
-    "Excalidraw/Scripts/Downloaded/Create DrawIO file.md",
-    "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
-    "4 Alexandria/Quando - Sophia de Mello Breyner.md",
-    "4 Alexandria/De Repente - Elaine Matos.md",
-    "110 Interests MOC.md",
-    "De Repente - Elaine Matos.md",
-    "4 Alexandria/Rationality.md",
-    "3 Research/Biogeochemistry/mengeQuestionThatLaunched2014.md",
-    "2 Workstation/Katherine Hayhoe - Why Facts Aren't Enough.md",
-    "2 Workstation/How much carbon is stored in soil.md",
-    "4 Alexandria/Katherine Hayhoe - Why Facts Aren't Enough.md",
-    "2 Workstation/aaaaa.md",
-    "tst.md",
-    "2 Workstation/Where did the jaguar get its spots.md",
     "Etnobiology",
     "Files/Pasted Image 20230929162322_671.png",
     "Files/Pasted Image 20230929152446_009.png",
@@ -299,10 +328,6 @@
     "Files/Zotero/albertHumanImpactsOutpace2023",
     "Files/Zotero",
     "3 Research/~syncthing~alvesChangingRatesPatterns2009.sync-conflict-20230928-224757-HTOZKPD.md.tmp",
-    "3 Research/~syncthing~alvesChangingRatesPatterns2009.md.tmp",
-    "2 Workstation/~syncthing~Untitled.sync-conflict-20230928-223834-F7IEYDS.md.tmp",
-    "8 Engineering",
-    "Untitled.canvas",
     "2 Literature/Regrowth/Regrowth literature.canvas",
     "2 Literature/Biogeochemistry/Biogeochemistry.canvas"
   ]

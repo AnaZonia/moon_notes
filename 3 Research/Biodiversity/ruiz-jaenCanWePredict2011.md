@@ -1,44 +1,22 @@
-
-
+  
 ---
-aliases:
-    - Can we predict carbon stocks in tropical ecosystems from tree diversity? Comparing species and functional diversity in a plantation and a natural forest
-    - ruiz-jaenCanWePredict2011
-url: http://dx.doi.org/10.1111/J.1469-8137.2010.03501.X
-citekey: ruiz-jaenCanWePredict2011
-keywords: Chapter 3 - Biodiversity, Tropical forests, Dominance, Tree carbon storage, Functional trait diversity, Functional traits, Mixed-species plantations, Panama, Species diversity
-authors: Maria C. Ruiz-Jaen, Catherine Potvin
-year: 1298955600000
----
---- 
-citekey: ruiz-jaenCanWePredict2011 
-aliases: ["Can we predict carbon stocks in tropical ecosystems from tree diversity? Comparing species and functional diversity in a plantation and a natural forest"]
-authors: Maria C. Ruiz-Jaen, Catherine Potvin 
-tags: [Chapter 3 - Biodiversity, Tropical forests, Dominance, Tree carbon storage, Functional trait diversity, Functional traits, Mixed-species plantations, Panama, Species diversity] 
+aliases: ["Can we predict carbon stocks in tropical ecosystems from tree diversity? Comparing species and functional diversity in a plantation and a natural forest"] 
 year: 2011 
+first-author: Ruiz-Jaen, Maria C.
 publisher: "New Phytol." 
-doi: 10.1111/J.1469-8137.2010.03501.X --- 
+tags:   #biomass      #biodiversity      #reforestation      #functional_diversity   
+url: http://dx.doi.org/10.1111/J.1469-8137.2010.03501.X 
+type: lit_note
+at-a-glance: ""
 
-# [Can we predict carbon stocks in tropical ecosystems from tree diversity? Comparing species and functional diversity in a plantation and a natural forest](zotero://select/library/items/9MXED33U)
+--- 
+authors: [[Ruiz-Jaen, Maria C.]], [[Potvin, Catherine]]
+ [[070 Biodiversity MOC]]  
 
-  
+**Bibliography:** Ruiz-Jaen, Maria C., and Catherine Potvin. ‘Can We Predict Carbon Stocks in Tropical Ecosystems from Tree Diversity? Comparing Species and Functional Diversity in a Plantation and a Natural Forest’. _New Phytol._ 189, no. 4 (March 2011): 978–87. [https://doi.org/10.1111/J.1469-8137.2010.03501.X](https://doi.org/10.1111/J.1469-8137.2010.03501.X). 
 
-> [!info]+
-
->**Bibliography:** Ruiz-Jaen, Maria C., and Catherine Potvin. ‘Can We Predict Carbon Stocks in Tropical Ecosystems from Tree Diversity? Comparing Species and Functional Diversity in a Plantation and a Natural Forest’. _New Phytol._ 189, no. 4 (March 2011): 978–87. [https://doi.org/10.1111/J.1469-8137.2010.03501.X](https://doi.org/10.1111/J.1469-8137.2010.03501.X).
-
->**Tags:**  #Tropical-forests, #Dominance, #Tree-carbon-storage, #Functional-trait-diversity, #Functional-traits, #Mixed-species-plantations, #Panama, #Species-diversity
-
->**PDF:** [Ruiz-Jaen_Potvin_2011_Can we predict carbon stocks in tropical ecosystems from tree diversity.pdf](file:///C:\Users\anaca\Zotero\storage\DYCVVFJ3\Ruiz-Jaen_Potvin_2011_Can%20we%20predict%20carbon%20stocks%20in%20tropical%20ecosystems%20from%20tree%20diversity.pdf)
-
->[**Open in Zotero**](zotero://select/library/items/9MXED33U)
-
->[**Open DOI**](https://doi.org/10.1111/J.1469-8137.2010.03501.X)
-
-  
-
-
-### Notes
+>[!summary] Summary
+> 
 
 Increased  species  richness,  a  higher  proportion  of  nitrogen  fixers  and  species with low LMA  
 
@@ -69,4 +47,6 @@ In Sardinilla – increasing species # increased carbon storage. Trees were plan
 Sardinilla is regrowing on pasture, and had less nitrogen load. Nitrogen fixers are facultative - Diversity and presence of nitrogen fixers only increased biomass in mid diversity plots, and makes sense in more disturbed/less N rich plots.
 
 
-%% Import Date: 2023-09-10T15:38:37.136-04:00 %%
+
+
+%% Import Date: 2023-09-30T23:10:15.839-04:00 %%

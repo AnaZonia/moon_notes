@@ -7,3 +7,6 @@ light bounces back
 [GEDI L4A Footprint Level Aboveground Biomass Density, Version 2.1, https://doi.org/10.3334/ORNLDAAC/2056](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2056)
 
 Height, canopy density and biomass are all interesting measures.
+
+
+![[Pasted image 20230818220321.png]]

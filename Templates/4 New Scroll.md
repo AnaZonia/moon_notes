@@ -3,5 +3,5 @@ tags:
   - tribble
 url: 
 type: 
-stardate: <% tp.file.creation_date() %>
+stardate: <% tp.file.creation_date("MMM Do YYYY") %>
 ---

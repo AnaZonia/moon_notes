@@ -1,38 +1,23 @@
-
-
+  
 ---
-aliases:
-    - An ecosystem approach to biodiversity effects: Carbon pools in a tropical tree plantation
-    - potvinEcosystemApproachBiodiversity2011
-url: https://linkinghub.elsevier.com/retrieve/pii/S0378112710006857
-citekey: potvinEcosystemApproachBiodiversity2011
-keywords: 
-authors: [[Catherine Potvin]], [[Lady Mancilla]]
-year: 1293858000000
+aliases: ["An ecosystem approach to biodiversity effects: Carbon pools in a tropical tree plantation"] 
+year: 2011 
+first-author: Potvin, Catherine
+publisher: "For. Ecol. Manage." 
+tags: #biomass #biodiversity
+url: https://linkinghub.elsevier.com/retrieve/pii/S0378112710006857 
+type: lit_note
+at-a-glance: ""
 
 --- 
+authors: [[Potvin, Catherine]], [[Mancilla, Lady]], [[Buchmann, Nina]], [[Monteza, Jose]], [[Moore, Tim]], [[Murphy, Meaghan]], [[Oelmann, Yvonne]], [[Scherer-Lorenzen, Michael]], [[Turner, Benjamin L.]], [[Wilcke, Wolfgang]], [[Zeugin, Fabienne]], [[Wolf, Sebastian]]
+[[070 Biodiversity MOC]]
 
+**Bibliography:** Potvin, Catherine, Lady Mancilla, Nina Buchmann, Jose Monteza, Tim Moore, Meaghan Murphy, Yvonne Oelmann, et al. ‘An Ecosystem Approach to Biodiversity Effects: Carbon Pools in a Tropical Tree Plantation’. _For. Ecol. Manage._ 261, no. 10 (2011): 1614–24. [https://doi.org/10.1016/j.foreco.2010.11.015](https://doi.org/10.1016/j.foreco.2010.11.015). 
 
-# [An ecosystem approach to biodiversity effects: Carbon pools in a tropical tree plantation](zotero://select/library/items/3ND8MZYJ)
+>[!summary] Summary
+> 
 
-  
-
-> [!info]+
-
->**Bibliography:** Potvin, Catherine, Lady Mancilla, Nina Buchmann, Jose Monteza, Tim Moore, Meaghan Murphy, Yvonne Oelmann, et al. ‘An Ecosystem Approach to Biodiversity Effects: Carbon Pools in a Tropical Tree Plantation’. _For. Ecol. Manage._ 261, no. 10 (2011): 1614–24. [https://doi.org/10.1016/j.foreco.2010.11.015](https://doi.org/10.1016/j.foreco.2010.11.015).
-
->
-
->**PDF:** [Potvin et al_2011_An ecosystem approach to biodiversity effects.pdf](file:///C:\Users\anaca\Zotero\storage\QBCSCKD9\Potvin%20et%20al_2011_An%20ecosystem%20approach%20to%20biodiversity%20effects.pdf)
-
->[**Open in Zotero**](zotero://select/library/items/3ND8MZYJ)
-
->[**Open DOI**](https://doi.org/10.1016/j.foreco.2010.11.015)
-
-  
-
-
-### Notes
   
 Identity of tree, besides diversity, makes a difference in C storage. 
 
@@ -46,4 +31,5 @@ We estimated NPP as the change in aboveground biomass of four different biomass 
 
 Increases in the tree C pool happened as there was a decrease in soil C pool.
 
-%% Import Date: 2023-09-10T15:41:40.619-04:00 %%
+
+%% Import Date: 2023-09-30T23:07:37.714-04:00 %%

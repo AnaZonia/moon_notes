@@ -5,6 +5,6 @@ type:
 tags:
   - eco_services
 ---
-###### Related contacts/institutes: [[Ana Catarina Jakovac]]
+###### Related contacts/institutes: [[Jakovac, Catarina C.]]
 
 ![[PARTNERS.png]]

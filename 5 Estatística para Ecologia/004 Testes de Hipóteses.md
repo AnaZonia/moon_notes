@@ -7,7 +7,7 @@ Chi squared
 
 Porque p-values não são tudo isso:
 
-[(1) Matt Dancho (Business Science) on X: "This used to be me when I was first learning linear regression. 😂 But here's what's changed for me. #datascience #rstats https://t.co/ToTbP3hjZv" / X (twitter.com)](https://twitter.com/mdancho84/status/1626709235282202629)
+[(1) Matt Dancho (Business Science) on X: "This used to be me when I was first learning linear regression. 😂 But here's what's changed for me. https://t.co/ToTbP3hjZv" / X (twitter.com)](https://twitter.com/mdancho84/status/1626709235282202629)
 
 ![[FpM6vlmXEAM5mwp.jpeg]]
 

@@ -1,1 +1,0 @@
-Remote sensing in ecology
