@@ -6,8 +6,8 @@
 - [ ] Investigate all other predictors 📅 2023-10-03 #chapter1
 - [ ] Incorporate data from the rest of the forest - not just a small region 📅 2023-10-03 #chapter1
 
-2.  [ ] ⏫ Finish referencing and experiences file 📅 2023-10-01 #bureaucracy
-3.  [ ] ⏫ Submit FRQNT⏳ 2023-10-01 📅 2023-10-03 #bureaucracy
+- [x] ⏫ Finish referencing and experiences file #bureaucracy 📅 2023-10-01 ✅ 2023-10-01
+-  [ ] ⏫ Submit FRQNT⏳ 2023-10-01 📅 2023-10-03 #bureaucracy
 
 - [ ] Write summary on LU classification and SAR biomass options ⏫ #chapter1 #chapter2
 	- [ ] Email contacts: Jonathas/Jude/Javier/Beth 

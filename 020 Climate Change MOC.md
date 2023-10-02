@@ -1,3 +1,5 @@
+[[N2O as a greenhouse gas]]
+
 # Story
 Educated professionals of the Global North have great power to help change the course of the climate crisis - and with this power, comes responsibility.
 

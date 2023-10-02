@@ -18,3 +18,5 @@ Also Eleanor Konik
 [kepano (@kepano)](https://twitter.com/kepano)
 [Ilya Shabanov (@Artifexx)](https://twitter.com/Artifexx)
 [The Effortless Academic | Ilya Shabanov | Substack](https://ilyashabanov.substack.com/)
+
+[Anki](http://augmentingcognition.com/ltm.html) is a flashcard system that helps memorize specific things. Could be useful for language learning, or terminology. For now I don't feel an immediate need to add it as a task, but if in the future I want to do anything with it, there's a way to link it to Obsidian.

@@ -1,6 +1,5 @@
 ---
-tags:
-  - 💀
+tags: []
 ---
 # Make it so
 ```tasks

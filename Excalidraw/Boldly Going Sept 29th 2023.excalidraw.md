@@ -79,7 +79,12 @@ Observe and analyse ^6IaMTQAS
 
 #mata_atlantica
 #caatinga
-#cerrado ^wdIDKMEw
+#cerrado
+#costa_rica
+#panama
+#puerto_rico
+#africa
+#se_asia_oceania ^wdIDKMEw
 
 #land_use/pasture
 #disturbance
@@ -222,6 +227,8 @@ Tasks ^iMgpkQuc
 #functional_diversity ^m4bbaWzs
 
 #eco_functioning ^Gna1kY26
+
+#tropical_dry_forests ^Jnkaa5FU
 
 
 # Embedded files
@@ -1021,8 +1028,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		},
 		{
 			"type": "image",
-			"version": 265,
-			"versionNonce": 1159664579,
+			"version": 270,
+			"versionNonce": 2147058445,
 			"isDeleted": false,
 			"id": "36I1IaQd",
 			"fillStyle": "hachure",
@@ -1031,7 +1038,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -466.9394257514955,
+			"x": -453.6060924181621,
 			"y": -387.33145080452675,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1042,7 +1049,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696127602841,
+			"updated": 1696181509398,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -1121,7 +1128,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "Climate Change",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "image",
@@ -2944,8 +2951,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		},
 		{
 			"type": "text",
-			"version": 282,
-			"versionNonce": 877032899,
+			"version": 283,
+			"versionNonce": 1026739998,
 			"isDeleted": false,
 			"id": "f2Umh9Zm",
 			"fillStyle": "hachure",
@@ -2965,7 +2972,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696126931703,
+			"updated": 1696188456369,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.248006712643447,
@@ -3315,8 +3322,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		},
 		{
 			"type": "text",
-			"version": 207,
-			"versionNonce": 1334472131,
+			"version": 450,
+			"versionNonce": 368306882,
 			"isDeleted": false,
 			"id": "wdIDKMEw",
 			"fillStyle": "hachure",
@@ -3325,30 +3332,30 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -710.76906461464,
-			"y": 143.86904893821765,
+			"x": -640.5844708270799,
+			"y": -280.9809548177919,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "#a5d8ff",
-			"width": 174.73988342285156,
-			"height": 75,
+			"width": 185.15985107421875,
+			"height": 200,
 			"seed": 236171972,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696126234183,
+			"updated": 1696194044493,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "#mata_atlantica\n#caatinga\n#cerrado",
-			"rawText": "#mata_atlantica\n#caatinga\n#cerrado",
+			"text": "#mata_atlantica\n#caatinga\n#cerrado\n#costa_rica\n#panama\n#puerto_rico\n#africa\n#se_asia_oceania",
+			"rawText": "#mata_atlantica\n#caatinga\n#cerrado\n#costa_rica\n#panama\n#puerto_rico\n#africa\n#se_asia_oceania",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "#mata_atlantica\n#caatinga\n#cerrado",
+			"originalText": "#mata_atlantica\n#caatinga\n#cerrado\n#costa_rica\n#panama\n#puerto_rico\n#africa\n#se_asia_oceania",
 			"lineHeight": 1.25,
-			"baseline": 68
+			"baseline": 193
 		},
 		{
 			"type": "text",
@@ -3498,12 +3505,12 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "#eco_services/disease/dengue\n#eco_services/disease/malaria\n#eco_services/disease/chagas",
 			"lineHeight": 1.25,
-			"baseline": 39
+			"baseline": 38
 		},
 		{
 			"type": "text",
-			"version": 210,
-			"versionNonce": 2129013933,
+			"version": 263,
+			"versionNonce": 960121987,
 			"isDeleted": false,
 			"id": "k3kQG4x8",
 			"fillStyle": "hachure",
@@ -3512,8 +3519,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -703.2726279632135,
-			"y": -91.43391503999152,
+			"x": -293.49485018543567,
+			"y": -254.7672483733249,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "#a5d8ff",
 			"width": 122.9998779296875,
@@ -3523,7 +3530,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696126234184,
+			"updated": 1696181595212,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4103,8 +4110,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		},
 		{
 			"type": "text",
-			"version": 100,
-			"versionNonce": 338434509,
+			"version": 127,
+			"versionNonce": 558293411,
 			"isDeleted": false,
 			"id": "J5suvk0U",
 			"fillStyle": "cross-hatch",
@@ -4113,7 +4120,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -88.8291633315755,
+			"x": -122.16249666490876,
 			"y": -603.9986892161435,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "#a5d8ff",
@@ -4124,7 +4131,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696127609484,
+			"updated": 1696181609515,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4140,8 +4147,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		},
 		{
 			"type": "text",
-			"version": 151,
-			"versionNonce": 212121197,
+			"version": 155,
+			"versionNonce": 266090595,
 			"isDeleted": false,
 			"id": "kHfy8TS2",
 			"fillStyle": "cross-hatch",
@@ -4150,7 +4157,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 180.73875474086327,
+			"x": 171.84986585197436,
 			"y": -598.2831527780444,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "#a5d8ff",
@@ -4161,7 +4168,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696127614946,
+			"updated": 1696181615927,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4177,8 +4184,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		},
 		{
 			"type": "image",
-			"version": 154,
-			"versionNonce": 1694326989,
+			"version": 160,
+			"versionNonce": 2024187651,
 			"isDeleted": false,
 			"id": "IOfPmhJi",
 			"fillStyle": "hachure",
@@ -4187,7 +4194,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 168.09748854091555,
+			"x": 170.31971076313783,
 			"y": -731.2543293180324,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -4198,7 +4205,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696127614946,
+			"updated": 1696181611647,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -4243,8 +4250,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		},
 		{
 			"type": "text",
-			"version": 99,
-			"versionNonce": 849494915,
+			"version": 104,
+			"versionNonce": 497194381,
 			"isDeleted": false,
 			"id": "X0C3Uj52",
 			"fillStyle": "cross-hatch",
@@ -4253,8 +4260,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 209.10479876726737,
-			"y": -397.1448093246786,
+			"x": 206.88257654504508,
+			"y": -394.9225871024563,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "#a5d8ff",
 			"width": 75.75991821289062,
@@ -4264,7 +4271,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696127612549,
+			"updated": 1696181618719,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -4494,7 +4501,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "Science Outreach",
 			"lineHeight": 1.25,
-			"baseline": 20
+			"baseline": 21
 		},
 		{
 			"type": "text",
@@ -4831,8 +4838,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		},
 		{
 			"type": "text",
-			"version": 92,
-			"versionNonce": 1613603683,
+			"version": 243,
+			"versionNonce": 818276163,
 			"isDeleted": false,
 			"id": "WOK9wVHd",
 			"fillStyle": "cross-hatch",
@@ -4841,35 +4848,35 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -451.7032265193546,
-			"y": -293.4881565208716,
+			"x": -458.49966130084476,
+			"y": -404.15482318753834,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "#a5d8ff",
-			"width": 71.29597473144531,
-			"height": 20,
+			"width": 89.11991882324219,
+			"height": 25,
 			"seed": 644205253,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696127602841,
+			"updated": 1696181590534,
 			"link": null,
 			"locked": false,
-			"fontSize": 16,
+			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "#invasion",
 			"rawText": "#invasion",
-			"textAlign": "center",
+			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "#invasion",
 			"lineHeight": 1.25,
-			"baseline": 14
+			"baseline": 18
 		},
 		{
 			"type": "text",
-			"version": 78,
-			"versionNonce": 97923043,
+			"version": 204,
+			"versionNonce": 341926509,
 			"isDeleted": false,
 			"id": "gonqiglY",
 			"fillStyle": "cross-hatch",
@@ -4878,8 +4885,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -643.6659770153628,
-			"y": 16.228057683632585,
+			"x": -458.49966130084476,
+			"y": -374.7719423163674,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "#a5d8ff",
 			"width": 127.91987609863281,
@@ -4889,14 +4896,14 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696127579238,
+			"updated": 1696181590534,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "#connectivity",
 			"rawText": "#connectivity",
-			"textAlign": "center",
+			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "#connectivity",
@@ -4905,8 +4912,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		},
 		{
 			"type": "text",
-			"version": 97,
-			"versionNonce": 1954807363,
+			"version": 281,
+			"versionNonce": 1722681059,
 			"isDeleted": false,
 			"id": "vJfVvLJ1",
 			"fillStyle": "cross-hatch",
@@ -4915,8 +4922,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -591.2131550104546,
-			"y": -236.12052927910014,
+			"x": -458.49966130084476,
+			"y": -434.2038626124334,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "#a5d8ff",
 			"width": 129.45985412597656,
@@ -4926,14 +4933,14 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696127596222,
+			"updated": 1696181590534,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "#productivity",
 			"rawText": "#productivity",
-			"textAlign": "center",
+			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "#productivity",
@@ -5057,7 +5064,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": "W-l75eJjybMPUqWU817AJ",
 			"originalText": "ULTIMATE GOAL",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "rectangle",
@@ -5170,8 +5177,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		},
 		{
 			"type": "text",
-			"version": 303,
-			"versionNonce": 1304215555,
+			"version": 304,
+			"versionNonce": 2138814914,
 			"isDeleted": false,
 			"id": "pTLG4a6P",
 			"fillStyle": "hachure",
@@ -5193,7 +5200,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696126234186,
+			"updated": 1696188456388,
 			"link": null,
 			"locked": false,
 			"fontSize": 15.803124885819269,
@@ -5205,7 +5212,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "",
 			"lineHeight": 1.25,
-			"baseline": 13
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -5248,8 +5255,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		},
 		{
 			"type": "text",
-			"version": 303,
-			"versionNonce": 416008099,
+			"version": 304,
+			"versionNonce": 310852446,
 			"isDeleted": false,
 			"id": "6Qs3uIrK",
 			"fillStyle": "hachure",
@@ -5271,7 +5278,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696126234186,
+			"updated": 1696188456389,
 			"link": null,
 			"locked": false,
 			"fontSize": 15.803124885819269,
@@ -5283,7 +5290,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "",
 			"lineHeight": 1.25,
-			"baseline": 13
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -5439,7 +5446,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "lit note",
 			"lineHeight": 1.25,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -5757,7 +5764,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "Other tags",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "rectangle",
@@ -5827,12 +5834,12 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "Research Articles",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
-			"version": 398,
-			"versionNonce": 1250900141,
+			"version": 399,
+			"versionNonce": 690172290,
 			"isDeleted": false,
 			"id": "jyOAFK34",
 			"fillStyle": "hachure",
@@ -5854,7 +5861,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696126234186,
+			"updated": 1696188456394,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5905,12 +5912,12 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "Interests",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
-			"version": 398,
-			"versionNonce": 2128452365,
+			"version": 399,
+			"versionNonce": 1392779166,
 			"isDeleted": false,
 			"id": "xb63tFGu",
 			"fillStyle": "hachure",
@@ -5932,7 +5939,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696126234186,
+			"updated": 1696188456395,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5983,7 +5990,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "#review\n#meta-analysis\n#number_one\n#model\n#synthesis",
 			"lineHeight": 1.25,
-			"baseline": 180
+			"baseline": 182
 		},
 		{
 			"type": "text",
@@ -6022,12 +6029,12 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "#tribble\n#quote",
 			"lineHeight": 1.25,
-			"baseline": 65
+			"baseline": 66
 		},
 		{
 			"type": "text",
-			"version": 689,
-			"versionNonce": 1170155491,
+			"version": 690,
+			"versionNonce": 1720037698,
 			"isDeleted": false,
 			"id": "RXeVJA69",
 			"fillStyle": "hachure",
@@ -6049,7 +6056,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696126234186,
+			"updated": 1696188456396,
 			"link": null,
 			"locked": false,
 			"fontSize": 30.877551020408124,
@@ -6061,7 +6068,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "#philosophy\n#history\n#literature\n#art\n",
 			"lineHeight": 1.25,
-			"baseline": 180
+			"baseline": 182
 		},
 		{
 			"type": "text",
@@ -6100,7 +6107,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "Notes",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -6139,7 +6146,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "📍110 Interests MOC",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -6178,7 +6185,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "Tasks",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -6217,7 +6224,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "#chapter1\n#chapter2\n#bureaucracy\n#shore_leave\n#TA",
 			"lineHeight": 1.25,
-			"baseline": 180
+			"baseline": 182
 		},
 		{
 			"type": "text",
@@ -6258,8 +6265,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		},
 		{
 			"type": "text",
-			"version": 45,
-			"versionNonce": 1794757293,
+			"version": 167,
+			"versionNonce": 355734467,
 			"isDeleted": false,
 			"id": "Gna1kY26",
 			"fillStyle": "cross-hatch",
@@ -6268,8 +6275,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": -314.9418357666981,
-			"y": -252.50909386572096,
+			"x": -458.49966130084476,
+			"y": -461.45353831016536,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
 			"width": 164.81983947753906,
@@ -6279,19 +6286,56 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696127956649,
+			"updated": 1696181587514,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
 			"text": "#eco_functioning",
 			"rawText": "#eco_functioning",
-			"textAlign": "center",
+			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "#eco_functioning",
 			"lineHeight": 1.25,
 			"baseline": 18
+		},
+		{
+			"id": "Jnkaa5FU",
+			"type": "text",
+			"x": -458.24406935198635,
+			"y": -489.2043369415711,
+			"width": 225.5597686767578,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 607017538,
+			"version": 126,
+			"versionNonce": 1232378754,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1696188493208,
+			"link": null,
+			"locked": false,
+			"text": "#tropical_dry_forests",
+			"rawText": "#tropical_dry_forests",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "#tropical_dry_forests",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -6306,13 +6350,13 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 20,
-		"currentItemTextAlign": "center",
+		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "dot",
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -1017.6980472628925,
-		"scrollY": -57.014131119726244,
+		"scrollX": 816.1996599878521,
+		"scrollY": 789.3727581314353,
 		"zoom": {
-			"value": 0.65
+			"value": 0.6499999999999998
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

@@ -1,3 +1,4 @@
+Methods in Biology of Organisms may give some good examples on getting started with stats with biology in R.
 
 [[001 Introdução à Estatística]]
    - Definição da Estatística

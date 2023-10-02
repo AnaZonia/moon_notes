@@ -22,3 +22,5 @@ Cacao agroforestry may be a viable substitute to monocultures in Latin America. 
 [[Alliance Biodiversity International & CIAT]] is a billion-dollar NGO working with Latin American sustainable agriculture.
 
 [[Non-Timber Forest Product (NTFP)]]
+
+Also timber may be a good idea? [[bongersPotentialSecondaryForests2015]] says it can be managed in a way to maximize C uptake!

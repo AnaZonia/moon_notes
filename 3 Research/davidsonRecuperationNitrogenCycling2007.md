@@ -4,20 +4,23 @@ aliases: ["Recuperation of nitrogen cycling in Amazonian forests following agric
 year: 2007 
 first-author: Davidson, Eric A.
 publisher: "Nature" 
-tags:   #biogeochemistry      #regrowth      #nitrogen      #phosphorus   
+tags: [regrowth, nitrogen, phosphorus, ]
 url: https://www.nature.com/articles/nature05900 
 type: lit_note
 at-a-glance: ""
 
 --- 
-authors: [[Davidson, Eric A.]], [[De Carvalho, Cláudio J. Reis]], [[Figueira, Adelaine Michela]], [[Ishida, Françoise Yoko]], [[Ometto, Jean Pierre H. B.]], [[Nardoto, Gabriela B.]], [[Sabá, Renata Tuma]], [[Hayashi, Sanae N.]], [[Leal, Eliane C.]], [[Vieira, Ima Célia G.]], [[Martinelli, Luiz A.]]
-[[050 Biogeochemistry MOC]]   [[010 Amazonia MOC]]
+#tribble
+>[!summary] Summary
+
+>[!quote] Cited
 
 **Bibliography:** Davidson, Eric A., Cláudio J. Reis De Carvalho, Adelaine Michela Figueira, Françoise Yoko Ishida, Jean Pierre H. B. Ometto, Gabriela B. Nardoto, Renata Tuma Sabá, et al. ‘Recuperation of Nitrogen Cycling in Amazonian Forests Following Agricultural Abandonment’. _Nature_ 447, no. 7147 (June 2007): 995–98. [https://doi.org/10.1038/nature05900](https://doi.org/10.1038/nature05900). 
 
->[!summary] Summary
-> 
-
+[[010 Amazonia MOC]] [[050 Biogeochemistry MOC]]   
+#### Authors:
+[[Davidson, Eric A.]], [[De Carvalho, Cláudio J. Reis]], [[Figueira, Adelaine Michela]], [[Ishida, Françoise Yoko]], [[Ometto, Jean Pierre H. B.]], [[Nardoto, Gabriela B.]], [[Sabá, Renata Tuma]], [[Hayashi, Sanae N.]], [[Leal, Eliane C.]], [[Vieira, Ima Célia G.]], [[Martinelli, Luiz A.]]
+#### Notes:
 
 Early succ forests are N limited, must use deep soil N. Late succ becomes P limited 
 
@@ -34,4 +37,4 @@ Once more, argument that there must be use of N at soil depths to maintain the o
 Used foliar, litterfall and soil NO3, NH4 as the data
 
 
-%% Import Date: 2023-09-30T22:59:25.420-04:00 %%
+%% Import Date: 2023-10-01T15:34:46.871-04:00 %%

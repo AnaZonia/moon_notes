@@ -4,22 +4,24 @@ aliases: ["The role of land‐use history in driving successional pathways and i
 year: 2021 
 first-author: Jakovac, Catarina C.
 publisher: "Biological Reviews" 
-tags: 
+tags: [number_one, review, regrowth, ]
 url: https://onlinelibrary.wiley.com/doi/10.1111/brv.12694 
 type: lit_note
 at-a-glance: ""
 
 --- 
-authors: [[Jakovac, Catarina C.]], [[Junqueira, André B.]], [[Crouzeilles, Renato]], [[Peña‐Claros, Marielos]], [[Mesquita, Rita C. G.]], [[Bongers, Frans]]
+#tribble
+>[!summary] Summary
 
+>[!quote] Cited
 
 **Bibliography:** Jakovac, Catarina C., André B. Junqueira, Renato Crouzeilles, Marielos Peña‐Claros, Rita C. G. Mesquita, and Frans Bongers. ‘The Role of Land‐use History in Driving Successional Pathways and Its Implications for the Restoration of Tropical Forests’. _Biological Reviews_ 96, no. 4 (August 2021): 1114–34. [https://doi.org/10.1111/brv.12694](https://doi.org/10.1111/brv.12694). 
 
->[!summary] Summary
-> 
+  [[070 Biodiversity MOC]] 
+#### Authors:
+[[Jakovac, Catarina C.]], [[Junqueira, André B.]], [[Crouzeilles, Renato]], [[Peña‐Claros, Marielos]], [[Mesquita, Rita C. G.]], [[Bongers, Frans]]
+#### Notes:
 
-
-<p>  <span style="color: #F9E076">hierarchical model of succession and ecological filtering theory.</span>  </p> <p>  <span style="color: #F9E076">of belowground</span>  </p> <p>  <span style="color: #F9E076">areas for agriculture such as steep slopes (Helmer et al., 2008; Asner et al., 2009; Crk et al., 2009; Rudel et al., 2009), low-fertility soils (Chinea, 2002; Arroyo-Mora et al., 2005; Helmer et al., 2008) and/or poorly accessibleareasaremorelikely to be permanently abandoned and to develop forest regrowth</span>  </p> <p>  <span style="color: #F9E076">Recent studies have shown that most regrowth in humanmodified landscapes is allowed to proceed for only two decades or less</span>  </p> <p>  <span style="color: #F9E076">correlations among those in different contexts to establish proxies for land-use history</span>  </p> <p>  <span style="color: #F9E076">pasturelands and subject to mechanized agriculture than on fields in shifting cultivation and low-input agriculture</span>  </p>  <p>  <span style="color: #F9E076">bulldozed fields</span>  </p> <p>  <span style="color: #F9E076">hierarchical model of succession and ecological filtering theory.</span>  </p> <p>  <span style="color: #F9E076">of belowground</span>  </p> <p>  <span style="color: #F9E076">‘Marginal’ areas for agriculture such as steep slopes (Helmer et al., 2008; Asner et al., 2009; Crk et al., 2009; Rudel et al., 2009), low-fertility soils (Chinea, 2002; Arroyo-Mora et al., 2005; Helmer et al., 2008) and/or poorly accessible areas are more likely to be permanently abandoned and to develop forest regrowth (</span>  </p> <p>  <span style="color: #F9E076">Recent studies have shown that most regrowth in humanmodified landscapes is allowed to proceed for only two decades or less</span>  </p> <p>  <span style="color: #F9E076">correlations among those in different contexts to establish proxies for land-use history.</span>  </p> <p>  <span style="color: #F9E076">pasturelands and subject to mechanized agriculture than on fields in shifting cultivation and low-input agriculture</span>  </p>  <p>  <span style="color: #F9E076">bulldozed fields</span>  </p> 
 
 [[Ecological filtering theory]]
 
@@ -154,5 +156,4 @@ Competition with weeds and invasive plants 
 Facilitation by remnant trees 
 
 - Herbivory
-
-%% Import Date: 2023-09-30T22:04:52.804-04:00 %%
+%% Import Date: 2023-10-01T15:04:42.330-04:00 %%

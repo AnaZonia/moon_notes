@@ -1,4 +1,3 @@
-#amazonia
 
 
 [[Albert 2013 - Human impacts outpace natural processes in the Amazon]]

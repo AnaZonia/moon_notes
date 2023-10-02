@@ -1,25 +1,20 @@
 ---
 tags:
+  - 💀
 ---
 # Make it so
 ```tasks
 due today
 short view
 ```
-### Due **soon**
+### Due soon
 ```tasks
 not done
 due after today before in one week
 hide backlink
 ```
 # Day planner
-- 11:00 - 18:00 Add references to FRQNT
-- 18:00 - 18:30 Finish references
-- 18:30 - 19:00 Dinner/call mom
-- 19:00 - 20:00 Finish references
-- 20:00 - 21:00 Modelling planning
-
-
+Log the tasks that you are doing, on the go.
 
 ## Daily report
 ### Research

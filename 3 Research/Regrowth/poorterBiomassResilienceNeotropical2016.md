@@ -4,21 +4,24 @@ aliases: ["Biomass resilience of Neotropical secondary forests"]
 year: 2016 
 first-author: Poorter, Lourens
 publisher: "Nature" 
-tags: #biomass 
+tags: #biomass #model #regrowth #water_stress
 url: https://www.nature.com/articles/nature16512 
 type: lit_note
 at-a-glance: ""
 
 --- 
-authors: [[Poorter, Lourens]], [[Bongers, Frans]], [[Aide, T. Mitchell]], [[Almeyda Zambrano, Angélica M.]], [[Balvanera, Patricia]], [[Becknell, Justin M.]], [[Boukili, Vanessa]], [[Brancalion, Pedro H. S.]], [[Broadbent, Eben N.]], [[Chazdon, Robin L.]], [[Craven, Dylan]], [[De Almeida-Cortez, Jarcilene S.]], [[Cabral, George A. L.]], [[De Jong, Ben H. J.]], [[Denslow, Julie S.]], [[Dent, Daisy H.]], [[DeWalt, Saara J.]], [[Dupuy, Juan M.]], [[Durán, Sandra M.]], [[Espírito-Santo, Mario M.]], [[Fandino, María C.]], [[César, Ricardo G.]], [[Hall, Jefferson S.]], [[Hernandez-Stefanoni, José Luis]], [[Jakovac, Catarina C.]], [[Junqueira, André B.]], [[Kennard, Deborah]], [[Letcher, Susan G.]], [[Licona, Juan-Carlos]], [[Lohbeck, Madelon]], [[Marín-Spiotta, Erika]], [[Martínez-Ramos, Miguel]], [[Massoca, Paulo]], [[Meave, Jorge A.]], [[Mesquita, Rita]], [[Mora, Francisco]], [[Muñoz, Rodrigo]], [[Muscarella, Robert]], [[Nunes, Yule R. F.]], [[Ochoa-Gaona, Susana]], [[De Oliveira, Alexandre A.]], [[Orihuela-Belmonte, Edith]], [[Peña-Claros, Marielos]], [[Pérez-García, Eduardo A.]], [[Piotto, Daniel]], [[Powers, Jennifer S.]], [[Rodríguez-Velázquez, Jorge]], [[Romero-Pérez, I. Eunice]], [[Ruíz, Jorge]], [[Saldarriaga, Juan G.]], [[Sanchez-Azofeifa, Arturo]], [[Schwartz, Naomi B.]], [[Steininger, Marc K.]], [[Swenson, Nathan G.]], [[Toledo, Marisol]], [[Uriarte, Maria]], [[Van Breugel, Michiel]], [[Van Der Wal, Hans]], [[Veloso, Maria D. M.]], [[Vester, Hans F. M.]], [[Vicentini, Alberto]], [[Vieira, Ima C. G.]], [[Bentos, Tony Vizcarra]], [[Williamson, G. Bruce]], [[Rozendaal, Danaë M. A.]]
-
-**Bibliography:** Poorter, Lourens, Frans Bongers, T. Mitchell Aide, Angélica M. Almeyda Zambrano, Patricia Balvanera, Justin M. Becknell, Vanessa Boukili, et al. ‘Biomass Resilience of Neotropical Secondary Forests’. _Nature_ 530, no. 7589 (February 2016): 211–14. [https://doi.org/10.1038/nature16512](https://doi.org/10.1038/nature16512). 
-
+#tribble
 >[!summary] Summary
 > 
 
->[!quote] Cited snippets
+>[!quote] Cited
 > Over half of the world's tropical forests are secondary.
+
+#### Authors
+[[Poorter, Lourens]], [[Bongers, Frans]], [[Aide, T. Mitchell]], [[Almeyda Zambrano, Angélica M.]], [[Balvanera, Patricia]], [[Becknell, Justin M.]], [[Boukili, Vanessa]], [[Brancalion, Pedro H. S.]], [[Broadbent, Eben N.]], [[Chazdon, Robin L.]], [[Craven, Dylan]], [[De Almeida-Cortez, Jarcilene S.]], [[Cabral, George A. L.]], [[De Jong, Ben H. J.]], [[Denslow, Julie S.]], [[Dent, Daisy H.]], [[DeWalt, Saara J.]], [[Dupuy, Juan M.]], [[Durán, Sandra M.]], [[Espírito-Santo, Mario M.]], [[Fandino, María C.]], [[César, Ricardo G.]], [[Hall, Jefferson S.]], [[Hernandez-Stefanoni, José Luis]], [[Jakovac, Catarina C.]], [[Junqueira, André B.]], [[Kennard, Deborah]], [[Letcher, Susan G.]], [[Licona, Juan-Carlos]], [[Lohbeck, Madelon]], [[Marín-Spiotta, Erika]], [[Martínez-Ramos, Miguel]], [[Massoca, Paulo]], [[Meave, Jorge A.]], [[Mesquita, Rita]], [[Mora, Francisco]], [[Muñoz, Rodrigo]], [[Muscarella, Robert]], [[Nunes, Yule R. F.]], [[Ochoa-Gaona, Susana]], [[De Oliveira, Alexandre A.]], [[Orihuela-Belmonte, Edith]], [[Peña-Claros, Marielos]], [[Pérez-García, Eduardo A.]], [[Piotto, Daniel]], [[Powers, Jennifer S.]], [[Rodríguez-Velázquez, Jorge]], [[Romero-Pérez, I. Eunice]], [[Ruíz, Jorge]], [[Saldarriaga, Juan G.]], [[Sanchez-Azofeifa, Arturo]], [[Schwartz, Naomi B.]], [[Steininger, Marc K.]], [[Swenson, Nathan G.]], [[Toledo, Marisol]], [[Uriarte, Maria]], [[Van Breugel, Michiel]], [[Van Der Wal, Hans]], [[Veloso, Maria D. M.]], [[Vester, Hans F. M.]], [[Vicentini, Alberto]], [[Vieira, Ima C. G.]], [[Bentos, Tony Vizcarra]], [[Williamson, G. Bruce]], [[Rozendaal, Danaë M. A.]]
+
+#### Notes
+**Bibliography:** Poorter, Lourens, Frans Bongers, T. Mitchell Aide, Angélica M. Almeyda Zambrano, Patricia Balvanera, Justin M. Becknell, Vanessa Boukili, et al. ‘Biomass Resilience of Neotropical Secondary Forests’. _Nature_ 530, no. 7589 (February 2016): 211–14. [https://doi.org/10.1038/nature16512](https://doi.org/10.1038/nature16512). 
 
   
 ![[Pasted image 20230910160654.png]]
