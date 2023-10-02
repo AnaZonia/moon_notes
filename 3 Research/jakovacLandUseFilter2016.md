@@ -17,7 +17,7 @@ at-a-glance: ""
 
 **Bibliography:** Jakovac, Catarina C., Frans Bongers, Thomas W. Kuyper, Rita C. G. Mesquita, and Marielos Peña-Claros. ‘Land Use as a Filter for Species Composition in Amazonian Secondary Forests’. _J. Veg. Sci._ 27, no. 6 (1 November 2016): 1104–16. [https://doi.org/10.1111/JVS.12457](https://doi.org/10.1111/JVS.12457). 
 
-  [[070 Biodiversity MOC]]     
+  [[040 Biodiversity MOC]]     
 #### Authors:
 [[Jakovac, Catarina C.]], [[Bongers, Frans]], [[Kuyper, Thomas W.]], [[Mesquita, Rita C. G.]], [[Peña-Claros, Marielos]]
 #### Notes:

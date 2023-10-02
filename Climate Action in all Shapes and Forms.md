@@ -1,4 +1,10 @@
-[[N2O as a greenhouse gas]]
+---
+stardate: Oct 2nd 2023
+update: Oct 2nd 2023
+tags:
+  - climate_change
+  - scicomm_article
+---
 
 # Story
 Educated professionals of the Global North have great power to help change the course of the climate crisis - and with this power, comes responsibility.

@@ -1,7 +1,9 @@
 ---
-tags: 
+tags:
+  - researcher
+  - tribble
 url: 
 type: 
-aliases:
+aliases: 
 location:
 ---

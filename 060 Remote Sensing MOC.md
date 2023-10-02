@@ -3,7 +3,6 @@ Explore the options that there are and the methods for land use classification w
 https://samgeo.gishub.org/
 https://joss.theoj.org/papers/10.21105/joss.05663
 
-[[000 Data and Methods MOC]]
 
 [(2) Avaliação de produtos para quantificar a área queimada MAP-FIRE - YouTube](https://www.youtube.com/watch?v=mcl2zSUTnAg)
 

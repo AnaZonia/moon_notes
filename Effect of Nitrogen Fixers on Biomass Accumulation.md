@@ -5,7 +5,7 @@ tags:
   - "#tribble"
   - question
 ---
-[[050 Biogeochemistry MOC]]
+[[030 Biogeochemistry MOC]]
 
 there are some disagreements on the topic.
 

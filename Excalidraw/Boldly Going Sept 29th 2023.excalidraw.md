@@ -54,9 +54,9 @@ Statistical Modelling ^EpV4pJ5b
 
 Observe and analyse ^6IaMTQAS
 
-[[070 Biodiversity MOC]] ^6D5hU05z
+[[040 Biodiversity MOC]] ^6D5hU05z
 
-[[020 Climate Change MOC]] ^JTG7tFab
+[[080 Climate Change MOC]] ^JTG7tFab
 
 [[001 MOC Amazonia]] ^BBbQWi0g
 
@@ -165,11 +165,11 @@ Soil nutrient pool ^yzX3Y40t
 
 #runoff ^X0C3Uj52
 
-[[050 Biogeochemistry MOC]] ^UxkEr9e6
+[[030 Biogeochemistry MOC]] ^UxkEr9e6
 
-[[030 Disturbance and Disease MOC]] ^3gcJaoQn
+[[090 Disturbance and Disease MOC]] ^3gcJaoQn
 
-[[040 Social Context of Latin America MOC]] ^McDSoUXm
+[[070 Social Context of Latin America MOC]] ^McDSoUXm
 
 [[100 Science Outreach MOC]] ^0ABE2Toh
 
@@ -177,7 +177,7 @@ Soil nutrient pool ^yzX3Y40t
 
 [[060 Remote Sensing MOC]] ^Usb13E2C
 
-[[080 Tropical Ecology MOC]] ^x3vlH4t4
+[[050 Tropical Ecology MOC]] ^x3vlH4t4
 
 #invasion ^WOK9wVHd
 

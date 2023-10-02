@@ -7,5 +7,5 @@ type:
 ---
 ###### Related contacts/institutes: #UN 
 
-[[070 Biodiversity MOC]]
+[[040 Biodiversity MOC]]
 

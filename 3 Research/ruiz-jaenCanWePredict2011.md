@@ -11,7 +11,7 @@ at-a-glance: ""
 
 --- 
 authors: [[Ruiz-Jaen, Maria C.]], [[Potvin, Catherine]]
- [[070 Biodiversity MOC]]  
+ [[040 Biodiversity MOC]]  
 
 **Bibliography:** Ruiz-Jaen, Maria C., and Catherine Potvin. ‘Can We Predict Carbon Stocks in Tropical Ecosystems from Tree Diversity? Comparing Species and Functional Diversity in a Plantation and a Natural Forest’. _New Phytol._ 189, no. 4 (March 2011): 978–87. [https://doi.org/10.1111/J.1469-8137.2010.03501.X](https://doi.org/10.1111/J.1469-8137.2010.03501.X). 
 

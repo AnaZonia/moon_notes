@@ -17,7 +17,7 @@ at-a-glance: ""
 
 **Bibliography:** Lasky, Jesse R., María Uriarte, Vanessa K. Boukili, David L. Erickson, W. John Kress, and Robin L. Chazdon. ‘The Relationship between Tree Biodiversity and Biomass Dynamics Changes with Tropical Forest Succession’. Edited by Montserrat Vila. _Ecology Letters_ 17, no. 9 (September 2014): 1158–67. [https://doi.org/10.1111/ele.12322](https://doi.org/10.1111/ele.12322). 
 
- [[070 Biodiversity MOC]]   
+ [[040 Biodiversity MOC]]   
 #### Authors:
 [[Lasky, Jesse R.]], [[Uriarte, María]], [[Boukili, Vanessa K.]], [[Erickson, David L.]], [[John Kress, W.]], [[Chazdon, Robin L.]], [[Vila, Montserrat]]
 #### Notes:

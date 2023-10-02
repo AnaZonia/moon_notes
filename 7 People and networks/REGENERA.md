@@ -9,7 +9,7 @@ type:
 ###### Related contacts/institutes: [[Jakovac, Catarina C.]]
 [[Paulo Massoca]]
 
-[[7 People and networks/Mesquita, Rita]]
+[[Mesquita, Rita]]
 
 ## Sinbiose
 

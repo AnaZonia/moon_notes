@@ -17,7 +17,7 @@ at-a-glance: ""
 
 **Bibliography:** Currey, Bryce, Michael P. Oatham, and E. N. Jack Brookshire. ‘Negative Trait‐based Association between Abundance of Nitrogen‐fixing Trees and Long‐term Tropical Forest Biomass Accumulation’. Edited by Peter Thrall. _Journal of Ecology_ 109, no. 2 (February 2021): 966–74. [https://doi.org/10.1111/1365-2745.13524](https://doi.org/10.1111/1365-2745.13524). 
 
-  [[050 Biogeochemistry MOC]]   
+  [[030 Biogeochemistry MOC]]   
 #### Authors:
 [[Currey, Bryce]], [[Oatham, Michael P.]], [[Brookshire, E. N. Jack]], [[Thrall, Peter]]
 #### Notes:

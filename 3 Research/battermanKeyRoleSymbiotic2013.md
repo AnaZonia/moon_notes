@@ -17,7 +17,7 @@ at-a-glance: ""
 
 **Bibliography:** Batterman, Sarah A., Lars O. Hedin, Michiel Van Breugel, Johannes Ransijn, Dylan J. Craven, and Jefferson S. Hall. ‘Key Role of Symbiotic Dinitrogen Fixation in Tropical Forest Secondary Succession’. _Nature_ 502, no. 7470 (October 2013): 224–27. [https://doi.org/10.1038/nature12525](https://doi.org/10.1038/nature12525). 
 
- [[050 Biogeochemistry MOC]]    
+ [[030 Biogeochemistry MOC]]    
 #### Authors:
 [[Batterman, Sarah A.]], [[Hedin, Lars O.]], [[Van Breugel, Michiel]], [[Ransijn, Johannes]], [[Craven, Dylan J.]], [[Hall, Jefferson S.]]
 #### Notes:

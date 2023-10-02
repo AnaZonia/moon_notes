@@ -4,12 +4,12 @@ tags:
   - disturbance
   - tribble
   - "#policy"
+  - "#researcher"
 location:
   - Brasil
   - UK
 url: https://www.ox.ac.uk/news-and-events/find-an-expert/dr-erika-berenguer
-type:
-  - researcher
+type: []
 aliases:
 ---
 [[010 Amazonia MOC]]

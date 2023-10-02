@@ -23,11 +23,11 @@
 - [ ] Quebec forms ⏫ #shore_leave
 - [ ] Set up morning/bed routine #shore_leave
 - [ ] Plan [PhDScope on Canvas](https://twitter.com/Artifexx/status/1608934257292103683) #shore_leave
-- [ ] Plan [[030 Literature Review MOC]] on Canvas #shore_leave 
+- [ ] Plan [[160 Literature Review MOC]] on Canvas #shore_leave 
 - [ ] Transcribe stats notes #shore_leave
 	1.  [ ] Transcribe Andrew's notes (studying Bayesian)
 	2.  [ ] Transcribe notes from stats course so far (studying basic stats)
-- [ ] Finish bringing data sources from excel to Obsidian [[000 Data and Methods MOC]] 🔼 #shore_leave
+- [ ] Finish bringing data sources from excel to Obsidian [[005 Data and Methods MOC]] 🔼 #shore_leave
 	1.  [ ] Insert an advanced table with information on the data sources
 	2.  [ ] Set up good template for data sources
 	3.  [ ] Transfer the information. (if there's too much being studied in between, create a task for the data sources you need to study, and do it later!)

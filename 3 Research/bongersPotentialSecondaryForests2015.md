@@ -18,7 +18,7 @@ at-a-glance: "Secondary and logged forests are important for carbon mitigation"
 >Secondary forests sequester carbon up to 20x more than mature
 
 **Bibliography:** Bongers, F., R. Chazdon, L. Poorter, and M. Peña-Claros. ‘The Potential of Secondary Forests’. _Science_ 348, no. 6235 (8 May 2015): 642–43. [https://doi.org/10.1126/science.348.6235.642-c](https://doi.org/10.1126/science.348.6235.642-c). 
-[[010 Amazonia MOC]] [[020 Climate Change MOC]]  
+[[010 Amazonia MOC]] [[080 Climate Change MOC]]  
 #### Authors:
 [[Bongers, F.]], [[Chazdon, Robin L.]], [[Poorter, L.]], [[Peña-Claros, M.]]
 #### Notes:

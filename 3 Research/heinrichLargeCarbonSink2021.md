@@ -1,4 +1,4 @@
-  batter
+
 ---
 aliases: ["Large carbon sink potential of secondary forests in the Brazilian Amazon to mitigate climate change"] 
 year: 2021 

@@ -11,3 +11,6 @@ tags:
 [New 'global weirding' series informs, entertains » Yale Climate Connections](https://yaleclimateconnections.org/2016/11/new-global-weirding-series-informs-entertains/)
 
 [Katharine Hayhoe: The most important thing you can do to fight climate change: talk about it | TED Talk](https://www.ted.com/talks/katharine_hayhoe_the_most_important_thing_you_can_do_to_fight_climate_change_talk_about_it/transcript)
+
+
+In FSCI 198 lecture, there was a comment on Katherine's perspective on strong hope and optimism on climate action.

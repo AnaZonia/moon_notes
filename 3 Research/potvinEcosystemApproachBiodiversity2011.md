@@ -11,7 +11,7 @@ at-a-glance: ""
 
 --- 
 authors: [[Potvin, Catherine]], [[Mancilla, Lady]], [[Buchmann, Nina]], [[Monteza, Jose]], [[Moore, Tim]], [[Murphy, Meaghan]], [[Oelmann, Yvonne]], [[Scherer-Lorenzen, Michael]], [[Turner, Benjamin L.]], [[Wilcke, Wolfgang]], [[Zeugin, Fabienne]], [[Wolf, Sebastian]]
-[[070 Biodiversity MOC]]
+[[040 Biodiversity MOC]]
 
 **Bibliography:** Potvin, Catherine, Lady Mancilla, Nina Buchmann, Jose Monteza, Tim Moore, Meaghan Murphy, Yvonne Oelmann, et al. ‘An Ecosystem Approach to Biodiversity Effects: Carbon Pools in a Tropical Tree Plantation’. _For. Ecol. Manage._ 261, no. 10 (2011): 1614–24. [https://doi.org/10.1016/j.foreco.2010.11.015](https://doi.org/10.1016/j.foreco.2010.11.015). 
 

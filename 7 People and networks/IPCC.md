@@ -1,5 +1,6 @@
 ---
-tags: 
+tags:
+  - "#climate_change"
 url: 
 type: 
 location:

@@ -1,11 +1,5 @@
 
 
-[[Albert 2013 - Human impacts outpace natural processes in the Amazon]]
-- Summary of anthropogenic effects on the forest. Land use change is relevant. Science Panel for the Amazon Assessment Report is mentioned.
-
-[[Aragão 2007 - Spatial patterns and fire response of recent Amazonian droughts]]
-- Different droughts affect regions of the amazon basin differently - ENSO has a greater impact in N, center and E Amazon, and hydrological stresses affect SW amazon more since NW has high background precipitation rates. SW is more vulnerable.
-
 
 Patterns of climate in the Amazon
 
@@ -29,7 +23,7 @@ Degredation vs deforestation vs disturbance
 
 ## Amazonia Articles
 ```dataview
-TABLE WITHOUT ID link(file.link, default(file.aliases[0], file.name)) AS "Article", year, authors, at-a-glance FROM "3 Research" WHERE contains(this.file.inlinks, file.link) SORT authors ASC
+TABLE WITHOUT ID link(file.link, default(file.aliases[0], file.name)) AS "Article", year, first-author, at-a-glance FROM "3 Research" WHERE contains(this.file.inlinks, file.link) SORT first_author ASC
 ```
 
 

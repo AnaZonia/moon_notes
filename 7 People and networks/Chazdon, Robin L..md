@@ -1,6 +1,7 @@
 ---
 tags:
   - regrowth
+  - researcher
 url: 
 type: 
 aliases:

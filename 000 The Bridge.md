@@ -1,30 +1,37 @@
+## Science Officer
 
-The Workstation is where the PhD itself is planned.
+The Workstation is where the projects happen.
 [[Predicting Regrowth in the Amazon - Project]]
 [[Predicting Regrowth in Central America - Project]]
-[[Predicting Regrowth in the Amazon - Project]]
+[[Incorporating Biodiversity - Project]]
 
+[[Delayed Recycling in Tritrophic Metaecosystem]]
 
-[[000 Research MOC]]
+[[003 Research MOC]]
 map to all the research articles
 
-[[000 Data and Methods MOC]]
-A map to all available data types and models
+[[020 Statistics MOC]]
 
-[[010 R Data Visualization MOC]]
-Notebook for planning Data Visualization learning
+[[005 Data and Methods MOC]]
+A map to all available data sources, remote sensing products and models
 
-[[020 Python MOC]]
-Notebook for planning Python learning
+[[006 People and Networks MOC]]
 
-### 8 Warp Core
+## Learning Center
+
+
+
+## The Warp Core
 What keeps the ship running
+[[120 R Data Visualization MOC]]
 
-[[010 Notetaking MOC]]
+[[130 Python MOC]]
 
-[[020 Writing Science MOC]]
+[[140 Notetaking MOC]]
 
-[[030 Literature Review MOC]]
+[[150 Writing Science MOC]]
+
+[[160 Literature Review MOC]]
 
 Also, guides to [[Github]] and [[Obsidian Menu]] are there.
 

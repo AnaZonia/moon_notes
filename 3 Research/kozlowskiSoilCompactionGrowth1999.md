@@ -19,7 +19,7 @@ at-a-glance: "soil compaction is reduces plant growth"
 
 **Bibliography:** Kozlowski, T.T. ‘Soil Compaction and Growth of Woody Plants’. _Scandinavian Journal of Forest Research_ 14, no. 6 (December 1999): 596–619. [https://doi.org/10.1080/02827589908540825](https://doi.org/10.1080/02827589908540825). 
 
- [[050 Biogeochemistry MOC]] 
+ [[030 Biogeochemistry MOC]] 
 #### Authors:
 [[Kozlowski, T.T.]]
 #### Notes:

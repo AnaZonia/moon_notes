@@ -43,11 +43,12 @@ O exemplo que o Marcelo fez pro [relógio de sol](https://drive.google.com/file/
 
 ## Essays
 
-
 ```dataview
-TABLE
-FROM "2 Workstation"
-WHERE type == 'scicomm/article'
-SORT stardate
+
+LIST
+
+FROM #scicomm_article
+
+SORT file.ctime DESC
 ```
 
