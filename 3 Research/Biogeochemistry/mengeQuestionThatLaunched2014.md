@@ -4,12 +4,13 @@ aliases: [The Question That Launched My Career]
 year: 2014 
 first-author: Menge, Duncan N. L.
 publisher: "Bulletin of the Ecological Society of America" 
-tags:   #Nitrogen   
+tags:   [nitrogen]  
 url: http://doi.wiley.com/10.1890/0012-9623-95.3.218 
-type: lit-note
+type: lit_note
 at-a-glance: ""
 
 --- 
+#tribble 
 authors: [[Menge, Duncan N. L.]]
 
 [[vitousekNitrogenLimitationLand1991|Nitrogen limitation on land and in the sea: How can it occur?]]

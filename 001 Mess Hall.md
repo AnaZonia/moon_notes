@@ -11,8 +11,9 @@
 
 - [ ] Write summary on LU classification and SAR biomass options ⏫ #chapter1 #chapter2
 	- [ ] Email contacts: Jonathas/Jude/Javier/Beth 
+	- [ ] Write presentation for star party📅 2023-10-11
 
-- [ ] Grade FSCI 198 🔼 #TA
+- [ ] Grade FSCI 198 🔼 #TA 📅 2023-10-04
 - [ ] Finish FSCI presentation 🔼 #TA
 	1.  [ ] Watch IPCC lecture
 	2.  [ ] Catch up on new note [[Katherine Hayhoe - Why Facts Aren't Enough]]

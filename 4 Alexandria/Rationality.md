@@ -2,7 +2,8 @@
 tags:
   - tribble
 url: 
-type: Book
+type:
+  - book
 stardate: 2023-09-29 14:02
 authors:
   - Eliezer Yudkowsky

@@ -2,11 +2,11 @@
 ---
 aliases: [Four challenges when conducting bibliometric reviews and how to deal with them]
 authors: João Paulo Romanelli, Maria Carolina Pereira Gonçalves, Luís Fernando de Abreu Pestana, Jéssica Akemi Hitaka Soares, Raquel Stucchi Boschi, Daniel Fernandes Andrade 
-tags: [] 
+tags: [review] 
 year: 2021 
 publisher: "Environmental Science and Pollution Research" 
 url: https://link.springer.com/10.1007/s11356-021-16420-x
-type: lit-note
+type: lit_note
 at-a-glance:
 
 ---

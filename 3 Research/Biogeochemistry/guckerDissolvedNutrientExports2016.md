@@ -4,9 +4,9 @@ aliases: [Dissolved nutrient exports from natural and human-impacted Neotropical
 year: 2016 
 first-author: Gücker, Björn
 publisher: "Global Ecology and Biogeography" 
-tags:   #Phosphorus      #Nitrogen      #LULC      #Cerrado   
+tags: [cerrado, phosphorus, nitrogen, land_use]
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12417 
-type: lit-note
+type: lit_note
 at-a-glance: ""
 
 --- 

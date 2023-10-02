@@ -4,12 +4,13 @@ aliases: ["Is tree diversity an important driver for phosphorus and nitrogen acq
 year: 2010 
 first-author: Zeugin, F.
 publisher: "For. Ecol. Manage." 
-tags:       #Reforestation   
+tags:  [reforestation, nitrogen, phosphorus, regrowth]
 url: http://www.elsevier.com/copyright 
-type: lit-note
+type: lit_note
 at-a-glance: ""
 
 --- 
+#tribble 
 authors: [[Zeugin, F.]], [[Potvin, Catherine]], [[Jansa, J.]], [[Scherer-Lorenzen, M.]]
 
 [[070 Biodiversity MOC]] 

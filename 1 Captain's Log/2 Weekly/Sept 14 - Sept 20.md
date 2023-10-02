@@ -15,7 +15,6 @@ In this case, we have many less points and the trajectory is more expected, almo
 - Sparse matrices can be easier to handle. It's the structure that you want in R.
 - Where do the biases matter? Where do the biases cause weighting to cause problems?
 - Could very high variance cause to eliminate patches with very low or very high weight?
-- 
 
 
 
