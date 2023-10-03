@@ -8,6 +8,11 @@ Arguing for importance
 - The Amazon contains 50% of the forested area in the world
 - Costa Rica has 6% of the world's biodiversity
 
+[[Jakovac, Catarina C.|Jakovac, Catarina]] kfjffifjii
+
+[[jakovacRoleLandUse2021|The role of land‐use history in driving successional pathways and its implications for the restoration of tropical forests]]
+
+
 
 41 anthropogenic CO2 emissions are removed by terrestrial ecosystems, mainly forests"
 
