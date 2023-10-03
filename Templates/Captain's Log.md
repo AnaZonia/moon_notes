@@ -1,15 +1,13 @@
 ---
 tags:
 ---
-# Day planner
-Log the tasks that you are doing, on the go.
+[[<% tp.date.now(“YYYY-MM-DD”, -1, tp.file.title, “YYYY-MM-DD”) %>|Yesterday]] <% tp.file.title %> [[|Tomorrow<% tp.date.now(“YYYY-MM-DD”, 1, tp.file.title, “YYYY-MM-DD”) %>]]
 
-# Daily report
-### Research
 
-### Ana's Brain
+## Daily report
 
-# Make it so
+
+## Make it so
 ```tasks
 due today
 short view
@@ -20,5 +18,5 @@ not done
 due after today before in one week
 hide backlink
 ```
-# Reflections
+## Daily Review
 

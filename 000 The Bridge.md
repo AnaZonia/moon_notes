@@ -1,11 +1,12 @@
 ## Science Officer
 
 The Workstation is where the projects happen.
-[[Predicting Regrowth in the Amazon - Project]]
-[[Predicting Regrowth in Central America - Project]]
-[[Incorporating Biodiversity - Project]]
+```dataview
+LIST
+FROM "2 Workstation"
 
-[[Delayed Recycling in Tritrophic Metaecosystem]]
+```
+
 
 [[003 Research MOC]]
 map to all the research articles
@@ -34,6 +35,14 @@ What keeps the ship running
 [[160 Literature Review MOC]]
 
 Also, guides to [[Github]] and [[Obsidian Menu]] are there.
+
+## Tribbles
+
+```dataview
+TABLE file.cday AS "stardate"  
+FROM #tribble and -"Templates"
+SORT file.cday ASC
+```
 
 A concept map of the research is:
 ![[Boldly Going Sept 29th 2023.excalidraw]]

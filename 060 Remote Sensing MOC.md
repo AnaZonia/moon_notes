@@ -151,3 +151,14 @@ Grasses, shrubs and woodlands 
 ![[patterson20192.png]]
 
 ![[patterson20193.png]]
+
+
+```dataview
+
+LIST
+
+FROM #remote_sensing
+
+SORT file.ctime DESC
+
+```

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiScroll",
+      "TiBulb",
       "LiSettings",
       "LiHeartHandshake",
-      "TiChartHistogram",
-      "LiArmchair",
-      "TiProgress"
+      "TiChartHistogram"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -33,8 +33,7 @@
   "100 Science Outreach MOC.md": "LiExpand",
   "110 Interests MOC.md": "TiBook",
   "2 Workstation": "TiProgress",
-  "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md": "RiFilePaper2Line",
-  "001 Mess Hall.md": "LiArmchair",
+  "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md": "LiScroll",
   "002 Reading Map.md": "LiMap",
   "Templates/Research article.md": "LiLibrary",
   "Templates/Captain's Log.md": "LiRocket",
@@ -59,5 +58,8 @@
   "040 Biodiversity MOC.md": "LiDna",
   "050 Tropical Ecology MOC.md": "LiBird",
   "070 Social Context of Latin America MOC.md": "LiPersonStanding",
-  "080 Climate Change MOC.md": "RiEarthLine"
+  "080 Climate Change MOC.md": "RiEarthLine",
+  "001 Rolling ideas.md": "TiBulb",
+  "2 Workstation/2 - Predicting Regrowth in Central America/Predicting Regrowth in Central America - Project.md": "LiScroll",
+  "2 Workstation/3 - Incorporating Biodiversity/Incorporating Biodiversity - Project.md": "LiScroll"
 }
