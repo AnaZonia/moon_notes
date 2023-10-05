@@ -1,7 +1,8 @@
 ## Philosophy
 
+[[Marxismo]]
 
-
+[[Hypatia]]
 ## Literature
 
 [[Edgar Allan Poe]]

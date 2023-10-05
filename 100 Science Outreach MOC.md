@@ -38,9 +38,9 @@ O exemplo que o Marcelo fez pro [relógio de sol](https://drive.google.com/file/
 
 [[Where did the jaguar get its spots]]
 
-[[10 Social sciences/Edgar Allan Poe]]
-
-
+[[Edgar Allan Poe]] and his love for science and science fiction?
+ 
+[[Star Party Talk]]
 ## Essays
 
 ```dataview
