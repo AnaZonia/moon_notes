@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "1 Captain's Log/1 Daily/2023-10-05 Thu.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
       {
         "id": "6b3e5e477cb16920",
         "type": "tabs",
-        "dimension": 64.84907497565725,
+        "dimension": 34.883720930232556,
         "children": [
           {
             "id": "b0c74e50e28a8d26",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "1 Captain's Log/1 Daily/2023-10-05 Thu.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "1 Captain's Log/1 Daily/2023-10-05 Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,16 +147,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 The Bridge.md"
+                "file": "1 Captain's Log/1 Daily/2023-10-05 Thu.md"
               }
-            }
-          },
-          {
-            "id": "d73c2ac9c7017086",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -165,7 +157,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "1 Captain's Log/1 Daily/2023-10-05 Thu.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -193,14 +185,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "3ee58cc37df03a85",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "3dbac5c2f60b2e8e",
         "type": "tabs",
-        "dimension": 35.15092502434275,
+        "dimension": 65.11627906976744,
         "children": [
           {
             "id": "f6a230dcc8184e2d",
@@ -211,36 +211,23 @@
                 "sortOrder": "frequency"
               }
             }
-          },
-          {
-            "id": "2395f299747361ac",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 461.5,
-    "collapsed": true
+    "width": 461.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "daily-notes:Open today's daily note": false,
-      "periodic-notes:Open today": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-day-planner:Week plan": false
+      "periodic-notes:Open today": false
     }
   },
   "floating": {
@@ -271,17 +258,25 @@
         "direction": "vertical",
         "x": -1696,
         "y": -319,
-        "width": 1024,
-        "height": 800,
+        "width": 819,
+        "height": 640,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "696a65df11ba70ac",
+  "active": "3ee58cc37df03a85",
   "lastOpenFiles": [
-    "001 Mess Hall.md",
+    "1 Captain's Log/1 Daily/2023-10-05 Thu.md",
+    "1 Captain's Log/2 Weekly/2023 - W40 - Oct.md",
+    "1 Captain's Log/2 Weekly/2023 - W36 - Sep.md",
+    "1 Captain's Log/2 Weekly/2023 - W35 - Aug.md",
+    "1 Captain's Log/2 Weekly/August 31 - Sept 5.md",
+    "1 Captain's Log/2 Weekly/August 30th.md",
+    "1 Captain's Log/2 Weekly/2023 - W34 - Aug.md",
+    "1 Captain's Log/2 Weekly/2023 - W33 - Aug.md",
     "000 The Bridge.md",
+    "001 Mess Hall.md",
     "8 Warp Core/Obsidian Menu.md",
     "3 Research/000 Research MOC.md",
     "7 People and networks/Restor.md",
@@ -290,7 +285,6 @@
     "7 People and networks/REGENERA.md",
     "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
     "8 Warp Core/What is the difference between a synthesis and a review.md",
-    "1 Captain's Log/2 Weekly/August 30th.md",
     "5 Estatística para Ecologia/010 Modelagem de Efeitos Mistos.md",
     "7 People and networks/Mulheres e meninas na ciência.md",
     "Tepui.md",
@@ -299,13 +293,6 @@
     "5 Estatística para Ecologia/004 Testes de Hipóteses.md",
     "7 People and networks/Convention on Biological Diversity.md",
     "3 Research/Amazonia/albertHumanImpactsOutpace2023.md",
-    "3 Research/Biodiversity/ruiz-jaenCanWePredict2011.md",
-    "3 Research/Biodiversity/ruiz-jaenTreeDiversityExplains2010.md",
-    "3 Research/Biodiversity/potvinEcosystemApproachBiodiversity2011.md",
-    "7 People and networks/Potvin, Catherine.md",
-    "7 People and networks/Ruiz-Jaen, Maria C..md",
-    "3 Research/Biodiversity/poorterBiodiversityClimateDetermine2017.md",
-    "3 Research/Biodiversity/andereggRepresentingPlantDiversity2021 1.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Regrowth in Amazonia.canvas",
     "2 Workstation/2 - Predicting Regrowth in Panama",
     "2 Workstation/1 - Predicting Regrowth in the Amazon",

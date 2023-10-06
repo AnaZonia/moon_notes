@@ -14,7 +14,6 @@
   "float-search",
   "excalibrain",
   "obsidian-icon-folder",
-  "calendar",
   "note-refactor-obsidian",
   "periodic-notes",
   "table-editor-obsidian",
@@ -26,5 +25,6 @@
   "obsidian-latex-suite",
   "obsidian-tagfolder",
   "image-captions",
-  "templater-obsidian"
+  "templater-obsidian",
+  "calendar"
 ]
