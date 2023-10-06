@@ -39,7 +39,6 @@
   "Templates/Captain's Log.md": "LiRocket",
   "Templates/Captain's Log - Review.md": "LiRocket",
   "Templates/1 Cadet.md": "LiStar",
-  "Templates/2 New Scroll.md": "SiInternetarchive",
   "Templates/3 Data and methods.md": "SiGoogleearth",
   "Templates/4 People and networks.md": "TiHeartHandshake",
   "003 Research MOC.md": "LiLibrary",
@@ -61,5 +60,6 @@
   "080 Climate Change MOC.md": "RiEarthLine",
   "001 Rolling ideas.md": "TiBulb",
   "2 Workstation/2 - Predicting Regrowth in Central America/Predicting Regrowth in Central America - Project.md": "LiScroll",
-  "2 Workstation/3 - Incorporating Biodiversity/Incorporating Biodiversity - Project.md": "LiScroll"
+  "2 Workstation/3 - Incorporating Biodiversity/Incorporating Biodiversity - Project.md": "LiScroll",
+  "Templates/New Scroll.md": "SiInternetarchive"
 }
