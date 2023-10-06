@@ -4,7 +4,6 @@ The Workstation is where the projects happen.
 ```dataview
 LIST
 FROM "2 Workstation"
-
 ```
 
 

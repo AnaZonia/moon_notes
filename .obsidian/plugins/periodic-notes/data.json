@@ -3,13 +3,13 @@
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "ddd, MMM D YYYY",
+    "format": "YYYY-MM-DD ddd",
     "folder": "1 Captain's Log/1 Daily",
     "template": "Templates/Captain's Log.md",
     "enabled": true
   },
   "weekly": {
-    "format": "w - MMM D YYYY, ddd",
+    "format": "GGGG - [W]WW - MMM",
     "template": "Templates/Captain's Log - Review.md",
     "folder": "1 Captain's Log/2 Weekly",
     "enabled": true

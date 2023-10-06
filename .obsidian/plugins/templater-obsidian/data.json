@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "Templates",
+  "templates_folder": "",
   "templates_pairs": [
     [
       "",
@@ -15,28 +15,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "1 Captain's Log",
-      "template": "Templates/1 Captain's Log.md"
-    },
-    {
-      "folder": "7 People and networks",
-      "template": "Templates/7 People and networks.md"
-    },
-    {
-      "folder": "4 Alexandria",
-      "template": "Templates/4 New Scroll.md"
-    },
-    {
-      "folder": "6 Data and methods",
-      "template": "Templates/6 Data and methods.md"
-    },
-    {
-      "folder": "8 Warp Core",
-      "template": "Templates/Cadet.md"
-    },
-    {
-      "folder": "2 Workstation",
-      "template": "Templates/Workstation todo.md"
+      "folder": "",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,

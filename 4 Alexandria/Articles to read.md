@@ -1,4 +1,8 @@
 [Carbon verification | Smithsonian Tropical Research Institute (si.edu)](https://stri.si.edu/story/carbon-verification)
+[earthworks Amazonia | Max Planck Institute of Geoanthropology (mpg.de)](https://www.gea.mpg.de/2358929/earthworks-amazonia?e=eyJ0aW1lIjoiMjAyMy0xMC0wNVQxNDo1MDowOSswMjowMCIsImNyZWF0ZV9lZGl0b3JfY29va2llIjp0cnVlfQ%3D%3D--d4d73d86c6b11cbdf71abe688e1799e0b29fedc3)
+[The energy transition: A region-by-region agenda for near-term action | McKinsey](https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-energy-transition-a-region-by-region-agenda-for-near-term-action)
+
+[Gernot Wagner (gwagner.com)](https://gwagner.com/green-growth-mindset/)
 
 [Ending Amazon deforestation: 4 essential reads about the future of the world's largest rainforest (theconversation.com)](https://theconversation.com/ending-amazon-deforestation-4-essential-reads-about-the-future-of-the-worlds-largest-rainforest-194800)
 

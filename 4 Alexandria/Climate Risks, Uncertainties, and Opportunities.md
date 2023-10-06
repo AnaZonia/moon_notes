@@ -59,7 +59,7 @@ Ana's thought: the thing is does this actually lead to more sequestration? What 
 A lot of the ongoing strategies are inefficient. Inflation Reduction in the US makes solar panels cheaper everywhere - economic output not only in the US, but in other global north countries, can increase. - paper where this is cited is called "clean growth"
 
 ![[Climate Risks, Uncertainties, and Opportunities-5.png]]
-
+![[Climate Risks, Uncertainties, and Opportunities-7.png]]
 [Managing the net-zero transition | BlackRock Investment Institute](https://www.blackrock.com/corporate/insights/blackrock-investment-institute/publications/net-zero-transition)
 
 Argues for a mix of Greta and Smil - both a youth uprising for big oil to go the way of tobacco, but also guys in suits costing carbon $100 euros tCO2.

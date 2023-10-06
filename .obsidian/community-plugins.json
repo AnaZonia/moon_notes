@@ -17,7 +17,6 @@
   "calendar",
   "note-refactor-obsidian",
   "periodic-notes",
-  "templater-obsidian",
   "table-editor-obsidian",
   "cmdr",
   "dataview",
@@ -26,5 +25,6 @@
   "drawio-obsidian",
   "obsidian-latex-suite",
   "obsidian-tagfolder",
-  "image-captions"
+  "image-captions",
+  "templater-obsidian"
 ]
