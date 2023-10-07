@@ -5,17 +5,12 @@ tags:
 [[<% tp.date.now("GGGG-[W]WW", 0, tp.file.title, "YYYY-MM-DD ddd") %>]]
 ## Daily report
 
-
+### Daily review
 ## Make it so
 ```tasks
 due today
 short view
 ```
-### Due soon
-```tasks
-not done
-due after today before in one week
-hide backlink
-```
-## Daily Review
+
+## Self
 
