@@ -6,19 +6,22 @@ LIST
 FROM "2 Workstation"
 ```
 
-
-[[003 Research MOC]]
-map to all the research articles
-
-[[020 Statistics MOC]]
-
-[[005 Data and Methods MOC]]
+[[003 Data Sources MOC]]
 A map to all available data sources, remote sensing products and models
 
-[[006 People and Networks MOC]]
+[[004 People and Networks MOC]]
 
 ## Learning Center
 
+[[020 Statistics MOC]]
+[[030 Biogeochemistry MOC]]
+[[040 Biodiversity MOC]]
+[[050 Tropical Ecology MOC]]
+[[060 Remote Sensing MOC]]
+[[070 Eco Services and Latin America MOC]]
+[[080 Climate Change MOC]]
+[[100 Science Outreach MOC]]
+[[110 Interests MOC]]
 
 
 ## The Warp Core
@@ -33,7 +36,21 @@ What keeps the ship running
 
 [[160 Literature Review MOC]]
 
-Also, guides to [[Github]] and [[Obsidian Menu]] are there.
+Also, guides to [[Github]] and [[Obsidian Menu]].
+
+## Books
+```dataview
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", file.tags AS "Tags"
+WHERE contains(type, "book")
+SORT file.name ASC
+```
+
+## Talks
+```dataview
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", file.tags AS "Tags"
+WHERE contains(type, "talk")
+SORT file.name ASC
+```
 
 ## Tribbles
 
@@ -43,8 +60,3 @@ FROM #tribble and -"Templates"
 SORT file.cday ASC
 ```
 
-A concept map of the research is:
-![[Boldly Going Sept 29th 2023.excalidraw]]
-
-
-![[Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md#^group=k46WiYGQVguoJiucL_64F]]

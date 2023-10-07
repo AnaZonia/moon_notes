@@ -1,3 +1,5 @@
+#scicomm #remote_sensing 
+
 - Landsat
 - Radar tools
 	- Sentinel

@@ -1,6 +1,6 @@
 ---
-unit: Mg C/hec
-source: Landsat, GEDI, ICESat-1 and ICESat-2 lidar, airborne laser scanning (ALS), FAO forest inventory, NAIP imagery, and Planet Labs
+source:
+  - Landsat, GEDI, ICESat-1 and ICESat-2 lidar, airborne laser scanning (ALS), FAO forest inventory, NAIP imagery, and Planet Labs
 resolution: 100m
 time range: 2000-2020
 url: https://ctrees.org

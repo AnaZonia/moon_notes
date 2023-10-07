@@ -1,7 +1,6 @@
 ---
-unit: 
-resolution: 
+type: 
 time range: 
 url: 
-type:
+source:
 ---

@@ -7,8 +7,6 @@
     "location": "multitext",
     "authors": "multitext",
     "type": "multitext",
-    "status": "multitext",
-    "stardate": "text",
-    "due": "date"
+    "stardate": "text"
   }
 }

@@ -1,2 +1,4 @@
-
-#scicomm_article 
+---
+type:
+  - scicomm_article
+---

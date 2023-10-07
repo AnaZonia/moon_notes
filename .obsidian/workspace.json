@@ -8,31 +8,91 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5c9fa14f9d3a1d45",
+            "id": "bed578838e0f5770",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "GEDI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "696a65df11ba70ac",
+            "id": "2088342d7d290d32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-05 Thu.md",
+                "file": "Google Earth Engine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3eecb722f9b4731",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 Data Sources/CHIRPS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f754f4a2bcbaf6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "060 Remote Sensing MOC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "144c8d1ec9d7f4b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECOSTRESS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfbfebdac2f2067e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 Data Sources/ESA Biomass.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96a8580c81aee2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Captain's Log/2 Weekly/2023 - W40 - Oct.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -61,7 +121,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#UNDecadeEcosystemRestoration",
+                "query": "tag:#scicomm_article",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +159,7 @@
       {
         "id": "6b3e5e477cb16920",
         "type": "tabs",
-        "dimension": 34.883720930232556,
+        "dimension": 42.73255813953488,
         "children": [
           {
             "id": "b0c74e50e28a8d26",
@@ -107,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-05 Thu.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W40 - Oct.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,20 +184,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-05 Thu.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W40 - Oct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "7a37bf2cb37fad4f",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
               }
             }
           },
@@ -147,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-05 Thu.md"
+                "file": "1 Captain's Log/2 Weekly/2023 - W40 - Oct.md"
               }
             }
           },
@@ -157,7 +206,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-05 Thu.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W40 - Oct.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -187,7 +236,7 @@
             }
           },
           {
-            "id": "3ee58cc37df03a85",
+            "id": "c17af29c53427159",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -195,12 +244,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "3dbac5c2f60b2e8e",
         "type": "tabs",
-        "dimension": 65.11627906976744,
+        "dimension": 57.26744186046512,
         "children": [
           {
             "id": "f6a230dcc8184e2d",
@@ -211,8 +260,20 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "7a37bf2cb37fad4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -235,15 +296,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "fd71ba5ec04ca448",
+        "id": "322be99551f1d984",
         "type": "window",
         "children": [
           {
-            "id": "d0f231e53802e4ca",
+            "id": "b8986edf7fdd0d16",
             "type": "tabs",
             "children": [
               {
-                "id": "4971f0dcf0fb36f0",
+                "id": "194b4d7d50f1186c",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
@@ -256,43 +317,48 @@
           }
         ],
         "direction": "vertical",
-        "x": -1696,
-        "y": -319,
-        "width": 819,
-        "height": 640,
+        "x": -2992,
+        "y": -608,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "3ee58cc37df03a85",
+  "active": "96a8580c81aee2a9",
   "lastOpenFiles": [
-    "1 Captain's Log/1 Daily/2023-10-05 Thu.md",
-    "1 Captain's Log/2 Weekly/2023 - W40 - Oct.md",
-    "1 Captain's Log/2 Weekly/2023 - W36 - Sep.md",
-    "1 Captain's Log/2 Weekly/2023 - W35 - Aug.md",
-    "1 Captain's Log/2 Weekly/August 31 - Sept 5.md",
-    "1 Captain's Log/2 Weekly/August 30th.md",
-    "1 Captain's Log/2 Weekly/2023 - W34 - Aug.md",
-    "1 Captain's Log/2 Weekly/2023 - W33 - Aug.md",
     "000 The Bridge.md",
-    "001 Mess Hall.md",
-    "8 Warp Core/Obsidian Menu.md",
-    "3 Research/000 Research MOC.md",
-    "7 People and networks/Restor.md",
-    "6 Data and methods/010 R Data Visualization MOC.md",
-    "7 People and networks/Serrapilheira.md",
-    "7 People and networks/REGENERA.md",
-    "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
-    "8 Warp Core/What is the difference between a synthesis and a review.md",
-    "5 Estatística para Ecologia/010 Modelagem de Efeitos Mistos.md",
-    "7 People and networks/Mulheres e meninas na ciência.md",
-    "Tepui.md",
-    "7 People and networks/Fahrig, Lenore.md",
-    "7 People and networks/IIS - International Institute for Sustainability.md",
-    "5 Estatística para Ecologia/004 Testes de Hipóteses.md",
-    "7 People and networks/Convention on Biological Diversity.md",
-    "3 Research/Amazonia/albertHumanImpactsOutpace2023.md",
+    "4 Alexandria/Forest Productivity and Stability Under Drought - Florian Schnabel.md",
+    "1 Captain's Log/2 Weekly/2023 - W40 - Oct.md",
+    "6 Data Sources/GEO-TREES.md",
+    "Templates/3 Data Source.md",
+    "6 Data Sources/ESA Biomass.md",
+    "003 Data Sources MOC.md",
+    "Planet.md",
+    "ECOSTRESS.md",
+    "060 Remote Sensing MOC.md",
+    "GEDI.md",
+    "Sentinel-1.md",
+    "Planetary Computer.md",
+    "Templates/2 Remote Sensing Product.md",
+    "7 People and Networks/Thiago Silva.md",
+    "7 People and Networks/2ndFOR.md",
+    "6 Data Sources/Landsat dNBR.md",
+    "6 Data Sources/TreeDivNet.md",
+    "6 Data Sources/Potapov.md",
+    "6 Data Sources/MAPBIOMAS.md",
+    "6 Data Sources/GFW Carbon.md",
+    "6 Data Sources/CTrees.md",
+    "6 Data Sources/CHIRPS.md",
+    "6 Data Sources/Brazil Data Cube.md",
+    "6 Data Sources/Asner.md",
+    "De onde vem a massa das arvores.md",
+    "Files/Zotero/albertHumanImpactsOutpace2023/albertHumanImpactsOutpace2023-7-x208-y386.jpg",
+    "Files/Zotero/albertHumanImpactsOutpace2023/albertHumanImpactsOutpace2023-7-x208-y391.jpg",
+    "Files/Zotero/albertHumanImpactsOutpace2023/Cadet.jpg",
+    "Files/Zotero/albertHumanImpactsOutpace2023/Cadet-1.jpg",
+    "Files/Zotero/albertHumanImpactsOutpace2023/albertHumanImpactsOutpace2023-1-x388-y562.jpg",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Regrowth in Amazonia.canvas",
     "2 Workstation/2 - Predicting Regrowth in Panama",
     "2 Workstation/1 - Predicting Regrowth in the Amazon",
@@ -304,11 +370,6 @@
     "Etnobiology",
     "Files/Pasted Image 20230929162322_671.png",
     "Files/Pasted Image 20230929152446_009.png",
-    "Excalidraw/Scripts/Downloaded/Palette loader.svg",
-    "Excalidraw/Scripts/Downloaded/Set background color of unclosed line object by adding a shadow clone.svg",
-    "Files/PARTNERS.png",
-    "Excalidraw/Scripts/Downloaded/Organic Line Legacy.svg",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles vertically.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "3 Research/test",

@@ -1,7 +1,8 @@
 ---
-tags: 
+tags:
+  - amazonia
 url: https://aliancaamazonia.org.br/
-type:
+type: 
 location:
 ---
 ###### Related contacts/institutes: [[Jakovac, Catarina C.]]

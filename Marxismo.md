@@ -1,1 +1,2 @@
+#philosophy
 [[Materialismo Histórico]]

@@ -4,7 +4,7 @@ aliases: ["Sensitivity of South American tropical forests to an extreme climate 
 year: 2023 
 first-author: Bennett, Amy C.
 publisher: "Nature Climate Change" 
-tags:   #biomass      #climate_change      #data/plots      #water_stress   
+tags:   [biomass, climate_change, data/plots, water_stress]   
 url: https://www.nature.com/articles/s41558-023-01776-4 
 type: lit_note
 at-a-glance: ""

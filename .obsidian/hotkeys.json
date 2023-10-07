@@ -1,12 +1,4 @@
 {
-  "obsidian-zotero-desktop-connector:zdc-exp-Import Paper": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "6"
-    }
-  ],
   "workspace:split-horizontal": [
     {
       "modifiers": [
@@ -125,6 +117,22 @@
         "Alt"
       ],
       "key": "/"
+    }
+  ],
+  "obsidian-zotero-desktop-connector:zdc-exp-Import Paper": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Z"
+    }
+  ],
+  "quickadd:choice:6fb39dc2-1245-403a-aab6-55bd6a019cb0": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "6"
     }
   ]
 }

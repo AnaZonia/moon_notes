@@ -1,6 +1,8 @@
 ---
 tags:
   - tribble
+  - book
+  - philosophy
 url: 
 type:
   - book

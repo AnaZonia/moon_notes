@@ -87,7 +87,7 @@ Carbon stocks and fluxes.
 
 iDiv
 TreeDi
-#MixedForests
+
 TreeDivNet
 
 Would be interesting to look into other tree plantation experiments for future reference.

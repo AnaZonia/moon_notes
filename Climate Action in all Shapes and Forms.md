@@ -3,6 +3,7 @@ stardate: Oct 2nd 2023
 update: Oct 2nd 2023
 tags:
   - climate_change
+type:
   - scicomm_article
 ---
 

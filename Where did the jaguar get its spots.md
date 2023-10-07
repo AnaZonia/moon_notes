@@ -1,11 +1,11 @@
 ---
 tags:
   - tribble
+url: 
+type:
   - scicomm_article
-url:
 ---
 
-#scicomm_article 
 
 https://psmag.com/environment/alan-turing-enigma-code-zebra-got-stripes-leopard-spots-89223
 

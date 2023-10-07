@@ -1,5 +1,4 @@
 ---
-unit: Mg C/hec
 source:
   - P-band SAR
   - Sentinel
@@ -9,6 +8,7 @@ resolution: 100m
 time range: 2010, 2017, 2018, 2019, 2020
 url: https://catalogue.ceda.ac.uk/uuid/af60720c1e404a9e9d2c145d2b2ead4e
 ---
+
 GlobBiomass -> CCI Biomass CORE -> [Biomass](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass)
 
 [Santoro et al. 2021 - The global forest above-ground biomass pool for 2010 estimated from high-resolution satellite observations](https://essd.copernicus.org/articles/13/3927/2021/)

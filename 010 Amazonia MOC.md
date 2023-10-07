@@ -1,6 +1,5 @@
 
 
-
 Patterns of climate in the Amazon
 
 Regeneration vs regrowth vs restoration 
@@ -17,13 +16,17 @@ Degredation vs deforestation vs disturbance
 
 ### Overview and paths to follow
 
+
 [[Aliança pela Restauração da Amazônia]]
 
-
+```dataview
+LIST
+FROM #amazonia AND !"3 Research"
+WHERE !file.inlinks
+SORT file.ctime DESC
+```
 
 ## Amazonia Articles
 ```dataview
-TABLE WITHOUT ID link(file.link, default(file.aliases[0], file.name)) AS "Article", year, first-author, at-a-glance FROM "3 Research" WHERE contains(this.file.inlinks, file.link) SORT first_author ASC
+TABLE WITHOUT ID link(file.link, default(file.aliases[0], file.name)) AS "Article", year, first-author, at-a-glance FROM "3 Research" AND #amazonia SORT first_author ASC
 ```
-
-

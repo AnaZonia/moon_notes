@@ -1,16 +1,36 @@
 ## Philosophy
 
-[[Marxismo]]
-
 [[Hypatia]]
+[[Epistemology]]
+[[Ontology]]
+```dataview
+LIST
+FROM #philosophy AND !"Excalidraw"
+WHERE !file.inlinks
+SORT file.ctime DESC
+```
+
 ## Literature
 
-[[Edgar Allan Poe]]
+```dataview
+LIST
+FROM #literature AND !"Excalidraw"
+WHERE !file.inlinks
+SORT file.ctime DESC
+```
 
-[[Quando - Sophia de Mello Breyner]]
-
-[[4 Alexandria/De Repente - Elaine Matos|De Repente - Elaine Matos]]
 ## History
 
-
+```dataview
+LIST
+FROM #history AND !"Excalidraw"
+WHERE !file.inlinks
+SORT file.ctime DESC
+```
 ## Art
+```dataview
+LIST
+FROM #art AND !"Excalidraw"
+WHERE !file.inlinks
+SORT file.ctime DESC
+```

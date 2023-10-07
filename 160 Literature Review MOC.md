@@ -1,4 +1,3 @@
-[[romanelliFourChallengesWhen2021|Four challenges when conducting bibliometric reviews and how to deal with them]]
 
 Would be interesting to use some of Ilya's stuff to find the best literature search pathway for me.
 
@@ -24,3 +23,4 @@ Open knowledge maps
 
 [Ilya Shabanov on X: "An academic mind map is like Google Maps for your notes. Effortlessly navigate big projects by seeing everything in one place. Discover 3 ways it benefits scholars: 👇 https://t.co/s2oJwr5I9e" / X (twitter.com)](https://twitter.com/Artifexx/status/1650777930107166720)
 
+[[The difference between a synthesis and a review]]

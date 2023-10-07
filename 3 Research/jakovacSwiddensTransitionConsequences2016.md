@@ -17,7 +17,7 @@ at-a-glance: ""
 
 **Bibliography:** Jakovac, Catarina C., Marielos Peña-Claros, Rita C.G. Mesquita, Frans Bongers, and Thomas W. Kuyper. ‘Swiddens under Transition: Consequences of Agricultural Intensification in the Amazon’. _Agriculture, Ecosystems & Environment_ 218 (February 2016): 116–25. [https://doi.org/10.1016/j.agee.2015.11.013](https://doi.org/10.1016/j.agee.2015.11.013). 
 
- [[010 Amazonia MOC]]  [[070 Social Context of Latin America MOC]]
+ [[010 Amazonia MOC]]  [[070 Eco Services and Latin America MOC]]
 #### Authors:
 [[Jakovac, Catarina C.]], [[Peña-Claros, Marielos]], [[Mesquita, Rita C.G.]], [[Bongers, Frans]], [[Kuyper, Thomas W.]]
 #### Notes:

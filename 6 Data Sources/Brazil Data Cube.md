@@ -1,5 +1,4 @@
 ---
-unit: 
 source: 
 resolution: 
 time range: 

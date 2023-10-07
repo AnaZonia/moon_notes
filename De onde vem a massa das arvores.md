@@ -1,7 +1,6 @@
 ---
 tags:
   - biomass
-  - scicomm
   - climate_change
 type:
   - scicomm_article

@@ -1,4 +1,10 @@
-Explore the options that there are and the methods for land use classification with remote sensing. Contact Javier, Hossein, Jeff Cardille and Elizabeth afterwards with possibilities.
+
+```dataview
+TABLE WITHOUT ID link(file.link, file.name) AS "Name", at-a-glance 
+FROM #remote_sensing
+WHERE !file.folder AND !file.inlinks
+```
+
 
 https://samgeo.gishub.org/
 https://joss.theoj.org/papers/10.21105/joss.05663
@@ -6,13 +12,11 @@ https://joss.theoj.org/papers/10.21105/joss.05663
 
 [(2) Avaliação de produtos para quantificar a área queimada MAP-FIRE - YouTube](https://www.youtube.com/watch?v=mcl2zSUTnAg)
 
-spectral tools can tell the atmosphere
-hyperspectral
-radar
+[[Star Party Talk]]
 
 
-[[Labriere 2022- Toward a forest biomass reference measurement system for remote sensing applications]]
-- New fund for STRI will help their own data collection of forest biomass data in and out of Panama: [Carbon verification | Smithsonian Tropical Research Institute (si.edu)](https://stri.si.edu/story/carbon-verification)
+
+
 
 [[ECOSTRESS]]
 

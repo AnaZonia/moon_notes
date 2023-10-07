@@ -6,6 +6,7 @@ resolution:
 time range: 2003-2010, 2018-
 url: https://icesat.gsfc.nasa.gov/
 ---
+#remote_sensing 
 - & Geoscience Laser Altimeter System (GLAS) is a LiDAR instrument aboard ICESat-1
 - & Advanced Topographic Laser Altimeter System (ATLAS) is a LiDAR instrument aboard ICESat-2, launched in 2018
 

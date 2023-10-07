@@ -4,7 +4,7 @@ aliases: ["Human impacts outpace natural processes in the Amazon"]
 year: 2023 
 first-author: Albert, James S.
 publisher: "Science" 
-tags:   #land_use      #amazonia      #deforestation   
+tags:  [land_use, deforestation, amazonia]
 url: https://www.science.org/doi/10.1126/science.abo5003 
 type: lit_note
 at-a-glance: ""
@@ -14,8 +14,6 @@ at-a-glance: ""
 >[!summary] Summary
 > 
 
-**Bibliography:** Albert, James S., Ana C. Carnaval, Suzette G. A. Flantua, Lúcia G. Lohmann, Camila C. Ribas, Douglas Riff, Juan D. Carrillo, et al. ‘Human Impacts Outpace Natural Processes in the Amazon’. _Science_ 379, no. 6630 (27 January 2023): eabo5003. [https://doi.org/10.1126/science.abo5003](https://doi.org/10.1126/science.abo5003). 
- [[010 Amazonia MOC]] 
 #### Authors:
 [[Albert, James S.]], [[Carnaval, Ana C.]], [[Flantua, Suzette G. A.]], [[Lohmann, Lúcia G.]], [[Ribas, Camila C.]], [[Riff, Douglas]], [[Carrillo, Juan D.]], [[Fan, Ying]], [[Figueiredo, Jorge J. P.]], [[Guayasamin, Juan M.]], [[Hoorn, Carina]], [[De Melo, Gustavo H.]], [[Nascimento, Nathália]], [[Quesada, Carlos A.]], [[Ulloa Ulloa, Carmen]], [[Val, Pedro]], [[Arieira, Julia]], [[Encalada, Andrea C.]], [[Nobre, Carlos A.]]
 #### Notes:

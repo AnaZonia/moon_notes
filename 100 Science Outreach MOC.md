@@ -1,18 +1,8 @@
 
 > [!success] Estratégias e iniciativas para divulgação e comunicação científica no Brasil
 
-
-
-Chicão (Arraial)
-
 [[Serrapilheira]]
-Diane
 
-[[Serrapilheira#Blog Ciencia Fundamental na Folha]]
-
-[[De onde vem a massa das arvores]]
-
-Talvez publicar um artigo de opinião na ciencia hoje seja uma boa ideia.
 [Revista Ciência Hoje (archive.org)](https://web.archive.org/web/20050210211053/http://cienciahoje.uol.com.br/view/3190)
 
 [Divulgação científica: para quem e por quem? | Ciência Hoje (cienciahoje.org.br)](https://cienciahoje.org.br/coluna/divulgacao-cientifica-para-quem-e-por-quem/)
@@ -23,7 +13,7 @@ talvez escrever pro ciencia hoje seja boa ideia?
 existe algum projeto pra palestras pela [[SBPC - Sociedade Brasileira para o Progresso da Ciência]]. marcelo e a Juana tao sabendo. tem que perguntar a eles.
 
 
-## aplicativos para divulgação
+## Desenvolvimento de Aplicativos
 
 Talvez seja uma iniciativa legal fazer aplicativos pra matemática intuitiva.
 
@@ -36,19 +26,16 @@ O exemplo que o Marcelo fez pro [relógio de sol](https://drive.google.com/file/
 
 [Desenvolvimento Android Completo - Crie 18 Apps | Udemy](https://www.udemy.com/course/curso-de-desenvolvimento-android-oreo/)
 
-[[Where did the jaguar get its spots]]
-
-[[Edgar Allan Poe]] and his love for science and science fiction?
- 
-[[Star Party Talk]]
 ## Essays
-
 ```dataview
-
 LIST
-
-FROM #scicomm_article
-
+WHERE contains(type, "scicomm_article")
 SORT file.ctime DESC
 ```
 
+```dataview
+LIST
+FROM #scicomm AND !"3 Research" AND !"Excalidraw"
+WHERE !file.inlinks
+SORT file.ctime DESC
+```
