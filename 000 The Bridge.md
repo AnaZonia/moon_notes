@@ -10,30 +10,34 @@ FROM "2 Workstation"
 A map to all available data sources, remote sensing products and models
 
 [[004 People and Networks MOC]]
+A summary of relevant people, NGOs, and research networks in my field
 
 ## Learning Center
 
-[[020 Statistics MOC]]
+### Life Sciences
+[[020 Tropical Ecology MOC]]
 [[030 Biogeochemistry MOC]]
 [[040 Biodiversity MOC]]
-[[050 Tropical Ecology MOC]]
+
+### Methods
 [[060 Remote Sensing MOC]]
+[[050 Statistics MOC]]
+
+### Impacts
 [[070 Eco Services and Latin America MOC]]
 [[080 Climate Change MOC]]
 [[100 Science Outreach MOC]]
-[[110 Interests MOC]]
 
+### Other interests
+Philosophy, Literature, History and Art
+[[110 Interests MOC]]
 
 ## The Warp Core
 What keeps the ship running
 [[120 R Data Visualization MOC]]
-
 [[130 Python MOC]]
-
 [[140 Notetaking MOC]]
-
 [[150 Writing Science MOC]]
-
 [[160 Literature Review MOC]]
 
 Also, guides to [[Github]] and [[Obsidian Menu]].

@@ -46,10 +46,8 @@
   "150 Writing Science MOC.md": "LiSettings",
   "160 Literature Review MOC.md": "LiSettings",
   "170 Debates and Discourse MOC.md": "RiSpeakLine",
-  "020 Statistics MOC.md": "TiChartHistogram",
   "030 Biogeochemistry MOC.md": "LiLeaf",
   "040 Biodiversity MOC.md": "LiDna",
-  "050 Tropical Ecology MOC.md": "LiBird",
   "080 Climate Change MOC.md": "RiEarthLine",
   "001 Rolling ideas.md": "TiBulb",
   "2 Workstation/2 - Predicting Regrowth in Central America/Predicting Regrowth in Central America - Project.md": "LiScroll",
@@ -60,5 +58,7 @@
   "003 Data Sources MOC.md": "SiGoogleearth",
   "6 Data Sources": "SiGoogleearth",
   "Templates/3 Data Source.md": "SiGoogleearth",
-  "Templates/2 Remote Sensing Product.md": "TiSatellite"
+  "Templates/2 Remote Sensing Product.md": "TiSatellite",
+  "020 Tropical Ecology MOC.md": "LiBird",
+  "050 Statistics MOC.md": "TiChartHistogram"
 }
