@@ -1118,7 +1118,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "Climate Change",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "image",
@@ -2941,8 +2941,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		},
 		{
 			"type": "text",
-			"version": 285,
-			"versionNonce": 613168050,
+			"version": 286,
+			"versionNonce": 585583885,
 			"isDeleted": false,
 			"id": "f2Umh9Zm",
 			"fillStyle": "hachure",
@@ -2962,7 +2962,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696627770502,
+			"updated": 1696686616813,
 			"link": null,
 			"locked": false,
 			"fontSize": 11.248006712643447,
@@ -3495,7 +3495,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "#eco_services/disease/dengue\n#eco_services/disease/malaria\n#eco_services/disease/chagas",
 			"lineHeight": 1.25,
-			"baseline": 39
+			"baseline": 38
 		},
 		{
 			"type": "text",
@@ -4491,7 +4491,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "Science Outreach",
 			"lineHeight": 1.25,
-			"baseline": 20
+			"baseline": 21
 		},
 		{
 			"type": "text",
@@ -4805,7 +4805,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"y": -22.042296686796476,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#a5d8ff",
-			"width": 231.23263549804688,
+			"width": 232.7366485595703,
 			"height": 20,
 			"seed": 1481628075,
 			"groupIds": [],
@@ -4813,16 +4813,16 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"roundness": null,
 			"boundElements": [],
 			"updated": 1696126234185,
-			"link": "[[050 Tropical Ecology MOC]]",
+			"link": "[[020 Tropical Ecology MOC]]",
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 1,
-			"text": "📍050 Tropical Ecology MOC",
-			"rawText": "[[050 Tropical Ecology MOC]]",
+			"text": "📍020 Tropical Ecology MOC",
+			"rawText": "[[020 Tropical Ecology MOC]]",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "📍050 Tropical Ecology MOC",
+			"originalText": "📍020 Tropical Ecology MOC",
 			"lineHeight": 1.25,
 			"baseline": 14
 		},
@@ -5054,7 +5054,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": "W-l75eJjybMPUqWU817AJ",
 			"originalText": "ULTIMATE GOAL",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "rectangle",
@@ -5161,8 +5161,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		},
 		{
 			"type": "text",
-			"version": 307,
-			"versionNonce": 672056430,
+			"version": 308,
+			"versionNonce": 1539937859,
 			"isDeleted": false,
 			"id": "pTLG4a6P",
 			"fillStyle": "hachure",
@@ -5182,7 +5182,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696627783164,
+			"updated": 1696686616846,
 			"link": null,
 			"locked": false,
 			"fontSize": 15.803124885819269,
@@ -5194,7 +5194,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "",
 			"lineHeight": 1.25,
-			"baseline": 13
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -5235,8 +5235,8 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		},
 		{
 			"type": "text",
-			"version": 307,
-			"versionNonce": 1859651246,
+			"version": 308,
+			"versionNonce": 1341399917,
 			"isDeleted": false,
 			"id": "6Qs3uIrK",
 			"fillStyle": "hachure",
@@ -5256,7 +5256,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696627783164,
+			"updated": 1696686616849,
 			"link": null,
 			"locked": false,
 			"fontSize": 15.803124885819269,
@@ -5268,7 +5268,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "",
 			"lineHeight": 1.25,
-			"baseline": 13
+			"baseline": 14
 		},
 		{
 			"type": "text",
@@ -5416,7 +5416,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "lit note",
 			"lineHeight": 1.25,
-			"baseline": 27
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -5685,7 +5685,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "Other tags",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "rectangle",
@@ -5751,12 +5751,12 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "Research Articles",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
-			"version": 402,
-			"versionNonce": 1236430706,
+			"version": 403,
+			"versionNonce": 1935922659,
 			"isDeleted": false,
 			"id": "jyOAFK34",
 			"fillStyle": "hachure",
@@ -5776,7 +5776,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696627783165,
+			"updated": 1696686616859,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5825,12 +5825,12 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "Interests",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
-			"version": 402,
-			"versionNonce": 1079488818,
+			"version": 403,
+			"versionNonce": 1171729869,
 			"isDeleted": false,
 			"id": "xb63tFGu",
 			"fillStyle": "hachure",
@@ -5850,7 +5850,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696627783165,
+			"updated": 1696686616860,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5899,7 +5899,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "#review\n#meta-analysis\n#number_one\n#model\n#synthesis",
 			"lineHeight": 1.25,
-			"baseline": 180
+			"baseline": 182
 		},
 		{
 			"type": "text",
@@ -5936,12 +5936,12 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "#tribble\n#quote",
 			"lineHeight": 1.25,
-			"baseline": 65
+			"baseline": 66
 		},
 		{
 			"type": "text",
-			"version": 693,
-			"versionNonce": 321135918,
+			"version": 694,
+			"versionNonce": 148185475,
 			"isDeleted": false,
 			"id": "RXeVJA69",
 			"fillStyle": "hachure",
@@ -5961,7 +5961,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696627783165,
+			"updated": 1696686616862,
 			"link": null,
 			"locked": false,
 			"fontSize": 30.877551020408124,
@@ -5973,7 +5973,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "#philosophy\n#history\n#literature\n#art\n",
 			"lineHeight": 1.25,
-			"baseline": 180
+			"baseline": 182
 		},
 		{
 			"type": "text",
@@ -6010,7 +6010,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "Notes",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -6047,7 +6047,7 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"containerId": null,
 			"originalText": "📍110 Interests MOC",
 			"lineHeight": 1.25,
-			"baseline": 25
+			"baseline": 24
 		},
 		{
 			"type": "text",
@@ -6159,156 +6159,6 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 			"originalText": "#tropical_dry_forests",
 			"lineHeight": 1.25,
 			"baseline": 18
-		},
-		{
-			"id": "wnxqDWmO",
-			"type": "text",
-			"x": 1458.9469556534225,
-			"y": 979.1585355128238,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "cross-hatch",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 2052688562,
-			"version": 2,
-			"versionNonce": 217595950,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1696630589089,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 18,
-			"containerId": "k46WiYGQVguoJiucL_64F",
-			"originalText": "",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "ef471i7L",
-			"type": "text",
-			"x": 1458.9469556534225,
-			"y": 979.1585355128238,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "cross-hatch",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 499938930,
-			"version": 2,
-			"versionNonce": 1596840046,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1696630587594,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 18,
-			"containerId": "k46WiYGQVguoJiucL_64F",
-			"originalText": "",
-			"lineHeight": 1.25
-		},
-		{
-			"id": "fK06gA50",
-			"type": "text",
-			"x": 1458.9469556534225,
-			"y": 979.1585355128238,
-			"width": 10,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "cross-hatch",
-			"strokeWidth": 4,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 38624302,
-			"version": 2,
-			"versionNonce": 1080101618,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1696630587040,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 1,
-			"textAlign": "center",
-			"verticalAlign": "middle",
-			"baseline": 18,
-			"containerId": "k46WiYGQVguoJiucL_64F",
-			"originalText": "",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 586,
-			"versionNonce": 1097968754,
-			"isDeleted": true,
-			"id": "wf48Bkd3",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1152.578956721148,
-			"y": 997.8462926247557,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
-			"width": 126.636962890625,
-			"height": 34.56933568772965,
-			"seed": 90288,
-			"groupIds": [
-				"XuhMzGM68HsrLA_oW7P2x"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1696630582192,
-			"link": null,
-			"locked": false,
-			"fontSize": 27.65546855018372,
-			"fontFamily": 1,
-			"text": "professor",
-			"rawText": "professor",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "professor",
-			"lineHeight": 1.25,
-			"baseline": 24
 		}
 	],
 	"appState": {
@@ -6326,10 +6176,10 @@ fe6995726106e8ce97e77f30ec9322f6472a8144: https://cdn-icons-png.flaticon.com/128
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": "dot",
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -562.8894118913989,
-		"scrollY": -69.44376252560852,
+		"scrollX": 1374.20149719951,
+		"scrollY": 965.3630556562096,
 		"zoom": {
-			"value": 0.5499999999999999
+			"value": 0.25
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
