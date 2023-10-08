@@ -1,6 +1,6 @@
 {
   "database": "Zotero",
-  "noteImportFolder": "3 Research/",
+  "noteImportFolder": "3 Alexandria/Research",
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
@@ -14,14 +14,14 @@
   "exportFormats": [
     {
       "name": "Import Paper",
-      "outputPathTemplate": "3 Research/{{citekey}}.md",
-      "imageOutputPathTemplate": "Files/Zotero/{{citekey}}/",
+      "outputPathTemplate": "3 Alexandria/Research/{{citekey}}.md",
+      "imageOutputPathTemplate": "Files/{{citekey}}/",
       "imageBaseNameTemplate": "{{citekey}}",
       "templatePath": "Templates/Research article.md"
     }
   ],
   "citeSuggestTemplate": "[[{{citekey}}]]",
-  "openNoteAfterImport": false,
+  "openNoteAfterImport": true,
   "whichNotesToOpenAfterImport": "first-imported-note",
   "shouldConcat": true
 }

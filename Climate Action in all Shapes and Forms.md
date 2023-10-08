@@ -1,4 +1,5 @@
 ---
+up: "[[320 Climate Change]]"
 stardate: Oct 2nd 2023
 update: Oct 2nd 2023
 tags:
@@ -6,7 +7,6 @@ tags:
 type:
   - scicomm_article
 ---
-
 # Story
 Educated professionals of the Global North have great power to help change the course of the climate crisis - and with this power, comes responsibility.
 

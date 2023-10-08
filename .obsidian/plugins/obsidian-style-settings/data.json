@@ -3,7 +3,7 @@
   "minimal-style@@h2-color@@light": "#DFB0BF",
   "minimal-style@@h3-color@@light": "#E78FAC",
   "minimal-style@@h4-color@@light": "#7EFF81",
-  "minimal-advanced@@styled-scrollbars": false,
+  "minimal-advanced@@styled-scrollbars": true,
   "things-style@@h1-color": "#008503",
   "things-style@@h2-color": "#4FAC51",
   "things-style@@h3-color": "#84CB86",
@@ -51,5 +51,7 @@
   "minimal-style@@tag-background@@dark": "#3A4C34",
   "minimal-style@@tag-color@@dark": "#F7EDDE",
   "minimal-style@@bold-color@@dark": "#DB94D9",
-  "minimal-style@@minimal-strike-lists": true
+  "minimal-style@@minimal-strike-lists": true,
+  "minimal-style@@callouts-style": "callouts-default",
+  "minimal-style@@italic-color@@dark": "#8CC696"
 }

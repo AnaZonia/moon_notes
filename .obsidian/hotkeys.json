@@ -103,14 +103,6 @@
       "key": "S"
     }
   ],
-  "quickadd:choice:386d5716-d9c7-44b6-9172-1b5a2db43960": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "4"
-    }
-  ],
   "quickadd:choice:611e189d-a191-4f8e-83b5-7197b4b49e86": [
     {
       "modifiers": [
@@ -132,7 +124,15 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "6"
+      "key": "5"
+    }
+  ],
+  "quickadd:choice:386d5716-d9c7-44b6-9172-1b5a2db43960": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
     }
   ]
 }

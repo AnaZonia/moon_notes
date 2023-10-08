@@ -43,7 +43,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "4 Alexandria"
+          "3 Alexandria"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
@@ -65,7 +65,7 @@
       "name": "Data Source",
       "type": "Template",
       "command": true,
-      "templatePath": "Templates/3 Data and methods.md",
+      "templatePath": "Templates/3 Data Source.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{VALUE:Data and Methods}}"
@@ -73,7 +73,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "6 Data and Methods"
+          "5 Data Sources"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

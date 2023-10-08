@@ -1,5 +1,6 @@
 ---
+up:
+  - "[[110 Remote Sensing]]"
 type:
   - platform
 ---
-#remote_sensing 

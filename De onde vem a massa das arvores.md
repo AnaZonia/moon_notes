@@ -1,12 +1,14 @@
 ---
+up: "[[550 Science Outreach]]"
 tags:
   - biomass
   - climate_change
+  - plant_physiology
 type:
   - scicomm_article
+stardate: Sep 24th 2023
+update: Oct 7th 2023
 ---
-
-
 
 [Feynman](https://www.youtube.com/watch?v=ifk6iuLQk28)
 
@@ -18,7 +20,7 @@ Então pra grande parte das pessoas, o conceito de sequestro de carbono é um mi
 É importante conhecer o papel crucial das árvores - e só assim realmente compreender a dimensão do desastre das queimadas.
 
 - Investigar perda de carbono no solo:
-[[Soil carbon]]
+[[Soil Carbon]]
 
 - Revisar fotossíntese
 [[Photosynthesis]]

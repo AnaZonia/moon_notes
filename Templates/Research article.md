@@ -4,17 +4,18 @@ aliases: ["{{title}}"]
 year: {{date | format("YYYY")}} 
 first-author: {{creators[0].lastName}}, {{creators[0].firstName}}
 publisher: "{{publicationTitle}}" 
-tags: [{% for t in tags %}{{ t.tag }}, {% if not loop.last %}{% endif %}{% endfor %}]
+tags:[{% for t in tags %}{% if t.tag in ['review', 'meta_analysis', 'number_one', 'model', 'synthesis', 'thesis', 'data/plots'] %}{{ t.tag }}, {% endif %}{% if not loop.last %}{% endif %}{% endfor %}]
 url: {{url}} 
 type: lit_note
 at-a-glance: ""
 
 --- 
 #tribble
+{% for t in tags %}{% if t.tag not in ['review', 'meta_analysis', 'number_one', 'model', 'synthesis', 'thesis', 'data/plots'] %}[[{{t.tag}}]]{% endif %}{% if not loop.last %}, {% endif %}{% endfor %}
+
 >[!summary] Summary
 
 >[!quote] Cited
-
 #### Authors:
 {% for t in creators %}[[{{t.lastName}}, {{t.firstName}}]]{% if not loop.last %}, {% endif %}{% endfor %}
 #### Notes:

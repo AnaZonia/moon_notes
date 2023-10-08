@@ -1,11 +1,29 @@
 ---
+up:
+  - "[[110 Remote Sensing]]"
 type:
-  - LiDAR
-resolution: 
-time range: 
-url:
+  - "[[LiDAR]]"
+source:
+  - NASA
+resolution: 25m-1km
+time range: 04/2019-08/2021
+url: https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2017
+tags:
+  - remote_sensing/lidar/GEDI
 ---
-#remote_sensing 
+The GEDI L4A Footprint Biomass product converts each high-quality waveform to an AGBD prediction, and the L4B product uses the sample present within the borders of each 1 km cell to statistically infer mean AGBD.
+
+### 4A
+Deciduous tropical forests are underrepresented.
+
+The algorithm setting group selection used for GEDI02_A Version 2 has been modified for Evergreen Broadleaf Trees in South America to reduce false positive errors resulting from the selection of waveform modes above ground elevation as the lowest mode.
+
+GEDI04_A models were developed using a quality-filtered calibration dataset that contains simulated GEDI waveforms and field estimates of AGBD: the Forest Structure and Biomass Database (FSBD). 
+
+Footprint AGBD was derived from parametric models that relate simulated GEDI Level 2A (L2A) waveform relative height (RH) metrics to field plot estimates of AGBD. Height metrics from simulated waveforms associated with field estimates of AGBD from multiple regions and plant functional types (PFTs) were compiled to generate a calibration dataset for models representing the combinations of world regions and PFTs (i.e., deciduous broadleaf trees, evergreen broadleaf trees, evergreen needleleaf trees, deciduous needleleaf trees, and the combination of grasslands, shrubs, and woodlands).
+Methods algorithm for generating 4A
+[Algorithm Theoretical Basis Document for GEDI Footprint Aboveground Biomass Density (mcgill.ca)](https://agupubs-onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/epdf/10.1029/2022EA002516)
+
 
 [gedi_tutorials/1_gedi_l4a_search_download.ipynb at main · ornldaac/gedi_tutorials (github.com)](https://github.com/ornldaac/gedi_tutorials/blob/main/1_gedi_l4a_search_download.ipynb)
 

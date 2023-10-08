@@ -1,9 +1,9 @@
 {
-  "collapse-filter": false,
-  "search": "",
+  "collapse-filter": true,
+  "search": "-path:\"1 Captain's Log\" -path:\"Excalidraw\" -path:\"Templates\" -tag:#tribble  ",
   "showTags": true,
   "showAttachments": true,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [],
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1155263101215874,
-  "close": true
+  "scale": 0.11552631012158747,
+  "close": false
 }

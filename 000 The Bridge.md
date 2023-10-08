@@ -1,57 +1,52 @@
 ## Science Officer
-
 The Workstation is where the projects happen.
 ```dataview
 LIST
 FROM "2 Workstation"
 ```
+[[003 Data Sources]]
+Summary of data on LULC, forest plots, plant traits, biomass, fire, climate and soil
 
-[[003 Data Sources MOC]]
-A map to all available data sources, remote sensing products and models
+[[004 People and Networks]]
+Summary of relevant people, NGOs, and research networks
 
-[[004 People and Networks MOC]]
-A summary of relevant people, NGOs, and research networks in my field
-
-## Learning Center
+### Quantitative
+- [[110 Remote Sensing]]
+- [[120 Statistics]]
+- [[130 Python]]
+- [[140 R Data Visualization]]
 
 ### Life Sciences
-[[020 Tropical Ecology MOC]]
-[[030 Biogeochemistry MOC]]
-[[040 Biodiversity MOC]]
+- [[210 Tropical Ecology]]
+- [[220 Biogeochemistry]]
+- [[230 Biodiversity]]
+- [[240 Theoretical Ecology]]
 
-### Methods
-[[060 Remote Sensing MOC]]
-[[050 Statistics MOC]]
-
-### Impacts
-[[070 Eco Services and Latin America MOC]]
-[[080 Climate Change MOC]]
-[[100 Science Outreach MOC]]
+### Conservation
+- [[310 Latin American Agriculture]]
+- [[320 Climate Change]]
+- [[330 Policy]]
 
 ### Other interests
-Philosophy, Literature, History and Art
-[[110 Interests MOC]]
+- [[410 Interests]]
 
-## The Warp Core
-What keeps the ship running
-[[120 R Data Visualization MOC]]
-[[130 Python MOC]]
-[[140 Notetaking MOC]]
-[[150 Writing Science MOC]]
-[[160 Literature Review MOC]]
-
-Also, guides to [[Github]] and [[Obsidian Menu]].
+### Communication
+- [[510 Notetaking]]
+- [[520 Writing Science]]
+- [[530 Literature Review]]
+- [[540 Debates and Discourse]]
+- [[550 Science Outreach]]
 
 ## Books
 ```dataview
-TABLE WITHOUT ID link(file.link, file.name) AS "Title", file.tags AS "Tags"
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", up AS "Parent"
 WHERE contains(type, "book")
 SORT file.name ASC
 ```
 
 ## Talks
 ```dataview
-TABLE WITHOUT ID link(file.link, file.name) AS "Title", file.tags AS "Tags"
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", up as "Parent"
 WHERE contains(type, "talk")
 SORT file.name ASC
 ```
@@ -63,4 +58,5 @@ TABLE file.cday AS "stardate"
 FROM #tribble and -"Templates"
 SORT file.cday ASC
 ```
+
 

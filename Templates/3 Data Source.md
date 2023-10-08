@@ -1,7 +1,9 @@
 ---
+up:
+  - "[[003 Data Sources]]"
 type: 
-time range: 
+mission: 
+resolution: 
+time_range: 
 url: 
-source: 
-resolution:
 ---

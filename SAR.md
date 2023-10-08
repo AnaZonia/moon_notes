@@ -1,7 +1,9 @@
 ---
-type:
+up:
+  - "[[110 Remote Sensing]]"
+tags:
+  - remote_sensing/sar
 ---
-#remote_sensing 
 
 [What is Synthetic Aperture Radar? | Earthdata (nasa.gov)](https://www.earthdata.nasa.gov/learn/backgrounders/what-is-sar)
 

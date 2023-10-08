@@ -1,3 +1,9 @@
+---
+up:
+  - "[[000 The Bridge]]"
+stardate: Sep 24th 2023
+update: Sep 24th 2023
+---
 
 ```bash
 # begin a new repository
