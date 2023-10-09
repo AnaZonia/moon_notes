@@ -9,8 +9,6 @@ mission:
 resolution: 30m
 at-a-glance: NBR Landsat, ground-truthed with fire scars (deep learning)
 ---
-#mapbiomas
-
 
 [[Sentinel 2]] NBR for the ongoing monitoring (Fire Monitor)
 

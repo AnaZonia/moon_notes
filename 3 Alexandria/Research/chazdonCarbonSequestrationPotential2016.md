@@ -4,19 +4,18 @@ aliases: ["Carbon sequestration potential of second-growth forest regeneration i
 year: 2016 
 first-author: Chazdon, Robin L.
 publisher: "Science Advances" 
-tags: [land_use, number_one, model, biomass, regrowth, remote_sensing/lidar, remote_sensing/modis, ]
+tags: [number_one, model ]
 url: https://www.science.org 
 type: lit_note
 at-a-glance: "Model extent and growth of secondary forests in latin america"
 
 --- 
+[[LiDAR]], [[MODIS]], [[Regrowth]], [[Biomass]], [[Land Use]]
 
 >[!summary] Summary
 >Modelled carbon sequestration in latin america using 2008 Baccini remote sensing. Called for future incorporation of land use on carbon models
 
 >[!quote] Cited
-
-**Bibliography:** Chazdon, Robin L., Eben N. Broadbent, Danaë M. A. Rozendaal, Frans Bongers, Angélica María Almeyda Zambrano, T. Mitchell Aide, Patricia Balvanera, et al. ‘Carbon Sequestration Potential of Second-Growth Forest Regeneration in the Latin American Tropics’. _Science Advances_ 2, no. 5 (1 May 2016). [https://doi.org/10.1126/SCIADV.1501639](https://doi.org/10.1126/SCIADV.1501639). 
 
       
 #### Authors:

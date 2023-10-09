@@ -1,3 +1,13 @@
+---
+up:
+  - "[[210 Tropical Ecology]]"
+stardate: Sep 23rd 2023
+update: Oct 8th 2023
+tags:
+  - glossary
+---
+
+
 Montane forests grow above 1000m from sea level.
 - called yungas in the Andes
 

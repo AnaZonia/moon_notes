@@ -4,7 +4,7 @@ aliases: ["Key role of symbiotic dinitrogen fixation in tropical forest secondar
 year: 2013 
 first-author: Batterman, Sarah A.
 publisher: "Nature" 
-tags: [model, data/plots]
+tags: [model, plots]
 url: https://www.nature.com/articles/nature12525 
 type: lit_note
 at-a-glance: ""

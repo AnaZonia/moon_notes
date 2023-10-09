@@ -1,6 +1,4 @@
 ---
-up:
-  - "[[110 Remote Sensing]]"
 type:
   - "[[Hyperspectral]]"
 source:
@@ -8,8 +6,7 @@ source:
 resolution: 30m
 time range: 1985-
 url: 
-tags:
-  - remote_sensing/landsat
+tags: []
 ---
 
 ### Landsat NBR

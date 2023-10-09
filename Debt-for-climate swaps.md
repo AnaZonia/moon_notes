@@ -1,10 +1,8 @@
 ---
-up: "[[320 Climate Change]]"
+up:
+  - "[[Policy]]"
 aliases:
   - canje-de-deuda
-tags:
-  - climate_change
-  - policy
 stardate: Sep 25th 2023
 update: Oct 7th 2023
 ---

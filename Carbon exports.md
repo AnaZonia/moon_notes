@@ -3,9 +3,6 @@ up: "[[320 Climate Change]]"
 aliases:
   - emission transfers
 ---
-
-#climate_change 
-
 [Mapped: The world’s largest CO2 importers and exporters - Carbon Brief](https://www.carbonbrief.org/mapped-worlds-largest-co2-importers-exporters/)
 
 [Carbon dioxide emissions from a consumption perspective - Canada.ca](https://www.canada.ca/en/environment-climate-change/services/environmental-indicators/carbon-dioxide-emissions-consumption-perspective.html)

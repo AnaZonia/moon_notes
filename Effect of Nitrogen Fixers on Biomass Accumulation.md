@@ -1,5 +1,6 @@
 ---
-up: "[[230 Biodiversity]]"
+up:
+  - "[[220 Biogeochemistry]]"
 stardate: Oct 1st 2023
 update: Oct 1st 2023
 tags:

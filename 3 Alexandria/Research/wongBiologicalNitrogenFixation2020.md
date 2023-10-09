@@ -4,16 +4,16 @@ aliases: ["Biological Nitrogen Fixation Does Not Replace Nitrogen Losses After F
 year: 2020 
 first-author: Wong, Michelle Y.
 publisher: "Ecosystems" 
-tags:   #amazonia      #fire      #nitrogen   
+tags:
 url: http://link.springer.com/10.1007/s10021-019-00453-y 
 type: lit_note
 at-a-glance: ""
 
 --- 
 authors: [[Wong, Michelle Y.]], [[Neill, Christopher]], [[Marino, Roxanne]], [[Silvério, Divino V.]], [[Brando, Paulo M.]], [[Howarth, Robert W.]]
-[[Amazonia]]  
 
-**Bibliography:** Wong, Michelle Y., Christopher Neill, Roxanne Marino, Divino V. Silvério, Paulo M. Brando, and Robert W. Howarth. ‘Biological Nitrogen Fixation Does Not Replace Nitrogen Losses After Forest Fires in the Southeastern Amazon’. _Ecosystems_ 23, no. 5 (August 2020): 1037–55. [https://doi.org/10.1007/s10021-019-00453-y](https://doi.org/10.1007/s10021-019-00453-y). 
+[[Amazonia]], [[Fire]], [[Nitrogen]]
+
 
 >[!summary] Summary
 > 

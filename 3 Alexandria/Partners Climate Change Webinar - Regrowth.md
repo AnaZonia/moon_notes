@@ -21,7 +21,7 @@ type:
 ### Building climate adapted and carbon-rich landscapes of high ecosystem values across natural forests, plantations and agroforestry - presented by Promode Kant, Institute of Green Economy
 
 
-### Carbon mitigation scenarios for forest restoration in the tropics - presented by Robin Chazdon, University of Connecticut
+### Carbon mitigation scenarios for forest restoration in the tropics - presented by [[Chazdon, Robin L.|Chazdon, Robin]], University of Connecticut
 
 
 ### Moderated Q&A and discussion - led by Gillian Bloomfield, Environmental Leadership & Training Initiative (ELTI) at Yale F&ES

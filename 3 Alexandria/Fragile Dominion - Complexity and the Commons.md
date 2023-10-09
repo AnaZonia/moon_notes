@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[330 Policy]]"
+  - "[[Policy]]"
 tags:
   - tribble
 type:

@@ -4,13 +4,14 @@ aliases: ["Recuperation of nitrogen cycling in Amazonian forests following agric
 year: 2007 
 first-author: Davidson, Eric A.
 publisher: "Nature" 
-tags: [regrowth, nitrogen, phosphorus, ]
+tags:
 url: https://www.nature.com/articles/nature05900 
 type: lit_note
 at-a-glance: ""
 
 --- 
 #tribble
+[[Regrowth]], [[Nitrogen]], [[Phosphorus]]
 >[!summary] Summary
 
 >[!quote] Cited

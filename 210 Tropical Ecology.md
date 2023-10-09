@@ -3,6 +3,7 @@
 - [[Cerrado]]
 - [[Mata Atlântica]]
 - [[Caatinga]]
+- [[Pantanal]]
 
 [[Tropical Dry Forests]]
 [[Ecosystem Functioning]]

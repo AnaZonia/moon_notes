@@ -1,9 +1,8 @@
 ---
 up:
-  - "[[410 Interests]]"
+  - "[[Philosophy]]"
 tags:
   - tribble
-  - philosophy
 type:
   - book
 stardate: Sep 29th 2023

@@ -1,9 +1,7 @@
 ---
-up: "[[550 Science Outreach]]"
-tags:
-  - biomass
-  - climate_change
-  - plant_physiology
+up:
+  - "[[550 Science Outreach]]"
+  - "[[Plant Physiology]]"
 type:
   - scicomm_article
 stardate: Sep 24th 2023

@@ -4,20 +4,18 @@ aliases: ["Spatial and temporal dynamics of shifting cultivation in the middle-A
 year: 2017 
 first-author: Jakovac, Catarina C.
 publisher: "PLOS ONE" 
-tags:   [land_use, regrowth]
+tags: 
 url: https://dx.plos.org/10.1371/journal.pone.0181092 
 type: lit_note
 at-a-glance: ""
 
 --- 
 #tribble
+[[Amazonia]], [[Land Use]], [[Regrowth]]
 >[!summary] Summary
 
 >[!quote] Cited
 
-**Bibliography:** Jakovac, Catarina C., Loïc Paul Dutrieux, Latifah Siti, Marielos Peña-Claros, and Frans Bongers. ‘Spatial and Temporal Dynamics of Shifting Cultivation in the Middle-Amazonas River: Expansion and Intensification’. Edited by RunGuo Zang. _PLOS ONE_ 12, no. 7 (20 July 2017): e0181092. [https://doi.org/10.1371/journal.pone.0181092](https://doi.org/10.1371/journal.pone.0181092). 
-
- [[Amazonia]] 
 #### Authors:
 [[Jakovac, Catarina C.]], [[Dutrieux, Loïc Paul]], [[Siti, Latifah]], [[Peña-Claros, Marielos]], [[Bongers, Frans]], [[Zang, RunGuo]]
 #### Notes:

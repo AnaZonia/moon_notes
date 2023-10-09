@@ -4,12 +4,13 @@ aliases: ["Continuous monitoring of forest change dynamics with satellite time s
 year: 2022 
 first-author: Decuyper, Mathieu
 publisher: "Remote Sensing of Environment" 
-tags:[regrowth, disturbance, remote_sensing/landsat, ]
+tags:
 url: https://linkinghub.elsevier.com/retrieve/pii/S0034425721005496 
 type: lit_note
 at-a-glance: "AVOCADO algorithm for detection of disturbance and regrowth"
 
 --- 
+[[Regrowth]], [[Landsat]], [[Disturbance]]
 
 >[!summary] Summary
 

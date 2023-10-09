@@ -8,8 +8,6 @@ source:
 resolution: 25m-1km
 time range: 04/2019-08/2021
 url: https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2017
-tags:
-  - remote_sensing/lidar/GEDI
 ---
 The GEDI L4A Footprint Biomass product converts each high-quality waveform to an AGBD prediction, and the L4B product uses the sample present within the borders of each 1 km cell to statistically infer mean AGBD.
 

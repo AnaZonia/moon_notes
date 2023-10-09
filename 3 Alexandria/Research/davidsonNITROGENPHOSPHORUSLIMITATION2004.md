@@ -4,13 +4,14 @@ aliases: ["NITROGEN AND PHOSPHORUS LIMITATION OF BIOMASS GROWTH IN A TROPICAL SE
 year: 2004 
 first-author: Davidson, Eric A.
 publisher: "Ecological Applications" 
-tags: [regrowth, fire, nitrogen, phosphorus, ]
+tags:
 url: http://doi.wiley.com/10.1890/01-6006 
 type: lit_note
 at-a-glance: ""
 
 --- 
 #tribble
+[[Regrowth]], [[Fire]], [[Nitrogen]], [[Phosphorus]]
 >[!summary] Summary
 
 >[!quote] Cited

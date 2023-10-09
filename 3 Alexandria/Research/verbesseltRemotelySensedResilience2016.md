@@ -4,12 +4,13 @@ aliases: ["Remotely sensed resilience of tropical forests"]
 year: 2016 
 first-author: Verbesselt, Jan
 publisher: "Nature Climate Change" 
-tags:[remote_sensing/sar, water_stress, ]
+tags:
 url: https://www.nature.com/articles/nclimate3108 
 type: lit_note
 at-a-glance: "Slowness in growth can be inferred from NDVI"
 
 --- 
+[[SAR]], [[Water Stress]]
 
 >[!summary] Summary
 

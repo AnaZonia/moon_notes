@@ -4,16 +4,14 @@ aliases: ["Effects of Land-Use Change on Soil Nutrient Dynamics in Amazônia"]
 year: 2001 
 first-author: McGrath, Deborah A.
 publisher: "Ecosystems" 
-tags:   #land_use      #amazonia      #soil      #nitrogen      #phosphorus   
+tags:
 url: http://link.springer.com/10.1007/s10021-001-0033-0 
 type: lit_note
 at-a-glance: ""
 
 --- 
 authors: [[McGrath, Deborah A.]], [[Smith, C. Ken]], [[Gholz, Henry L.]], [[Oliveira, Francisco De Assis]]
- [[Amazonia]]   
-
-**Bibliography:** McGrath, Deborah A., C. Ken Smith, Henry L. Gholz, and Francisco De Assis Oliveira. ‘Effects of Land-Use Change on Soil Nutrient Dynamics in Amazônia’. _Ecosystems_ 4, no. 7 (1 November 2001): 625–45. [https://doi.org/10.1007/s10021-001-0033-0](https://doi.org/10.1007/s10021-001-0033-0). 
+[[Amazonia]], [[Land Use]], [[Phosphorus]], [[Nitrogen]], [[Soil]]
 
 >[!summary] Summary
 > 

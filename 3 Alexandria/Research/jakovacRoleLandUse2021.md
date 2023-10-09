@@ -4,20 +4,19 @@ aliases: ["The role of land‐use history in driving successional pathways and i
 year: 2021 
 first-author: Jakovac, Catarina C.
 publisher: "Biological Reviews" 
-tags: [number_one, review, regrowth, ]
+tags: [number_one, review ]
 url: https://onlinelibrary.wiley.com/doi/10.1111/brv.12694 
 type: lit_note
 at-a-glance: ""
 
 --- 
 #tribble
+[[230 Biodiversity]], [[Regrowth]]
 >[!summary] Summary
 
 >[!quote] Cited
 
-**Bibliography:** Jakovac, Catarina C., André B. Junqueira, Renato Crouzeilles, Marielos Peña‐Claros, Rita C. G. Mesquita, and Frans Bongers. ‘The Role of Land‐use History in Driving Successional Pathways and Its Implications for the Restoration of Tropical Forests’. _Biological Reviews_ 96, no. 4 (August 2021): 1114–34. [https://doi.org/10.1111/brv.12694](https://doi.org/10.1111/brv.12694). 
 
-  [[230 Biodiversity]] 
 #### Authors:
 [[Jakovac, Catarina C.]], [[Junqueira, André B.]], [[Crouzeilles, Renato]], [[Peña‐Claros, Marielos]], [[Mesquita, Rita C. G.]], [[Bongers, Frans]]
 #### Notes:

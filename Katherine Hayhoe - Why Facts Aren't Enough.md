@@ -1,9 +1,9 @@
 ---
+up:
+  - "[[320 Climate Change]]"
 stardate: Sep 30th 2023
 update: Sep 30th 2023
 tags:
-  - "#tribble"
-  - climate_change
 ---
 [If I just explain the facts, they'll get it, right? - YouTube](https://www.youtube.com/watch?v=nkMIjbDtdo0&t=101s)
 

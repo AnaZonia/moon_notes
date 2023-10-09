@@ -1,9 +1,9 @@
 ---
 up:
+  - "[[410 Interests]]"
 stardate: Sep 28th 2023
 update: Sep 28th 2023
 tags:
-  - "#tribble"
   - literature
 ---
 ## Poe and Science

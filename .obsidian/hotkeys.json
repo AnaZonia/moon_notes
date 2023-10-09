@@ -134,5 +134,13 @@
       ],
       "key": "3"
     }
+  ],
+  "quickadd:choice:20d8c70b-c23f-4740-8582-c8782476f153": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "6"
+    }
   ]
 }

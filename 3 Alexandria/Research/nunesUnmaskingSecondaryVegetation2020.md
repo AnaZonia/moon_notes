@@ -4,7 +4,7 @@ aliases: ["Unmasking secondary vegetation dynamics in the Brazilian Amazon"]
 year: 2020 
 first-author: Nunes, Sâmia
 publisher: "Environmental Research Letters" 
-tags: [regrowth, mapbiomas ]
+tags: 
 url: https://iopscience.iop.org/article/10.1088/1748-9326/ab76db 
 type: lit_note
 at-a-glance: "Estimated carbon gains and losses by changes in extent of secondary forests"
@@ -12,7 +12,7 @@ at-a-glance: "Estimated carbon gains and losses by changes in extent of secondar
 --- 
 authors: [[Nunes, Sâmia]], [[Oliveira, Luis]], [[Siqueira, João]], [[Morton, Douglas C]], [[Souza, Carlos M]]
 
-**Bibliography:** Nunes, Sâmia, Luis Oliveira, João Siqueira, Douglas C Morton, and Carlos M Souza. ‘Unmasking Secondary Vegetation Dynamics in the Brazilian Amazon’. _Environmental Research Letters_ 15, no. 3 (1 March 2020): 034057. [https://doi.org/10.1088/1748-9326/ab76db](https://doi.org/10.1088/1748-9326/ab76db). 
+[[MAPBIOMAS Forest Age]], [[Regrowth]]
 
 >[!summary] Summary
 > 

@@ -16,7 +16,7 @@ at-a-glance: ""
 
 [[Mata Atlântica]], [[LiDAR]], [[Reforestation]]
 #### Authors:
-[[Almeida, Danilo Roberti Alves de]], [[Broadbent, Eben North]], [[Ferreira, Matheus Pinheiro]], [[Meli, Paula]], [[Zambrano, Angelica Maria Almeyda]], [[Gorgens, Eric Bastos]], [[Resende, Angelica Faria]], [[de Almeida, Catherine Torres]], [[do Amaral, Cibele Hummel]], [[Corte, Ana Paula Dalla]], [[Silva, Carlos Alberto]], [[Romanelli, João P.]], [[Prata, Gabriel Atticciati]], [[de Almeida Papa, Daniel]], [[Stark, Scott C.]], [[Valbuena, Ruben]], [[Nelson, Bruce Walker]], [[Guillemot, Joannes]], [[Féret, Jean Baptiste]], [[Chazdon, Robin]], [[Brancalion, Pedro H. S.]]
+[[Almeida, Danilo Roberti Alves de]], [[Broadbent, Eben North]], [[Ferreira, Matheus Pinheiro]], [[Meli, Paula]], [[Zambrano, Angelica Maria Almeyda]], [[Gorgens, Eric Bastos]], [[Resende, Angelica Faria]], [[de Almeida, Catherine Torres]], [[do Amaral, Cibele Hummel]], [[Corte, Ana Paula Dalla]], [[Silva, Carlos Alberto]], [[Romanelli, João P.]], [[Prata, Gabriel Atticciati]], [[de Almeida Papa, Daniel]], [[Stark, Scott C.]], [[Valbuena, Ruben]], [[Nelson, Bruce Walker]], [[Guillemot, Joannes]], [[Féret, Jean Baptiste]], [[Chazdon, Robin L.|Chazdon, Robin]], [[Brancalion, Pedro H. S.]]
 #### Notes:
 
 

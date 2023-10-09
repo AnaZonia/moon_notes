@@ -32,7 +32,11 @@ LIST
 WHERE contains(type, "scicomm_article")
 SORT file.ctime DESC
 ```
-
+```dataview
+LIST
+WHERE contains(type, "scicomm_talk")
+SORT file.ctime DESC
+```
 ```dataview
 LIST
 FROM #scicomm AND !"3 Research" AND !"Excalidraw"

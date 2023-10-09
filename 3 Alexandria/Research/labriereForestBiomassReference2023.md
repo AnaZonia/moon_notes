@@ -4,18 +4,17 @@ aliases: ["Toward a forest biomass reference measurement system for remote sensi
 year: 2023 
 first-author: Labrière, Nicolas
 publisher: "Global Change Biology" 
-tags:[data/plots, remote_sensing/lidar/gedi, ]
+tags:[data/plots,]
 url: https://onlinelibrary.wiley.com/doi/10.1111/gcb.16497 
 type: lit_note
 at-a-glance: "Investigating potential plots for validation of remote sensed biomass data"
 
 --- 
-
+[[GEDI]]
 >[!summary] Summary
 
 >[!quote] Cited
 
- 
 #### Authors:
 [[Labrière, Nicolas]], [[Davies, Stuart J.]], [[Disney, Mathias I.]], [[Duncanson, Laura I.]], [[Herold, Martin]], [[Lewis, Simon L.]], [[Phillips, Oliver L.]], [[Quegan, Shaun]], [[Saatchi, Sassan S.]], [[Schepaschenko, Dmitry G.]], [[Scipal, Klaus]], [[Sist, Plinio]], [[Chave, Jérôme]]
 #### Notes:

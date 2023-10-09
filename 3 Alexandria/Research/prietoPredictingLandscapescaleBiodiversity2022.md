@@ -11,7 +11,7 @@ at-a-glance: ""
 
 --- 
 #tribble
-[[meta-analysis]], , [[Reforestation]], [[Regrowth]]
+[[Reforestation]], [[Regrowth]]
 
 >[!summary] Summary
 

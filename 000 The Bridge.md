@@ -7,7 +7,7 @@ FROM "2 Workstation"
 [[003 Data Sources]]
 Summary of data on LULC, forest plots, plant traits, biomass, fire, climate and soil
 
-[[004 People and Networks]]
+[[004 First Contact]]
 Summary of relevant people, NGOs, and research networks
 
 ### Quantitative
@@ -25,7 +25,6 @@ Summary of relevant people, NGOs, and research networks
 ### Conservation
 - [[310 Latin American Agriculture]]
 - [[320 Climate Change]]
-- [[330 Policy]]
 
 ### Other interests
 - [[410 Interests]]

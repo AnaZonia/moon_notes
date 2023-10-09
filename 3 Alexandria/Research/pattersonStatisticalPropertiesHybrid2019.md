@@ -4,13 +4,13 @@ aliases: ["Statistical properties of hybrid estimators proposed for GEDIâ€”NASAâ
 year: 2019 
 first-author: Patterson, Paul L.
 publisher: "Environ. Res. Lett." 
-tags:[remote_sensing/lidar/gedi, ]
+tags:
 url: https://iopscience.iop.org/article/10.1088/1748-9326/ab18df/meta 
 type: lit_note
 at-a-glance: ""
 
 --- 
-
+[[GEDI]]
 >[!summary] Summary
 
 >[!quote] Cited

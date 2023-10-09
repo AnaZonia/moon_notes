@@ -2,23 +2,21 @@
 ---
 aliases: ["Trends in Above and Belowground Carbon with Forest Regrowth After Agricultural Abandonment in the Neotropics"] 
 year: 2008 
-first-author: Marìn-Spiotta, Erika
+first-author: Marín-Spiotta, Erika
 publisher: "" 
-tags: [biomass, regrowth, data/plots, synthesis, ]
+tags:[data/plots, synthesis, ]
 url: http://link.springer.com/10.1007/978-0-387-33642-8_2 
 type: lit_note
 at-a-glance: ""
 
 --- 
 #tribble
+[[Regrowth]], [[Biomass]]
+
 >[!summary] Summary
 
 >[!quote] Cited
 >most biomass data not too long ago came from plots only, which brought issues.
-
-**Bibliography:** Marìn-Spiotta, Erika, Daniela F. Cusack, Rebecca Ostertag, and Whendee L. Silver. ‘Trends in Above and Belowground Carbon with Forest Regrowth After Agricultural Abandonment in the Neotropics’. In _Post-Agricultural Succession in the Neotropics_, 22–72. New York, NY: Springer New York, 2008. [https://doi.org/10.1007/978-0-387-33642-8_2](https://doi.org/10.1007/978-0-387-33642-8_2). 
-
-   
 #### Authors:
 [[Marín-Spiotta, Erika]], [[Cusack, Daniela F.]], [[Ostertag, Rebecca]], [[Silver, Whendee L.]]
 #### Notes:
@@ -56,4 +54,4 @@ at-a-glance: ""
 
  
 
-%% Import Date: 2023-10-01T15:21:11.693-04:00 %%
+%% Import Date: 2023-10-08T12:51:50.566-04:00 %%

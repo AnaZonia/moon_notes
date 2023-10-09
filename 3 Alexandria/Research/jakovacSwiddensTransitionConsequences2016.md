@@ -4,20 +4,19 @@ aliases: ["Swiddens under transition: Consequences of agricultural intensificati
 year: 2016 
 first-author: Jakovac, Catarina C.
 publisher: "Agriculture, Ecosystems & Environment" 
-tags: [land_use, swidden_fallow, ]
+tags: 
 url: https://linkinghub.elsevier.com/retrieve/pii/S0167880915301481 
 type: lit_note
 at-a-glance: ""
 
 --- 
 #tribble
+
+ [[Amazonia]]  [[Shifting cultivation|swidden-fallow]] [[Land Use]]
 >[!summary] Summary
 
 >[!quote] Cited
 
-**Bibliography:** Jakovac, Catarina C., Marielos Peña-Claros, Rita C.G. Mesquita, Frans Bongers, and Thomas W. Kuyper. ‘Swiddens under Transition: Consequences of Agricultural Intensification in the Amazon’. _Agriculture, Ecosystems & Environment_ 218 (February 2016): 116–25. [https://doi.org/10.1016/j.agee.2015.11.013](https://doi.org/10.1016/j.agee.2015.11.013). 
-
- [[Amazonia]]  [[310 Latin American Agriculture]]
 #### Authors:
 [[Jakovac, Catarina C.]], [[Peña-Claros, Marielos]], [[Mesquita, Rita C.G.]], [[Bongers, Frans]], [[Kuyper, Thomas W.]]
 #### Notes:

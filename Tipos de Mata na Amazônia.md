@@ -1,9 +1,8 @@
 ---
-up: "[[Amazonia]]"
+up:
+  - "[[Amazonia]]"
 stardate: Sep 23rd 2023
 update: Oct 7th 2023
-tags:
-  - "#tribble"
 ---
 
 ![[3-matas-da-floresta.png]]

@@ -89,6 +89,36 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
+    },
+    {
+      "id": "20d8c70b-c23f-4740-8582-c8782476f153",
+      "name": "First Contact",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/4 People and networks.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:First Contact}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "6 First Contact"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
     }
   ],
   "macros": [],

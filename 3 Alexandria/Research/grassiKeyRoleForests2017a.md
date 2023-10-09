@@ -4,13 +4,13 @@ aliases: ["The key role of forests in meeting climate targets requires science f
 year: 2017 
 first-author: Grassi, Giacomo
 publisher: "Nature Climate Change" 
-tags:   #land_use      #climate_change      #conservation      #redd   
+tags: 
 url: https://www.nature.com/articles/nclimate3227 
 type: lit_note
 at-a-glance: "Agriculture and land use should be considered for climate change mitigation"
 
 --- 
-
+[[Land Use]], [[320 Climate Change]], [[Policy]], [[REDD+]]
 >[!summary] Summary
 > There is not enough emphasis on land use as climate mitigation because emissions are hard to quantify. Still, those emissions are significant and should be studied and incorporated into mitigation strategies
 

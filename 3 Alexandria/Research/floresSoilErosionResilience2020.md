@@ -4,13 +4,14 @@ aliases: ["Soil erosion as a resilience drain in disturbed tropical forests"]
 year: 2020 
 first-author: Flores, Bernardo M.
 publisher: "Plant and Soil" 
-tags: [soil, disturbance]
+tags:
 url: http://link.springer.com/10.1007/s11104-019-04097-8 
 type: lit_note
 at-a-glance: "more erosion reduces forest cover, which then increases erosion"
 
 --- 
 #tribble 
+[[Soil]], [[Disturbance]]
 
 >[!summary] Summary
 

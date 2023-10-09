@@ -4,12 +4,13 @@ aliases: ["A Large and Persistent Carbon Sink in the World’s Forests"]
 year: 2011 
 first-author: Pan, Yude
 publisher: "Science" 
-tags:   #land_use      #biomass      #regrowth      #deforestation      #data/plots   
+tags:  [plots]
 url: https://www.science.org/doi/10.1126/science.1201609 
 type: lit_note
 at-a-glance: "Global plot estimates of carbon uptake by forests concludes high efficiency, specially young growth"
 
 --- 
+[[Land Use]], [[Biomass]], [[Deforestation]], [[Regrowth]]
 
 >[!summary] Summary
 > With plot data, they studied the size and distribution of carbon sink around the world. Concluded forests can make a big difference, specially young ones

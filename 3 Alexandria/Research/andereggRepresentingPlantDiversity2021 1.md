@@ -4,13 +4,13 @@ aliases: ["Representing plant diversity in land models: An evolutionary approach
 year: 2021 
 first-author: Anderegg, Leander D. L.
 publisher: "Glob. Chang. Biol." 
-tags:   [functional_diversity, biodiversity]
+tags:
 url: https://onlinelibrary.wiley.com/doi/10.1111/gcb.16040 
 type: lit_note
 at-a-glance: ""
 
 --- 
-[[230 Biodiversity]]
+[[230 Biodiversity]], [[Functional Diversity]]
 authors: [[Anderegg, Leander D. L.]], [[Griffith, Daniel M.]], [[Cavender‐Bares, Jeannine]], [[Riley, William J.]], [[Berry, Joseph A.]], [[Dawson, Todd E.]], [[Still, Christopher J.]]
 
 >[!summary] Summary

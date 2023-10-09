@@ -4,16 +4,17 @@ aliases: ["Nitrogen limitation on land and in the sea: How can it occur?"]
 year: 1991 
 first-author: Vitousek, PeterM.
 publisher: "Biogeochemistry" 
-tags:  [nitrogen, phosphorus, runoff]
+tags:
 url: http://link.springer.com/10.1007/BF00002772 
 type: lit_note
 at-a-glance: ""
 
 --- 
 #tribble
+[[Nitrogen]], [[Phosphorus]], [[Runoff]]
+
 authors: [[Vitousek, PeterM.]], [[Howarth, RobertW.]]
 
-**Bibliography:** Vitousek, PeterM., and RobertW. Howarth. ‘Nitrogen Limitation on Land and in the Sea: How Can It Occur?’ _Biogeochemistry_ 13, no. 2 (1991). [https://doi.org/10.1007/BF00002772](https://doi.org/10.1007/BF00002772). 
 
 >[!summary] Summary
 > 

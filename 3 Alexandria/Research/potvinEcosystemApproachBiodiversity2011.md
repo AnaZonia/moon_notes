@@ -4,16 +4,16 @@ aliases: ["An ecosystem approach to biodiversity effects: Carbon pools in a trop
 year: 2011 
 first-author: Potvin, Catherine
 publisher: "For. Ecol. Manage." 
-tags: #biomass #biodiversity
+tags:
 url: https://linkinghub.elsevier.com/retrieve/pii/S0378112710006857 
 type: lit_note
 at-a-glance: ""
 
 --- 
-authors: [[Potvin, Catherine]], [[Mancilla, Lady]], [[Buchmann, Nina]], [[Monteza, Jose]], [[Moore, Tim]], [[Murphy, Meaghan]], [[Oelmann, Yvonne]], [[Scherer-Lorenzen, Michael]], [[Turner, Benjamin L.]], [[Wilcke, Wolfgang]], [[Zeugin, Fabienne]], [[Wolf, Sebastian]]
-[[230 Biodiversity]]
+[[230 Biodiversity]], [[Biomass]]
 
-**Bibliography:** Potvin, Catherine, Lady Mancilla, Nina Buchmann, Jose Monteza, Tim Moore, Meaghan Murphy, Yvonne Oelmann, et al. ‘An Ecosystem Approach to Biodiversity Effects: Carbon Pools in a Tropical Tree Plantation’. _For. Ecol. Manage._ 261, no. 10 (2011): 1614–24. [https://doi.org/10.1016/j.foreco.2010.11.015](https://doi.org/10.1016/j.foreco.2010.11.015). 
+authors: [[Potvin, Catherine]], [[Mancilla, Lady]], [[Buchmann, Nina]], [[Monteza, Jose]], [[Moore, Tim]], [[Murphy, Meaghan]], [[Oelmann, Yvonne]], [[Scherer-Lorenzen, Michael]], [[Turner, Benjamin L.]], [[Wilcke, Wolfgang]], [[Zeugin, Fabienne]], [[Wolf, Sebastian]]
+
 
 >[!summary] Summary
 > 

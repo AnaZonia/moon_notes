@@ -4,20 +4,18 @@ aliases: ["Loss of secondary-forest resilience by land-use intensification in th
 year: 2015 
 first-author: Jakovac, Catarina C.
 publisher: "Journal of Ecology" 
-tags: [land_use, number_one, regrowth, data/plots, ]
+tags: [number_one, plots, ]
 url: https://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12298 
 type: lit_note
 at-a-glance: ""
 
 --- 
 #tribble
+[[Land Use]], [[Regrowth]], [[Amazonia]]
 >[!summary] Summary
 
 >[!quote] Cited
 
-**Bibliography:** Jakovac, Catarina C., Marielos Peña-Claros, Thomas W. Kuyper, and Frans Bongers. ‘Loss of Secondary-Forest Resilience by Land-Use Intensification in the Amazon’. Edited by David Gibson. _Journal of Ecology_ 103, no. 1 (January 2015): 67–77. [https://doi.org/10.1111/1365-2745.12298](https://doi.org/10.1111/1365-2745.12298). 
-
-  [[Amazonia]]  
 #### Authors:
 [[Jakovac, Catarina C.]], [[Peña-Claros, Marielos]], [[Kuyper, Thomas W.]], [[Bongers, Frans]], [[Gibson, David]]
 #### Notes:

@@ -11,13 +11,11 @@ type: lit_note
 at-a-glance: ""
 
 --- 
-#tribble
+[[530 Literature Review]]
+
 >[!summary] Summary
 
 >[!quote] Cited
-
-**Bibliography:** Haddaway, Neal R., Alison Bethel, Lynn V. Dicks, Julia Koricheva, Biljana Macura, Gillian Petrokofsky, Andrew S. Pullin, Sini Savilaakso, and Gavin B. Stewart. ‘Eight Problems with Literature Reviews and How to Fix Them’. _Nature Ecology & Evolution_ 4, no. 12 (12 October 2020): 1582–89. [https://doi.org/10.1038/s41559-020-01295-x](https://doi.org/10.1038/s41559-020-01295-x). 
-
 
 #### Authors:
 [[Haddaway, Neal R.]], [[Bethel, Alison]], [[Dicks, Lynn V.]], [[Koricheva, Julia]], [[Macura, Biljana]], [[Petrokofsky, Gillian]], [[Pullin, Andrew S.]], [[Savilaakso, Sini]], [[Stewart, Gavin B.]]

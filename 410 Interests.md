@@ -1,14 +1,5 @@
 ## Philosophy
-#philosophy
-[[Hypatia]]
-[[Epistemology]]
-[[Ontology]]
-```dataview
-LIST
-FROM #philosophy AND !"Excalidraw"
-WHERE !file.inlinks
-SORT file.ctime DESC
-```
+[[Philosophy]]
 
 ## Literature
 #literature
@@ -20,7 +11,7 @@ SORT file.ctime DESC
 ```
 
 ## History
-#history
+
 ```dataview
 LIST
 FROM #history AND !"Excalidraw"
@@ -28,7 +19,7 @@ WHERE !file.inlinks
 SORT file.ctime DESC
 ```
 ## Art
-#art
+
 ```dataview
 LIST
 FROM #art AND !"Excalidraw"

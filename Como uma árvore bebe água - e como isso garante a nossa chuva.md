@@ -3,8 +3,6 @@ up:
   - "[[550 Science Outreach]]"
 stardate: Sep 24th 2023
 update: Oct 7th 2023
-tags:
-  - "#tribble"
 type:
   - scicomm_article
 ---

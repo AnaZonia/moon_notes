@@ -1,11 +1,12 @@
 ---
-up: "[[310 Latin American Agriculture]]"
+up:
+  - "[[310 Latin American Agriculture]]"
+  - "[[Costa Rica]]"
+  - "[[Regrowth]]"
 stardate: Sep 27th 2023
 update: Oct 7th 2023
 tags:
   - "#tribble"
-  - regrowth
-  - costa_rica
 ---
 
 

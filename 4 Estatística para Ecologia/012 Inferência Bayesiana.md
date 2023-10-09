@@ -1,5 +1,3 @@
-[[Teorema de Bayes]]
-
 
 Otimização Bayesiana
 
@@ -9,3 +7,11 @@ Um valor x de amostras aleatórias são obtidas, e uma gaussiana é ajustada. Os
 [Shallow Understanding on Bayesian Optimization | by Ramraj Chandradevan | Towards Data Science](https://towardsdatascience.com/shallow-understanding-on-bayesian-optimization-324b6c1f7083)
 
 gaussian processes
+
+## Teorema de Bayes
+
+
+Paradoxo da Bela Adormecida.
+
+Digamos que o amigo aracnofóbico desmaia quando encontra uma aranha. Há duas caixas - uma com uma aranha, a outra com um coelho.
+

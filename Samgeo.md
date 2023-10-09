@@ -1,10 +1,10 @@
 ---
-up: "[[Land Use]]"
+up:
+  - "[[Land Use]]"
 stardate: Sep 29th 2023
 update: Oct 7th 2023
 tags:
   - "#tribble"
-  - land_use
 url: https://samgeo.gishub.org/
 type:
   - algorithm

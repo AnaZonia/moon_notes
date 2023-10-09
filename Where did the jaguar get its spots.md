@@ -1,7 +1,7 @@
 ---
-tags:
-  - tribble
-url: 
+up:
+  - "[[550 Science Outreach]]"
+  - "[[240 Theoretical Ecology]]"
 type:
   - scicomm_article
 ---

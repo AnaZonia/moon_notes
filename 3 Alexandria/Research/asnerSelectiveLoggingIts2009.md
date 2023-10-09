@@ -4,7 +4,7 @@ aliases: ["Selective Logging and Its Relation to Deforestation"]
 year: 2009 
 first-author: Asner, Gregory P.
 publisher: "" 
-tags: [disturbance, ]
+tags:
 url: https://onlinelibrary.wiley.com/doi/abs/10.1029/2008GM000722 
 type: lit_note
 at-a-glance: ""
@@ -15,7 +15,7 @@ at-a-glance: ""
 
 >[!quote] Cited
 
-[[Amazonia]]
+[[Amazonia]], [[Disturbance]]
 #### Authors:
 [[Asner, Gregory P.]], [[Keller, Michael]], [[Lentini, Marco]], [[Merry, Frank]], [[Souza Jr., Carlos]]
 #### Notes:

@@ -1,5 +1,5 @@
 
-[[LiDAR]] and [[SAR]] are [[Active Remote Sensing]] systems that allow the detection of [[Biomass]].
+[[LiDAR]] and [[SAR]] are active remote sensing systems that allow the detection of [[Biomass]].
 #### LiDAR
 - [[GEDI]]
 - [[ICESat1 - GLAS & ICESat2 - ATLAS]]
@@ -10,7 +10,7 @@
 - [[Sentinel 1]]
 - [[NISAR]]
 
-[[Hyperspectral]] is a [[Passive remote sensing]] system that allows [[Land Use]] Classification and [[Fire]] detection.
+[[Hyperspectral]] is a passive remote sensing system that allows [[Land Use]] Classification and [[Fire]] detection.
 - [[Landsat]]
 - [[MODIS]]
 - [[Planet]]

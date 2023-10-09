@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[310 Latin American Agriculture]]"
 aliases:
   - swidden-fallow
   - milpa

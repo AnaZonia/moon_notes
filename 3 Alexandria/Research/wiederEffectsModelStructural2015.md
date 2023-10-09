@@ -11,12 +11,10 @@ at-a-glance: ""
 
 --- 
 #tribble
+[[Nitrogen]], [[Phosphorus]], [[Biomass]]
 >[!summary] Summary
 
 >[!quote] Cited
-
-**Bibliography:** Wieder, William R., Cory C. Cleveland, David M. Lawrence, and Gordon B. Bonan. ‘Effects of Model Structural Uncertainty on Carbon Cycle Projections: Biological Nitrogen Fixation as a Case Study’. _Environmental Research Letters_ 10, no. 4 (April 2015): 044016. [https://doi.org/10.1088/1748-9326/10/4/044016](https://doi.org/10.1088/1748-9326/10/4/044016). 
-
 
 #### Authors:
 [[Wieder, William R.]], [[Cleveland, Cory C.]], [[Lawrence, David M.]], [[Bonan, Gordon B.]]

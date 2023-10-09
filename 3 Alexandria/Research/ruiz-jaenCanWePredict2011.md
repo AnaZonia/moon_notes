@@ -4,16 +4,16 @@ aliases: ["Can we predict carbon stocks in tropical ecosystems from tree diversi
 year: 2011 
 first-author: Ruiz-Jaen, Maria C.
 publisher: "New Phytol." 
-tags:   #biomass      #biodiversity      #reforestation      #functional_diversity   
+tags:
 url: http://dx.doi.org/10.1111/J.1469-8137.2010.03501.X 
 type: lit_note
 at-a-glance: ""
 
 --- 
-authors: [[Ruiz-Jaen, Maria C.]], [[Potvin, Catherine]]
- [[230 Biodiversity]]  
+[[Biomass]], [[Reforestation]], [[Functional Diversity]], [[230 Biodiversity]]  
 
-**Bibliography:** Ruiz-Jaen, Maria C., and Catherine Potvin. ‘Can We Predict Carbon Stocks in Tropical Ecosystems from Tree Diversity? Comparing Species and Functional Diversity in a Plantation and a Natural Forest’. _New Phytol._ 189, no. 4 (March 2011): 978–87. [https://doi.org/10.1111/J.1469-8137.2010.03501.X](https://doi.org/10.1111/J.1469-8137.2010.03501.X). 
+authors: [[Ruiz-Jaen, Maria C.]], [[Potvin, Catherine]]
+
 
 >[!summary] Summary
 > 

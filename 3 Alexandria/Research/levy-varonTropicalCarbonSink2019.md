@@ -4,7 +4,7 @@ aliases: ["Tropical carbon sink accelerated by symbiotic dinitrogen fixation"]
 year: 2019 
 first-author: Levy-Varon, Jennifer H.
 publisher: "Nature Communications" 
-tags: [model, data/plots, ]
+tags: [model, plots, ]
 url: https://www.nature.com/articles/s41467-019-13656-7 
 type: lit_note
 at-a-glance: ""

@@ -5,3 +5,9 @@ update: Oct 7th 2023
 tags:
   - "#tribble"
 ---
+```dataview
+LIST
+FROM [[]]
+WHERE !file.inlinks
+````
+

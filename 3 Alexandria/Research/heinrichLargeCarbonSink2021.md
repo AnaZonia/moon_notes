@@ -4,20 +4,18 @@ aliases: ["Large carbon sink potential of secondary forests in the Brazilian Ama
 year: 2021 
 first-author: Heinrich, Viola H. A.
 publisher: "Nature Communications" 
-tags: [number_one, model, regrowth, ]
+tags: [number_one, model]
 url: https://www.nature.com/articles/s41467-021-22050-1 
 type: lit_note
 at-a-glance: ""
 
 --- 
 #tribble
+[[Regrowth]], [[Amazonia]] 
 >[!summary] Summary
 
 >[!quote] Cited
 
-**Bibliography:** Heinrich, Viola H. A., Ricardo Dalagnol, Henrique L. G. Cassol, Thais M. Rosan, Catherine Torres De Almeida, Celso H. L. Silva Junior, Wesley A. Campanharo, et al. ‘Large Carbon Sink Potential of Secondary Forests in the Brazilian Amazon to Mitigate Climate Change’. _Nature Communications_ 12, no. 1 (19 March 2021): 1785. [https://doi.org/10.1038/s41467-021-22050-1](https://doi.org/10.1038/s41467-021-22050-1). 
-
-  [[Amazonia]] 
 #### Authors:
 [[Heinrich, Viola H. A.]], [[Dalagnol, Ricardo]], [[Cassol, Henrique L. G.]], [[Rosan, Thais M.]], [[De Almeida, Catherine Torres]], [[Silva Junior, Celso H. L.]], [[Campanharo, Wesley A.]], [[House, Joanna I.]], [[Sitch, Stephen]], [[Hales, Tristram C.]], [[Adami, Marcos]], [[Anderson, Liana O.]], [[Aragão, Luiz E. O. C.]]
 #### Notes:

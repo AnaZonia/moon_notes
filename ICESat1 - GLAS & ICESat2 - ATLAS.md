@@ -1,5 +1,6 @@
 ---
-type: LiDAR
+type:
+  - "[[LiDAR]]"
 source:
   - NASA
 resolution: 

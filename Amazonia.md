@@ -1,5 +1,10 @@
-
-
+---
+up:
+  - "[[210 Tropical Ecology]]"
+stardate: Aug 22nd 2023
+update: Oct 7th 2023
+tags: []
+---
 Patterns of climate in the Amazon
 
 Regeneration vs regrowth vs restoration 

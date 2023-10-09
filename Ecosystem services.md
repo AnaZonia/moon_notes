@@ -1,10 +1,12 @@
 ---
-up: 
-stardate: <% tp.file.creation_date("MMM Do YYYY") %>
-update: <% tp.file.last_modified_date("MMM Do YYYY") %>
+up:
+  - "[[210 Tropical Ecology]]"
+  - "[[310 Latin American Agriculture]]"
+stardate: Sep 23rd 2023
+update: Oct 8th 2023
 aliases:
   - serviços ecossistêmicos
 tags:
   - "#tribble"
-  - eco_services
+  - glossary
 ---

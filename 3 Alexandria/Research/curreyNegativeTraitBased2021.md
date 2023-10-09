@@ -4,14 +4,14 @@ aliases: ["Negative trait‐based association between abundance of nitrogen‐fi
 year: 2021 
 first-author: Currey, Bryce
 publisher: "Journal of Ecology" 
-tags: [model, biomass, data/plots]
+tags: [model, plots]
 url: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.13524 
 type: lit_note
 at-a-glance: ""
 
 --- 
 #tribble
-[[Regrowth]], [[Nitrogen Fixation]], [[220 Biogeochemistry]]
+[[Regrowth]], [[Nitrogen Fixation]], [[220 Biogeochemistry]], [[Biomass]]
 >[!summary] Summary
 
 >[!quote] Cited

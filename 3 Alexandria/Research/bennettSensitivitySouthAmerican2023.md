@@ -4,7 +4,7 @@ aliases: ["Sensitivity of South American tropical forests to an extreme climate 
 year: 2023 
 first-author: Bennett, Amy C.
 publisher: "Nature Climate Change" 
-tags:   [biomass, data/plots, water_stress]   
+tags:   [plots]   
 url: https://www.nature.com/articles/s41558-023-01776-4 
 type: lit_note
 at-a-glance: ""
@@ -14,7 +14,7 @@ at-a-glance: ""
 >[!summary] Summary
 > 
 
-[[320 Climate Change]]  
+[[320 Climate Change]] , [[Biomass]], [[Water Stress]]
 
 **Bibliography:** Bennett, Amy C., Thaiane Rodrigues de Sousa, Abel Monteagudo-Mendoza, Adriane Esquivel-Muelbert, Paulo S. Morandi, Fernanda Coelho de Souza, Wendeson Castro, et al. ‘Sensitivity of South American Tropical Forests to an Extreme Climate Anomaly’. _Nature Climate Change_ 13, no. 9 (September 2023): 967–74. [https://doi.org/10.1038/s41558-023-01776-4](https://doi.org/10.1038/s41558-023-01776-4). 
 #### Authors

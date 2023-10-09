@@ -4,15 +4,15 @@ aliases: ["Demographic drivers of tree biomass change during secondary successio
 year: 2015 
 first-author: Rozendaal, Danae M. A.
 publisher: "Ecol. Appl." 
-tags:   #Forest dynamics      #Secondary      #biomass   
+tags: 
 url: http://dx.doi.org/10.1890/14-0054.1 
 type: lit_note
 at-a-glance: ""
 
 --- 
+[[Regrowth]], [[210 Tropical Ecology]], [[Biomass]]
+
 authors: [[Rozendaal, Danae M. A.]], [[Chazdon, Robin L.]]
-  
-**Bibliography:** Rozendaal, Danae M. A., and Robin L. Chazdon. ‘Demographic Drivers of Tree Biomass Change during Secondary Succession in Northeastern Costa Rica’. _Ecol. Appl._ 25, no. 2 (1 March 2015): 506–16. [https://doi.org/10.1890/14-0054.1](https://doi.org/10.1890/14-0054.1). 
 
 >[!summary] Summary
 > 

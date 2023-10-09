@@ -4,20 +4,18 @@ aliases: ["Land use as a filter for species composition in Amazonian secondary f
 year: 2016 
 first-author: Jakovac, Catarina C.
 publisher: "J. Veg. Sci." 
-tags: [land_use, number_one, soil, regrowth, fire, data/plots, phosphorus, ]
+tags: [number_one, plots, ]
 url: http://dx.doi.org/10.1111/JVS.12457 
 type: lit_note
 at-a-glance: ""
 
 --- 
 #tribble
+[[Soil]], [[Land Use]], [[Regrowth]], [[Fire]], [[Phosphorus]], [[230 Biodiversity]]
 >[!summary] Summary
 
 >[!quote] Cited
 
-**Bibliography:** Jakovac, Catarina C., Frans Bongers, Thomas W. Kuyper, Rita C. G. Mesquita, and Marielos Peña-Claros. ‘Land Use as a Filter for Species Composition in Amazonian Secondary Forests’. _J. Veg. Sci._ 27, no. 6 (1 November 2016): 1104–16. [https://doi.org/10.1111/JVS.12457](https://doi.org/10.1111/JVS.12457). 
-
-  [[230 Biodiversity]]     
 #### Authors:
 [[Jakovac, Catarina C.]], [[Bongers, Frans]], [[Kuyper, Thomas W.]], [[Mesquita, Rita C. G.]], [[Peña-Claros, Marielos]]
 #### Notes:

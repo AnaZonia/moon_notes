@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "-path:\"1 Captain's Log\" -path:\"Excalidraw\" -path:\"Templates\" -tag:#tribble  ",
+  "search": "-path:\"1 Captain's Log\" -path:\"Excalidraw\" -path:\"Templates\" -tag:#tribble  -file:\"000 The Bridge\"",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.11552631012158747,
+  "scale": 0.11552631012158762,
   "close": false
 }
