@@ -10,11 +10,12 @@
 - [[Sentinel 1]]
 - [[NISAR]]
 
-[[Hyperspectral]] is a passive remote sensing system that allows [[Land Use]] Classification and [[Fire]] detection.
+[[Multispectral]] is a passive remote sensing system that allows [[Land Use]] Classification and [[Fire]] detection.
 - [[Landsat]]
 - [[MODIS]]
 - [[Planet]]
 
+[[Hyperspectral]] 
 
 [[ECOSTRESS]]
 

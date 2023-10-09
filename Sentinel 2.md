@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Hyperspectral]]"
+  - "[[Multispectral]]"
 resolution: 
 time_range: 
 source:

@@ -6,4 +6,8 @@ update: Oct 7th 2023
 tags:
   - "#tribble"
 ---
-What is the difference between hyperspectral and multispectral (MODIS)?
+Not to be confused with [[Hyperspectral]]!
+
+Multispectral
+
+![[Multispectral.png]]

@@ -2,9 +2,9 @@
 up:
   - "[[110 Remote Sensing]]"
 type:
-  - "[[Hyperspectral]]"
+  - "[[Multispectral]]"
 source: 
 resolution: 
 time_range: 
-url:
+url: 
 ---

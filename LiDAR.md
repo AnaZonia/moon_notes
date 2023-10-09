@@ -3,13 +3,19 @@ up:
   - "[[110 Remote Sensing]]"
 stardate: Sep 23rd 2023
 ---
-### LiDAR may have issues in steep terrain or dense forest
+Is an active sensor - shoots near infrared light towards the Earth
 
-Uncertainties in digital terrain models (DTM) can cause issues in canopy height estimates.
+![[LiDAR.png]]
 
 [[ICESat1 - GLAS & ICESat2 - ATLAS]] was the first LiDAR system developed.
 
 >[!info] It has also been used in space missions!
 
+### How is forest height calculated - and then biomass?
 
-LiDAR uses near-infrared laser.
+Uncertainties in digital terrain models (DTM) can cause issues in canopy height estimates.
+
+### Quality concerns
+- Cloud cover - 
+- Steep terrain
+- Dense forest

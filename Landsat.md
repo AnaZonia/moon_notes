@@ -1,6 +1,6 @@
 ---
 type:
-  - "[[Hyperspectral]]"
+  - "[[Multispectral]]"
 source:
   - NASA
 resolution: 30m
