@@ -42,3 +42,8 @@ Growing stock volume (m^3 ha-1) was estimated, and then AGB was gotten from that
 Standard deviation was calculated with the standard deviation of the backscatter, and estimates of forest backscatter model parameters.
 
 Uses [[ICESat1 - GLAS & ICESat2 - ATLAS]] and [[GEDI]] for calibration.
+
+Upcoming P-band SAR to be released in 2024
+
+![[ESA CCI Biomass.png]]
+

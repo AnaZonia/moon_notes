@@ -1,8 +1,8 @@
 ---
-up: "[[110 Remote Sensing]]"
+up:
+  - "[[110 Remote Sensing]]"
 type:
-  - SAR
-tags: 
+  - "[[SAR]]"
 resolution: 
 time range: 
 source:
@@ -10,3 +10,4 @@ source:
   - ISRO
 url: https://nisar.jpl.nasa.gov/
 ---
+P-band

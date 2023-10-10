@@ -2,7 +2,12 @@
 up:
   - "[[110 Remote Sensing]]"
 ---
+SAR can be responsive to moisture and structure.
 
-[What is Synthetic Aperture Radar? | Earthdata (nasa.gov)](https://www.earthdata.nasa.gov/learn/backgrounders/what-is-sar)
+It can image through clouds, as well as day or night.
 
 ![[SAR1.png]]
+
+![[SAR.png]]
+
+The resolution of the data is related to the ratio of wavelength to the length of the antenna.

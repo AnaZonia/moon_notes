@@ -6,7 +6,7 @@ type:
   - biomass
   - canopy_height
 mission:
-  - "[[Airborne LiDAR]]"
+  - "[[LiDAR]]"
 resolution: 100m
 time_range: "2013"
 url: https://zenodo.org/record/4624240

@@ -4,7 +4,7 @@ up:
 type:
   - biomass
 mission:
-  - "[[Airborne LiDAR]]"
+  - "[[LiDAR]]"
   - "[[Landsat]]"
   - "[[ICESat1 - GLAS & ICESat2 - ATLAS]]"
   - "[[FAO Forest Inventory]]"

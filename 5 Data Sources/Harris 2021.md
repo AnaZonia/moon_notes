@@ -5,7 +5,7 @@ type:
   - biomass
 mission:
   - "[[Landsat]]"
-  - "[[Airborne LiDAR]]"
+  - "[[LiDAR]]"
 resolution: 30m
 time_range: "2000"
 url: https://data.globalforestwatch.org/datasets/aboveground-live-woody-biomass-density/explore?location=-11.401386%2C-84.902199%2C2.61

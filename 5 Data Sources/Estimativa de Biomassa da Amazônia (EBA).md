@@ -4,7 +4,7 @@ up:
 type:
   - "[[LiDAR]]"
 mission:
-  - "[[Airborne LiDAR]]"
+  - "[[LiDAR]]"
 resolution: 30m
 time_range: 2016-2018
 url: https://zenodo.org/record/4968706

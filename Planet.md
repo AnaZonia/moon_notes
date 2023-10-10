@@ -3,8 +3,10 @@ up:
   - "[[110 Remote Sensing]]"
 type:
   - "[[Multispectral]]"
-source: 
+source:
+  - private
 resolution: 
 time_range: 
-url: 
+url:
 ---
+PlanetScope

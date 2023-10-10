@@ -6,76 +6,72 @@
       {
         "id": "5b2aded0717fa391",
         "type": "tabs",
+        "dimension": 23.66167023554604,
         "children": [
           {
-            "id": "d165db8a619ca07d",
+            "id": "4d3e3a626c573d8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Landsat.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eac7c0e4a003638f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Multispectral.md",
+                "file": "Hyperion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0e8b75a734a99c3d",
         "type": "tabs",
+        "dimension": 31.209850107066384,
         "children": [
           {
-            "id": "f2c01de501141798",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Airborne LiDAR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2d714d2622e254c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LiDAR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "2ac349f2a1bd0bdc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dff006ecf40699c3",
+            "id": "b134cc0e346bdad8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "110 Remote Sensing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d674afc2f64c0087",
+        "type": "tabs",
+        "dimension": 21.948608137044967,
+        "children": [
+          {
+            "id": "4f1ddf8c713d699d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "89e642193a038b34",
+        "type": "tabs",
+        "dimension": 23.179871520342612,
+        "children": [
+          {
+            "id": "c44b1ea38b5a542b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Landsat.md",
                 "mode": "source",
                 "source": false
               }
@@ -139,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -156,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LiDAR.md",
+                "file": "110 Remote Sensing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LiDAR.md",
+                "file": "110 Remote Sensing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LiDAR.md"
+                "file": "110 Remote Sensing.md"
               }
             }
           },
@@ -195,7 +192,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "LiDAR.md",
+                "file": "110 Remote Sensing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -240,8 +237,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "3dbac5c2f60b2e8e",
@@ -286,7 +282,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 461.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -302,52 +299,52 @@
       "cmdr:Open current tab in new window": false
     }
   },
-  "active": "b2d714d2622e254c",
+  "active": "b134cc0e346bdad8",
   "lastOpenFiles": [
-    "Files/LiDAR.png",
-    "110 Remote Sensing.md",
-    "LiDAR.md",
     "Multispectral.md",
-    "Airborne LiDAR.md",
-    "Files/Multispectral.png",
-    "Landsat.md",
-    "1 Captain's Log/2 Weekly/2023 - W40 - Oct.md",
-    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
-    "1 Captain's Log/1 Daily/2023-10-08 Sun.md",
-    "1 Captain's Log/1 Daily/2023-10-09 Mon.md",
-    "1 Captain's Log/1 Daily/2023-10-19 Thu.md",
-    "Templates/Captain's Log.md",
-    "1 Captain's Log/1 Daily/2023-10-10 Tue.md",
-    "MODIS.md",
-    "000 The Bridge.md",
-    "Star Party Talk.md",
+    "Hyperion.md",
+    "Amazonia.md",
     "SAR.md",
-    "Files/Airborne LiDAR.png",
+    "110 Remote Sensing.md",
+    "Landsat.md",
+    "Files/Pasted image 20231009200418.png",
+    "5 Data Sources/ESA CCI Biomass.md",
+    "Files/Multispectral-1.png",
+    "HyspIRI.md",
+    "Files/110 Remote Sensing-2.png",
+    "Files/110 Remote Sensing-1.png",
+    "Airbus.md",
+    "Files/Airbus.png",
+    "Files/ESA CCI Biomass.png",
+    "NISAR.md",
+    "Planet.md",
+    "Files/SAR.png",
+    "ECOSTRESS.md",
+    "Evapotranspiration.md",
+    "ASAR-ESA.md",
+    "GEDI.md",
+    "Maxar.md",
+    "Planetary Computer.md",
+    "5 Data Sources/GFED (Global Fire Emissions Database).md",
+    "003 Data Sources.md",
+    "6 First Contact/MAPBIOMAS.md",
+    "5 Data Sources/MAPBIOMAS LULC.md",
+    "5 Data Sources/MAPBIOMAS Fire.md",
+    "5 Data Sources/FireCCI.md",
+    "004 First Contact.md",
+    "5 Data Sources/MAPBIOMAS Soil Carbon.md",
+    "Files/MAPBIOMAS LULC.png",
+    "5 Data Sources/MAPBIOMAS Forest Age.md",
+    "Files/Landsat-2.png",
+    "Files/Landsat-1.png",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
-    "Passive remote sensing.md",
-    "Active Remote Sensing.md",
-    "320 Climate Change.md",
-    "What is the current contribution of forest regrowth to carbon sequestration.md",
-    "550 Science Outreach.md",
-    "Engaging audiences.md",
-    "Files/What is the current contribution of forest regrowth to carbon sequestration.png",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
     "230 Biodiversity.canvas",
-    "230 Biodiversity.md",
-    "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
-    "Files/Global Forest Ecosystem Structure and Function Data for Carbon Balance Research.png",
-    "Files/Panama Land Use.png",
     "3 Research",
     "Templates/scripts/pin_me.js",
     "Templates/scripts/my_script.js",
     "Templates/scripts/003 Data Sources MOC.js",
     "Templates/scripts",
     "6 Data and Methods",
-    "Files/Screenshot 2023-08-23 175724.png",
-    "Files/Screenshot 2023-09-05 192712.png",
-    "Files/Screenshot 2023-09-05 192100.png",
-    "Files/Screenshot 2023-09-24 142014.png",
-    "Files/Screenshot 2023-09-24 142630.png",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Regrowth in Amazonia.canvas",
     "2 Workstation/2 - Predicting Regrowth in Panama",
     "2 Workstation/1 - Predicting Regrowth in the Amazon",

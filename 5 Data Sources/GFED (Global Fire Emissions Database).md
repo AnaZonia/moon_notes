@@ -4,7 +4,7 @@ up:
 type:
   - active_fire
   - burned_area
-time_range: 
+time_range: 2003-2023
 url: http://www.globalfiredata.org/fireatlas.html
 mission:
   - "[[MODIS]]"

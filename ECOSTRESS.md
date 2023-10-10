@@ -1,8 +1,15 @@
 ---
 up:
   - "[[110 Remote Sensing]]"
-type: 
-resolution: 
-time range:
+type:
+  - Radiometer
+time range: 2018-
+url: https://ecostress.jpl.nasa.gov/
+resolution: 70m
 ---
-[Welcome to ECOSTRESS — ECOSTRESS (nasa.gov)](https://ecostress.jpl.nasa.gov/)
+==ECOsystem Spaceborne Thermal Radiometer Experiment on Space Station==
+
+Measures surface temperature.
+- Evaporative Stress Index (ESI) -> drought indicator.
+- [[Evapotranspiration]]
+
