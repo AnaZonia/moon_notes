@@ -3,13 +3,13 @@
 ### LiDAR
 - [[GEDI]]
 - [[ICESat1 - GLAS & ICESat2 - ATLAS]]
-[[LiDAR]]
 - [[Asner ACD]]
 ### SAR
 - [[ESA CCI Biomass]]
 - [[Sentinel 1]]
 - [[NISAR]]
 - [[ASAR-ESA]]
+- [[PALSAR - ALOS]]
 
 ## Passive Sensors
 ### Multispectral
@@ -40,6 +40,8 @@ Measures the intensity of radiation in some bands within the spectrum. Can cover
 - Water vapor : between 6.500 nm and 6.900 nm (lower infrared, but not usually noticeable by IR imagery, which is higher)
 
 ## Other facts
+- **Larger wavelengths require larger apertures for same resolution**
+	![[110 Remote Sensing-3.png]]
 - **Plants reflect near-infrared very strongly!**
 		And that reflectance changes with the season/growth stage... possibly also species??
 - **We need atmospheric correction!**
@@ -49,7 +51,7 @@ Measures the intensity of radiation in some bands within the spectrum. Can cover
 - **It's hard to find something with high spectral, temporal AND spatial resolution**
 		Landsat has high resolution, but only returns every 16 days. MODIS, on the other hand, returns every 1-2 days, but has a 500m resolution
 
-Solved with multiple satellites, such as [[Airbus]], [[Planet]] and [[Maxar]].
+Solved with constellations, such as [[Airbus]], [[Planet]] and [[Maxar]].
 ![[110 Remote Sensing.png|ARSET image - MODIS boxes in blue and Landsat boxes in red]]
 
 ## Data Access

@@ -6,7 +6,7 @@
       {
         "id": "5b2aded0717fa391",
         "type": "tabs",
-        "dimension": 23.66167023554604,
+        "dimension": 53.47490347490348,
         "children": [
           {
             "id": "4d3e3a626c573d8b",
@@ -14,26 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hyperion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0e8b75a734a99c3d",
-        "type": "tabs",
-        "dimension": 31.209850107066384,
-        "children": [
-          {
-            "id": "b134cc0e346bdad8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "110 Remote Sensing.md",
+                "file": "GEDI.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +25,7 @@
       {
         "id": "d674afc2f64c0087",
         "type": "tabs",
-        "dimension": 21.948608137044967,
+        "dimension": 46.52509652509653,
         "children": [
           {
             "id": "4f1ddf8c713d699d",
@@ -53,25 +34,6 @@
               "type": "markdown",
               "state": {
                 "file": "SAR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "89e642193a038b34",
-        "type": "tabs",
-        "dimension": 23.179871520342612,
-        "children": [
-          {
-            "id": "c44b1ea38b5a542b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Landsat.md",
                 "mode": "source",
                 "source": false
               }
@@ -153,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "110 Remote Sensing.md",
+                "file": "GEDI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "110 Remote Sensing.md",
+                "file": "GEDI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "110 Remote Sensing.md"
+                "file": "GEDI.md"
               }
             }
           },
@@ -192,7 +154,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "110 Remote Sensing.md",
+                "file": "GEDI.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -299,14 +261,23 @@
       "cmdr:Open current tab in new window": false
     }
   },
-  "active": "b134cc0e346bdad8",
+  "active": "4d3e3a626c573d8b",
   "lastOpenFiles": [
+    "Files/GEDI.png",
+    "110 Remote Sensing.md",
+    "SAR.md",
+    "Files/SAR-3.png",
     "Multispectral.md",
+    "Landsat.md",
+    "Files/SAR-2.png",
+    "Files/SAR-1.png",
+    "Files/110 Remote Sensing-3.png",
+    "GEDI.md",
+    "MODIS.md",
+    "PALSAR - ALOS.md",
+    "Planet.md",
     "Hyperion.md",
     "Amazonia.md",
-    "SAR.md",
-    "110 Remote Sensing.md",
-    "Landsat.md",
     "Files/Pasted image 20231009200418.png",
     "5 Data Sources/ESA CCI Biomass.md",
     "Files/Multispectral-1.png",
@@ -317,12 +288,9 @@
     "Files/Airbus.png",
     "Files/ESA CCI Biomass.png",
     "NISAR.md",
-    "Planet.md",
-    "Files/SAR.png",
     "ECOSTRESS.md",
     "Evapotranspiration.md",
     "ASAR-ESA.md",
-    "GEDI.md",
     "Maxar.md",
     "Planetary Computer.md",
     "5 Data Sources/GFED (Global Fire Emissions Database).md",
@@ -331,12 +299,6 @@
     "5 Data Sources/MAPBIOMAS LULC.md",
     "5 Data Sources/MAPBIOMAS Fire.md",
     "5 Data Sources/FireCCI.md",
-    "004 First Contact.md",
-    "5 Data Sources/MAPBIOMAS Soil Carbon.md",
-    "Files/MAPBIOMAS LULC.png",
-    "5 Data Sources/MAPBIOMAS Forest Age.md",
-    "Files/Landsat-2.png",
-    "Files/Landsat-1.png",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "230 Biodiversity.canvas",
     "3 Research",

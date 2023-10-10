@@ -5,8 +5,8 @@ type:
   - "[[Multispectral]]"
 source:
   - private
-resolution: 
+resolution: 3m
 time_range: 
-url:
+url: https://www.planet.com/
 ---
 PlanetScope

@@ -8,7 +8,7 @@ type:
 mission:
   - "[[GEDI]]"
   - "[[ASAR-ESA]]"
-  - "[[ALOS1-2-JAXA]]"
+  - "[[PALSAR - ALOS]]"
   - "[[Sentinel 1]]"
 resolution: 100m
 time_range: 2010, 2017, 2018, 2019, 2020
