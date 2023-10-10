@@ -10,7 +10,3 @@ Not to be confused with hyperspectral!
 
 
 Multispectral
-
-![[Multispectral.png]]
-
-![[Multispectral-1.png]]

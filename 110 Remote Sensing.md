@@ -10,10 +10,15 @@
 - [[NISAR]]
 - [[ASAR-ESA]]
 - [[PALSAR - ALOS]]
-
+*Scatterometers* use radar to measure backscatter due to ocean wind and direction.
 ## Passive Sensors
 ### Multispectral
-[[Multispectral]] is a passive remote sensing system that allows [[Land Use]] Classification and [[Fire]] detection.
+Is a passive remote sensing system that allows [[Land Use]] Classification and [[Fire]] detection.
+
+![[Multispectral.png]]
+
+![[Multispectral-1.png]]
+
 - [[Landsat]]
 - [[MODIS]]
 - [[Planet]]
@@ -21,13 +26,23 @@
 - [[Maxar]]
 - [[Airbus]]
 ### Hyperspectral
+![[110 Remote Sensing-5.png]]
+Finds hundreds of very narrow bands on visible, near-IR and mid-IR, so higher spectral resolution.
 - [[Hyperion]]
 - [[HyspIRI]]
+- PROBA-1 (ESA) in 2001
+- PRISMA (Italy) in 2019
+- EnMap (Germany) in 2020
+- HISUI (Japan) in 2020
+They are not very commonly used because:
+- Very expensive and difficult to manufacture
+- Enormous data that is very hard to handle
+- Insufficient labelled data for training
+Possibly this can be solved with [machine learning](https://www.netguru.com/blog/hyperspectral-imaging-applications)
 ### Spectrometers
 ![[110 Remote Sensing-1.png]]
 ![[110 Remote Sensing-2.png]]
-Analyzes the spectral content of radiation. Can help find out the composition of things - in this case, three rock types that were noticeable as they absorb different parts of the spectrum, but that was impossible to tell with Landsat.
-
+Analyzes the spectral content of radiation - sometimes they use prisms! Can help find out the composition of things - in this case, three rock types that were noticeable as they absorb different parts of the spectrum, but that was impossible to tell with Landsat.
 - [[MERIS]]
 
 ### Radiometers
@@ -35,11 +50,30 @@ Measures the intensity of radiation in some bands within the spectrum. Can cover
 - [[ECOSTRESS]] (thermal infrared)
 - [[VIIRS]]
 - GOES
-- Visible : Can show whether clouds are thicker or thinner, and where they turn to become hurricanes.
-- Infrared : Can be used to distinguish low and high clouds, as low clouds are warmer. IR is available both day and night. 
-- Water vapor : between 6.500 nm and 6.900 nm (lower infrared, but not usually noticeable by IR imagery, which is higher)
+- *Visible* : Can show whether clouds are thicker or thinner, and where they turn to become hurricanes.
+- *Infrared* : Can be used to distinguish low and high clouds, as low clouds are warmer. IR is available both day and night. 
+- *Water vapor* : between 6.500 nm and 6.900 nm (lower infrared, but not usually noticeable by IR imagery, which is higher)
 
 ## Other facts
+- **Polar orbits** cover the whole world, with low-earth being faster. Non-polar low-Earth orbit satellites only cover some latitudes.
+- **Thermal sensors** are passive, but can collect data at night as it's emitted from the source and independent of the sun.
+- **Sounders** can be active or passive, and they measure temperature, precipitation, humidity, cloud composition.
+- **Radiometric resolution** indicates the ability of the sensor to detect small differences in energy, and show more detail in the terrain.
+	- More relevant for old Landsat data (ETM, TM, MSS)
+![[110 Remote Sensing-4.png]]
+- **Processing levels** for NASA's products (GEDI, Landsat):
+1. raw data
+2. derived geophysical quantity
+3. mapped to uniform space-time grid scales
+4. combined with models or other instrument data
+
+- The **nadir** is the point in the Earth directly below the satellite.
+
+- A **datum** is a point in Earth that we use as a reference point for other locations.
+
+- **Coordinate Reference Systems (CRS)**
+	- *Geographic (WGS84)*: Good for large extents, bad for specific regions
+	- *Projected (UTM)*: Good for specific regions, bad for large extents. UTM is cylindrical, so it's good for equatorial regions.
 - **Larger wavelengths require larger apertures for same resolution**
 	![[110 Remote Sensing-3.png]]
 - **Plants reflect near-infrared very strongly!**
@@ -65,23 +99,21 @@ Solved with constellations, such as [[Airbus]], [[Planet]] and [[Maxar]].
 - [Zoom Earth | Weather Maps & Live Hurricane Tracker](https://zoom.earth/maps/satellite/#view=18.1,-87.5,4z)
 - [JAXA Global 3D Map](https://www.eorc.jaxa.jp/ALOS/en/dataset/aw3d_e.htm)
 - [GOES Imagery Viewer - NOAA / NESDIS / STAR](https://www.star.nesdis.noaa.gov/goes/index.php)
+- [Alaska Satellite Facility](https://asf.alaska.edu/)
 #### With cloud computing
 - [Planetary Computer](https://planetarycomputer.microsoft.com/catalog)
 - [[Google Earth Engine]]
 
-
-NASA's products (GEDI, Landsat) have processing levels:
-1. raw data
-2. derived geophysical
-3. mapped to uniform space-time grid scales
 ## Learning resources
-[Applied Remote Sensing Training Program | NASA Applied Sciences](https://appliedsciences.nasa.gov/what-we-do/capacity-building/arset)
 
 ### Ongoing
-- [NASA ARSET: Overview of Machine Learning, Part 1/3 - YouTube](https://www.youtube.com/watch?v=U-uJGnhD-zg&list=PLiuUQ9asub3QSgIPLo_RdmRd38EEkUzC6)
-- [ARSET - Agricultural Crop Classification with Synthetic Aperture Radar and Optical Remote Sensing | NASA Applied Sciences](https://appliedsciences.nasa.gov/get-involved/training/english/arset-agricultural-crop-classification-synthetic-aperture-radar-and)
-- [ARSET - Introduction to Synthetic Aperture Radar | NASA Applied Sciences](https://appliedsciences.nasa.gov/get-involved/training/english/arset-introduction-synthetic-aperture-radar)
+1. [ARSET - Fundamentals of Remote Sensing | NASA Applied Sciences](https://appliedsciences.nasa.gov/get-involved/training/english/arset-fundamentals-remote-sensing)
+2. [NASA ARSET: Overview of Machine Learning, Part 1/3 - YouTube](https://www.youtube.com/watch?v=U-uJGnhD-zg&list=PLiuUQ9asub3QSgIPLo_RdmRd38EEkUzC6)
+3. [ARSET - Agricultural Crop Classification with Synthetic Aperture Radar and Optical Remote Sensing | NASA Applied Sciences](https://appliedsciences.nasa.gov/get-involved/training/english/arset-agricultural-crop-classification-synthetic-aperture-radar-and)
+4. [ARSET - Introduction to Synthetic Aperture Radar | NASA Applied Sciences](https://appliedsciences.nasa.gov/get-involved/training/english/arset-introduction-synthetic-aperture-radar)
+5. [EO College - YouTube](https://www.youtube.com/@EOCollege)
 
 ### Next
 - [ARSET - Mapping Crops and their Biophysical Characteristics with Polarimetric SAR and Optical Remote Sensing | NASA Applied Sciences](https://appliedsciences.nasa.gov/get-involved/training/english/arset-mapping-crops-and-their-biophysical-characteristics)
 - [NASA ARSET: Crop Classification with Time Series of Polarimetric SAR Data, Part 1/3 - YouTube](https://www.youtube.com/watch?v=QP4VPaBovBk&list=PLiuUQ9asub3Si5Ke17_uwzs1uwZqTQbWR)
+- [Getting Started with NASA Global Ecosystems Dynamics Investigation (GEDI) Lidar Data - YouTube](https://www.youtube.com/watch?app=desktop&v=UlrCC1Xp-wk)

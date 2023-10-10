@@ -4,12 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "5b2aded0717fa391",
+        "id": "4f4f8380d0d36fa5",
         "type": "tabs",
-        "dimension": 53.47490347490348,
         "children": [
           {
-            "id": "4d3e3a626c573d8b",
+            "id": "0495511ea106a109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Land Use.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a75d4ab531c83cfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd0a407d97479c1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,17 +40,16 @@
         ]
       },
       {
-        "id": "d674afc2f64c0087",
+        "id": "078b299e7ff50fb6",
         "type": "tabs",
-        "dimension": 46.52509652509653,
         "children": [
           {
-            "id": "4f1ddf8c713d699d",
+            "id": "0a01bbf46c665506",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAR.md",
+                "file": "5 Data Sources/ESA CCI Biomass.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GEDI.md",
+                "file": "Land Use.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GEDI.md",
+                "file": "Land Use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GEDI.md"
+                "file": "Land Use.md"
               }
             }
           },
@@ -154,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "GEDI.md",
+                "file": "Land Use.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +215,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "3dbac5c2f60b2e8e",
@@ -233,7 +250,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-09 Mon.md",
+                "file": "1 Captain's Log/1 Daily/2023-10-10 Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -244,8 +261,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5,
-    "collapsed": true
+    "width": 461.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,44 +277,44 @@
       "cmdr:Open current tab in new window": false
     }
   },
-  "active": "4d3e3a626c573d8b",
+  "active": "0495511ea106a109",
   "lastOpenFiles": [
-    "Files/GEDI.png",
+    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
+    "Land Use.md",
+    "5 Data Sources/ESA CCI Biomass.md",
+    "1 Captain's Log/1 Daily/2023-10-10 Tue.md",
     "110 Remote Sensing.md",
-    "SAR.md",
-    "Files/SAR-3.png",
-    "Multispectral.md",
+    "GEDI.md",
+    "1 Captain's Log/2 Weekly/2023 - W40 - Oct.md",
+    "Maxar.md",
+    "MODIS.md",
     "Landsat.md",
+    "VIIRS.md",
+    "SAR.md",
+    "Airbus.md",
+    "Files/110 Remote Sensing-5.png",
+    "Multispectral.md",
+    "LiDAR.md",
+    "Files/Landsat-3.png",
+    "Files/110 Remote Sensing-4.png",
+    "MERIS.md",
+    "5 Data Sources/Above and Below Ground Biomass Carbon.md",
+    "1 Captain's Log/1 Daily/2023-10-09 Mon.md",
+    "Templates/Captain's Log.md",
+    "002 Reading Map.md",
+    "Files/GEDI.png",
+    "Files/SAR-3.png",
     "Files/SAR-2.png",
     "Files/SAR-1.png",
     "Files/110 Remote Sensing-3.png",
-    "GEDI.md",
-    "MODIS.md",
     "PALSAR - ALOS.md",
     "Planet.md",
     "Hyperion.md",
     "Amazonia.md",
     "Files/Pasted image 20231009200418.png",
-    "5 Data Sources/ESA CCI Biomass.md",
     "Files/Multispectral-1.png",
     "HyspIRI.md",
-    "Files/110 Remote Sensing-2.png",
-    "Files/110 Remote Sensing-1.png",
-    "Airbus.md",
-    "Files/Airbus.png",
-    "Files/ESA CCI Biomass.png",
     "NISAR.md",
-    "ECOSTRESS.md",
-    "Evapotranspiration.md",
-    "ASAR-ESA.md",
-    "Maxar.md",
-    "Planetary Computer.md",
-    "5 Data Sources/GFED (Global Fire Emissions Database).md",
-    "003 Data Sources.md",
-    "6 First Contact/MAPBIOMAS.md",
-    "5 Data Sources/MAPBIOMAS LULC.md",
-    "5 Data Sources/MAPBIOMAS Fire.md",
-    "5 Data Sources/FireCCI.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "230 Biodiversity.canvas",
     "3 Research",

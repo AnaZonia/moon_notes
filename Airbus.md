@@ -5,9 +5,9 @@ type:
   - "[[Multispectral]]"
 source:
   - private
-resolution: 50cm
+resolution: 30cm
 time_range: 
-url:
+url: https://earth.esa.int/eogateway/missions/pleiades-neo
 ---
 
 ![[Airbus.png]]

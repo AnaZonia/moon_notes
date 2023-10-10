@@ -9,7 +9,8 @@ tags:
 ### Daily review
 ## Make it so
 ```tasks
-due today
+due before tomorrow
+not done
 short view
 ```
 

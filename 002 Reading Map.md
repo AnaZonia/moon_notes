@@ -39,6 +39,8 @@
 
 [Gernot Wagner (gwagner.com)](https://gwagner.com/green-growth-mindset/)
 
+[As evidências da tecnologia e da arqueologia contra o marco temporal (apublica.org)](https://apublica.org/2023/10/as-evidencias-da-tecnologia-e-da-arqueologia-contra-o-marco-temporal/)
+
 [Ending Amazon deforestation: 4 essential reads about the future of the world's largest rainforest (theconversation.com)](https://theconversation.com/ending-amazon-deforestation-4-essential-reads-about-the-future-of-the-worlds-largest-rainforest-194800)
 
 [Amazon Deforestation and Climate Change (nationalgeographic.org)](https://education.nationalgeographic.org/resource/amazon-deforestation-and-climate-change/)
