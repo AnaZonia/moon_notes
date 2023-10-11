@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Land Use.md",
+                "file": "110 Remote Sensing.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GEDI.md",
+                "file": "MODIS.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Data Sources/ESA CCI Biomass.md",
+                "file": "VIIRS.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Land Use.md",
+                "file": "110 Remote Sensing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Land Use.md",
+                "file": "110 Remote Sensing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Land Use.md"
+                "file": "110 Remote Sensing.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Land Use.md",
+                "file": "110 Remote Sensing.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -261,7 +261,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 461.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,17 +280,17 @@
   },
   "active": "0495511ea106a109",
   "lastOpenFiles": [
-    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
     "Land Use.md",
-    "5 Data Sources/ESA CCI Biomass.md",
-    "1 Captain's Log/1 Daily/2023-10-10 Tue.md",
+    "VIIRS.md",
     "110 Remote Sensing.md",
+    "5 Data Sources/ESA CCI Biomass.md",
+    "MODIS.md",
     "GEDI.md",
+    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
+    "1 Captain's Log/1 Daily/2023-10-10 Tue.md",
     "1 Captain's Log/2 Weekly/2023 - W40 - Oct.md",
     "Maxar.md",
-    "MODIS.md",
     "Landsat.md",
-    "VIIRS.md",
     "SAR.md",
     "Airbus.md",
     "Files/110 Remote Sensing-5.png",
