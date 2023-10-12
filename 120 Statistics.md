@@ -13,6 +13,7 @@
 - [Statistical Learning](https://www.youtube.com/watch?v=LvySJGj-88U&list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e&index=1)
 - [BIOS601: Epidemiology & Statistical Models](https://www.medicine.mcgill.ca/epidemiology/hanley/bios601/)
 - [STAT 220](https://github.com/AmeliaMN/STAT220-labs)
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
 
 ### Help if needed
 - [resouRces: Resources to Learn & Teach R](https://www.resourcesdatabase.com/)

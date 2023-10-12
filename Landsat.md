@@ -1,4 +1,6 @@
 ---
+up:
+  - "[[110 Remote Sensing]]"
 type:
   - "[[Multispectral]]"
 source:

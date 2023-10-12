@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Alexandria/You and Your Research - Richard Hamming.md",
+                "file": "Land Use.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Alexandria/You and Your Research - Richard Hamming.md",
+                "file": "Land Use.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Alexandria/You and Your Research - Richard Hamming.md",
+                "file": "Land Use.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Alexandria/You and Your Research - Richard Hamming.md"
+                "file": "Land Use.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 Alexandria/You and Your Research - Richard Hamming.md",
+                "file": "Land Use.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,10 +252,13 @@
   },
   "active": "8604e10f4572f4e9",
   "lastOpenFiles": [
-    "Landsat.md",
+    "140 R.md",
     "Land Use.md",
-    "4 Estatística para Ecologia/001 Introdução à Estatística.md",
+    "120 Statistics.md",
     "110 Remote Sensing.md",
+    "Landsat.md",
+    "3 Alexandria/You and Your Research - Richard Hamming.md",
+    "4 Estatística para Ecologia/001 Introdução à Estatística.md",
     "Files/Landsat-4.png",
     "3 Alexandria/Research/decuyperContinuousMonitoringForest2022.md",
     "Files/Land Use-8.png",
@@ -270,13 +273,10 @@
     "Files/Land Use-1.png",
     "Files/Land Use.png",
     "Samgeo.md",
-    "3 Alexandria/You and Your Research - Richard Hamming.md",
     "001 Rolling ideas.md",
     "1 Captain's Log/1 Daily/2023-10-11 Wed.md",
     "1 Captain's Log/1 Daily/2023-10-10 Tue.md",
-    "140 R.md",
     "130 Python.md",
-    "120 Statistics.md",
     "310 Latin American Agriculture.md",
     "230 Biodiversity.md",
     "230 Biodiversity.canvas",

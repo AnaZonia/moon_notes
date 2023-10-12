@@ -13,39 +13,67 @@ Here I write a short summary of [ATBD Collection 8 MapBiomas](https://brasil.map
 - JS - image classification and post-classification
 - Python API - Map integration, post-classification, statistical analysis
 - R - improve processing of large datasets, machine learning, data analysis and visualization.
+[github](https://github.com/joaosiqueira/mapbiomas-chile-training)for training of mapbiomas chile data (js)
 
 ### MapBiomas Brasil
 Using Surface Reflectance (SR) from Landsat Collection 2 (Tier 1) 
 
-
-1. Got landsat data in specific temporal windows to optimize spectral contrast and better discriminate the LULC classes (t0 and t1 in day/month/year)
-2. Define feature spaces for each year
+1. **Got landsat data in specific temporal windows** to optimize spectral contrast and better discriminate the LULC classes.
+2. **Define feature spaces** for each year
 	- Shadow masking + cloud cover less than or equal to 50%
-		- Temporal Dark Outlier Mask (TDOM) algorithm (is that the GEE median reducer - which picks the median pixel value in each band over time?)
+		- Temporal Dark Outlier Mask (TDOM) algorithm(identifies cloud shadows as pixels that are both dark in the infrared bands and that are dark statistical outliers across the time series.)
+		- [GEE median reducer](https://developers.google.com/earth-engine/guides/ic_reducing)- picks the median pixel value in each band over time
 		- Band Quality Assessment (BQA)
 		- Visually removed scenes that could affect results like haze, cloud, no data through a preview on earth engine
-
+	- Defined a feature space with approx 90 features:
+		- Median: median of the pixel values within the defined stack of images
+		- Median_dry: median of the quartile of the lowest pixel NDVI values
+		- Median_wet: median of the quartile of the highest pixel NDVI values
+		- Amplitude: amplitude of variation of the index considering all the year's images
+		- stdDev: stdDev of the pixel values within the defined stack of images
+		- Min: the lower annual value of the pixels of each band
 
 ![](https://imgur.com/fW0m717.png)
 
-- Trained with samples produced by LAPIG/UFG [Chave de Interpretação](https://chave.lapig.iesa.ufg.br/pt/) and then ran [data augmentation](https://www.datacamp.com/tutorial/complete-guide-data-augmentation)
-1. Yearly training samples for each biome
+ 3. **Selected training samples** with LAPIG/UFG [Chave de Interpretação](https://chave.lapig.iesa.ufg.br/pt/) and then ran [data augmentation](https://www.datacamp.com/tutorial/complete-guide-data-augmentation)
+	- *Amazon biome* -> Statistical analysis to define minimum number of samples for accuracy assessment:
+		- 10k points for training (phase 1)
+		- 10k points for accuracy assessment (phase 2)
+		- 15k points for accuracy assessment (phase 3)
+		Did feature selection in R using Landsat bands, spectral indices, and fractions from [Spectral Mixture Analysis (SMA)](https://www.cambridge.org/core/books/abs/hyperspectral-imaging-remote-sensing/spectral-mixture-analysis/AA9C2AF0CC6DDCF485E170DD4E70712C)
+		Final variables were Green Vegetation (GV), Non-Photosynthetic Vegetation (NPV), Soil, Cloud, Green Vegetation Shade (GVS), Normalized Difference Fraction Index (NDFI), Shade and Canopy Shade Fraction (CSFI) using [Mean Decrease in Accuracy](https://stats.stackexchange.com/questions/197827/how-to-interpret-mean-decrease-in-accuracy-and-mean-decrease-gini-in-random-fore)in R randomForest. Additional samples obtained with segmentation technique SNIC. (Check out Samgeo)
+	- *Other biomes* -> Randomly sampled from areas with LCLU classes that did not change across all years of Collection 7 (stable classes). When necessary, additional samples were collected.
+
+4. **Yearly classification** done for each biome. Aquaculture, Mining, Irrigation, Rice, and Citrus had their areas of occurrence identified using the U-Net convolutional neural network classifier (CNN).
+5. **Post-classification filters**
+	- *Time-wise gap fill* -> fills out no-cloud pixels/gaps. Either replaces it with the last valid class, or the first valid class after the gap.
+	- *Spatial filter* -> removes isolated pixels (connectedPixelCount function). A pixel that does not share connections to at least four identical neighbors is considered isolated and its value is replaced with the mode value of the surrounding. ==That means the minimum mapping unit is 5 pixels,== or about half a hectare.
+	- *Temporal filter* -> Backward windows of 3, 4 or 5 years that show unrealistic transitions between land use classes. If the two years at the extremities of the time window are identical, but the central positions are not, then the central pixels are reclassified to match the class of the extremities. Also, given any 3 consecutive years, if the classifications of the first and last years are different from their neighbors, these values are replaced by the classification of its matching neighbors.
+	- *Frequency filter* -> all natural class occurrences with less than a given percentage of temporal persistence (e.g. three or fewer years out of 38) are filtered out.
+	- *Incidence filter* -> all pixels that changed more than eight times and are connected to less than six pixels are replaced by the mode value of that given pixel posiiton in the stack of years.
+6. **Maps were integrated** following prevalence rules.
+	- A temporal filter was applied on classes with less than three occurrences in the whole 38 year period
+	- A spatial filter was applied to remove isolated classes with less than half a hectare
+
+Global Accuracy
+Allocation disagreement
+Area disagreement
+
+![](https://i.imgur.com/Y9v8VDD.png)
+
 
 ![](https://imgur.com/RU2OTOP.png)
 
-#### Amazonia Bioma
+
 ![](https://imgur.com/tUX4UZg.png)
 
-[Using the U‐net convolutional network to map forest types and disturbance in the Atlantic rainforest with very high resolution images (Wagner et al 2019)](https://zslpublications.onlinelibrary.wiley.com/doi/epdf/10.1002/rse2.111)
 
-
-### Mapbiomas Amazonas (RAISG)
-==Red Amazónica de Información Socioambiental Georreferenciada (RAISG)==
+### Mapbiomas Amazonia 4.0
 
 ![](https://imgur.com/PmkHtb5.png)
 
 ![](https://imgur.com/bn3Iym5.png)
-### Land use classification
+
 ![](https://imgur.com/O6bdGWO.png)
 
 ![](https://i.imgur.com/S5doCrT.png)
@@ -53,6 +81,10 @@ Using Surface Reflectance (SR) from Landsat Collection 2 (Tier 1)
 
 ### U-Net
 [Working with U-net in R (github)](https://github.com/JonathanVSV/U-netR)
+[Using the U‐net convolutional network to map forest types and disturbance in the Atlantic rainforest with very high resolution images (Wagner et al 2019)](https://zslpublications.onlinelibrary.wiley.com/doi/epdf/10.1002/rse2.111)
+
+
+
 There's a possibility that combining with SAR for the classification will be even better - but does that mean that using SAR as response will become redundant as far as the stats goes?
 [Land Use Land Cover Classification with U-Net: Advantages of Combining Sentinel-1 and Sentinel-2 Imagery](https://www.mdpi.com/2072-4292/13/18/3600#)
 
@@ -69,7 +101,8 @@ For mapping annual crops, the Landsat mosaics require images that cover the peri
 ### Desmatamento/Vegetação Secundária
 
 [Benchmark maps of 33 years of secondary forest age for Brazil (Silva Junior 2020)](https://www-nature-com.proxy3.library.mcgill.ca/articles/s41597-020-00600-4)
-
+[github](https://github.com/celsohlsj/gee_brazil_sv)
+This is the dataset used in [Heinrich et al 2021](https://www-nature-com.proxy3.library.mcgill.ca/articles/s41467-021-22050-1), and it seems to work better than Mapbiomas' land use transitions straight out of the box. I have seen isolated pixels in the dataset, which could be fixed with MapBiomas' spatial filter.
 ## Samgeo
 *A Python package for segmenting geospatial data with the Segment Anything Model (SAM)* - Automatically generates masks
 May help with the collection of training data?
@@ -78,6 +111,10 @@ May help with the collection of training data?
 [paper](https://joss.theoj.org/papers/10.21105/joss.05663)
 
 ![](https://camo.githubusercontent.com/32f6f9e30c7f773b42e7c7d6c47a251b88e88723af456afd8016c26063966204/68747470733a2f2f692e696d6775722e636f6d2f4931496844677a2e676966)
+
+Segmentation done in Amazon biome to get more samples:
+![](https://i.imgur.com/dfpGWSa.png)
+
 ## Other efforts
 [The Global 2000-2020 Land Cover and Land Use Change Dataset Derived From the Landsat Archive: First Results (Potapov 2022)](https://www.frontiersin.org/articles/10.3389/frsen.2022.856903/full) did a global analysis of multiple types of land use change, but did not go further than "cropland" class.
 
