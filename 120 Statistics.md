@@ -1,4 +1,22 @@
-Methods in Biology of Organisms may give some good examples on getting started with stats with biology in R.
+### Ongoing
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [Statistical Rethinking](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
+	- [ebook](https://bookdown.org/content/4857/)
+- [Basic Stats in R](https://bookdown.org/josiesmith/labbook/introduction-to-r-rstudio-and-r-markdown.html)
+- [UNESP Estatística para Ecologia](https://cran.r-project.org/doc/contrib/Provete-Estatistica_aplicada.pdf)
+- [Estatística Aplicada à Ecologia - índice](https://www.ppgern.ufscar.br/pt-br/alunos/disciplinas/estatistica-aplicada-a-ecologia)
+- [Improving Your Statistical Inferences](https://lakens.github.io/statistical_inferences/)
+	- [Improving your statistical inferences - Coursera](https://www.coursera.org/learn/statistical-inferences/home/week/1)
+### Next
+- [Ecologia no R](https://analises-ecologicas.com/)
+- [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)
+- [Statistical Learning](https://www.youtube.com/watch?v=LvySJGj-88U&list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e&index=1)
+- [BIOS601: Epidemiology & Statistical Models](https://www.medicine.mcgill.ca/epidemiology/hanley/bios601/)
+- [STAT 220](https://github.com/AmeliaMN/STAT220-labs)
+
+### Help if needed
+- [resouRces: Resources to Learn & Teach R](https://www.resourcesdatabase.com/)
+- [Statistics by Jim](https://statisticsbyjim.com/)
 
 [[001 Introdução à Estatística]]
    - Definição da Estatística

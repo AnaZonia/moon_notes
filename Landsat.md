@@ -5,8 +5,7 @@ source:
   - NASA
 resolution: 30m
 time range: 1985-
-url: 
-tags: []
+url: https://www.usgs.gov/landsat-missions
 ---
 ## Overview
 ![[Landsat-2.png]]
@@ -52,7 +51,37 @@ Landsat 1-3 was an experimental program.
 	- Band 11 TIRS 2 (11.5 - 12.51 µm) 100-m
 But they minimize stray light.
 
+**Landsat 8 and 9 work as a constellation**, so they have an 8-day return window.
+
+Landsat Next will have three satellites.
+
+## Collections, Tiers and Levels
+**Collection 1** was an organization of the whole data so that it is in a constant archive - now unavailable as it's obsolete.
+**Collection 2** is the second major reprocessing, with many product improvements.
+**Tiers** are the levels of processing for Level 1. Collection 2 goes up to tier 3.
+
+## Science Products
+- **Provisional Actual Evapotranspiration (L3)** 
+	- The quantity of water that is removed from a surface due to the processes of evaporation and transpiration
+- **Surface Temperature (L2)**
+- **Provisional Aquatic Reflectance (L2 - only Landsat 8-9)**
+	- Spectral distribution of visible solar-reflected radiation upwelling from the upper water column
+- **Surface Reflectance (L2)**
+![[Landsat-4.png]]
+This [product](https://www.usgs.gov/landsat-missions/landsat-collection-2-surface-temperature) is generated from multiple data sources and atmospheric profiles, including NASA's [ASTER](https://lpdaac.usgs.gov/products/ag100v003/)(Thermal Emission and Reflection Radiometer). Some areas are missing ASTER data since there was too much persistent cloud cover, so that data is missing in Landsat SR.
+### Derived Spectral Indices (L2)
+Derived from Surface Reflectance.
+#### EVI - Enhanced Vegetation Index
+
+#### NDVI - Normalized Difference Vegetation Index
+
+#### SAVI - Soil Adjusted Vegetation Index
+
+#### MSAVI - Modified Soil Adjusted Vegetation Index
+
+#### NDMI - Normalized Difference Moisture Index
+#### NBR - Normalized Burn Ratio (1 and 2)
 
 ![[Landsat.png|Infrared (band 7) shows fire scars much better than the standard images (Landsat 7)]]
-### Landsat NBR
+
 Requires a sequence of images to be calculated (variation in NBR detects burn)

@@ -11,7 +11,7 @@ type:
 
 ###### Related contacts/institutes:
 
-No site e no youtube, ele tem alguns cursos de aprendizado de máquina e sensoriamento remoto.
+No site e no youtube, ele tem alguns cursos de aprendizado de máquina: [[110 Remote Sensing#Dalagnol's courses]].
 
 Também tem boas referencias de código no [Github](https://github.com/ricds)
 - aerial [[LiDAR]] (lidar_class)

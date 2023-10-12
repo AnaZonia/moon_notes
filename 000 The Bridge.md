@@ -14,7 +14,7 @@ Summary of relevant people, NGOs, and research networks
 - [[110 Remote Sensing]]
 - [[120 Statistics]]
 - [[130 Python]]
-- [[140 R Data Visualization]]
+- [[140 R]]
 
 ### Life Sciences
 - [[210 Tropical Ecology]]

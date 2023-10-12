@@ -12,12 +12,7 @@ SORT file.ctime DESC
 
 ## History
 
-```dataview
-LIST
-FROM #history AND !"Excalidraw"
-WHERE !file.inlinks
-SORT file.ctime DESC
-```
+[[Historical Ecology]]
 ## Art
 
 ```dataview
@@ -26,3 +21,6 @@ FROM #art AND !"Excalidraw"
 WHERE !file.inlinks
 SORT file.ctime DESC
 ```
+
+## Courses
+[Online On-Demand Courses | University of Alberta (MOOCs)](https://www.ualberta.ca/admissions-programs/online-courses/index.html)

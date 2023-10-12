@@ -12,6 +12,8 @@ related: "[[110 Remote Sensing]]"
 [[MAPBIOMAS Forest Age]]
 [[MAPBIOMAS Soil Carbon]]
 
+É uma iniciativa do [Observatório do Clima](https://www.oc.eco.br/en/), que é uma rede de ONGs trabalhando no Brasil com mudanças climáticas.
+
 Has data available for:
 - Chaco
 - [[Amazonia]]
