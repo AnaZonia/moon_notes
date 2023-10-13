@@ -60,7 +60,9 @@ Landsat Next will have three satellites.
 ## Collections, Tiers and Levels
 **Collection 1** was an organization of the whole data so that it is in a constant archive - now unavailable as it's obsolete.
 **Collection 2** is the second major reprocessing, with many product improvements.
-**Tiers** are the levels of processing for Level 1. Collection 2 goes up to tier 3.
+- **Tier 1 (T1)** - Data that meets geometric and radiometric quality requirements
+- **Tier 2 (T2)** - Data that doesn't meet the Tier 1 requirements
+- **Real Time (RT)** - Data that hasn't yet been evaluated (it takes as much as a month).
 
 ## Science Products
 - **Provisional Actual Evapotranspiration (L3)** 

@@ -18,6 +18,7 @@
 ### Help if needed
 - [resouRces: Resources to Learn & Teach R](https://www.resourcesdatabase.com/)
 - [Statistics by Jim](https://statisticsbyjim.com/)
+- [[The Art of Probability - Richard Hamming]]
 
 [[001 Introdução à Estatística]]
    - Definição da Estatística

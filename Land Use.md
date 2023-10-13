@@ -3,12 +3,29 @@ up:
   - "[[110 Remote Sensing]]"
 stardate: Oct 7th 2023
 update: Oct 7th 2023
-share_link: https://share.note.sx/dghdlzp7#8exGPa+qTLGQqxjdJu0fTf4YS9eKU3rxp54YeZrs9k8
-share_updated: 2023-10-11T19:19:10-04:00
+share_link: https://moonline-notes.vercel.app/
+dg-publish: true
+dg-home: true
 ---
-## How does MapBiomas do it?
-Here I write a short summary of [ATBD Collection 8 MapBiomas](https://brasil.mapbiomas.org/wp-content/uploads/sites/4/2023/09/ATBD-Collection-8-v1.1.docx.pdf) and [ATBD MapBiomas Amazonia 4.0](https://s3.amazonaws.com/amazonia.mapbiomas.org/atbd/atbd%20general/ATBD_General_MapBiomas_Amazonia_4.0.pdf)including necessary Appendix info. 
+## Ongoing Plan of Action
+- [ ] Get landsat for Panama in the correct time window
+- [ ] Collect some sample points for the main crop types of the country (perennial such as banana, annual such as maize, coffee)
+- [ ] Can U-Net help us do better land use classification in Panama?
+- [ ] Can Samgeo help us augment the datapoints for training?
+- [ ] How to define the feature space for classification in Panama?
+- [ ] Besides multispectral, could it be an advantage to add SAR data?
+- [ ] How does time series help us classify, and how would we implement that?
 
+Note: Brian and Morgane's previous efforts included using atmospherically corrected Landsat data, but only the 9 bands were input into random forest. His issue was that the training data would not be useful across footprints - training worked well for one footprint at a time only.
+Mapbiomas seems to improve on this issue by ==using 90 features, and training the data for the whole country all at once, for each year==. This approach should work well for Panama.
+## How does MapBiomas do it?
+Here I write a short summary of:
+- [ATBD Collection 8 MapBiomas](https://brasil.mapbiomas.org/wp-content/uploads/sites/4/2023/09/ATBD-Collection-8-v1.1.docx.pdf)
+	- [Agriculture and Forest Plantation - Appendix C8](https://brasil.mapbiomas.org/wp-content/uploads/sites/4/2023/09/Agriculture-and-Forest-Plantation-Appendix-C8-reviewed.pdf)
+	- [Amazon - Appendix C8](https://brasil.mapbiomas.org/wp-content/uploads/sites/4/2023/08/Amazon-Appendix-ATBD-Collection-8.pdf)
+- [ATBD MapBiomas Amazonia 4.0](https://s3.amazonaws.com/amazonia.mapbiomas.org/atbd/atbd%20general/ATBD_General_MapBiomas_Amazonia_4.0.pdf) (including all amazonian countries)
+	- [Agricultura - Apéndice 4.0](https://s3.amazonaws.com/amazonia.mapbiomas.org/atbd/atbd%20transversales/Ap%C3%A9ndice_12_Agricultura_Colecci%C3%B3n_4.0.pdf)
+	- 
 [MapBiomas Brasil Github](https://github.com/mapbiomas-brazil) has the source code:
 - JS - image classification and post-classification
 - Python API - Map integration, post-classification, statistical analysis
@@ -54,7 +71,7 @@ Using Surface Reflectance (SR) from Landsat Collection 2 (Tier 1)
 6. **Maps were integrated** following prevalence rules.
 	- A temporal filter was applied on classes with less than three occurrences in the whole 38 year period
 	- A spatial filter was applied to remove isolated classes with less than half a hectare
-
+[TVI - Temporal Visual Inspection](https://github.com/lapig-ufg/tvi)
 Global Accuracy
 Allocation disagreement
 Area disagreement
@@ -83,7 +100,7 @@ Area disagreement
 [Working with U-net in R (github)](https://github.com/JonathanVSV/U-netR)
 [Using the U‐net convolutional network to map forest types and disturbance in the Atlantic rainforest with very high resolution images (Wagner et al 2019)](https://zslpublications.onlinelibrary.wiley.com/doi/epdf/10.1002/rse2.111)
 
-
+[Mapping tropical forest degradation with deep learning and Planet NICFI data - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0034425723003498#bb0030)
 
 There's a possibility that combining with SAR for the classification will be even better - but does that mean that using SAR as response will become redundant as far as the stats goes?
 [Land Use Land Cover Classification with U-Net: Advantages of Combining Sentinel-1 and Sentinel-2 Imagery](https://www.mdpi.com/2072-4292/13/18/3600#)
@@ -123,16 +140,10 @@ There are issues with shrubland classification in Panama, they are often misclas
 
 Another algorithm that flags deforestation events 
 AVOCADO [Continuous monitoring of forest change dynamics with satellite time series (Decuyper 2022)](https://www.sciencedirect.com/science/article/pii/S0034425721005496?via%3Dihub)
-What does it add to previous algorithms? 
-
 - captures gradual change (unlike rgrowth, for example) 
-
 - would be possible to incorporate logging for example 
-
 - is less effective on dry tropical forest because NDMI of crops is quite similar to NDMI of the forest itself... so be careful with that. Regrowth was flagged accidentally. 
-
 Some sociological factor studies only show the probability of permanence of forests depending on different sociological factors; forests may be allowed to regrow for 5-20 years before being cleared up again. This could just be a predictor for fallow period, but that’s gathered from remote sensing anyways, so it’s kind of useless for my study. 
-
 The algorithm is calibrated with nearby mature forests.
 
 [rgrowth - Tracking disturbance-regrowth dynamics (bendevries.ca)](http://bendevries.ca/rgrowth/)

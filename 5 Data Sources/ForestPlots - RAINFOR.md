@@ -7,8 +7,6 @@ type:
 time_range: 2000-
 url: https://onlinelibrary.wiley.com/doi/epdf/10.1111/j.1654-1103.2007.tb02568.x
 ---
-#plots
-
 [Taking the pulse of Earth's tropical forests using networks of highly distributed plots - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0006320720309071?fr=RR-2&ref=pdf_download&rr=76fc3ce65d7e0122)
 
 ForestPlots hosts data from RAINFOR (South America) as well as other parts of the world.

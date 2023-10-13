@@ -9,10 +9,11 @@ mission:
   - "[[ICESat1 - GLAS & ICESat2 - ATLAS]]"
   - "[[FAO Forest Inventory]]"
   - "[[Planet]]"
-resolution: 100m
+resolution: 1KM
 time_range: 2000-2020
 url: https://ctrees.org
 ---
-NGO. Can't find the data anywhere.
+NGO. Data online is only available at the jurisdiction level.
 
 [CTrees selected as data provider for Verra’s consolidated REDD methodology - CTrees](https://ctrees.org/news/ctrees-selected-as-data-provider-for-verras-consolidated)
+

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0777a70542dbe2b8",
+        "id": "d15738334d96caed",
         "type": "tabs",
         "children": [
           {
-            "id": "8604e10f4572f4e9",
+            "id": "d8e321d1e87607c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Land Use.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 330.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Land Use.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Land Use.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Land Use.md"
+                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Land Use.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -188,7 +187,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "3dbac5c2f60b2e8e",
@@ -233,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5,
-    "collapsed": true
+    "width": 461.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,16 +245,26 @@
       "workspaces:Manage workspace layouts": false,
       "graph:Open graph view": false,
       "cmdr:Open current tab in new window": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "8604e10f4572f4e9",
+  "active": "d8e321d1e87607c4",
   "lastOpenFiles": [
-    "140 R.md",
-    "Land Use.md",
+    "1 Captain's Log/2 Weekly/2023 - W40 - Oct.md",
+    "5 Data Sources/ESA CCI Biomass.md",
+    "3 Alexandria/The Art of Probability - Richard Hamming.md",
     "120 Statistics.md",
+    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
     "110 Remote Sensing.md",
+    "Land Use.md",
+    "Biomass.md",
+    "Templates/2 Remote Sensing Product.md",
+    "5 Data Sources/ForestPlots - RAINFOR.md",
+    "5 Data Sources/FAO Forest Inventory.md",
+    "5 Data Sources/CTrees.md",
     "Landsat.md",
+    "140 R.md",
     "3 Alexandria/You and Your Research - Richard Hamming.md",
     "4 Estatística para Ecologia/001 Introdução à Estatística.md",
     "Files/Landsat-4.png",
@@ -280,15 +288,6 @@
     "310 Latin American Agriculture.md",
     "230 Biodiversity.md",
     "230 Biodiversity.canvas",
-    "520 Writing Science.md",
-    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
-    "5 Data Sources/WorldCover.md",
-    "410 Interests.md",
-    "6 First Contact/Dalagnol, Ricardo.md",
-    "VIIRS.md",
-    "Historical Ecology.md",
-    "210 Tropical Ecology.md",
-    "Mata Atlântica.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "3 Research",
     "Templates/scripts/pin_me.js",

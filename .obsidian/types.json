@@ -9,6 +9,8 @@
     "type": "multitext",
     "stardate": "text",
     "up": "multitext",
-    "mission": "multitext"
+    "mission": "multitext",
+    "dg-publish": "checkbox",
+    "dg-home": "checkbox"
   }
 }
