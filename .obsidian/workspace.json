@@ -245,8 +245,8 @@
       "workspaces:Manage workspace layouts": false,
       "graph:Open graph view": false,
       "cmdr:Open current tab in new window": false,
-      "periodic-notes:Open today": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "d8e321d1e87607c4",
