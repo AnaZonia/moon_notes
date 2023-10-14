@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6 First Contact/Slusser, Jacob.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 330.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 First Contact/Slusser, Jacob.md",
+                "file": "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 First Contact/Slusser, Jacob.md",
+                "file": "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 First Contact/Slusser, Jacob.md"
+                "file": "1 Captain's Log/1 Daily/2023-10-14 Sat.md"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "6 First Contact/Slusser, Jacob.md",
+                "file": "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,21 +250,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1e43b6e5fb41b162",
+  "active": "944b39a3d07b68f4",
   "lastOpenFiles": [
-    "Files/Slusser, Jacob.png",
+    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
     "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
     "1 Captain's Log/1 Daily/2023-10-13 Fri.md",
-    "Planet.md",
-    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
-    "310 Latin American Agriculture.md",
+    "5 Data Sources/ESA CCI Biomass.md",
     "110 Remote Sensing.md",
+    "GEDI.md",
+    "Biomass.md",
+    "Files/Biomass-1.png",
+    "Of Men and Masculinity.md",
+    "Philosophy.md",
+    "410 Interests.md",
+    "6 First Contact/Slusser, Jacob.md",
+    "Files/Slusser, Jacob.png",
+    "Planet.md",
+    "310 Latin American Agriculture.md",
     "001 Rolling ideas.md",
     "002 Reading Map.md",
-    "6 First Contact/Slusser, Jacob.md",
-    "Biomass.md",
     "Files/Biomass.png",
-    "5 Data Sources/ESA CCI Biomass.md",
     "SAR.md",
     "Land Use.md",
     "004 First Contact.md",
@@ -275,10 +281,6 @@
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "6 First Contact/REBRE - Rede Brasileira de Restauração Ecológica.md",
     "3 Alexandria/Guía Práctica para Estabelecer Sistemas Silvopastoriles en la Península de Azuero de Panamá.md",
-    "6 First Contact/Chazdon, Robin L..md",
-    "6 First Contact/Silva, Thiago.md",
-    "6 First Contact/Cardille, Jeff.md",
-    "1 Captain's Log/1 Daily/2023-10-11 Wed.md",
     "Files/Landsat-4.png",
     "Files/Land Use-8.png",
     "Files/Land Use-7.png",
@@ -286,8 +288,6 @@
     "Files/Land Use-5.png",
     "Files/Land Use-4.png",
     "Files/Land Use-3.png",
-    "Files/Land Use-2.png",
-    "Files/Land Use-1.png",
     "230 Biodiversity.canvas",
     "3 Research",
     "Templates/scripts/pin_me.js",

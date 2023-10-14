@@ -16,6 +16,7 @@ url: https://catalogue.ceda.ac.uk/uuid/af60720c1e404a9e9d2c145d2b2ead4e
 ---
 How did ESA Biomass measure SD? (Bear in mind the SD of early biomass values can be larger because there's more variability in the residuals in early trajectories)
 
+
 How did ESA Biomass incorporate GEDI - and what does that mean for systemic bias aka more issues with lower biomass values?
 
 [CEDA Archive Web Browser](https://data.ceda.ac.uk/neodc/esacci/biomass/data/agb/maps/v4.0/geotiff/2018)
