@@ -26,3 +26,6 @@ Cacao agroforestry may be a viable substitute to monocultures in Latin America. 
 
 Also timber may be a good idea? [[bongersPotentialSecondaryForests2015]] says it can be managed in a way to maximize C uptake!
 
+[Reforestation and the state of health of populations in Tessekere, Senegal](https://link.springer.com/article/10.1007/s10113-019-01467-x)
+
+[Priority Micronutrient Density in Foods](https://www.frontiersin.org/articles/10.3389/fnut.2022.806566/full?utm_source=fweb&utm_medium=nblog&utm_campaign=ba-sci-fnut-best-foods-micronutrients)

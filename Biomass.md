@@ -4,3 +4,5 @@ up:
 stardate: Oct 12th 2023
 update: Oct 12th 2023
 ---
+![[Biomass.png|GlobBiomass ATBC]]
+

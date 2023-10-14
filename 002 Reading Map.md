@@ -1,3 +1,6 @@
+
+![[ELTI - Environmental Leadership & Training Initiative#ELTI Reading Map]]
+
 ## What is the cost of protecting the Amazon?
 [Sustainable-use protected areas catalyze enhanced livelihoods in rural Amazonia | PNAS (mcgill.ca)](https://www-pnas-org.proxy3.library.mcgill.ca/doi/full/10.1073/pnas.2105480118)
 

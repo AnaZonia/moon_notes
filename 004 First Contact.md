@@ -31,15 +31,6 @@ WHERE contains(type, "policy")
 SORT file.ctime DESC
 ```
 
-## Researchers
-```dataview
-TABLE WITHOUT ID link(file.link, file.name) AS "Name", up
-FROM "6 First Contact"
-WHERE contains(type, "researcher")
-SORT up DESC
-```
-
-
 ## Outreach Group
 ```dataview
 TABLE WITHOUT ID link(file.link, file.name) AS "Name", location
@@ -47,3 +38,17 @@ FROM "6 First Contact"
 WHERE contains(type, "outreach_group")
 SORT location DESC
 ```
+
+
+## Researchers
+```dataview
+LIST WITHOUT ID link(file.link, file.name)
+FROM "6 First Contact"
+WHERE contains(type, "researcher")
+SORT DESC
+```
+- [[Potvin, Catherine]]
+- [[Kong, Jude]]
+- [[Schnabel, Florian]]
+- [[Ruiz-Jaen, Maria C.]]
+- [[Sanchez-Galan, Javier]]

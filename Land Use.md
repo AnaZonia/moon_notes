@@ -7,6 +7,11 @@ share_link: https://moonline-notes.vercel.app/
 dg-publish: true
 dg-home: true
 ---
+Brian and Morgane's previous efforts using atmospherically corrected Landsat data did not work out. Training data was not useful across footprints - training worked well for one footprint at a time only. I believe these are the reasons:
+- Only Landsat's 9 bands were input into random forest. Mapbiomas seems to improve on this issue by ==using 90 features, and training the data for the whole country all at once, for each year==.
+- Data for annual plants was implemented regardless of stage in growing cycle, but that should be considered for classification as MapBiomas [[Land Use#Time Series|does]]
+- Rice and Citrus classes were classified using U-Net by MapBiomas
+
 ## Ongoing Plan of Action
 - [ ] Get landsat for Panama in the correct time window
 - [ ] Collect some sample points for the main crop types of the country (perennial such as banana, annual such as maize, coffee)
@@ -15,9 +20,6 @@ dg-home: true
 - [ ] How to define the feature space for classification in Panama?
 - [ ] Besides multispectral, could it be an advantage to add SAR data?
 - [ ] How does time series help us classify, and how would we implement that?
-
-Note: Brian and Morgane's previous efforts included using atmospherically corrected Landsat data, but only the 9 bands were input into random forest. His issue was that the training data would not be useful across footprints - training worked well for one footprint at a time only.
-Mapbiomas seems to improve on this issue by ==using 90 features, and training the data for the whole country all at once, for each year==. This approach should work well for Panama.
 ## How does MapBiomas do it?
 Here I write a short summary of:
 - [ATBD Collection 8 MapBiomas](https://brasil.mapbiomas.org/wp-content/uploads/sites/4/2023/09/ATBD-Collection-8-v1.1.docx.pdf)
@@ -114,6 +116,10 @@ For mapping annual crops, the Landsat mosaics require images that cover the peri
 
 [F4 - Earth Engine Fundamentals and Applications - EEFA - Live Document - Google Docs](https://docs.google.com/document/d/11oo1TuvXyEvReoYLDeTcoh16rEN90I8Bf5qp0KxVu7U/edit) (page 109)
 
+![](https://i.imgur.com/MBkDPwW.png)
+
+[Comparing Two Methods of Leaf Area Index Estimation for Rice (Oryza sativa L.) Using In-Field Spectroradiometric Measurements and Multispectral Satellite Images](https://www.mdpi.com/2624-7402/5/2/60)
+
 
 ### Desmatamento/Vegetação Secundária
 
@@ -131,6 +137,9 @@ May help with the collection of training data?
 
 Segmentation done in Amazon biome to get more samples:
 ![](https://i.imgur.com/dfpGWSa.png)
+
+### Bayesian Updating of Land-cover Classifications
+[Jeffrey Cardille - Bayesian Updating of Land-cover Classifications - YouTube](https://www.youtube.com/watch?v=KNeoSpIDVBk)
 
 ## Other efforts
 [The Global 2000-2020 Land Cover and Land Use Change Dataset Derived From the Landsat Archive: First Results (Potapov 2022)](https://www.frontiersin.org/articles/10.3389/frsen.2022.856903/full) did a global analysis of multiple types of land use change, but did not go further than "cropland" class.

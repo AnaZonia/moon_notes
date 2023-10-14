@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d15738334d96caed",
+        "id": "dde98aa8f4441802",
         "type": "tabs",
         "children": [
           {
-            "id": "d8e321d1e87607c4",
+            "id": "1e43b6e5fb41b162",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
+                "file": "6 First Contact/Slusser, Jacob.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
+                "file": "6 First Contact/Slusser, Jacob.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
+                "file": "6 First Contact/Slusser, Jacob.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md"
+                "file": "6 First Contact/Slusser, Jacob.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
+                "file": "6 First Contact/Slusser, Jacob.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -221,7 +221,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-11 Wed.md",
+                "file": "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
                 "mode": "source",
                 "source": false
               }
@@ -249,46 +249,46 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d8e321d1e87607c4",
+  "active": "1e43b6e5fb41b162",
   "lastOpenFiles": [
-    "1 Captain's Log/2 Weekly/2023 - W40 - Oct.md",
-    "5 Data Sources/ESA CCI Biomass.md",
-    "3 Alexandria/The Art of Probability - Richard Hamming.md",
-    "120 Statistics.md",
+    "Files/Slusser, Jacob.png",
+    "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
+    "1 Captain's Log/1 Daily/2023-10-13 Fri.md",
+    "Planet.md",
     "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
+    "310 Latin American Agriculture.md",
     "110 Remote Sensing.md",
-    "Land Use.md",
+    "001 Rolling ideas.md",
+    "002 Reading Map.md",
+    "6 First Contact/Slusser, Jacob.md",
     "Biomass.md",
-    "Templates/2 Remote Sensing Product.md",
-    "5 Data Sources/ForestPlots - RAINFOR.md",
-    "5 Data Sources/FAO Forest Inventory.md",
-    "5 Data Sources/CTrees.md",
-    "Landsat.md",
-    "140 R.md",
-    "3 Alexandria/You and Your Research - Richard Hamming.md",
-    "4 Estatística para Ecologia/001 Introdução à Estatística.md",
+    "Files/Biomass.png",
+    "5 Data Sources/ESA CCI Biomass.md",
+    "SAR.md",
+    "Land Use.md",
+    "004 First Contact.md",
+    "6 First Contact/ELTI - Environmental Leadership & Training Initiative.md",
+    "Non-Timber Forest Product (NTFP).md",
+    "3 Alexandria/Ecosystem Services Approach to Landscape Restoration and Sustainable Livelihoods.md",
+    "2 Workstation/Conferences.md",
+    "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
+    "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+    "6 First Contact/REBRE - Rede Brasileira de Restauração Ecológica.md",
+    "3 Alexandria/Guía Práctica para Estabelecer Sistemas Silvopastoriles en la Península de Azuero de Panamá.md",
+    "6 First Contact/Chazdon, Robin L..md",
+    "6 First Contact/Silva, Thiago.md",
+    "6 First Contact/Cardille, Jeff.md",
+    "1 Captain's Log/1 Daily/2023-10-11 Wed.md",
     "Files/Landsat-4.png",
-    "3 Alexandria/Research/decuyperContinuousMonitoringForest2022.md",
     "Files/Land Use-8.png",
-    "Google Earth Engine.md",
     "Files/Land Use-7.png",
     "Files/Land Use-6.png",
     "Files/Land Use-5.png",
     "Files/Land Use-4.png",
     "Files/Land Use-3.png",
     "Files/Land Use-2.png",
-    "6 First Contact/MAPBIOMAS.md",
     "Files/Land Use-1.png",
-    "Files/Land Use.png",
-    "Samgeo.md",
-    "001 Rolling ideas.md",
-    "1 Captain's Log/1 Daily/2023-10-11 Wed.md",
-    "1 Captain's Log/1 Daily/2023-10-10 Tue.md",
-    "130 Python.md",
-    "310 Latin American Agriculture.md",
-    "230 Biodiversity.md",
     "230 Biodiversity.canvas",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "3 Research",
     "Templates/scripts/pin_me.js",
     "Templates/scripts/my_script.js",
