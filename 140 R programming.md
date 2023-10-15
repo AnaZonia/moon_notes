@@ -46,3 +46,8 @@ With the testthat package, we can check if the results given are expected, such 
 
 
 #### Debugging
+
+### Packrat and Batch Mode
+Python-like working with R code
+[Adding R programs to a personal library - HPC Documentation - UIowa Wiki](https://wiki.uiowa.edu/display/hpcdocs/Adding+R+programs+to+a+personal+library)
+[R Programs in Batch mode for HPC - HPC Documentation - UIowa Wiki](https://wiki.uiowa.edu/display/hpcdocs/R+Programs+in+Batch+mode+for+HPC)

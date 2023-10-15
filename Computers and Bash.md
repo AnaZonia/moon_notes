@@ -8,7 +8,7 @@ update: Oct 14th 2023
 
 My GPU is Intel with 16GB. CUDA is a tool to speed up Deep Learning, and runs on Nvidia GPUs (which is what Hossein has).
 
-
+We have 8 cores - Janus has 64
 
 ## Bash basics
 [Intro to Shell](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html)
@@ -76,8 +76,7 @@ alias python='/usr/bin/python3'
 # changing ownership and rights
 sudo -i #login as root user
 # give everyone permission to alter a file
-sudo chmod a+rwx /path/to/file
-
+sudo chmod a+rwx /usr/lib
 # remove a directory recursively
 rm -rf directory/
 

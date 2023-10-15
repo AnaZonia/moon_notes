@@ -11,6 +11,7 @@ update: Oct 8th 2023
 - [Get Started With GIS in Open Source Python - Geopandas, Rasterio & Matplotlib | Earth Data Science - Earth Lab](https://www.earthdatascience.org/workshops/gis-open-source-python/)
 - [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 - [QGIS Google Earth Engine plugin](https://gee-community.github.io/qgis-earthengine-plugin/)
+- [Creating Maps with Google Earth Engine and PyQGIS – Spatial Thoughts](https://spatialthoughts.com/2020/04/04/ndvi-time-series-gee-qgis/)
 ### Next
 - [FULL COURSE - Google Earth Engine Python API and Colab for Absolute Beginners in 3 Hours](https://www.youtube.com/watch?v=Lqirs04EccA)
 - [McMedHacks](https://app.gumroad.com/d/5f76a9bc66bfd87f4d75d4d157304e99)

@@ -15,6 +15,7 @@ type:
 
 ### Help if needed
 - [A collection of 300+ examples for using Earth Engine and the geemap Python package](https://github.com/giswqs/earthengine-py-examples)
+- [rgee documentation](https://r-spatial.github.io/rgee/)
 
 - Needed to use earthengine auhenticate --auth_mode=notebook to install. Thanks [SpatialThoughts!](https://courses.spatialthoughts.com/install-gee-python-api.html)
 
