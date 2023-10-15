@@ -116,6 +116,7 @@ Solved with constellations, such as [[Airbus]], [[Planet]] and [[Maxar]].
 6. [Introduction to QGIS (Full Course Material) (spatialthoughts.com)](https://courses.spatialthoughts.com/introduction-to-qgis.html#get-the-data-package)
 7. [Earth Lab Courses](https://www.earthdatascience.org/)
 8. [Mastering GDAL Tools](https://courses.spatialthoughts.com/gdal-tools.html#introduction)[[Computers and Bash#GDAL|Notes]]
+9. [The 2021 IEEE-GRSS Young Professionals and ISPRS Student Consortium Summer School](https://www.youtube.com/playlist?list=PLuJe0PwLUHm1tXS_1diKA9MhFzB1-5nxH)
 #### Dalagnol's courses
 - [Mini-curso "Deep Learning para Imagens de Sensoriamento Remoto" no WorCAP 2021 - YouTube](https://www.youtube.com/watch?v=foRhRg6VaCQ)
 - [github code](https://github.com/ricds/DL_RS_GEE)
@@ -124,7 +125,7 @@ Solved with constellations, such as [[Airbus]], [[Planet]] and [[Maxar]].
 - [ARSET - Mapping Crops and their Biophysical Characteristics with Polarimetric SAR and Optical Remote Sensing | NASA Applied Sciences](https://appliedsciences.nasa.gov/get-involved/training/english/arset-mapping-crops-and-their-biophysical-characteristics)
 - [NASA ARSET: Crop Classification with Time Series of Polarimetric SAR Data, Part 1/3 - YouTube](https://www.youtube.com/watch?v=QP4VPaBovBk&list=PLiuUQ9asub3Si5Ke17_uwzs1uwZqTQbWR)
 - [Getting Started with NASA Global Ecosystems Dynamics Investigation (GEDI) Lidar Data - YouTube](https://www.youtube.com/watch?app=desktop&v=UlrCC1Xp-wk)
-
+- [GDAL](https://gdal.org/programs/index.html#raster-programs)
 #### Packages
 [fasterRaster](https://rdrr.io/github/adamlilith/fasterRaster/man/fasterProjectRaster.html)
 [nn2: Nearest Neighbour in df or matrix](https://rdrr.io/cran/RANN/man/nn2.html)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "130 Python.md",
+                "file": "110 Remote Sensing.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computers and Bash.md",
+                "file": "130 Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -269,14 +269,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1e43b6e5fb41b162",
+  "active": "6c53f1f476f5b724",
   "lastOpenFiles": [
-    "140 R programming.md",
-    "Computers and Bash.md",
     "Google Earth Engine.md",
-    "130 Python.md",
-    "Files/Computers and Bash-1.png",
     "110 Remote Sensing.md",
+    "Computers and Bash.md",
+    "130 Python.md",
+    "140 R programming.md",
+    "Files/Computers and Bash-1.png",
     "Files/Computers and Bash.png",
     "Github.md",
     "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
