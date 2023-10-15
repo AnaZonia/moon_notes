@@ -9,7 +9,7 @@ update: Oct 8th 2023
 	- [Python Foundation for Spatial Analysis (Full Course Material) (spatialthoughts.com)](https://courses.spatialthoughts.com/python-foundation.html#introduction)
 	- [Rebecca Barter - An introduction to Python for R Users](https://www.rebeccabarter.com/blog/2023-09-11-from_r_to_python)
 - [Get Started With GIS in Open Source Python - Geopandas, Rasterio & Matplotlib | Earth Data Science - Earth Lab](https://www.earthdatascience.org/workshops/gis-open-source-python/)
-- 
+- [Machine Learning Mastery](https://machinelearningmastery.com/start-here/)
 ### Next
 - [GDAL](https://gdal.org/programs/index.html#raster-programs)
 - [McMedHacks](https://app.gumroad.com/d/5f76a9bc66bfd87f4d75d4d157304e99)
@@ -20,11 +20,34 @@ update: Oct 8th 2023
 - [Corey Schafer - YouTube](https://www.youtube.com/@coreyms)
 - [Workshop Materials MICM](https://www.mcgill.ca/micm/training/workshops-series/workshop-materials)
 
-[[Google Earth Engine]]
-Theoretical -> although this code could be rewritten in R!
-Machine learning
+## First steps
+- Always have a virtual environment. Conda is a sort of a manager for packages and virtual environments, but it's unnecessary - everything can be managed easily with pip and venv.
 
 
+## Venv
+
+```bash
+# the virtual environment is just a directory with the information of the python version used at time of creation.
+
+# install venv
+sudo apt install python3.10-venv
+
+# create a new virtual environment
+python3 -m venv forest_regrowth_env
+# to create a venv with all the packages from the global installation:
+python3 -m venv venv --system-site-packages 
+
+#activate it 
+source project_env/bin/activate
+
+
+#to show only packages installed in this specific environment
+pip list --local
+pip freeze --local
+#exit venv
+deactivate
+
+```
 ## Machine Learning
 [[017 Aprendizado de Máquina]]
 

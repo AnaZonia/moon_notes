@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
+                "file": "130 Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "eeba7827190ff5a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c53f1f476f5b724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computers and Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
+                "file": "130 Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
+                "file": "130 Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-14 Sat.md"
+                "file": "130 Python.md"
               }
             }
           },
@@ -134,7 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
+                "file": "130 Python.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -233,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 461.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,13 +269,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "944b39a3d07b68f4",
+  "active": "1e43b6e5fb41b162",
   "lastOpenFiles": [
+    "140 R programming.md",
+    "Computers and Bash.md",
+    "Google Earth Engine.md",
+    "130 Python.md",
+    "Files/Computers and Bash-1.png",
+    "110 Remote Sensing.md",
+    "Files/Computers and Bash.png",
+    "Github.md",
     "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
     "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
     "1 Captain's Log/1 Daily/2023-10-13 Fri.md",
     "5 Data Sources/ESA CCI Biomass.md",
-    "110 Remote Sensing.md",
     "GEDI.md",
     "Biomass.md",
     "Files/Biomass-1.png",
@@ -275,19 +301,12 @@
     "004 First Contact.md",
     "6 First Contact/ELTI - Environmental Leadership & Training Initiative.md",
     "Non-Timber Forest Product (NTFP).md",
-    "3 Alexandria/Ecosystem Services Approach to Landscape Restoration and Sustainable Livelihoods.md",
-    "2 Workstation/Conferences.md",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
-    "6 First Contact/REBRE - Rede Brasileira de Restauração Ecológica.md",
-    "3 Alexandria/Guía Práctica para Estabelecer Sistemas Silvopastoriles en la Península de Azuero de Panamá.md",
     "Files/Landsat-4.png",
     "Files/Land Use-8.png",
     "Files/Land Use-7.png",
     "Files/Land Use-6.png",
     "Files/Land Use-5.png",
-    "Files/Land Use-4.png",
-    "Files/Land Use-3.png",
     "230 Biodiversity.canvas",
     "3 Research",
     "Templates/scripts/pin_me.js",

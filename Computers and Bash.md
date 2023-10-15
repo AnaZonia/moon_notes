@@ -1,0 +1,220 @@
+---
+up:
+  - "[[000 The Bridge]]"
+stardate: Oct 14th 2023
+update: Oct 14th 2023
+---
+## CPU and GPU
+
+My GPU is Intel with 16GB. CUDA is a tool to speed up Deep Learning, and runs on Nvidia GPUs (which is what Hossein has).
+
+
+
+## Bash basics
+[Intro to Shell](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html)
+```bash
+# create a txt file
+cat > file.txt
+touch file.txt
+# list files in a text file
+ls *.md > markdownfiles.txt
+# append list of files to new text file
+ls *.md >> markdownfiles.txt
+
+# show path to file
+which file
+type -p file
+
+# assign file to variable
+n < markdownfiles.md
+
+#changes all the instances of the word `markdown` to `software` in the first 5 `*.md` files in your current directory
+ls *.md | head | sed -i `s/markdown/software/g`
+
+
+# create a python script
+touch script.py
+
+# manual page for a command
+man cmd
+
+# edit the file (or create if it doesn't exist)
+nano file.txt
+# ctrl X will ask to save the file before exiting
+
+# move file to current directory
+mv tmp/filename .
+#copy file to current directory
+cp tmp/filename .
+
+# to show exactly one character
+?
+
+
+# see file
+less file.txt
+cat file.txt
+
+# or if it's long
+more file.txt
+# to leave window use q
+
+# install multiple packages at once
+pip install -r file.txt
+# with the packages listed in file.txt
+
+# get the packages installed in the correct format for a txt file to be installed in a different directory
+pip freeze > packages.txt
+
+# install R
+sudo apt install r-base r-base-dev -y
+# r-base-dev allows to install from the R console
+
+#set aliases
+alias python='/usr/bin/python3'
+
+# changing ownership and rights
+sudo -i #login as root user
+# give everyone permission to alter a file
+sudo chmod a+rwx /path/to/file
+
+# remove a directory recursively
+rm -rf directory/
+
+# make a directory
+mkdir my_project
+
+# in case you need to install R packages that aren't available because of curl,
+sudo apt-get install libcurl4-openssl-dev r-base libssl-dev libudunits2-dev libfontconfig1-dev openssl libnetcdf-dev libharfbuzz-dev libfribidi-dev libxml2-dev libfreetype6-dev libpng-dev libtiff5-dev libjpeg-dev gdal-bin libgdal-dev
+# bear in mind that libcurl4 by itself removes the r-base packages.
+# curl and httr packages may need to be installed for other packages to run
+R -q -e "install.packages(c('curl', 'httr'))"
+```
+![[Computers and Bash-1.png]]
+### Manage files
+
+```bash
+###### grep looks for strings in files ######
+# search for a string within a file
+grep "string" file.txt
+# search for a string that is COMPLETE within a file ("strings" will not be returned, only string)
+grep -w "string" file.txt
+# include lower and upper case
+grep -wi "string" file.txt
+# include line number of occurrence
+grep -win "string" file.txt
+# search recursively within the directory
+grep -winr "string" .
+# show only the names of files that have this string
+grep -wirl "string" .
+
+# sync files across different directories
+rsync Original/* Backup/
+
+###### find looks for files in directories ######
+# find all directories
+find . -type d
+# find all files
+find . -type f
+# given subdirectories, how far do you want to go?
+-mindepth n
+-maxdepth n
+```
+
+### Loops
+```bash
+
+for varname in list
+do
+    command1 $varname
+    command2 $varname
+done
+
+
+COUNTER=0
+while [ ${COUNTER} -lt 10 ]; do
+    command 1
+    command 2
+    COUNTER=`expr ${COUNTER} + 1` 
+done
+
+
+```
+
+### Shell scripts
+
+The `echo` command is used to display a line of text that is passed in as an argument. This is a bash command that is mostly used in shell scripts to *output status to the screen or to a file.*
+``` bash
+echo "Your current working directory is:"
+pwd
+
+echo "These are the contents of this directory:"
+ls -l
+
+#### what to add to a shell script to run experiments
+#!/bin/bash
+source /home/aavila/forest_regrowth/venv/bin/activate
+script=./file.py
+python3 $script
+
+```
+
+echo can also show the contents of a variable:
+```bash
+echo $num
+# remember $ indicates variables
+```
+## GDAL
+#### Show information on an image
+```bash
+gdalinfo N28E086.hgt
+```
+
+#### Compute image statistics
+```
+gdalinfo -stats N28E086.hgt
+```
+
+#### Merge rasters
+``` bash
+# put them into a text file
+ls *.hgt > filelist.txt
+
+# merge them into a single raster
+gdalbuildvrt -input_file_list filelist.txt merged.vrt
+
+# or in one line
+gdalbuildvrt merged.vrt *.hgt
+```
+![[Computers and Bash.png]]
+
+#### Convert virtual raster format (vrt) to GeoTIFF
+``` bash
+gdal_translate -of GTiff merged.vrt merged.tif
+# -of GTiff optional, as the extension says the file type
+```
+
+#### Compress
+Possible algorithms are DEFLATE, LZW and PACKBITS.
+- The *PREDICTOR* option helps compress data better when the neighboring values are correlated. For elevation data, this is definitely the case.
+- The *TILED* option will compress the data in blocks rather than line-by-line.
+
+```bash
+gdal_translate -of GTiff merged.vrt merged.tif -co COMPRESS=DEFLATE
+
+gdal_translate -of GTiff merged.vrt merged.tif \
+  -co COMPRESS=DEFLATE -co TILED=YES -co PREDICTOR=2
+
+# specifying a new threshold for the nodata value, since the default is -32768
+gdal_translate -of GTiff merged.vrt merged.tif \
+  -co COMPRESS=DEFLATE -co TILED=YES -co PREDICTOR=2 -a_nodata -9999
+```
+
+#### Writing Cloud-Optimized GeoTIFF (COG)
+ A _Cloud-optimized_ GeoTIFF is behaving just like a regular GeoTIFF imagery, but instead of downloading the entire image locally, you can access _portions_ of imagery hosted on a cloud server streamed to clients like QGIS.
+ 
+``` bash
+gdal_translate -of COG merged.vrt merged_cog.tif \
+  -co COMPRESS=DEFLATE -co PREDICTOR=2 -co NUM_THREADS=ALL_CPUS \
+  -a_nodata -9999
+```
