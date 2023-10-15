@@ -31,7 +31,6 @@ n < markdownfiles.md
 #changes all the instances of the word `markdown` to `software` in the first 5 `*.md` files in your current directory
 ls *.md | head | sed -i `s/markdown/software/g`
 
-
 # create a python script
 touch script.py
 
@@ -49,7 +48,6 @@ cp tmp/filename .
 
 # to show exactly one character
 ?
-
 
 # see file
 less file.txt
@@ -83,8 +81,11 @@ rm -rf directory/
 # make a directory
 mkdir my_project
 
+# upgrade all packages and their dependencies
+sudo apt-get dist-upgrade
+
 # in case you need to install R packages that aren't available because of curl,
-sudo apt-get install libcurl4-openssl-dev r-base libssl-dev libudunits2-dev libfontconfig1-dev openssl libnetcdf-dev libharfbuzz-dev libfribidi-dev libxml2-dev libfreetype6-dev libpng-dev libtiff5-dev libjpeg-dev gdal-bin libgdal-dev
+sudo apt-get install libcurl4-openssl-dev r-base libssl-dev libudunits2-dev libfontconfig1-dev openssl libnetcdf-dev libharfbuzz-dev libfribidi-dev libxml2-dev libfreetype6-dev libpng-dev libtiff5-dev libjpeg-dev gdal-bin libgdal-dev libprotobuf-dev libjq-dev protobuf-compiler
 # bear in mind that libcurl4 by itself removes the r-base packages.
 # curl and httr packages may need to be installed for other packages to run
 R -q -e "install.packages(c('curl', 'httr'))"
@@ -162,58 +163,4 @@ echo can also show the contents of a variable:
 ```bash
 echo $num
 # remember $ indicates variables
-```
-## GDAL
-#### Show information on an image
-```bash
-gdalinfo N28E086.hgt
-```
-
-#### Compute image statistics
-```
-gdalinfo -stats N28E086.hgt
-```
-
-#### Merge rasters
-``` bash
-# put them into a text file
-ls *.hgt > filelist.txt
-
-# merge them into a single raster
-gdalbuildvrt -input_file_list filelist.txt merged.vrt
-
-# or in one line
-gdalbuildvrt merged.vrt *.hgt
-```
-![[Computers and Bash.png]]
-
-#### Convert virtual raster format (vrt) to GeoTIFF
-``` bash
-gdal_translate -of GTiff merged.vrt merged.tif
-# -of GTiff optional, as the extension says the file type
-```
-
-#### Compress
-Possible algorithms are DEFLATE, LZW and PACKBITS.
-- The *PREDICTOR* option helps compress data better when the neighboring values are correlated. For elevation data, this is definitely the case.
-- The *TILED* option will compress the data in blocks rather than line-by-line.
-
-```bash
-gdal_translate -of GTiff merged.vrt merged.tif -co COMPRESS=DEFLATE
-
-gdal_translate -of GTiff merged.vrt merged.tif \
-  -co COMPRESS=DEFLATE -co TILED=YES -co PREDICTOR=2
-
-# specifying a new threshold for the nodata value, since the default is -32768
-gdal_translate -of GTiff merged.vrt merged.tif \
-  -co COMPRESS=DEFLATE -co TILED=YES -co PREDICTOR=2 -a_nodata -9999
-```
-
-#### Writing Cloud-Optimized GeoTIFF (COG)
- A _Cloud-optimized_ GeoTIFF is behaving just like a regular GeoTIFF imagery, but instead of downloading the entire image locally, you can access _portions_ of imagery hosted on a cloud server streamed to clients like QGIS.
- 
-``` bash
-gdal_translate -of COG merged.vrt merged_cog.tif \
-  -co COMPRESS=DEFLATE -co PREDICTOR=2 -co NUM_THREADS=ALL_CPUS \
-  -a_nodata -9999
 ```

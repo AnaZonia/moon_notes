@@ -98,3 +98,9 @@
 
 [What is climate change lobbying? - Grantham Research Institute on climate change and the environment (lse.ac.uk)](https://www.lse.ac.uk/granthaminstitute/explainers/what-is-climate-change-lobbying/)
 
+
+[Regrowing tropical forests absorb megatonnes of carbon (mcgill.ca)](https://www-nature-com.proxy3.library.mcgill.ca/articles/d41586-023-00706-w)
+[Frontiers | RE:Growth a toolkit for analysing secondary forest aboveground carbon dynamics in the Brazilian Amazon (frontiersin.org)](https://www.frontiersin.org/articles/10.3389/ffgc.2023.1230734/full)
+[Old-growth forest loss and secondary forest recovery across Amazonian countries - IOPscience](https://iopscience.iop.org/article/10.1088/1748-9326/ac1701)
+
+[Hélio Gurgel Cavalcanti no Migalhas](https://www.migalhas.com.br/autor/helio-gurgel-cavalcanti)

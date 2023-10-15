@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiNumbers",
       "LiExpand",
       "RiSpeakFill",
       "RiEarthLine",
-      "LiLeaf",
-      "RiTreeLine"
+      "LiLeaf"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -62,5 +62,6 @@
   "6 First Contact": "TiHeartHandshake",
   "004 First Contact.md": "LiHeartHandshake",
   "520 Writing Science.md": "LiExpand",
-  "140 R programming.md": "SiR"
+  "140 R programming.md": "SiR",
+  "100 Quantitative.md": "TiNumbers"
 }

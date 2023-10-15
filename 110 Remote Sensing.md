@@ -115,8 +115,9 @@ Solved with constellations, such as [[Airbus]], [[Planet]] and [[Maxar]].
 5. [EO College - YouTube](https://www.youtube.com/@EOCollege)
 6. [Introduction to QGIS (Full Course Material) (spatialthoughts.com)](https://courses.spatialthoughts.com/introduction-to-qgis.html#get-the-data-package)
 7. [Earth Lab Courses](https://www.earthdatascience.org/)
-8. [Mastering GDAL Tools](https://courses.spatialthoughts.com/gdal-tools.html#introduction)[[Computers and Bash#GDAL|Notes]]
+8. [Mastering GDAL Tools](https://courses.spatialthoughts.com/gdal-tools.html#introduction)
 9. [The 2021 IEEE-GRSS Young Professionals and ISPRS Student Consortium Summer School](https://www.youtube.com/playlist?list=PLuJe0PwLUHm1tXS_1diKA9MhFzB1-5nxH)
+10. [Suggested Learning Paths – Spatial Thoughts](https://spatialthoughts.com/learning-paths/)
 #### Dalagnol's courses
 - [Mini-curso "Deep Learning para Imagens de Sensoriamento Remoto" no WorCAP 2021 - YouTube](https://www.youtube.com/watch?v=foRhRg6VaCQ)
 - [github code](https://github.com/ricds/DL_RS_GEE)

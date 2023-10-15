@@ -4,40 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "dde98aa8f4441802",
+        "id": "c3c273761036dacd",
         "type": "tabs",
         "children": [
           {
-            "id": "1e43b6e5fb41b162",
+            "id": "550368332bed1197",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "Soil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c621972f8e13d790",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Github.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "eeba7827190ff5a1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6c53f1f476f5b724",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "130 Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -113,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "Github.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Earth Engine.md"
+                "file": "Github.md"
               }
             }
           },
@@ -152,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "Github.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5,
-    "collapsed": true
+    "width": 461.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,44 +263,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1e43b6e5fb41b162",
+  "active": "c621972f8e13d790",
   "lastOpenFiles": [
-    "140 R programming.md",
-    "Computers and Bash.md",
-    "130 Python.md",
-    "110 Remote Sensing.md",
     "Google Earth Engine.md",
+    "140 R programming.md",
+    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
+    "1 Captain's Log/1 Daily/2023-10-15 Sun.md",
+    "5 Data Sources/FAO Soil Map of the World.md",
+    "Files/FAO Soil Map of the World-1.png",
+    "Files/FAO Soil Map of the World.png",
+    "Soil.md",
+    "5 Data Sources/MAPBIOMAS LULC.md",
+    "002 Reading Map.md",
+    "Files/MAPBIOMAS LULC-4.png",
+    "Files/MAPBIOMAS LULC-3.png",
+    "Files/MAPBIOMAS LULC-2.png",
+    "Files/MAPBIOMAS LULC-1.png",
+    "5 Data Sources/ESA CCI Biomass.md",
+    "003 Data Sources.md",
+    "110 Remote Sensing.md",
+    "5 Data Sources/WCMC Above and Belowground Biomass Carbon.md",
+    "5 Data Sources/NASA Global Above and Belowground Biomass Carbon.md",
+    "WHRC Pantropical National Level Carbon Stock.md",
+    "5 Data Sources/Baccini 2012.md",
+    "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
+    "Computers and Bash.md",
+    "GDAL.md",
+    "100 Quantitative.md",
+    "130 Python.md",
     "Files/Computers and Bash-1.png",
     "Files/Computers and Bash.png",
     "Github.md",
-    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
-    "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
     "1 Captain's Log/1 Daily/2023-10-13 Fri.md",
-    "5 Data Sources/ESA CCI Biomass.md",
     "GEDI.md",
     "Biomass.md",
     "Files/Biomass-1.png",
     "Of Men and Masculinity.md",
     "Philosophy.md",
-    "410 Interests.md",
-    "6 First Contact/Slusser, Jacob.md",
     "Files/Slusser, Jacob.png",
-    "Planet.md",
-    "310 Latin American Agriculture.md",
-    "001 Rolling ideas.md",
-    "002 Reading Map.md",
-    "Files/Biomass.png",
-    "SAR.md",
-    "Land Use.md",
-    "004 First Contact.md",
-    "6 First Contact/ELTI - Environmental Leadership & Training Initiative.md",
-    "Non-Timber Forest Product (NTFP).md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
-    "Files/Landsat-4.png",
-    "Files/Land Use-8.png",
-    "Files/Land Use-7.png",
-    "Files/Land Use-6.png",
-    "Files/Land Use-5.png",
     "230 Biodiversity.canvas",
     "3 Research",
     "Templates/scripts/pin_me.js",

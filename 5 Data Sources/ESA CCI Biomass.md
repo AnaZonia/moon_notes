@@ -14,20 +14,13 @@ resolution: 100m
 time_range: 2010, 2017, 2018, 2019, 2020
 url: https://catalogue.ceda.ac.uk/uuid/af60720c1e404a9e9d2c145d2b2ead4e
 ---
-How did ESA Biomass measure SD? (Bear in mind the SD of early biomass values can be larger because there's more variability in the residuals in early trajectories)
-
-
-How did ESA Biomass incorporate GEDI - and what does that mean for systemic bias aka more issues with lower biomass values?
-
-[CEDA Archive Web Browser](https://data.ceda.ac.uk/neodc/esacci/biomass/data/agb/maps/v4.0/geotiff/2018)
+Summary of [Key Documents](https://climate.esa.int/en/projects/biomass/key-documents/)
+- [Santoro et al. 2021 - The global forest above-ground biomass pool for 2010 estimated from high-resolution satellite observations](https://essd.copernicus.org/articles/13/3927/2021/)
+- [Santoro's presentation explaining the project](https://climate.esa.int/sites/default/files/D1_S1_T3_Santoro.pdf)
 
 GlobBiomass -> CCI Biomass CORE -> [Biomass](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass)
 
-[Santoro et al. 2021 - The global forest above-ground biomass pool for 2010 estimated from high-resolution satellite observations](https://essd.copernicus.org/articles/13/3927/2021/)
-
-[Santoro's presentation explaining the project](https://climate.esa.int/sites/default/files/D1_S1_T3_Santoro.pdf)
-
-### Introduction to the method
+## Introduction to the method
 
 Map was developed using EO as well as in-situ data.
 
@@ -48,6 +41,11 @@ Standard deviation was calculated with the standard deviation of the backscatter
 
 Uses [[ICESat1 - GLAS & ICESat2 - ATLAS]] and [[GEDI]] for calibration.
 
+Error models have been defined to characterize uncertainties associated with the backscatter measurements, the estimation of the model parameters for each image in the multi-temporal stack of observations, and the error associated with supporting datasets, such as ICESAT GLAS.
+- Could the SD of early biomass values can be larger because there's more variability in the residuals in early trajectories
+
+*How did ESA Biomass incorporate GEDI - and what does that mean for systemic bias aka more issues with lower biomass values?*
+- With the denser coverage of GEDI and ICESat-2, the allometries between AGB and tree height were further characterized in Year 3. The impact of the allometries on the AGB maps was substantial, reducing the overestimation in the low AGB range and underestimation in the high AGB range.
 ## Biomass 2024
 Upcoming P-band SAR to be released in 2024
 The amount of biomass and forest height will be measured at a resolution of 200 m, and forest disturbances such as clear-cutting at a resolution of 50 m
