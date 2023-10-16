@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
+                "file": "QGIS.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
+                "file": "QGIS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
+                "file": "QGIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md"
+                "file": "QGIS.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
+                "file": "QGIS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,10 +252,12 @@
   },
   "active": "c621972f8e13d790",
   "lastOpenFiles": [
-    "Soil.md",
-    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
-    "Github.md",
+    "100 Quantitative.md",
+    "QGIS.md",
     "Google Earth Engine.md",
+    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
+    "Soil.md",
+    "Github.md",
     "140 R programming.md",
     "1 Captain's Log/1 Daily/2023-10-15 Sun.md",
     "5 Data Sources/FAO Soil Map of the World.md",
@@ -277,7 +279,6 @@
     "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
     "Computers and Bash.md",
     "GDAL.md",
-    "100 Quantitative.md",
     "130 Python.md",
     "Files/Computers and Bash-1.png",
     "Files/Computers and Bash.png",
@@ -286,7 +287,6 @@
     "Biomass.md",
     "Files/Biomass-1.png",
     "Of Men and Masculinity.md",
-    "Philosophy.md",
     "Files/Slusser, Jacob.png",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "230 Biodiversity.canvas",

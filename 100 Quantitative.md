@@ -18,7 +18,7 @@ tags:
 
 
 [[130 Python]]
-- QGIS
+- [[QGIS]]
 
 [[140 R programming]]
 

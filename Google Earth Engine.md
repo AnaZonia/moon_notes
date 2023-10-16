@@ -29,6 +29,7 @@ But since a lot of resources come in javascript, it's good  (and very possible) 
 [rgee examples](https://csaybar.github.io/rgee-examples/)
 - [rgee documentation](https://r-spatial.github.io/rgee/)
 [Best Practices](https://r-spatial.github.io/rgee/articles/rgee03.html)
+[Earth Engine with R book](https://r-earthengine.com/rgeebook/)
 
 ## geemap
 - [A collection of 300+ examples for using Earth Engine and the geemap Python package](https://github.com/giswqs/earthengine-py-examples)
