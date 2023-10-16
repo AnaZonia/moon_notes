@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QGIS.md",
+                "file": "Bayesian Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
+                "file": "Bayesian Networks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
+                "file": "Bayesian Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-14 Sat.md"
+                "file": "Bayesian Networks.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
+                "file": "Bayesian Networks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -250,10 +250,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "944b39a3d07b68f4",
+  "active": "c621972f8e13d790",
   "lastOpenFiles": [
-    "QGIS.md",
     "100 Quantitative.md",
+    "Bayesian Networks.md",
+    "Agent-Based Modelling.md",
+    "QGIS.md",
+    "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
     "Google Earth Engine.md",
     "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
     "Soil.md",
@@ -276,7 +279,6 @@
     "5 Data Sources/NASA Global Above and Belowground Biomass Carbon.md",
     "WHRC Pantropical National Level Carbon Stock.md",
     "5 Data Sources/Baccini 2012.md",
-    "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
     "Computers and Bash.md",
     "GDAL.md",
     "130 Python.md",
@@ -284,9 +286,7 @@
     "Files/Computers and Bash.png",
     "1 Captain's Log/1 Daily/2023-10-13 Fri.md",
     "GEDI.md",
-    "Biomass.md",
     "Files/Biomass-1.png",
-    "Of Men and Masculinity.md",
     "Files/Slusser, Jacob.png",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "230 Biodiversity.canvas",
