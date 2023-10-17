@@ -22,6 +22,7 @@
 - [R with Google Colab and Stats](https://bookdown.org/yshang/book/)
 - [Workshop Materials MICM](https://www.mcgill.ca/micm/training/workshops-series/workshop-materials)
 - [The caret Package (Classification and Regression Training)](https://topepo.github.io/caret/index.html)
+- [Making Sense of Data with R](https://bookdown.org/yshang/book/)
 - [rstats.ai videos](https://rstats.ai/videos)
 
 ## r-spatial

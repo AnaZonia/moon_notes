@@ -14,6 +14,10 @@ Image <- one Scene
 - ImageCollection
 Feature <- polygons, points, lines
 - FeatureCollection
+
+### Resources
+[GIS Stack Exchange](https://gis.stackexchange.com/questions/tagged/google-earth-engine)
+[Google Earth Engine Developers Forum](https://groups.google.com/g/google-earth-engine-developers)
 ## Javascript
 *Why use APIs instead?*
 - It is not recommended to run for loops in the GEE interface

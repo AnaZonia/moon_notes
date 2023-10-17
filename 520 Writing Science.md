@@ -2,7 +2,7 @@
 - [OpenAcademics Writing References](https://www.oacommunity.org/resources)
 - [Paperpal - Manuscript checker](https://edit.paperpal.com/documents/de11a755-7810-4717-b3a6-98b3de4351f4)
 - [QuillBot AI - Paraphraser](https://quillbot.com/)
-
+- [Hemingway Editor](https://hemingwayapp.com/)
 ## Useful advice
 - One point per paragraph, one paragraph per point.
 - *Write as you would speak* - maybe speak out the text first, and then organize it as it's easier for the words to flow. ChatGPT can help transcribe spoken text to something acceptable.

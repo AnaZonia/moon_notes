@@ -11,15 +11,29 @@
             "id": "c150fd520d8f6f2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "000 The Bridge.md",
-                "mode": "source",
-                "source": false
+                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+                "viewState": {
+                  "x": 350.9991395370854,
+                  "y": -435.0380812800031,
+                  "zoom": -1.2173568314391496
+                }
+              }
+            }
+          },
+          {
+            "id": "c55d8fd39da7589f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 The Bridge.md"
+                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md"
               }
             }
           },
@@ -133,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,7 +246,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 400.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,16 +264,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c150fd520d8f6f2e",
+  "active": "c55d8fd39da7589f",
   "lastOpenFiles": [
-    "4 Floresta Aleatória/012 Inferência Bayesiana.md",
-    "000 The Bridge.md",
-    "100 A Floresta Aleatória.md",
-    "4 Floresta Aleatória/140 R programming.md",
+    "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+    "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md",
+    "2 Workstation/PhD Planning.md",
     "Google Earth Engine.md",
+    "4 Floresta Aleatória/140 R programming.md",
+    "1 Captain's Log/2 Weekly/2023 - W42 - Oct.md",
+    "520 Writing Science.md",
+    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
+    "000 The Bridge.md",
+    "4 Floresta Aleatória/012 Inferência Bayesiana.md",
+    "100 A Floresta Aleatória.md",
     "1 Captain's Log/1 Daily/2023-10-17 Tue.md",
     "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
-    "1 Captain's Log/2 Weekly/2023 - W42 - Oct.md",
     "QGIS.md",
     "Bayesian Networks.md",
     "240 Theoretical Ecology.md",
@@ -267,7 +287,6 @@
     "4 Floresta Aleatória/110 Remote Sensing.md",
     "Templates/1 Cadet.md",
     "Agent-Based Modelling.md",
-    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
     "Soil.md",
     "Github.md",
     "1 Captain's Log/1 Daily/2023-10-15 Sun.md",
@@ -280,15 +299,10 @@
     "Files/MAPBIOMAS LULC-3.png",
     "Files/MAPBIOMAS LULC-2.png",
     "Files/MAPBIOMAS LULC-1.png",
-    "5 Data Sources/ESA CCI Biomass.md",
-    "003 Data Sources.md",
-    "5 Data Sources/WCMC Above and Belowground Biomass Carbon.md",
-    "5 Data Sources/NASA Global Above and Belowground Biomass Carbon.md",
     "Files/Computers and Bash-1.png",
     "Files/Computers and Bash.png",
     "Files/Biomass-1.png",
     "Files/Slusser, Jacob.png",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "3 Research",
     "Templates/scripts/pin_me.js",
     "Templates/scripts/my_script.js",
