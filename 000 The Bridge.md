@@ -10,6 +10,51 @@ Summary of data on LULC, forest plots, plant traits, biomass, fire, climate and 
 [[004 First Contact]]
 Summary of relevant people, NGOs, and research networks
 
+- Preservação e recuperação da floresta
+	1. Ecologia de paisagem
+		- Dinâmica florestal (como uma comunidade muda com o amadurecimento de uma floresta? o que limita o crescimento?)
+		- Biodiversidade
+		- Contexto ecológico latinoamericano-brasileiro (cerrado, florestas montanhosas, caatinga, mata atlântica, amazônia, pantanal)
+	1. Biogeoquímica & Botânica
+		- Ciclo de nutrientes (nitrogênio e fósforo principalmente)
+		- Fisiologia vegetal
+			- Fotossíntese
+			- Fixação de nitrogênio
+			- Reprodução (produção de frutos e flores)
+	2. Serviços ecossistêmicos e políticas de conservação
+		- Como planejar a restauração de ecossistemas mantendo em mente o bem-estar das populações rurais? Onde há uma interseção da saúde da floresta (recuperação de biodiversidade e biomassa) e saúde humana?
+			- Produtos florestais não-madeireiros
+			- Agrofloresta
+		- Como estabelecer uma comunicação eficiente entre os meios acadêmico e político, pra informar decisões com mais eficiência?
+			- Política ambiental
+			- Legislação ambiental
+			- Comunicação científica
+- Previsões confiáveis de dinâmica florestal
+	1. Estatística
+		- Estatística frequentista - qual correlação há entre certos fatores, e qual a nossa incerteza?
+			- Regressão, modelos aditivos, modelos mistos, verossimilhança máxima, etc
+		- Estatística bayesiana - como o conhecimento prévio afeta as nossas conclusões futuras?
+			- Redes bayesianas, otimização
+		- Aprendizado de máquina - como usar computadores pra executar algoritmos baseados em métodos estatísticos?
+			- RandomForest
+			- Neural Networks
+				- Deep Learning
+			- Decision Trees
+			- Naive Bayes
+			- K-means clustering
+	2. Sensoriamento Remoto
+		1. Produtos
+			- Multi-hiper spectral
+				- Classificação de uso de terra
+			- Radar
+			- LiDAR
+	 3. Ferramentas
+		- QGIS
+		- GDAL
+		- Python
+		- R
+		- Google Earth Engine
+
 ### Quantitative
 - [[110 Remote Sensing]]
 - [[120 Statistics]]

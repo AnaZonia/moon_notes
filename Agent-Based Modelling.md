@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[100 Quantitative]]"
+  - "[[100 A Floresta Aleatória]]"
   - "[[310 Latin American Agriculture]]"
 stardate: Oct 16th 2023
 update: Oct 16th 2023

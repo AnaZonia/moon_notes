@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c3c273761036dacd",
+        "id": "72b15c8db255bf4c",
         "type": "tabs",
         "children": [
           {
-            "id": "c621972f8e13d790",
+            "id": "c150fd520d8f6f2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bayesian Networks.md",
+                "file": "000 The Bridge.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bayesian Networks.md",
+                "file": "000 The Bridge.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bayesian Networks.md",
+                "file": "000 The Bridge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bayesian Networks.md"
+                "file": "000 The Bridge.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bayesian Networks.md",
+                "file": "000 The Bridge.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,12 +216,12 @@
             }
           },
           {
-            "id": "944b39a3d07b68f4",
+            "id": "c621972f8e13d790",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
+                "file": "1 Captain's Log/1 Daily/2023-10-17 Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -233,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 400.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -250,18 +249,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c621972f8e13d790",
+  "active": "c150fd520d8f6f2e",
   "lastOpenFiles": [
-    "100 Quantitative.md",
-    "Bayesian Networks.md",
-    "Agent-Based Modelling.md",
-    "QGIS.md",
-    "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
+    "4 Floresta Aleatória/012 Inferência Bayesiana.md",
+    "000 The Bridge.md",
+    "100 A Floresta Aleatória.md",
+    "4 Floresta Aleatória/140 R programming.md",
     "Google Earth Engine.md",
+    "1 Captain's Log/1 Daily/2023-10-17 Tue.md",
+    "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
+    "1 Captain's Log/2 Weekly/2023 - W42 - Oct.md",
+    "QGIS.md",
+    "Bayesian Networks.md",
+    "240 Theoretical Ecology.md",
+    "Biodiversity.canvas",
+    "230 Biodiversity.md",
+    "4 Floresta Aleatória/110 Remote Sensing.md",
+    "Templates/1 Cadet.md",
+    "Agent-Based Modelling.md",
     "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
     "Soil.md",
     "Github.md",
-    "140 R programming.md",
     "1 Captain's Log/1 Daily/2023-10-15 Sun.md",
     "5 Data Sources/FAO Soil Map of the World.md",
     "Files/FAO Soil Map of the World-1.png",
@@ -274,22 +282,13 @@
     "Files/MAPBIOMAS LULC-1.png",
     "5 Data Sources/ESA CCI Biomass.md",
     "003 Data Sources.md",
-    "110 Remote Sensing.md",
     "5 Data Sources/WCMC Above and Belowground Biomass Carbon.md",
     "5 Data Sources/NASA Global Above and Belowground Biomass Carbon.md",
-    "WHRC Pantropical National Level Carbon Stock.md",
-    "5 Data Sources/Baccini 2012.md",
-    "Computers and Bash.md",
-    "GDAL.md",
-    "130 Python.md",
     "Files/Computers and Bash-1.png",
     "Files/Computers and Bash.png",
-    "1 Captain's Log/1 Daily/2023-10-13 Fri.md",
-    "GEDI.md",
     "Files/Biomass-1.png",
     "Files/Slusser, Jacob.png",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
-    "230 Biodiversity.canvas",
     "3 Research",
     "Templates/scripts/pin_me.js",
     "Templates/scripts/my_script.js",

@@ -3,10 +3,8 @@ Translate tool
 - generate NAs
 
 GRASS
+[QGIS User Guide — QGIS Documentation documentation](https://docs.qgis.org/3.28/en/docs/user_manual/index.html)
 
-
-1- remove all zeroes. Make sure there's NAs instead of zeroes when and where possible
-2- align rasters.
 
 
 - frequency within 100m?

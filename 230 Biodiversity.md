@@ -5,3 +5,6 @@ up:
   - "[[000 The Bridge]]"
 ---
 How is biodiversity studied through remote sensing?
+
+[[Biodiversity.canvas|230 Biodiversity]]
+

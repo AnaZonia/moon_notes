@@ -23,6 +23,11 @@ But since a lot of resources come in javascript, it's good  (and very possible) 
 [Cloud-Based Remote Sensing with Google Earth Engine: Fundamentals and Applications](https://www.eefabook.org/go-to-the-book.html) Chapters 1-5
 	- [​Chapter Summary Videos (eefabook.org)](https://www.eefabook.org/videos.html)
 
+[Land use and Land cover classification using Random forest machine learning in Google Earth Engine - YouTube](https://www.youtube.com/watch?v=Z-DPRCWWaqg)
+
+
+
+
 ## rgee
 - [Using Google Earth Engine with R](https://www.css.cornell.edu/faculty/dgr2/_static/files/R_html/ex_rgee.html)
 - [Introduction to Google Earth Engine with R language - YouTube](https://www.youtube.com/watch?v=SHXuIpjU3YE)
@@ -30,6 +35,7 @@ But since a lot of resources come in javascript, it's good  (and very possible) 
 - [rgee documentation](https://r-spatial.github.io/rgee/)
 [Best Practices](https://r-spatial.github.io/rgee/articles/rgee03.html)
 [Earth Engine with R book](https://r-earthengine.com/rgeebook/)
+[Installing RGEE to use Google Earth Engine inside R - YouTube](https://www.youtube.com/watch?v=1-k6wNL2hlo)
 
 ## geemap
 - [A collection of 300+ examples for using Earth Engine and the geemap Python package](https://github.com/giswqs/earthengine-py-examples)

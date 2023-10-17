@@ -6,10 +6,11 @@
 - [Get Started with Clean Coding in R | Earth Data Science - Earth Lab](https://www.earthdatascience.org/workshops/clean-coding-tidyverse-intro/importance-of-clean-code/)
 ## Next
 - [SDS 375: Data Visualization in R](https://wilkelab.org/SDS375/syllabus.html)
-- [Advanced R  - functional programming and OOP](https://adv-r.hadley.nz/index.html)
+- [Advanced R book](https://adv-r.hadley.nz/)
 - [Beginner's Guide to Data Exploration and Visualisation with R (Zuur)](https://www.highstat.com/index.php/books2?view=article&id=24&catid=18)
 - [R for Data Science](https://r4ds.hadley.nz/)
 - [Geocomputation with R](https://r.geocompx.org/)
+- [Spatial Data Science](https://r-spatial.org/book/)
 
 ## Help if needed
 - [jakelawlor/TidyTuesday](https://github.com/jakelawlor/TidyTuesday_JL/tree/master)
@@ -34,6 +35,8 @@ Note that some packages will work differently with data from stars, terra or ras
 - isn't as well documented as terra
 - about 3x faster than terra
 - has its own 'stars' object instead of SpatRaster or Raster
+
+## Functional Programming and OOP
 
 
 ## Reproducible code
