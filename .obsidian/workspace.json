@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md",
+                "file": "1 Captain's Log/1 Daily/2023-10-17 Tue.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md",
+                "file": "1 Captain's Log/1 Daily/2023-10-17 Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md"
+                "file": "1 Captain's Log/1 Daily/2023-10-17 Tue.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md",
+                "file": "1 Captain's Log/1 Daily/2023-10-17 Tue.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -246,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5,
-    "collapsed": true
+    "width": 400.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,7 +262,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c55d8fd39da7589f",
+  "active": "c621972f8e13d790",
   "lastOpenFiles": [
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md",
