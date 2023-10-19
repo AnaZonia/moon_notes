@@ -8,3 +8,5 @@ How is biodiversity studied through remote sensing?
 
 [[Biodiversity.canvas|230 Biodiversity]]
 
+[Tropics as cradle, museum, or destination? - Understanding Evolution (berkeley.edu)](https://evolution.berkeley.edu/visualizing-life-on-earth/investigation-phase-iv-why-the-tropics/tropics-as-cradle-museum-or-destination/)
+
