@@ -24,7 +24,14 @@
 - [The caret Package (Classification and Regression Training)](https://topepo.github.io/caret/index.html)
 - [Making Sense of Data with R](https://bookdown.org/yshang/book/)
 - [rstats.ai videos](https://rstats.ai/videos)
+#### Packages
+[fasterRaster](https://rdrr.io/github/adamlilith/fasterRaster/man/fasterProjectRaster.html)
+[nn2: Nearest Neighbour in df or matrix](https://rdrr.io/cran/RANN/man/nn2.html)
+[sits: Satellite image time series in R](https://github.com/e-sensing/sits)
 
+[classify function - RDocumentation](https://www.rdocumentation.org/packages/RandPro/versions/0.2.2/topics/classify)
+factors are labelled numbers
+Difference between RData, rds, R file types
 ## r-spatial
 
 rgeos, maptools and rgdal (from the sp package) are [retiring](https://r-spatial.org/r/2022/04/12/evolution.html) - sf/stars/terra is the new thing.

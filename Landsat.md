@@ -9,6 +9,10 @@ resolution: 30m
 time range: 1985-
 url: https://www.usgs.gov/landsat-missions
 ---
+[Landsat 8 Collection 1 (C1) Land Surface Reflectance Code (LaSRC) Product Guide (amazonaws.com)](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/atoms/files/LSDS-1368_L8_C1-LandSurfaceReflectanceCode-LASRC_ProductGuide-v3.pdf)
+
+Landsat files are rescaled up to 10,000 to turn data into integers, so it's easier to download and has less file size than floats.
+
 ## Overview
 ![[Landsat-2.png]]
 - This image shows the bandpass wavelengths for the Landsat 1-9 sensors. Landsat MSS = the numbers shown are for Landsat 4 and Landsat 5; Landsat 1-3 band numbers are 4, 5, 6 and 7.
@@ -89,3 +93,10 @@ Derived from Surface Reflectance.
 ![[Landsat.png|Infrared (band 7) shows fire scars much better than the standard images (Landsat 7)]]
 
 Requires a sequence of images to be calculated (variation in NBR detects burn)
+
+
+## Cleaning Clouds
+
+![[Landsat-5.png]]
+
+Cloud shadow masking may not be available for all years of landsat - make sure to check how quality assurance works for older landsat.

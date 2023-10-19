@@ -14,10 +14,13 @@ Image <- one Scene
 - ImageCollection
 Feature <- polygons, points, lines
 - FeatureCollection
+### EECU
+[API Monitoring  |  Google Earth Engine  |  Google for Developers](https://developers.google.com/earth-engine/cloud/api_monitoring#:~:text=An%20EECU%20is%20an%20Earth,online%20%2C%20batch%20%2C%20highvolume%20%5D.)
 
 ### Resources
 [GIS Stack Exchange](https://gis.stackexchange.com/questions/tagged/google-earth-engine)
 [Google Earth Engine Developers Forum](https://groups.google.com/g/google-earth-engine-developers)
+[JavaScript and Python Guides](https://developers.google.com/earth-engine/guides)
 ## Javascript
 *Why use APIs instead?*
 - It is not recommended to run for loops in the GEE interface
