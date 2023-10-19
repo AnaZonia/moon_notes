@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sentinel 2.md",
+                "file": "Computers and Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sentinel 2.md",
+                "file": "Computers and Bash.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sentinel 2.md",
+                "file": "Computers and Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sentinel 2.md"
+                "file": "Computers and Bash.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Sentinel 2.md",
+                "file": "Computers and Bash.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,8 +251,9 @@
   },
   "active": "c55d8fd39da7589f",
   "lastOpenFiles": [
-    "1 Captain's Log/1 Daily/2023-10-17 Tue.md",
+    "Files/Computers and Bash.png",
     "Sentinel 2.md",
+    "1 Captain's Log/1 Daily/2023-10-17 Tue.md",
     "1 Captain's Log/2 Weekly/2023 - W42 - Oct.md",
     "4 Floresta Aleatória/140 R programming.md",
     "4 Floresta Aleatória/110 Remote Sensing.md",
@@ -278,7 +279,6 @@
     "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
     "QGIS.md",
     "Bayesian Networks.md",
-    "240 Theoretical Ecology.md",
     "Biodiversity.canvas",
     "Files/FAO Soil Map of the World-1.png",
     "Files/FAO Soil Map of the World.png",
@@ -287,7 +287,6 @@
     "Files/MAPBIOMAS LULC-2.png",
     "Files/MAPBIOMAS LULC-1.png",
     "Files/Computers and Bash-1.png",
-    "Files/Computers and Bash.png",
     "Files/Biomass-1.png",
     "3 Research",
     "Templates/scripts/pin_me.js",
