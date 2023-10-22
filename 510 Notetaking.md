@@ -1,3 +1,4 @@
+
 **1. Always take fleeting notes**
 **2. Be selective with what you write down**
 	Hardest part for me, for sure. Must let go of the FOMO and not write literally everything down.

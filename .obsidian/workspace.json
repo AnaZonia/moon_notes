@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "eb512c56c59cad0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32f1f521b7f253aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "500 How To Science.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QGIS.md",
+                "file": "500 How To Science.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QGIS.md",
+                "file": "500 How To Science.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QGIS.md"
+                "file": "500 How To Science.md"
               }
             }
           },
@@ -133,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "QGIS.md",
+                "file": "500 How To Science.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,8 +267,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cd9e5af5f924797b",
+  "active": "32f1f521b7f253aa",
   "lastOpenFiles": [
+    "Bad Science.md",
+    "510 Notetaking.md",
+    "500 How To Science.md",
+    "Files/Bad Science.png",
+    "QGIS.md",
     "Complex Adaptive Systems.md",
     "Historical Ecology.md",
     "230 Biodiversity.md",
@@ -276,10 +299,6 @@
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "2 Workstation/PhD Planning.md",
     "520 Writing Science.md",
-    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
-    "000 The Bridge.md",
-    "4 Floresta Aleatória/012 Inferência Bayesiana.md",
-    "1 Captain's Log/1 Daily/2023-10-14 Sat.md",
     "Biodiversity.canvas",
     "Files/FAO Soil Map of the World-1.png",
     "Files/FAO Soil Map of the World.png",
@@ -288,7 +307,6 @@
     "Files/MAPBIOMAS LULC-2.png",
     "Files/MAPBIOMAS LULC-1.png",
     "Files/Computers and Bash-1.png",
-    "Files/Biomass-1.png",
     "3 Research",
     "Templates/scripts/pin_me.js",
     "Templates/scripts/my_script.js",
