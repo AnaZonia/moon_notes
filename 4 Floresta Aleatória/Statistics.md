@@ -102,7 +102,7 @@
     - Relação entre Aprendizado de Máquina e Estatística
     - Redes Neurais Artificiais e Suas Aplicações
 
-[[Técnicas de Otimização]]
+[[020 Técnicas de Otimização]]
     - Otimização Determinística vs. Estocástica
     - Gradient Descent Estocástico
     - Métodos de Otimização: BFGS, Finite Differences, NovoGrad

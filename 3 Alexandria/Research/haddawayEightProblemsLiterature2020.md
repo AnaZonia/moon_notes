@@ -11,7 +11,7 @@ type: lit_note
 at-a-glance: ""
 
 --- 
-[[530 Literature Review]]
+[[Literature Review]]
 
 >[!summary] Summary
 

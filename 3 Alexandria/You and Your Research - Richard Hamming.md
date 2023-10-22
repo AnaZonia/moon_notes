@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[520 Writing Science]]"
+  - "[[Writing Science]]"
 url: https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 type:
   - talk

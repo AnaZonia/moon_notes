@@ -12,21 +12,21 @@ References
 
 [[Knowledge Management]]
 
-[[110 Remote Sensing]]
+[[Remote Sensing]]
 
 [[017 Aprendizado de Máquina]]
 
-[[120 Statistics]]
+[[Statistics]]
 
 [[Github]]
 
 [[Computers and Bash]]
 
 
-[[130 Python]]
+[[Python]]
 - [[QGIS]]
 
-[[140 R programming]]
+[[R programming]]
 
 [[Google Earth Engine]]
 - Javascript
@@ -40,3 +40,4 @@ References
 [[Agent-Based Modelling]]
 [[Earth System Models]]
 
+[[240 Theoretical Ecology]]

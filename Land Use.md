@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[110 Remote Sensing]]"
+  - "[[Remote Sensing]]"
 stardate: Oct 7th 2023
 update: Oct 7th 2023
 share_link: https://moonline-notes.vercel.app/

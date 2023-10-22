@@ -1,10 +1,8 @@
 ---
 up:
-  - "[[410 Interests]]"
+  - "[[500 Interests]]"
 stardate: Oct 8th 2023
 update: Oct 8th 2023
-tags:
-  - "#tribble"
 ---
 [[Hypatia]]
 [[Epistemology]]
@@ -13,3 +11,11 @@ tags:
 
 
 [[Of Men and Masculinity]]
+
+[[Utilitarismo]]
+
+
+[[Kant]]
+
+[Filosofia na Prática | Moral e Ética | O que é Utilitarismo - YouTube](https://www.youtube.com/watch?v=gW2XJgUFEps)
+

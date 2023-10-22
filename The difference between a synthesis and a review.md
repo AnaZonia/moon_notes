@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[530 Literature Review]]"
+  - "[[Literature Review]]"
 stardate: Sep 30th 2023
 update: Sep 30th 2023
 tags:

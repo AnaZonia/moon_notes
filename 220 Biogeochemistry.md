@@ -8,7 +8,7 @@ update: Oct 8th 2023
 
 sahara sands - [[Phosphorus]], molybdenum, iron
 
-[[Plant Physiology]]
+[[Botany]]
 
 [[Soil]]
 

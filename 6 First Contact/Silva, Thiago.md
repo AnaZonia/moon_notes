@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[110 Remote Sensing]]"
+  - "[[Remote Sensing]]"
   - "[[210 Tropical Ecology]]"
 url: https://scholar.google.ca/citations?user=hpPTEmcAAAAJ&hl=en
 type:

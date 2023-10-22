@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[110 Remote Sensing]]"
+  - "[[Remote Sensing]]"
 ---
 It's called synthetic aperture as it uses a very large antenna that moves in a way that it artificially acts as if it's a much larger aperture ([great explanation!](https://www.youtube.com/watch?v=u2bUKEi9It4))
 - The same antenna is used repeatedly as it moves, acting as if it's a much larger antenna.

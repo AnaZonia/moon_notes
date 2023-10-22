@@ -1,7 +1,7 @@
 ---
 up:
-  - "[[550 Science Outreach]]"
-  - "[[Plant Physiology]]"
+  - "[[Science Outreach]]"
+  - "[[Botany]]"
 type:
   - scicomm_article
 stardate: Sep 24th 2023

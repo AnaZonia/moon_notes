@@ -10,5 +10,4 @@ location:
   - Brasil
   - INPA
 ---
-
-###### Related contacts/institutes:
+[Rita Mesquita, do INPA, assume Secretaria de Biodiversidade no Ministério do Meio Ambiente - ((o))eco (oeco.org.br)](https://oeco.org.br/reportagens/rita-mesquita-do-inpa-assume-secretaria-de-biodiversidade-no-ministerio-do-meio-ambiente/)

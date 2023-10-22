@@ -1,7 +1,9 @@
 ---
-up: []
+up: 
 url: 
-type: 
+type:
+  - researcher
 aliases: 
-at-a-glance:
+at-a-glance: 
+location: []
 ---

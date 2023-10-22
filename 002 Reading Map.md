@@ -35,6 +35,11 @@
 [The relationships between biomass allocation and plant functional trait - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1470160X19301578?casa_token=uNy_QhpoyYMAAAAA:2EAHZt-Q8RzaurFggdz0cP5UELcGY21HMVM_Q6jwa1448vkYATxYbj3MIsoSsRoRph6hTM9nL9w9)
 
 ## Online articles
+[In retrospect: The Selfish Gene | Nature (mcgill.ca)](https://www-nature-com.proxy3.library.mcgill.ca/articles/529462a)
+
+[Monetizar a restauração florestal limita o papel da regeneração natural na Amazônia (liberalamazon.com)](https://www.liberalamazon.com/en/artigos-de-opiniao/news/monetizar-a-restauracao-florestal-limita-o-papel-da-regeneracao-natural-na-amazonia)
+
+[Latin America's largest scientific event to discuss Amazon reality at UFPA in Belém (liberalamazon.com)](https://www.liberalamazon.com/education/news/latin-americas-largest-scientific-event-to-discuss-amazon-reality-at-ufpa-in-belem)
 
 [Carbon verification | Smithsonian Tropical Research Institute (si.edu)](https://stri.si.edu/story/carbon-verification)
 [earthworks Amazonia | Max Planck Institute of Geoanthropology (mpg.de)](https://www.gea.mpg.de/2358929/earthworks-amazonia?e=eyJ0aW1lIjoiMjAyMy0xMC0wNVQxNDo1MDowOSswMjowMCIsImNyZWF0ZV9lZGl0b3JfY29va2llIjp0cnVlfQ%3D%3D--d4d73d86c6b11cbdf71abe688e1799e0b29fedc3)
@@ -104,3 +109,11 @@
 [Old-growth forest loss and secondary forest recovery across Amazonian countries - IOPscience](https://iopscience.iop.org/article/10.1088/1748-9326/ac1701)
 
 [Hélio Gurgel Cavalcanti no Migalhas](https://www.migalhas.com.br/autor/helio-gurgel-cavalcanti)
+
+
+[Key tropical crops at risk from pollinator loss due to climate change and land use | Science Advances (mcgill.ca)](https://www-science-org.proxy3.library.mcgill.ca/doi/10.1126/sciadv.adh0756)
+
+[Stability Predicts Genetic Diversity in the Brazilian Atlantic Forest Hotspot | Science (mcgill.ca)](https://www-science-org.proxy3.library.mcgill.ca/doi/full/10.1126/science.1166955)
+
+[Journal of Biogeography | Wiley Online Library (mcgill.ca)](https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/full/10.1111/j.1365-2699.2007.01870.x)
+

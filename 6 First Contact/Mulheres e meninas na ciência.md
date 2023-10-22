@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[550 Science Outreach]]"
+  - "[[Science Outreach]]"
 location:
   - FIOCRUZ
 url: https://portal.fiocruz.br/mulheres-e-meninas-na-ciencia

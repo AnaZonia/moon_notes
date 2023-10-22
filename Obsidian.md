@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[510 Notetaking]]"
+  - "[[Notetaking]]"
 stardate: Sep 28th 2023
 update: Oct 7th 2023
 ---

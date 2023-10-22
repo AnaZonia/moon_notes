@@ -1,11 +1,10 @@
 ---
 up:
-  - "[[410 Interests]]"
+  - "[[Literature]]"
 type:
   - poetry
 stardate: 2023-09-30 12:16
 ---
-#literature
 
 De repente tudo vai ficando tão simples que assusta.
 A gente vai perdendo algumas necessidades, antes fundamentais e que hoje chegam a ser insignificantes. Vai reduzindo a bagagem e deixando na mala apenas as cenas e pessoas que valem a pena. As opiniões dos outros são unicamente dos outros, e mesmo que sejam sobre nós, não têm a mínima importância. (...)

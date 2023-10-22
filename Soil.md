@@ -17,3 +17,5 @@ How are soil moisture datasets made?
 [Soil - FAO Groups, Texture, Structure | Britannica](https://www.britannica.com/science/soil/FAO-soil-groups)
 
 [[FAO Soil Map of the World]]
+
+[Influence of soils and topography on Amazonian tree diversity: a landscape‐scale study - Laurance - 2010 - Journal of Vegetation Science - Wiley Online Library (mcgill.ca)](https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/full/10.1111/j.1654-1103.2009.01122.x)

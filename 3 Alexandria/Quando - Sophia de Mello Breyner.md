@@ -1,11 +1,11 @@
 ---
-tags:
-  - literature
 type:
   - poetry
 stardate: Sep 30th 2023
 authors:
   - Sophia de Mello Breyner
+up:
+  - "[[Literature]]"
 ---
 Quando o meu corpo apodrecer e eu for morta
 Continuará o jardim, o céu e o mar,

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[520 Writing Science]]"
+  - "[[Writing Science]]"
 stardate: Sep 17th 2023
 update: Oct 7th 2023
 tags:

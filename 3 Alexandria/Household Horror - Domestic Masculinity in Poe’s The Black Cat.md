@@ -1,8 +1,6 @@
 ---
 up:
   - "[[Edgar Allan Poe]]"
-tags:
-  - literature
 ---
 Summary written for Professor Tober English 1301 28 January 2016
 

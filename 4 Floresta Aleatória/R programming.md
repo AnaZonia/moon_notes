@@ -32,6 +32,8 @@
 [classify function - RDocumentation](https://www.rdocumentation.org/packages/RandPro/versions/0.2.2/topics/classify)
 factors are labelled numbers
 Difference between RData, rds, R file types
+
+[[Data Visualization]]
 ## r-spatial
 
 rgeos, maptools and rgdal (from the sp package) are [retiring](https://r-spatial.org/r/2022/04/12/evolution.html) - sf/stars/terra is the new thing.

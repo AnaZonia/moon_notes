@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[120 Statistics]]"
+  - "[[Statistics]]"
 type:
   - book
 stardate: Oct 12th 2023

@@ -1,12 +1,12 @@
 ---
 up:
-  - "[[550 Science Outreach]]"
+  - "[[Science Outreach]]"
 stardate: Sep 24th 2023
 update: Oct 7th 2023
 type:
   - scicomm_article
 ---
-[[Plant Physiology]]
+[[Botany]]
 
 
 [How Trees Bring Water - YouTube](https://www.youtube.com/watch?v=oY8ds4BiG1A&list=WL&index=2)

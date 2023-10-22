@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[110 Remote Sensing]]"
+  - "[[Remote Sensing]]"
 type:
   - "[[Hyperspectral]]"
 source:

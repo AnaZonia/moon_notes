@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[110 Remote Sensing]]"
+  - "[[Remote Sensing]]"
 stardate: Oct 15th 2023
 update: Oct 15th 2023
 ---

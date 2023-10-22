@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[110 Remote Sensing]]"
+  - "[[Remote Sensing]]"
 stardate: Sep 23rd 2023
 ---
 Is an active sensor - shoots near infrared light towards the Earth. Measures the return time interval and intensity.

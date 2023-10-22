@@ -2,7 +2,7 @@
 up:
   - "[[SAR]]"
   - "[[003 Data Sources]]"
-  - "[[110 Remote Sensing]]"
+  - "[[Remote Sensing]]"
 type:
   - biomass
 mission:

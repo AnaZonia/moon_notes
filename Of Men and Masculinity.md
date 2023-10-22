@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[410 Interests]]"
+  - "[[500 Interests]]"
 type:
   - book
 stardate: Oct 14th 2023

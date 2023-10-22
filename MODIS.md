@@ -1,13 +1,13 @@
 ---
 up:
-  - "[[110 Remote Sensing]]"
+  - "[[Remote Sensing]]"
 type:
   - "[[Multispectral]]"
 source:
   - NASA
 url: https://www.earthdata.nasa.gov/learn/find-data/near-real-time/firms
 resolution: 250m-1km
-time_range:
+time_range: 
 ---
 ==Moderate Resolution Imaging Spectroradiometer==
 

@@ -26,6 +26,9 @@ O exemplo que o Marcelo fez pro [relógio de sol](https://drive.google.com/file/
 
 [Desenvolvimento Android Completo - Crie 18 Apps | Udemy](https://www.udemy.com/course/curso-de-desenvolvimento-android-oreo/)
 
+Write about dark skin evolution
+
+Write about how to explain that self-replicating ideas will prevail - from biofilm, to algorithms, to human behavior.
 ## Essays
 ```dataview
 LIST
