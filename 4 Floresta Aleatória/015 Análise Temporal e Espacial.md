@@ -57,3 +57,5 @@ Spatial models - make inferrences about species
 Bottom up - response is a single species occurring
 
 Top-down - response is diversity itself
+
+Modelos Brownianos - Random Walk

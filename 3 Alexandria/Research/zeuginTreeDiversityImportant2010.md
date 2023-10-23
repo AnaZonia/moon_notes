@@ -13,7 +13,7 @@ at-a-glance: ""
 #tribble 
 authors: [[Zeugin, F.]], [[Potvin, Catherine]], [[Jansa, J.]], [[Scherer-Lorenzen, M.]]
 
-[[230 Biodiversity]] [[Reforestation]], [[Nitrogen]], [[Phosphorus]], [[Regrowth]]
+[[Biodiversity]] [[Reforestation]], [[Nitrogen]], [[Phosphorus]], [[Regrowth]]
 
 >[!summary] Summary
 > 

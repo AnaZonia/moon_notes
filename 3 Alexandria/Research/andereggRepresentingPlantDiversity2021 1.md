@@ -10,7 +10,7 @@ type: lit_note
 at-a-glance: ""
 
 --- 
-[[230 Biodiversity]], [[Functional Diversity]]
+[[Biodiversity]], [[Functional Diversity]]
 authors: [[Anderegg, Leander D. L.]], [[Griffith, Daniel M.]], [[Cavender‐Bares, Jeannine]], [[Riley, William J.]], [[Berry, Joseph A.]], [[Dawson, Todd E.]], [[Still, Christopher J.]]
 
 >[!summary] Summary

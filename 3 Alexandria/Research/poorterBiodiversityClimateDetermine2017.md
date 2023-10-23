@@ -10,7 +10,7 @@ type: lit_note
 at-a-glance: ""
 
 --- 
-[[230 Biodiversity]], [[Biomass]], [[230 Biodiversity]], [[Soil]], [[Productivity]], [[Ecosystem Functioning]], [[Water Stress]], [[Disturbance]]
+[[Biodiversity]], [[Biomass]], [[Biodiversity]], [[Soil]], [[Productivity]], [[Ecosystem Functioning]], [[Water Stress]], [[Disturbance]]
 
 authors: [[Poorter, Lourens]], [[van der Sande, Masha T.]], [[Arets, Eric J. M. M.]], [[Ascarrunz, Nataly]], [[Enquist, Brian J.]], [[Finegan, Bryan]], [[Licona, Juan Carlos]], [[Martínez-Ramos, Miguel]], [[Mazzei, Lucas]], [[Meave, Jorge A.]], [[Muñoz, Rodrigo]], [[Nytch, Christopher J.]], [[de Oliveira, Alexandre A.]], [[Pérez-García, Eduardo A.]], [[Prado-Junior, Jamir]], [[Rodríguez-Velázques, Jorge]], [[Ruschel, Ademir Roberto]], [[Salgado-Negret, Beatriz]], [[Schiavini, Ivan]], [[Swenson, Nathan G.]], [[Tenorio, Elkin A.]], [[Thompson, Jill]], [[Toledo, Marisol]], [[Uriarte, Maria]], [[Hout, Peter van der]], [[Zimmerman, Jess K.]], [[Peña-Claros, Marielos]]
 

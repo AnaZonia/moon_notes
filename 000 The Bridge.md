@@ -24,7 +24,7 @@ Summary of relevant people, NGOs, and research networks
 			- Decision Trees
 			- Naive Bayes
 			- K-means clustering
-	2. [[240 Theoretical Ecology]]
+	2. [[Theoretical Ecology]]
 	3. [[Remote Sensing]]
 				- Multi-hiper spectral
 					- Classificação de uso de terra
@@ -39,12 +39,12 @@ Summary of relevant people, NGOs, and research networks
 
 
 
--  [[200 Ecology and Conservation]] - Preservação e recuperação da floresta
-	1. [[210 Tropical Ecology]] - Ecologia de paisagem 
+-  [[200 Life Sciences]] - Preservação e recuperação da floresta
+	1. [[Tropical Ecology]] - Ecologia de paisagem 
 		- Dinâmica florestal (como uma comunidade muda com o amadurecimento de uma floresta? o que limita o crescimento?)
-		- [[230 Biodiversity]]
-		- [[310 Latin American Agriculture]]
-	1. [[220 Biogeochemistry]]
+		- [[Biodiversity]]
+		- [[Latin American Agriculture]]
+	1. [[Biogeochemistry]]
 		- Ciclo de nutrientes (nitrogênio e fósforo principalmente)
 		[[Botany]]
 			- Fotossíntese
@@ -58,17 +58,17 @@ Summary of relevant people, NGOs, and research networks
 			- Política ambiental
 			- Legislação ambiental
 			- Comunicação científica
-			- [[320 Climate Change]]
+			- [[Climate Change]]
 
 
 
 ## How to Science
 
-![[400 How To Science]]
+![[300 How To Science]]
 
 ## Interests
 Philosophy, Literature, History, Art and Astronomy
-[[500 Interests]]
+[[400 Interests]]
 ## Books
 
 ![[Books]]

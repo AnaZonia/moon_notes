@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[210 Tropical Ecology]]"
+  - "[[Tropical Ecology]]"
 stardate: Sep 24th 2023
 update: Sep 30th 2023
 tags:

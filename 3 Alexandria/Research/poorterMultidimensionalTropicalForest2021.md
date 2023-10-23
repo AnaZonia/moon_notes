@@ -10,7 +10,7 @@ type: lit_note
 at-a-glance: ""
 
 --- 
-[[210 Tropical Ecology]], [[Regrowth]]
+[[Tropical Ecology]], [[Regrowth]]
 
 >[!summary] Summary
 > 

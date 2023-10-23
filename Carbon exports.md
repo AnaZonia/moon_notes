@@ -1,5 +1,5 @@
 ---
-up: "[[320 Climate Change]]"
+up: "[[Climate Change]]"
 aliases:
   - emission transfers
 ---

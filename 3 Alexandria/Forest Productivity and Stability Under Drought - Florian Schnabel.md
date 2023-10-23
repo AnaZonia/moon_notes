@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[230 Biodiversity]]"
+  - "[[Biodiversity]]"
 type:
   - talk
 stardate: Oct 5th 2023

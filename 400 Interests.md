@@ -3,8 +3,9 @@
 ## Literature
 [[Literature]]
 ## History
-[[Historical Ecology]]
 [[Latin American History]]
+[[European History]]
+[[Iranian History]]
 ## Art
 [[Renaissance]]
 [[Baroque]]

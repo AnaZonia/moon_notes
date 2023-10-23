@@ -10,7 +10,7 @@ type: lit_note
 at-a-glance: ""
 
 --- 
-[[230 Biodiversity]], [[Biomass]]
+[[Biodiversity]], [[Biomass]]
 
 authors: [[Potvin, Catherine]], [[Mancilla, Lady]], [[Buchmann, Nina]], [[Monteza, Jose]], [[Moore, Tim]], [[Murphy, Meaghan]], [[Oelmann, Yvonne]], [[Scherer-Lorenzen, Michael]], [[Turner, Benjamin L.]], [[Wilcke, Wolfgang]], [[Zeugin, Fabienne]], [[Wolf, Sebastian]]
 

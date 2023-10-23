@@ -117,3 +117,5 @@
 
 [Journal of Biogeography | Wiley Online Library (mcgill.ca)](https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/full/10.1111/j.1365-2699.2007.01870.x)
 
+[Long-term studies of vegetation dynamics - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/11474101/)
+

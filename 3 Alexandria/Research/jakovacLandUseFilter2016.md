@@ -11,7 +11,7 @@ at-a-glance: ""
 
 --- 
 #tribble
-[[Soil]], [[Land Use]], [[Regrowth]], [[Fire]], [[Phosphorus]], [[230 Biodiversity]]
+[[Soil]], [[Land Use]], [[Regrowth]], [[Fire]], [[Phosphorus]], [[Biodiversity]]
 >[!summary] Summary
 
 >[!quote] Cited

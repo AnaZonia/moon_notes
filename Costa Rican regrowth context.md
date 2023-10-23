@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[310 Latin American Agriculture]]"
+  - "[[Latin American Agriculture]]"
   - "[[Costa Rica]]"
   - "[[Regrowth]]"
 stardate: Sep 27th 2023

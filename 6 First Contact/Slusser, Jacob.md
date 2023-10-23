@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[310 Latin American Agriculture]]"
+  - "[[Latin American Agriculture]]"
   - "[[Regrowth]]"
 url: https://twitter.com/TropicalForestr
 type:

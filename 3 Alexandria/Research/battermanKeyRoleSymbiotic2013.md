@@ -11,7 +11,7 @@ at-a-glance: ""
 
 --- 
 #tribble
-[[220 Biogeochemistry]], [[Nitrogen Fixation]], [[Panama]], [[Regrowth]], 
+[[Biogeochemistry]], [[Nitrogen Fixation]], [[Panama]], [[Regrowth]], 
 
 >[!summary] Summary
 

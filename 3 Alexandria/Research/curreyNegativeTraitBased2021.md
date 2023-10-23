@@ -11,7 +11,7 @@ at-a-glance: ""
 
 --- 
 #tribble
-[[Regrowth]], [[Nitrogen Fixation]], [[220 Biogeochemistry]], [[Biomass]]
+[[Regrowth]], [[Nitrogen Fixation]], [[Biogeochemistry]], [[Biomass]]
 >[!summary] Summary
 
 >[!quote] Cited

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[320 Climate Change]]"
+  - "[[Climate Change]]"
   - "[[Amazonia]]"
 url: https://en.wikipedia.org/wiki/Carlos_Nobre_(scientist)
 type:

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[310 Latin American Agriculture]]"
+  - "[[Latin American Agriculture]]"
 location:
   - McGill
   - "[[Panama]]"

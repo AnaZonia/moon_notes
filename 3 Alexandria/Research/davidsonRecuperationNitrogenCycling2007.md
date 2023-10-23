@@ -18,7 +18,7 @@ at-a-glance: ""
 
 **Bibliography:** Davidson, Eric A., Cláudio J. Reis De Carvalho, Adelaine Michela Figueira, Françoise Yoko Ishida, Jean Pierre H. B. Ometto, Gabriela B. Nardoto, Renata Tuma Sabá, et al. ‘Recuperation of Nitrogen Cycling in Amazonian Forests Following Agricultural Abandonment’. _Nature_ 447, no. 7147 (June 2007): 995–98. [https://doi.org/10.1038/nature05900](https://doi.org/10.1038/nature05900). 
 
-[[Amazonia]] [[220 Biogeochemistry]]   
+[[Amazonia]] [[Biogeochemistry]]   
 #### Authors:
 [[Davidson, Eric A.]], [[De Carvalho, Cláudio J. Reis]], [[Figueira, Adelaine Michela]], [[Ishida, Françoise Yoko]], [[Ometto, Jean Pierre H. B.]], [[Nardoto, Gabriela B.]], [[Sabá, Renata Tuma]], [[Hayashi, Sanae N.]], [[Leal, Eliane C.]], [[Vieira, Ima Célia G.]], [[Martinelli, Luiz A.]]
 #### Notes:

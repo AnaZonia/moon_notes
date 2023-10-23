@@ -1,7 +1,7 @@
 ---
 up:
   - "[[100 A Floresta Aleatória]]"
-  - "[[310 Latin American Agriculture]]"
+  - "[[Latin American Agriculture]]"
 stardate: Oct 16th 2023
 update: Oct 16th 2023
 ---
@@ -14,4 +14,6 @@ update: Oct 16th 2023
 [Tutorial on agent-based modelling and simulation (tandfonline.com)](https://www.tandfonline.com/doi/epdf/10.1057/jos.2010.3?needAccess=true)
 
 [Full article: Everything you need to know about agent-based modelling and simulation (tandfonline.com)](https://www.tandfonline.com/doi/full/10.1057/jos.2016.7)
+
+[Grimm_2010 (ethz.ch)](https://ethz.ch/content/dam/ethz/special-interest/usys/ites/ecosystem-management-dam/documents/EducationDOC/EM_DOC/Recommended%20readingDOC/Grimm_2010.pdf)
 

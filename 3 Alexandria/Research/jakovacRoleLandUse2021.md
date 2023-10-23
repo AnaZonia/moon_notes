@@ -11,7 +11,7 @@ at-a-glance: ""
 
 --- 
 #tribble
-[[230 Biodiversity]], [[Regrowth]]
+[[Biodiversity]], [[Regrowth]]
 >[!summary] Summary
 
 >[!quote] Cited

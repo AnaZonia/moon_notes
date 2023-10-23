@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[320 Climate Change]]"
+  - "[[Climate Change]]"
 url: https://www.ipcc.ch/
 type:
   - policy

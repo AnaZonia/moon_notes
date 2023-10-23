@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[500 Interests]]"
+  - "[[400 Interests]]"
 stardate: Oct 8th 2023
 update: Oct 8th 2023
 ---
@@ -19,3 +19,4 @@ update: Oct 8th 2023
 
 [Filosofia na Prática | Moral e Ética | O que é Utilitarismo - YouTube](https://www.youtube.com/watch?v=gW2XJgUFEps)
 
+[[filosofia da ciencia]]

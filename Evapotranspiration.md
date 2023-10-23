@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[220 Biogeochemistry]]"
+  - "[[Biogeochemistry]]"
 stardate: Oct 9th 2023
 update: Oct 9th 2023
 ---

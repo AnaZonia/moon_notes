@@ -10,7 +10,7 @@ type: lit_note
 at-a-glance: ""
 
 --- 
-[[Regrowth]], [[210 Tropical Ecology]], [[Biomass]]
+[[Regrowth]], [[Tropical Ecology]], [[Biomass]]
 
 authors: [[Rozendaal, Danae M. A.]], [[Chazdon, Robin L.]]
 

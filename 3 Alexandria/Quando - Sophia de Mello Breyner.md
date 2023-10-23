@@ -21,6 +21,6 @@ E os cabelos doirados da floresta,
 Como se eu não estivesse morta.
 
 >[!note] (30/09/2023)
->Me traz muita tristeza pensar que isso provavelmente não vai ser verdade pra mim ou pras futuras gerações, com a direção das mudanças climáticas. Chorei bastante hoje lendo isso - essa semana tivemos uma seca e onda de calor históricas no Amazonas, matando 100+ botos cor-de-rosa com o calor e nível baixo dos rios. Esse poema me deixou feliz quando encontrei pela primeira vez e resolvi guardar. Pensei que poderia ser um bom epitáfio pra mim. Agora, já não. [[320 Climate Change]]
+>Me traz muita tristeza pensar que isso provavelmente não vai ser verdade pra mim ou pras futuras gerações, com a direção das mudanças climáticas. Chorei bastante hoje lendo isso - essa semana tivemos uma seca e onda de calor históricas no Amazonas, matando 100+ botos cor-de-rosa com o calor e nível baixo dos rios. Esse poema me deixou feliz quando encontrei pela primeira vez e resolvi guardar. Pensei que poderia ser um bom epitáfio pra mim. Agora, já não. [[Climate Change]]
 
 

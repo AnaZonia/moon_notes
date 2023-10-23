@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[320 Climate Change]]"
+  - "[[Climate Change]]"
   - "[[Regrowth]]"
 stardate: Aug 22nd 2023
 update: Oct 7th 2023

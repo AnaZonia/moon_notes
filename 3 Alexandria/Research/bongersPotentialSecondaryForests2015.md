@@ -10,7 +10,7 @@ type: lit_note
 at-a-glance: "Secondary and logged forests are important for carbon mitigation"
 
 --- 
-[[Amazonia]] [[320 Climate Change]] [[Regrowth]], [[Timber]]
+[[Amazonia]] [[Climate Change]] [[Regrowth]], [[Timber]]
 
 >[!summary] Summary
 >Secondary, logged, managed forests are very important for carbon sequestration and must be quantified

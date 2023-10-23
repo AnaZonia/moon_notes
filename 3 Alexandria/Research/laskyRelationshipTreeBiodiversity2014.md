@@ -11,7 +11,7 @@ at-a-glance: ""
 
 --- 
 #tribble
-[[230 Biodiversity]], [[Regrowth]], [[Biomass]], [[Costa Rica]]
+[[Biodiversity]], [[Regrowth]], [[Biomass]], [[Costa Rica]]
 
 >[!summary] Summary
 

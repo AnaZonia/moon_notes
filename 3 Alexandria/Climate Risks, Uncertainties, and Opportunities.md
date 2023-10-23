@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[320 Climate Change]]"
+  - "[[Climate Change]]"
   - "[[Policy]]"
 type:
   - talk

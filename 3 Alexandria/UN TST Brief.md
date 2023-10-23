@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[310 Latin American Agriculture]]"
+  - "[[Latin American Agriculture]]"
 tags:
   - tribble
 url: https://sustainabledevelopment.un.org/content/documents/1554TST_compendium_issues_briefs_rev1610.pdf

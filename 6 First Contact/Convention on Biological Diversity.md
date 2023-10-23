@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[230 Biodiversity]]"
+  - "[[Biodiversity]]"
 location:
   - global
 url: https://www.cbd.int/intro/

@@ -10,7 +10,7 @@ type: lit_note
 at-a-glance: ""
 
 --- 
-[[Biomass]], [[Reforestation]], [[Functional Diversity]], [[230 Biodiversity]]  
+[[Biomass]], [[Reforestation]], [[Functional Diversity]], [[Biodiversity]]  
 
 authors: [[Ruiz-Jaen, Maria C.]], [[Potvin, Catherine]]
 

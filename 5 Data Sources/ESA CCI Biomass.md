@@ -19,7 +19,7 @@ Summary of [Key Documents](https://climate.esa.int/en/projects/biomass/key-docum
 - [Santoro's presentation explaining the project](https://climate.esa.int/sites/default/files/D1_S1_T3_Santoro.pdf)
 
 GlobBiomass -> CCI Biomass CORE -> [Biomass](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass)
-
+[Key Documents (esa.int)](https://climate.esa.int/fr/projects/biomass/key-documents/)
 ## Introduction to the method
 
 Map was developed using EO as well as in-situ data.

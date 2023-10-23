@@ -10,7 +10,7 @@ type: lit_note
 at-a-glance: "soil compaction is reduces plant growth"
 
 --- 
-[[220 Biogeochemistry]], [[Soil]], [[Land Use]]
+[[Biogeochemistry]], [[Soil]], [[Land Use]]
 
 >[!summary] Summary
 >Compaction increases erosion, [[Runoff]], and nutrient absorption

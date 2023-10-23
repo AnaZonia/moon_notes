@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[210 Tropical Ecology]]"
+  - "[[Tropical Ecology]]"
 stardate: Aug 22nd 2023
 update: Oct 7th 2023
 tags: []
@@ -38,3 +38,4 @@ SORT file.ctime DESC
 ```dataview
 TABLE WITHOUT ID link(file.link, default(file.aliases[0], file.name)) AS "Article", year, first-author, at-a-glance FROM "3 Research" AND #amazonia SORT first_author ASC
 ```
+[Functional traits and niche-based tree community assembly in an Amazonian forest - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/18948539/)

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[320 Climate Change]]"
+  - "[[Climate Change]]"
 stardate: Sep 25th 2023
 update: Sep 28th 2023
 tags:

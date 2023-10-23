@@ -12,7 +12,7 @@ at-a-glance: ""
 --- 
 #tribble
 
-[[220 Biogeochemistry]], [[Regrowth]], [[Nitrogen Fixation]], [[Nitrogen]]
+[[Biogeochemistry]], [[Regrowth]], [[Nitrogen Fixation]], [[Nitrogen]]
 
 >[!summary] Summary
 

@@ -10,7 +10,7 @@ type: lit_note
 at-a-glance: "Agriculture and land use should be considered for climate change mitigation"
 
 --- 
-[[Land Use]], [[320 Climate Change]], [[Policy]], [[REDD+]]
+[[Land Use]], [[Climate Change]], [[Policy]], [[REDD+]]
 >[!summary] Summary
 > There is not enough emphasis on land use as climate mitigation because emissions are hard to quantify. Still, those emissions are significant and should be studied and incorporated into mitigation strategies
 
@@ -19,7 +19,7 @@ at-a-glance: "Agriculture and land use should be considered for climate change m
 
 
 **Bibliography:** Grassi, Giacomo, Jo House, Frank Dentener, Sandro Federici, Michel den Elzen, and Jim Penman. ‘The Key Role of Forests in Meeting Climate Targets Requires Science for Credible Mitigation’. _Nature Climate Change_ 7, no. 3 (March 2017): 220–26. [https://doi.org/10.1038/nclimate3227](https://doi.org/10.1038/nclimate3227). 
- [[320 Climate Change]]  
+ [[Climate Change]]  
 #### Authors:
 [[Grassi, Giacomo]], [[House, Jo]], [[Dentener, Frank]], [[Federici, Sandro]], [[den Elzen, Michel]], [[Penman, Jim]]
 #### Notes:

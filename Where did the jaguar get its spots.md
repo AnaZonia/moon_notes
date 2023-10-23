@@ -1,7 +1,7 @@
 ---
 up:
   - "[[Science Outreach]]"
-  - "[[240 Theoretical Ecology]]"
+  - "[[Theoretical Ecology]]"
 type:
   - scicomm_article
 ---

@@ -4,12 +4,6 @@ Studnicki-Gizbert is a professor at McGill that works with Latin American histor
 Cultivated Landscapes, William Denevan
 [Cultivated landscapes of Native Amazonia and the Andes : triumph over the soil : Denevan, William M : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/cultivatedlandsc0000dene/page/n9/mode/2up)
 
-With broadaxe and firebrand
-Warren Dean
-
-Ecological Imperialism
-Alfred Cosby
-
 [ProQuest Ebook Central - Book Details](https://ebookcentral.proquest.com/lib/mcgill/detail.action?docID=909497)
 
 Susana Hetch
@@ -29,3 +23,6 @@ Also timber may be a good idea? [[bongersPotentialSecondaryForests2015]] says it
 [Reforestation and the state of health of populations in Tessekere, Senegal](https://link.springer.com/article/10.1007/s10113-019-01467-x)
 
 [Priority Micronutrient Density in Foods](https://www.frontiersin.org/articles/10.3389/fnut.2022.806566/full?utm_source=fweb&utm_medium=nblog&utm_campaign=ba-sci-fnut-best-foods-micronutrients)
+
+[Reconciling Food Production and Biodiversity Conservation: Land Sharing and Land Sparing Compared | Science (mcgill.ca)](https://www-science-org.proxy3.library.mcgill.ca/doi/10.1126/science.1208742)
+
