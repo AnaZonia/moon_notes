@@ -64,7 +64,7 @@ Summary of relevant people, NGOs, and research networks
 
 ## How to Science
 
-![[300 How To Science]]
+![[300 Doing Science]]
 
 ## Interests
 Philosophy, Literature, History, Art and Astronomy

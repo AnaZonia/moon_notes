@@ -120,3 +120,10 @@
 [Long-term studies of vegetation dynamics - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/11474101/)
 
 [Doing Ecology in Brazil: the feeling of being almost there (and should we really want to be ‘there’)? | Dynamic Ecology (wordpress.com)](https://dynamicecology.wordpress.com/2017/12/20/doing-ecology-in-brazil-the-feeling-of-being-almost-there-and-should-we-really-want-to-be-there/)
+
+
+
+## Women in academia
+[Harsh workplace climate is pushing women out of academia | CU Boulder Today | University of Colorado Boulder](https://www.colorado.edu/today/2023/10/20/harsh-workplace-climate-pushing-women-out-academia)
+
+[Women participate less at conferences, even if gender-balanced – study | Gender | The Guardian](https://www.theguardian.com/world/2021/jul/30/women-participate-less-at-conferences-even-if-gender-balanced-study#:~:text=Women%20are%20less%20likely%20to,inclusion%2C%20a%20study%20has%20found.)

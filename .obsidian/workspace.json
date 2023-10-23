@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "9739e963f3962ff2",
+        "id": "681658e44561ec9c",
         "type": "tabs",
         "children": [
           {
-            "id": "f984d165ab1300f9",
+            "id": "cbbe6629e899d586",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "002 Reading Map.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5,
-    "collapsed": true
+    "width": 266.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -91,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "002 Reading Map.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "002 Reading Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "002 Reading Map.md"
+              }
             }
           },
           {
@@ -126,6 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "002 Reading Map.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 400.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,8 +250,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f984d165ab1300f9",
+  "active": "cbbe6629e899d586",
   "lastOpenFiles": [
+    "Literature Review.md",
+    "Erika Berenguer - Questões para Entrevista.md",
+    "Science Outreach.md",
+    "300 Doing Science.md",
+    "400 Interests.md",
+    "200 Life Sciences.md",
     "1 Captain's Log/1 Daily/2023-10-23 Mon.md",
     "004 People and Networks.md",
     "Secondary Forests Research Network - 2ndFOR.md",
@@ -250,25 +265,19 @@
     "People.md",
     "Philosophy.md",
     "Filosofia da Ciência.md",
-    "400 Interests.md",
     "Agent-Based Modelling.md",
     "Redes Ecológicas.md",
     "100 A Floresta Aleatória.md",
     "3 Alexandria/Ecologia Histórica da Amazônia.md",
     "Como uma árvore bebe água - e como isso garante a nossa chuva.md",
-    "Science Outreach.md",
     "4 Floresta Aleatória/004 Testes de Hipóteses.md",
     "4 Floresta Aleatória/013 Modelos de Markov.md",
     "4 Floresta Aleatória/009 Modelos Aditivos Generalizados.md",
-    "200 Life Sciences.md",
     "Predictive Ecology.md",
     "002 Reading Map.md",
     "Macroecology.md",
     "Templates/Research article.md",
     "Evolution.md",
-    "On the Origin of Species.md",
-    "Theoretical Ecology.md",
-    "4 Floresta Aleatória/015 Análise Temporal e Espacial.md",
     "Files/Bad Science.png",
     "Files/Computers and Bash.png",
     "Files/Landsat-5.png",

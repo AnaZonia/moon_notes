@@ -1,3 +1,4 @@
+[Quais leituras devo priorizar? – Sobrevivendo na Ciência (wordpress.com)](https://marcoarmello.wordpress.com/2012/10/25/leituras/)
 
 Would be interesting to use some of Ilya's stuff to find the best literature search pathway for me.
 
