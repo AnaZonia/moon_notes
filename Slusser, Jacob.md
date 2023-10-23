@@ -5,6 +5,8 @@ up:
 url: https://twitter.com/TropicalForestr
 type:
   - researcher
+location:
+  - Yale
 ---
 Contacted through [[Sanchez-Galan, Javier]]. Works with biodiversity effects on ecosystem services (including productivity and biomass) in Germany and for a while with [[Potvin, Catherine]]. From his talks and his papers I got the idea to add functional diversity as the predictor for my third chapter.
 

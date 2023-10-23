@@ -2,7 +2,7 @@
 up:
   - "[[Remote Sensing]]"
 location:
-  - US
+  - JPL
 url: https://ricds.wordpress.com/
 type:
   - researcher

@@ -1,8 +1,10 @@
 ---
 up: 
 url: 
-type: []
+type:
+  - researcher
 aliases: 
 at-a-glance: 
 location:
+  - USP
 ---

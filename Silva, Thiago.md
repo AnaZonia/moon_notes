@@ -7,7 +7,7 @@ type:
   - researcher
 aliases: 
 location:
-  - UK
+  - Stirling
 ---
 
 There's some interesting work in his github and twitter

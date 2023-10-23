@@ -3,7 +3,6 @@ up:
   - "[[Latin American Agriculture]]"
 location:
   - McGill
-  - "[[Panama]]"
 url: https://www.mcgill.ca/history/daviken-studnicki-gizbert
 type:
   - researcher

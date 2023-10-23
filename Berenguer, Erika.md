@@ -4,8 +4,7 @@ up:
   - "[[Disturbance]]"
   - "[[Policy]]"
 location:
-  - Brasil
-  - UK
+  - Oxford
 url: https://www.ox.ac.uk/news-and-events/find-an-expert/dr-erika-berenguer
 type:
   - researcher

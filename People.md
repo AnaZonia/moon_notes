@@ -1,17 +1,12 @@
 ```dataview
-LIST WITHOUT ID link(file.link, file.name)
+TABLE WITHOUT ID link(file.link, file.name), location
 WHERE contains(type, "researcher")
-SORT DESC
+SORT location
 ```
-- [[Potvin, Catherine]]
+
 - [[Kong, Jude]]
 - [[Schnabel, Florian]]
 - [[Ruiz-Jaen, Maria C.]]
 - [[Sanchez-Galan, Javier]]
-- [[Carnaval, Ana]]
-- [[Vicentini, Alberto]]
-- [[Brian McGill]]
-- [[Jeremy Fox]]
-- [[Marco Mello]]
 - [[Renata Muylaert]]
 

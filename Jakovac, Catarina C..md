@@ -6,5 +6,6 @@ type:
 aliases:
   - Jakovac, Catarina
 location:
-  - Brasil
+  - UFSC
+  - "[[IIS - International Institute for Sustainability]]"
 ---

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 Reading Map.md",
+                "file": "People.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 Reading Map.md",
+                "file": "People.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002 Reading Map.md",
+                "file": "People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 Reading Map.md"
+                "file": "People.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 Reading Map.md",
+                "file": "People.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -186,8 +186,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "3dbac5c2f60b2e8e",
@@ -232,8 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5,
-    "collapsed": true
+    "width": 400.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,32 +250,32 @@
   },
   "active": "cbbe6629e899d586",
   "lastOpenFiles": [
-    "Literature Review.md",
-    "Erika Berenguer - Questões para Entrevista.md",
-    "Science Outreach.md",
-    "300 Doing Science.md",
-    "400 Interests.md",
-    "200 Life Sciences.md",
-    "1 Captain's Log/1 Daily/2023-10-23 Mon.md",
-    "004 People and Networks.md",
-    "Secondary Forests Research Network - 2ndFOR.md",
-    "003 Data Sources.md",
+    "Val, Adalberto.md",
     "People.md",
-    "Philosophy.md",
-    "Filosofia da Ciência.md",
-    "Agent-Based Modelling.md",
-    "Redes Ecológicas.md",
-    "100 A Floresta Aleatória.md",
-    "3 Alexandria/Ecologia Histórica da Amazônia.md",
-    "Como uma árvore bebe água - e como isso garante a nossa chuva.md",
-    "4 Floresta Aleatória/004 Testes de Hipóteses.md",
-    "4 Floresta Aleatória/013 Modelos de Markov.md",
-    "4 Floresta Aleatória/009 Modelos Aditivos Generalizados.md",
-    "Predictive Ecology.md",
+    "Potvin, Catherine.md",
+    "Vicentini, Alberto.md",
+    "Jeremy Fox.md",
+    "Schnabel, Florian.md",
+    "Brian McGill.md",
+    "Silva, Thiago.md",
+    "Slusser, Jacob.md",
+    "Cardille, Jeff.md",
+    "Berenguer, Erika.md",
+    "Mesquita, Rita.md",
+    "Jakovac, Catarina C..md",
+    "Studnicki-Gizbert, Daviken.md",
+    "Dalagnol, Ricardo.md",
+    "Marco Mello.md",
+    "Carnaval, Ana.md",
+    "004 People and Networks.md",
+    "Templates/4 People and networks.md",
+    "Tribbles.md",
+    "000 The Bridge.md",
+    "Talks.md",
+    "003 Data Sources.md",
     "002 Reading Map.md",
-    "Macroecology.md",
-    "Templates/Research article.md",
-    "Evolution.md",
+    "Fahrig, Lenore.md",
+    "Literature Review.md",
     "Files/Bad Science.png",
     "Files/Computers and Bash.png",
     "Files/Landsat-5.png",
