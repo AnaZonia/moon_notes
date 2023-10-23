@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "316c292dbae56c5c",
+        "id": "57056e3d598e40c6",
         "type": "tabs",
         "children": [
           {
-            "id": "cd9e5af5f924797b",
+            "id": "c3dabd905be93940",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Life Sciences.md",
+                "file": "004 People and Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Life Sciences.md",
+                "file": "004 People and Networks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Life Sciences.md",
+                "file": "004 People and Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Life Sciences.md"
+                "file": "004 People and Networks.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "200 Life Sciences.md",
+                "file": "004 People and Networks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -248,34 +248,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cd9e5af5f924797b",
+  "active": "c3dabd905be93940",
   "lastOpenFiles": [
-    "Theoretical Ecology.md",
+    "Secondary Forests Research Network - 2ndFOR.md",
+    "003 Data Sources.md",
+    "People.md",
+    "004 People and Networks.md",
+    "Philosophy.md",
+    "Filosofia da Ciência.md",
+    "400 Interests.md",
+    "Agent-Based Modelling.md",
+    "Redes Ecológicas.md",
+    "100 A Floresta Aleatória.md",
+    "3 Alexandria/Ecologia Histórica da Amazônia.md",
+    "Como uma árvore bebe água - e como isso garante a nossa chuva.md",
+    "Science Outreach.md",
+    "4 Floresta Aleatória/004 Testes de Hipóteses.md",
+    "4 Floresta Aleatória/013 Modelos de Markov.md",
+    "4 Floresta Aleatória/009 Modelos Aditivos Generalizados.md",
     "200 Life Sciences.md",
+    "Predictive Ecology.md",
+    "002 Reading Map.md",
+    "Macroecology.md",
+    "Templates/Research article.md",
+    "Evolution.md",
+    "On the Origin of Species.md",
+    "Theoretical Ecology.md",
     "4 Floresta Aleatória/015 Análise Temporal e Espacial.md",
     "4 Floresta Aleatória/010 Modelagem de Efeitos Mistos.md",
-    "Climate Change.md",
-    "100 A Floresta Aleatória.md",
-    "001 Rolling ideas.md",
-    "Biogeochemistry.md",
-    "Vegetation Dynamics.md",
-    "Community Ecology.md",
-    "Agent-Based Modelling.md",
-    "5 Data Sources/TRY.md",
-    "Invasion Ecology.md",
-    "Disease.md",
-    "6 First Contact/Fahrig, Lenore.md",
-    "Connectivity.md",
-    "002 Reading Map.md",
-    "2 Workstation/3 - Incorporating Biodiversity/Incorporating Biodiversity - Project.md",
-    "Amazonia.md",
-    "Tropical Ecology.md",
-    "Mata Atlântica.md",
-    "Latin American Agriculture.md",
-    "000 The Bridge.md",
-    "Evolution.md",
-    "Philosophy.md",
-    "400 Interests.md",
     "Files/Bad Science.png",
     "Files/Computers and Bash.png",
     "Files/Landsat-5.png",

@@ -1,0 +1,1 @@
+[Guia para Análise de Redes Ecológicas (wordpress.com)](https://marcomellolab.files.wordpress.com/2020/09/mello-et-al-2016-guia-para-analise-de-redes-ecologicas-2016.09.06.pdf)

@@ -8,8 +8,6 @@
 
 [[Theoretical Ecology]]
 
-
-
 [[Evolution]]
 
 
@@ -17,10 +15,9 @@
 [[Productivity]]
 [[Invasion Ecology]]
 [[Connectivity]]
-
 [[Community Ecology]]
 [[Vegetation Dynamics]]
-
+[[Predictive Ecology]]
 
 [[Historical Ecology]]
 [[Latin American Agriculture]]

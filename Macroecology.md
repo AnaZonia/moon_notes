@@ -1,0 +1,1 @@
+[The what, how and why of doing macroecology - McGill - 2019 - Global Ecology and Biogeography - Wiley Online Library](https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/full/10.1111/geb.12855)

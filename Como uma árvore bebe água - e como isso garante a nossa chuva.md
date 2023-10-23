@@ -15,3 +15,4 @@ type:
 
 [How Trees Bend the Laws of Physics - YouTube](https://www.youtube.com/watch?v=BickMFHAZR0&list=WL&index=4)
 
+[Onde chove, crescem florestas e onde crescem florestas, chove – Darwinianas](https://darwinianas.com/2023/09/29/onde-chove-crescem-florestas-e-onde-crescem-florestas-chove/)

@@ -119,3 +119,4 @@
 
 [Long-term studies of vegetation dynamics - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/11474101/)
 
+[Doing Ecology in Brazil: the feeling of being almost there (and should we really want to be ‘there’)? | Dynamic Ecology (wordpress.com)](https://dynamicecology.wordpress.com/2017/12/20/doing-ecology-in-brazil-the-feeling-of-being-almost-there-and-should-we-really-want-to-be-there/)
