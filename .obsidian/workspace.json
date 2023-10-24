@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Alexandria/Complex Adaptive Systems - Levin.md",
+                "file": "1 Captain's Log/1 Daily/2023-10-23 Mon.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Alexandria/Complex Adaptive Systems - Levin.md",
+                "file": "1 Captain's Log/1 Daily/2023-10-23 Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Alexandria/Complex Adaptive Systems - Levin.md"
+                "file": "1 Captain's Log/1 Daily/2023-10-23 Mon.md"
               }
             }
           },
@@ -147,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 Alexandria/Complex Adaptive Systems - Levin.md",
+                "file": "1 Captain's Log/1 Daily/2023-10-23 Mon.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,8 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5,
-    "collapsed": true
+    "width": 400.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -263,13 +261,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "df6ecc838aca5dab",
+  "active": "c3dabd905be93940",
   "lastOpenFiles": [
+    "People.md",
+    "3 Alexandria/Complex Adaptive Systems - Levin.md",
     "Files/Complex Adaptive Systems - Levin-1.png",
     "Files/Complex Adaptive Systems - Levin.png",
     "Complex Adaptive Systems.md",
-    "3 Alexandria/Complex Adaptive Systems - Levin.md",
-    "People.md",
     "Val, Adalberto.md",
     "Potvin, Catherine.md",
     "Vicentini, Alberto.md",
@@ -302,7 +300,6 @@
     "Files/MAPBIOMAS LULC-4.png",
     "Files/MAPBIOMAS LULC-3.png",
     "Files/MAPBIOMAS LULC-2.png",
-    "Files/MAPBIOMAS LULC-1.png",
     "3 Research",
     "Templates/scripts/pin_me.js",
     "Templates/scripts/my_script.js",
