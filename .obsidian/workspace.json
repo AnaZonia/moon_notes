@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "df6ecc838aca5dab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Alexandria/Complex Adaptive Systems - Levin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 266.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -94,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People.md",
+                "file": "3 Alexandria/Complex Adaptive Systems - Levin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People.md",
+                "file": "3 Alexandria/Complex Adaptive Systems - Levin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People.md"
+                "file": "3 Alexandria/Complex Adaptive Systems - Levin.md"
               }
             }
           },
@@ -133,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "People.md",
+                "file": "3 Alexandria/Complex Adaptive Systems - Levin.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 400.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,10 +263,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cbbe6629e899d586",
+  "active": "df6ecc838aca5dab",
   "lastOpenFiles": [
-    "Val, Adalberto.md",
+    "Files/Complex Adaptive Systems - Levin-1.png",
+    "Files/Complex Adaptive Systems - Levin.png",
+    "Complex Adaptive Systems.md",
+    "3 Alexandria/Complex Adaptive Systems - Levin.md",
     "People.md",
+    "Val, Adalberto.md",
     "Potvin, Catherine.md",
     "Vicentini, Alberto.md",
     "Jeremy Fox.md",
@@ -273,9 +292,6 @@
     "000 The Bridge.md",
     "Talks.md",
     "003 Data Sources.md",
-    "002 Reading Map.md",
-    "Fahrig, Lenore.md",
-    "Literature Review.md",
     "Files/Bad Science.png",
     "Files/Computers and Bash.png",
     "Files/Landsat-5.png",
@@ -287,7 +303,6 @@
     "Files/MAPBIOMAS LULC-3.png",
     "Files/MAPBIOMAS LULC-2.png",
     "Files/MAPBIOMAS LULC-1.png",
-    "Files/Computers and Bash-1.png",
     "3 Research",
     "Templates/scripts/pin_me.js",
     "Templates/scripts/my_script.js",
