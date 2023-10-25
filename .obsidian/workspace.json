@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People.md",
+                "file": "Erika Berenguer - Questões para Entrevista.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-23 Mon.md",
+                "file": "Erika Berenguer - Questões para Entrevista.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-23 Mon.md",
+                "file": "Erika Berenguer - Questões para Entrevista.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-23 Mon.md"
+                "file": "Erika Berenguer - Questões para Entrevista.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-23 Mon.md",
+                "file": "Erika Berenguer - Questões para Entrevista.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -199,7 +199,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "3dbac5c2f60b2e8e",
@@ -261,8 +262,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c3dabd905be93940",
+  "active": "cbbe6629e899d586",
   "lastOpenFiles": [
+    "1 Captain's Log/1 Daily/2023-10-23 Mon.md",
+    "Erika Berenguer - Questões para Entrevista.md",
+    "1 Captain's Log/2 Weekly/2023 - W42 - Oct.md",
+    "1 Captain's Log/2 Weekly/2023 - W43 - Oct.md",
+    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
     "People.md",
     "3 Alexandria/Complex Adaptive Systems - Levin.md",
     "Files/Complex Adaptive Systems - Levin-1.png",
@@ -286,10 +292,6 @@
     "Carnaval, Ana.md",
     "004 People and Networks.md",
     "Templates/4 People and networks.md",
-    "Tribbles.md",
-    "000 The Bridge.md",
-    "Talks.md",
-    "003 Data Sources.md",
     "Files/Bad Science.png",
     "Files/Computers and Bash.png",
     "Files/Landsat-5.png",
