@@ -121,6 +121,9 @@
 
 [Doing Ecology in Brazil: the feeling of being almost there (and should we really want to be ‘there’)? | Dynamic Ecology (wordpress.com)](https://dynamicecology.wordpress.com/2017/12/20/doing-ecology-in-brazil-the-feeling-of-being-almost-there-and-should-we-really-want-to-be-there/)
 
+[2318-1222-scifor-50-e3913.pdf (ipef.br)](https://www.ipef.br/publicacoes/scientia/v50_2022/2318-1222-scifor-50-e3913.pdf)
+
+
 
 
 ## Women in academia

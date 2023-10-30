@@ -20,3 +20,6 @@ Warren Dean
 
 Ecological Imperialism
 Alfred Cosby
+
+[Research — Marisol de la Cadena](https://www.marisoldelacadena.com/bio)
+

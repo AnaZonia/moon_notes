@@ -12,3 +12,11 @@
 
 Rationality books
 
+
+[Maya J. Goldenberg, Public Misunderstanding of Science? Reframing the Problem of Vaccine Hesitancy - PhilArchive](https://philarchive.org/rec/GOLPMO)
+
+[Trust, expertise, and the philosophy of science | SpringerLink](https://link.springer.com/article/10.1007/s11229-010-9786-3)
+
+[A Framework for Analyzing Broadly Engaged Philosophy of Science | Philosophy of Science | Cambridge Core](https://www.cambridge.org/core/journals/philosophy-of-science/article/framework-for-analyzing-broadly-engaged-philosophy-of-science/7B6AF87B2AA3C097E006A77FF3EAE25E)
+
+[[Filosofia da Ciência]]

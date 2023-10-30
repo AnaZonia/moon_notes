@@ -6,5 +6,5 @@ type:
 aliases: 
 at-a-glance: 
 location:
-  - USP
+  - "[[USP]]"
 ---
