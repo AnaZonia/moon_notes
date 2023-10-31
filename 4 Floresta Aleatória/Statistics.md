@@ -3,6 +3,7 @@
 - [Statistical Rethinking](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
 	- [ebook](https://bookdown.org/content/4857/)
 - [Basic Stats in R](https://bookdown.org/josiesmith/labbook/introduction-to-r-rstudio-and-r-markdown.html)
+- [probabilitycourse.com](https://www.probabilitycourse.com/chapter11/11_3_1_introduction.php)
 - [UNESP Estatística para Ecologia](https://cran.r-project.org/doc/contrib/Provete-Estatistica_aplicada.pdf)
 - [Estatística Aplicada à Ecologia - índice](https://www.ppgern.ufscar.br/pt-br/alunos/disciplinas/estatistica-aplicada-a-ecologia)
 - [Improving Your Statistical Inferences](https://lakens.github.io/statistical_inferences/)

@@ -1,9 +1,9 @@
 ---
-up: 
-tags:
-  - tribble
-url: 
-type: 
+up:
+  - "[[Theoretical Ecology]]"
+url: https://www.youtube.com/watch?v=O-LKFqDZh0c
+type:
+  - talk
 stardate: Oct 24th 2023
 ---
 Economics and ecology both are concerned with the house

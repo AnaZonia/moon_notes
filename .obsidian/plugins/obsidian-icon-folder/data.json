@@ -52,7 +52,6 @@
   "Literature Review.md": "LiExpand",
   "Debates and Discourse.md": "LiExpand",
   "Science Outreach.md": "LiExpand",
-  "4 Floresta Aleatória/Remote Sensing.md": "TiSatellite",
   "4 Floresta Aleatória/R programming.md": "SiR",
   "4 Floresta Aleatória/Statistics.md": "TiChartHistogram",
   "4 Floresta Aleatória/Python.md": "TiBrandPython",
@@ -64,5 +63,6 @@
   "Climate Change.md": "RiEarthLine",
   "400 Interests.md": "TiBook",
   "200 Life Sciences.md": "LiLeaf",
-  "300 Doing Science.md": "LiExpand"
+  "300 Doing Science.md": "LiExpand",
+  "Remote Sensing.md": "TiSatellite"
 }

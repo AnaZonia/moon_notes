@@ -1,4 +1,6 @@
-  
+
+[[Continuous Time Markov Chain (CTMC)]]
+
 Modelos de Markov são uma maneira de entender como eventos ou estados mudam ao longo do tempo em um processo sequencial. Pense nisso como se estivéssemos acompanhando um personagem que caminha em uma série de quartos, e cada quarto representa um estado possível em que esse personagem pode estar. A ideia-chave é que o estado atual depende apenas do estado imediatamente anterior.
 
 Imagine que o personagem comece em um quarto e, a cada instante, ele se move para outro quarto, mas o quarto seguinte depende apenas do quarto em que ele estava antes. Se o personagem estiver no quarto A, ele pode ir para o quarto B com uma certa probabilidade e para o quarto C com outra probabilidade. E se ele estiver no quarto B, as probabilidades de ir para o quarto A, C ou qualquer outro quarto são baseadas somente no quarto B.

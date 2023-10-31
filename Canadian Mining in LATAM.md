@@ -34,12 +34,4 @@ Often, citizens of countries like Canada, that have access to a breadth of
 
 - From this, we can get that us, as well-educated citizens of the global north, have great power. Individual action is important, but it is the bare minimum – we have the opportunity, the tools, the privilege to go way beyond. In whatever area you are, odds are you’ll be more influential as a professional than most of the world’s population ever could, and you can collaborate to bridge the gap between the global north and the global south to make meaningful, large scale climate action.
 
-- Maybe we can discuss how can this bridge be made in areas such as:
-
-- Law – empowering local communities against large multinationals
-- Education – once more, helping change minds!
-- Science (geology, biology) – making scientific knowledge open, friendly, understandable, and communicating concrete steps to policymakers
-- Engineering – how can the south have access to tech for that would be otherwise too expensive? Improve public transportation.
-- Health – highlighting the medical and economic costs of the climate crisis, and of unsustainable actions. “Here’s how much more pollution is going to cost you in lung cancer treatments. Sure you want to make more unbikeable cities?”. Also advocating for the health of indigenous peoples! (Yanomami genocide, canadian medical violence)
-
 

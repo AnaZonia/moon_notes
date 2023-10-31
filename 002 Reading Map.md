@@ -130,3 +130,9 @@
 [Harsh workplace climate is pushing women out of academia | CU Boulder Today | University of Colorado Boulder](https://www.colorado.edu/today/2023/10/20/harsh-workplace-climate-pushing-women-out-academia)
 
 [Women participate less at conferences, even if gender-balanced – study | Gender | The Guardian](https://www.theguardian.com/world/2021/jul/30/women-participate-less-at-conferences-even-if-gender-balanced-study#:~:text=Women%20are%20less%20likely%20to,inclusion%2C%20a%20study%20has%20found.)
+
+
+## Talks
+[CAMBAM/QLS Seminar - Allison Shaw - April 5 2022 - YouTube](https://www.youtube.com/watch?v=sTWfK0njfEk)
+
+[QLS Seminar - Pedro Peres-Neto - December 7 - YouTube](https://www.youtube.com/watch?v=3EFHYP8SwX0)

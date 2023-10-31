@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1434bffb29711712",
+        "id": "5963ae9b22ee2dbf",
         "type": "tabs",
         "children": [
           {
-            "id": "5f7e88c13532acdd",
+            "id": "1d806f7e7bf55eff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "371a47378c647f1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Developed countries.md",
+                "file": "3 Alexandria/How do we define a patch.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 200
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Developed countries.md",
+                "file": "3 Alexandria/How do we define a patch.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Developed countries.md",
+                "file": "3 Alexandria/How do we define a patch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Developed countries.md"
+                "file": "3 Alexandria/How do we define a patch.md"
               }
             }
           },
@@ -146,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Developed countries.md",
+                "file": "3 Alexandria/How do we define a patch.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -245,7 +232,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 400.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,34 +250,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "371a47378c647f1b",
+  "active": "1d806f7e7bf55eff",
   "lastOpenFiles": [
-    "Climate Change.md",
-    "Developed countries.md",
-    "200 Life Sciences.md",
-    "1 Captain's Log/1 Daily/2023-11-01 Wed.md",
-    "1 Captain's Log/1 Daily/2023-10-31 Tue.md",
-    "1 Captain's Log/1 Daily/2023-10-30 Mon.md",
-    "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Committee Meeting - Dec 2023.md",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
-    "1 Captain's Log/2 Weekly/2023 - W43 - Oct.md",
-    "1 Captain's Log/2 Weekly/2023 - W42 - Oct.md",
-    "USP.md",
-    "Marco Mello.md",
-    "People.md",
-    "002 Reading Map.md",
-    "3 Alexandria/Quando - Sophia de Mello Breyner.md",
     "004 People and Networks.md",
-    "Vicentini, Alberto.md",
-    "INPA.md",
-    "Untitled.md",
-    "Berenguer, Erika.md",
-    "Alberto Vicentini.md",
-    "Victor Santos.md",
-    "Adriana Maria Zanforlin Martini.md",
-    "Flavia Maria Marquitti.md",
-    "Balvanera, Patricia.md",
+    "International Institute for Theoretical Ecology (IITE).md",
+    "3 Alexandria/How do we define a patch.md",
+    "Remote Sensing.md",
+    "4 Floresta Aleatória/Python.md",
+    "4 Floresta Aleatória/R programming.md",
+    "4 Floresta Aleatória/013 Modelos de Markov.md",
+    "4 Floresta Aleatória/012 Inferência Bayesiana.md",
+    "4 Floresta Aleatória/018 Inferência causal.md",
+    "4 Floresta Aleatória/020 Técnicas de Otimização.md",
+    "4 Floresta Aleatória/Statistics.md",
+    "3 Alexandria/Continuous Time Markov Chain (CTMC).md",
+    "Science Outreach.md",
+    "Canadian Mining in LATAM.md",
+    "002 Reading Map.md",
+    "1 Captain's Log/1 Daily/2023-10-30 Mon.md",
+    "Templates/Research article.md",
+    "Templates/New Scroll.md",
+    "Templates/Captain's Log - Review.md",
+    "Templates/Captain's Log.md",
+    "Templates/4 People and networks.md",
+    "Templates/3 Data Source.md",
+    "Templates/1 Cadet.md",
+    "Templates/2 Remote Sensing Product.md",
+    "3 Alexandria/Complex Adaptive Systems - Levin.md",
+    "Developed countries.md",
     "Files/Complex Adaptive Systems - Levin-1.png",
     "Files/Complex Adaptive Systems - Levin.png",
     "Files/Bad Science.png",
