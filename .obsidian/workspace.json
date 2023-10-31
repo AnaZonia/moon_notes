@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "Climate Change.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "forestgeo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "Climate Change.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "Climate Change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 The Bridge.md"
+                "file": "Climate Change.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 The Bridge.md",
+                "file": "Climate Change.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,12 +251,17 @@
   },
   "active": "1d806f7e7bf55eff",
   "lastOpenFiles": [
+    "Historical Ecology.md",
+    "People.md",
+    "004 People and Networks.md",
+    "Presenting Science.md",
+    "300 Doing Science.md",
+    "000 The Bridge.md",
     "Jakovac, Catarina C..md",
     "Developed countries.md",
     "Climate Change.md",
     "3 Alexandria/How do we define a patch.md",
     "1 Captain's Log/1 Daily/2023-10-30 Mon.md",
-    "004 People and Networks.md",
     "International Institute for Theoretical Ecology (IITE).md",
     "Remote Sensing.md",
     "4 Floresta Aleatória/Python.md",
@@ -272,11 +277,6 @@
     "002 Reading Map.md",
     "Templates/Research article.md",
     "Templates/New Scroll.md",
-    "Templates/Captain's Log - Review.md",
-    "Templates/Captain's Log.md",
-    "Templates/4 People and networks.md",
-    "Templates/3 Data Source.md",
-    "Templates/1 Cadet.md",
     "Files/Complex Adaptive Systems - Levin-1.png",
     "Files/Complex Adaptive Systems - Levin.png",
     "Files/Bad Science.png",

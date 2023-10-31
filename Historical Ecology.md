@@ -21,5 +21,9 @@ Warren Dean
 Ecological Imperialism
 Alfred Cosby
 
+### Marisol de la Cadena
+
 [Research — Marisol de la Cadena](https://www.marisoldelacadena.com/bio)
+
+[11. Naturaleza fuera de lo común — Humanidades Ambientales🍃](https://www.humanidadesambientales.com/pensar/11-naturaleza-fuera-de-lo-comn)
 
