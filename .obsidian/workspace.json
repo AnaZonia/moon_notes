@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
+                "file": "2 Workstation/Conferences and Funding.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
+                "file": "2 Workstation/Conferences and Funding.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
+                "file": "2 Workstation/Conferences and Funding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md"
+                "file": "2 Workstation/Conferences and Funding.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
+                "file": "2 Workstation/Conferences and Funding.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,12 +251,15 @@
   },
   "active": "19f7b9f6c04a8345",
   "lastOpenFiles": [
+    "2 Workstation/1 - Predicting Regrowth in the Amazon/Committee Meeting - Dec 2023.md",
+    "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md",
+    "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
+    "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
     "Carbon Tax.md",
     "Climate Change.md",
     "3 Alexandria/Climate Risks, Uncertainties, and Opportunities.md",
     "002 Reading Map.md",
     "Files/Carbon Tax.pdf",
-    "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
     "1 Captain's Log/1 Daily/2023-10-31 Tue.md",
     "1 Captain's Log/1 Daily/2023-10-30 Mon.md",
     "Presenting Science.md",
@@ -275,9 +278,6 @@
     "International Institute for Theoretical Ecology (IITE).md",
     "Remote Sensing.md",
     "4 Floresta Aleatória/Python.md",
-    "4 Floresta Aleatória/R programming.md",
-    "4 Floresta Aleatória/013 Modelos de Markov.md",
-    "4 Floresta Aleatória/012 Inferência Bayesiana.md",
     "Files/Complex Adaptive Systems - Levin-1.png",
     "Files/Complex Adaptive Systems - Levin.png",
     "Files/Bad Science.png",
