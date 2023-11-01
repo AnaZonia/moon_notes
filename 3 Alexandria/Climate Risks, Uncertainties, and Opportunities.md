@@ -7,7 +7,7 @@ type:
 stardate: Oct 5th 2023
 first-author: "[[Wagner, G.]]"
 ---
-#tribble 
+
 [Smil - climate activist?](https://www.nytimes.com/interactive/2022/04/25/magazine/vaclav-smil-interview.html)
 
 The solution, according to carbon models, tends to be reaching zero by 2050.

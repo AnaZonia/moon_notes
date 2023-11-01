@@ -68,6 +68,8 @@
 
 [Erika Berenguer on Twitter: "@jakespring @gabriel_araujo1 I am a co-author of the restoration chapter in SPA and of the policy brief. These numbers are not there. If you interview him again and get the reference, do you mind sharing it? I don't remember seeing these numbers anywhere, so it would be great to have those figures! Tks : )" / X](https://twitter.com/Erika_Berenguer/status/1681290950033694720)
 
+[O Brasil pode liderar a transição para uma bioeconomia circular - 05/01/2023 - Ciência Fundamental - Folha (uol.com.br)](https://www1.folha.uol.com.br/blogs/ciencia-fundamental/2023/01/o-brasil-pode-liderar-a-transicao-para-uma-bioeconomia-circular.shtml)
+
 [Referências (biota.org.br)](https://spsas-amazonia.biota.org.br/pt/referencias/)
 ![[amazonia e territorio intelectual.jpeg]]
 

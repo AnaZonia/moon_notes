@@ -56,7 +56,7 @@
         "focus": true
       },
       "openFile": true,
-      "openFileInMode": "preview",
+      "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
     },
