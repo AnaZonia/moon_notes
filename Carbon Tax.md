@@ -26,3 +26,5 @@ The ultimate goal is for ==emissions to be reduced at the lowest possible econom
 
 By Chris Ragan:
 ![[Carbon Tax.pdf]]
+
+![[Carbon Tax-1.pdf]]

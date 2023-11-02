@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5 Data Sources/The Global Carbon Cycle and Natural Climate Solutions.md",
+                "file": "Carbon Tax.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 389.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5 Data Sources/The Global Carbon Cycle and Natural Climate Solutions.md",
+                "file": "Carbon Tax.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5 Data Sources/The Global Carbon Cycle and Natural Climate Solutions.md",
+                "file": "Carbon Tax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5 Data Sources/The Global Carbon Cycle and Natural Climate Solutions.md"
+                "file": "Carbon Tax.md"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "5 Data Sources/The Global Carbon Cycle and Natural Climate Solutions.md",
+                "file": "Carbon Tax.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5,
-    "collapsed": true
+    "width": 400.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,10 +252,14 @@
   },
   "active": "1261f8938099b3bb",
   "lastOpenFiles": [
+    "Files/Carbon Tax-1.pdf",
+    "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
+    "Pantanal.md",
+    "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
+    "5 Data Sources/The Global Carbon Cycle and Natural Climate Solutions.md",
     "Batterman, Sarah A..md",
     "Sarah Batterman.md",
     "Amazonia.md",
-    "5 Data Sources/The Global Carbon Cycle and Natural Climate Solutions.md",
     "Soil Carbon.md",
     "5 Data Sources/Biomass and Climate Change Workshop - EEBIOMASS.md",
     "Global Carbon Management Workshop - Stanford.md",
@@ -265,9 +269,7 @@
     "5 Data Sources/nasa earthdata.md",
     "5 Data Sources/Amazon forest research using Earth Observation - Luiz Aragão.md",
     "SAR.md",
-    "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
     "3 Alexandria/Research/heinrichLargeCarbonSink2021.md",
-    "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
     "Heinrich, Viola H. A..md",
     "3 Alexandria/Complex Adaptive Systems - Levin.md",
     "2 Workstation/Conferences and Funding.md",
@@ -276,9 +278,7 @@
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
     "Carbon Tax.md",
     "Climate Change.md",
-    "3 Alexandria/Climate Risks, Uncertainties, and Opportunities.md",
     "Files/Carbon Tax.pdf",
-    "1 Captain's Log/1 Daily/2023-10-31 Tue.md",
     "Files/Complex Adaptive Systems - Levin-1.png",
     "Files/Complex Adaptive Systems - Levin.png",
     "Files/Bad Science.png",
