@@ -7,3 +7,5 @@ tags:
   - "#tribble"
 ---
 -carbon isotopes (12, 13, 14)
+
+[Carbon sequestration in soils | Francesca Cotrufo | Global Carbon Management Workshop - YouTube](https://www.youtube.com/watch?v=RWFsq52sRcE)

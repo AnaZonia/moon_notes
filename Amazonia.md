@@ -33,6 +33,10 @@ FROM #amazonia
 WHERE !file.inlinks
 SORT file.ctime DESC
 ```
+**The changing carbon balance in Amazonia**  **+ discussion  
+**Paulo Artaxo - Instituto de Física da Universidade de Sao Paulo
+[Max Planck Jena seminar Amazonia Short 4 May 2022.pdf - MPI for Biogeochemistry (mpg.de)](https://nextcloud.bgc-jena.mpg.de/s/nZez8tmK7Ng99Xa?dir=undefined&openfile=38259529)
+
 
 ## Amazonia Articles
 ```dataview

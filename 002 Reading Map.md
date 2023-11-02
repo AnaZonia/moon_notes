@@ -133,6 +133,7 @@
 
 [Women participate less at conferences, even if gender-balanced – study | Gender | The Guardian](https://www.theguardian.com/world/2021/jul/30/women-participate-less-at-conferences-even-if-gender-balanced-study#:~:text=Women%20are%20less%20likely%20to,inclusion%2C%20a%20study%20has%20found.)
 
+[Toxic workplaces are the main reason women leave academic jobs (nature.com)](https://www.nature.com/articles/d41586-023-03251-8?utm_medium=Social&utm_campaign=nature&utm_source=Twitter#Echobox=1698143185)
 
 ## Talks
 [CAMBAM/QLS Seminar - Allison Shaw - April 5 2022 - YouTube](https://www.youtube.com/watch?v=sTWfK0njfEk)

@@ -22,7 +22,7 @@ at-a-glance: ""
  
 > <span style="color: #90EE90">spatial regrowth patterns due to environmental and disturbance drivers. Here we quantify the influence of such drivers on the rate and spatial patterns of regrowth in the Brazilian Amazon using satellite data.</span> 
 
- 
+ [RE:growth (earthengine.app)](https://ee-regrowth.projects.earthengine.app/view/regrowth)
 
  > <span style="color: #F9E076">Identifying the proximity of secondary forests to disturbed versus undisturbed forests could potentially be another driving variable impacting the regrowth rates we have calculated in this study.</span>
 

@@ -127,6 +127,7 @@ Solved with constellations, such as [[Airbus]], [[Planet]] and [[Maxar]].
 - [NASA ARSET: Crop Classification with Time Series of Polarimetric SAR Data, Part 1/3 - YouTube](https://www.youtube.com/watch?v=QP4VPaBovBk&list=PLiuUQ9asub3Si5Ke17_uwzs1uwZqTQbWR)
 - [Getting Started with NASA Global Ecosystems Dynamics Investigation (GEDI) Lidar Data - YouTube](https://www.youtube.com/watch?app=desktop&v=UlrCC1Xp-wk)
 - [GDAL](https://gdal.org/programs/index.html#raster-programs)
+- [NASA Earthdata - YouTube](https://www.youtube.com/@NASAEarthdata)
 
 
 [IDB - Index DataBase](https://www.indexdatabase.de/)
