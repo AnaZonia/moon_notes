@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
+                "file": "002 Reading Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
+                "file": "002 Reading Map.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
+                "file": "002 Reading Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md"
+                "file": "002 Reading Map.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
+                "file": "002 Reading Map.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,8 +251,8 @@
   },
   "active": "1261f8938099b3bb",
   "lastOpenFiles": [
-    "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
     "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
+    "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
     "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
     "2 Workstation/Conferences and Funding.md",
     "Carbon Tax.md",

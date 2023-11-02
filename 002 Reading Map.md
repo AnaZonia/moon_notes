@@ -1,6 +1,7 @@
 
 ![[ELTI - Environmental Leadership & Training Initiative#ELTI Reading Map]]
 
+[Low phosphorus levels limit carbon capture by Amazonian forests (nature.com)](https://www.nature.com/articles/d41586-022-02106-y)
 ## What is the cost of protecting the Amazon?
 [Sustainable-use protected areas catalyze enhanced livelihoods in rural Amazonia | PNAS (mcgill.ca)](https://www-pnas-org.proxy3.library.mcgill.ca/doi/full/10.1073/pnas.2105480118)
 
