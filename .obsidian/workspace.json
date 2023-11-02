@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Carbon Tax.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5,
-    "collapsed": true
+    "width": 389.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Carbon Tax.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Carbon Tax.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Carbon Tax.md"
+                "file": "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md"
               }
             }
           },
@@ -134,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Carbon Tax.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -252,10 +251,14 @@
   },
   "active": "1261f8938099b3bb",
   "lastOpenFiles": [
+    "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
+    "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
+    "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
+    "2 Workstation/Conferences and Funding.md",
+    "Carbon Tax.md",
     "Files/Carbon Tax-1.pdf",
     "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
     "Pantanal.md",
-    "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
     "5 Data Sources/The Global Carbon Cycle and Natural Climate Solutions.md",
     "Batterman, Sarah A..md",
     "Sarah Batterman.md",
@@ -272,12 +275,9 @@
     "3 Alexandria/Research/heinrichLargeCarbonSink2021.md",
     "Heinrich, Viola H. A..md",
     "3 Alexandria/Complex Adaptive Systems - Levin.md",
-    "2 Workstation/Conferences and Funding.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Committee Meeting - Dec 2023.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
-    "Carbon Tax.md",
-    "Climate Change.md",
     "Files/Carbon Tax.pdf",
     "Files/Complex Adaptive Systems - Levin-1.png",
     "Files/Complex Adaptive Systems - Levin.png",
@@ -300,7 +300,6 @@
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Regrowth in Amazonia.canvas",
     "2 Workstation/2 - Predicting Regrowth in Panama",
     "2 Workstation/1 - Predicting Regrowth in the Amazon",
-    "2 Workstation",
     "20 Python MOC.canvas",
     "2 Literature/Regrowth/Regrowth literature.canvas",
     "2 Literature/Biogeochemistry/Biogeochemistry.canvas"
