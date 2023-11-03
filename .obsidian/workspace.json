@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 Reading Map.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 Reading Map.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002 Reading Map.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 Reading Map.md"
+                "file": "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 Reading Map.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -254,6 +254,7 @@
     "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
     "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
     "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
+    "002 Reading Map.md",
     "2 Workstation/Conferences and Funding.md",
     "Carbon Tax.md",
     "Files/Carbon Tax-1.pdf",
@@ -266,7 +267,6 @@
     "Soil Carbon.md",
     "5 Data Sources/Biomass and Climate Change Workshop - EEBIOMASS.md",
     "Global Carbon Management Workshop - Stanford.md",
-    "002 Reading Map.md",
     "Remote Sensing.md",
     "5 Data Sources/ESA CCI Biomass.md",
     "5 Data Sources/nasa earthdata.md",
