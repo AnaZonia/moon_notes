@@ -6,4 +6,6 @@ type:
 aliases: 
 at-a-glance: 
 location:
+  - Cary Institute
+  - Leeds
 ---

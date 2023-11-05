@@ -4,22 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "066d28623dd539b7",
+        "id": "1b9d6e97b2ea6b08",
         "type": "tabs",
         "children": [
           {
-            "id": "1261f8938099b3bb",
+            "id": "d52a69b572e91cbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Remote Sensing.md",
+                "file": "Next Generation Ecosystem Experiments NGEE-Tropics.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "bb8b1aa71c8ca72e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+                "viewState": {
+                  "x": 265,
+                  "y": -740,
+                  "zoom": -1.2196780366394122
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "women",
+                "query": "iita",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 200
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -94,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Remote Sensing.md",
+                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Remote Sensing.md",
+                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Remote Sensing.md"
+                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas"
               }
             }
           },
@@ -133,14 +149,14 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Remote Sensing.md",
+                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
-                  "localBacklinks": false,
+                  "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
@@ -187,7 +203,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "3dbac5c2f60b2e8e",
@@ -232,7 +248,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.5
+    "width": 380.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,42 +266,42 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1261f8938099b3bb",
+  "active": "bb8b1aa71c8ca72e",
   "lastOpenFiles": [
-    "Climate Change and Brazil's Conservation Frontiers.md",
-    "Remote Sensing.md",
-    "100 A Floresta Aleatória.md",
-    "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
-    "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
-    "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
+    "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md",
     "002 Reading Map.md",
-    "2 Workstation/Conferences and Funding.md",
-    "Carbon Tax.md",
-    "Files/Carbon Tax-1.pdf",
-    "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
-    "Pantanal.md",
-    "5 Data Sources/The Global Carbon Cycle and Natural Climate Solutions.md",
+    "001 Rolling ideas.md",
+    "003 Data Sources.md",
+    "5 Data Sources/GEO-TREES 1.md",
+    "Next Generation Ecosystem Experiments NGEE-Tropics.md",
+    "5 Data Sources/FireCCI.md",
+    "Large Scale Biosphere-Atmosphere Experiment -- LBA.md",
+    "LiDAR.md",
+    "Keller, Michael.md",
+    "Puerto Rico.md",
+    "Nobre, Carlos A..md",
+    "Ordway, Elsa.md",
+    "Chadwick, Dana.md",
+    "Congo Basin Institute - CBI.md",
+    "International Institute of Tropical Agriculture - IITA.md",
+    "004 People and Networks.md",
     "Batterman, Sarah A..md",
-    "Sarah Batterman.md",
-    "Amazonia.md",
-    "Soil Carbon.md",
-    "5 Data Sources/Biomass and Climate Change Workshop - EEBIOMASS.md",
-    "Global Carbon Management Workshop - Stanford.md",
-    "5 Data Sources/ESA CCI Biomass.md",
-    "5 Data Sources/nasa earthdata.md",
-    "5 Data Sources/Amazon forest research using Earth Observation - Luiz Aragão.md",
-    "SAR.md",
-    "3 Alexandria/Research/heinrichLargeCarbonSink2021.md",
-    "Heinrich, Viola H. A..md",
-    "3 Alexandria/Complex Adaptive Systems - Levin.md",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Committee Meeting - Dec 2023.md",
+    "Terrer, Cesar.md",
+    "Vallicrosa, Helena.md",
+    "Cusack, Daniela.md",
+    "People.md",
+    "Quesada, Carlos.md",
+    "Wright, Joseph.md",
+    "Schnabel, Florian.md",
+    "Ana Spalding.md",
+    "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+    "Files/Carbon Tax-1.pdf",
     "Files/Carbon Tax.pdf",
     "Files/Complex Adaptive Systems - Levin-1.png",
     "Files/Complex Adaptive Systems - Levin.png",
     "Files/Bad Science.png",
     "Files/Computers and Bash.png",
     "Files/Landsat-5.png",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Biodiversity.canvas",
     "Files/FAO Soil Map of the World-1.png",
     "Files/FAO Soil Map of the World.png",

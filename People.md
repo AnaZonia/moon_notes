@@ -5,8 +5,6 @@ SORT location
 ```
 
 - [[Kong, Jude]]
-- [[Schnabel, Florian]]
 - [[Ruiz-Jaen, Maria C.]]
 - [[Sanchez-Galan, Javier]]
 - [[Renata Muylaert]]
-
