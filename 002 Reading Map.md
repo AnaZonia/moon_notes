@@ -136,7 +136,7 @@
 
 [Toxic workplaces are the main reason women leave academic jobs (nature.com)](https://www.nature.com/articles/d41586-023-03251-8?utm_medium=Social&utm_campaign=nature&utm_source=Twitter#Echobox=1698143185)
 
-
+[La théorie du pot de yogourt ou perdre au change en couple (radio-canada.ca)](https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/segments/chronique/449393/budget-couple-finances-personnelles-prorata)
 ## Talks
 [CAMBAM/QLS Seminar - Allison Shaw - April 5 2022 - YouTube](https://www.youtube.com/watch?v=sTWfK0njfEk)
 
