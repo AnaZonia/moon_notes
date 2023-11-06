@@ -8,34 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d52a69b572e91cbc",
+            "id": "bb8b1aa71c8ca72e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Next Generation Ecosystem Experiments NGEE-Tropics.md",
+                "file": "Google Earth Engine.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "de73d279ff24ed38",
+        "type": "tabs",
+        "children": [
           {
-            "id": "bb8b1aa71c8ca72e",
+            "id": "e18b428c543bdb77",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
-                "viewState": {
-                  "x": 265,
-                  "y": -740,
-                  "zoom": -1.2196780366394122
-                }
+                "file": "QGIS.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+                "file": "QGIS.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+                "file": "QGIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas"
+                "file": "QGIS.md"
               }
             }
           },
@@ -149,7 +151,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+                "file": "QGIS.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -266,8 +268,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bb8b1aa71c8ca72e",
+  "active": "e18b428c543bdb77",
   "lastOpenFiles": [
+    "Google Earth Engine.md",
+    "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md",
     "002 Reading Map.md",
     "001 Rolling ideas.md",
@@ -293,8 +297,6 @@
     "Quesada, Carlos.md",
     "Wright, Joseph.md",
     "Schnabel, Florian.md",
-    "Ana Spalding.md",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Files/Carbon Tax-1.pdf",
     "Files/Carbon Tax.pdf",
     "Files/Complex Adaptive Systems - Levin-1.png",

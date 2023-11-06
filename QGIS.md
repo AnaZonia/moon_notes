@@ -19,3 +19,5 @@ dont forget that high sd would regardless introduce bias at some levels more tha
 
 ## masking
 You could convert "raster 2" to a polygon (_Raster > Conversion > polygonize_). Then run the **Clipper** tool (_Raster > Extraction > Clipper..._) and use the polygonized "raster 2" as the mask layer.
+
+## Changing layer colors
