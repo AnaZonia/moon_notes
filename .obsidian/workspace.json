@@ -18,26 +18,21 @@
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "de73d279ff24ed38",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "e18b428c543bdb77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "QGIS.md",
+                "file": "Why is it so hard to reduce GHGs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -112,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "QGIS.md",
+                "file": "Why is it so hard to reduce GHGs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "QGIS.md",
+                "file": "Why is it so hard to reduce GHGs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "QGIS.md"
+                "file": "Why is it so hard to reduce GHGs.md"
               }
             }
           },
@@ -151,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "QGIS.md",
+                "file": "Why is it so hard to reduce GHGs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -270,6 +266,9 @@
   },
   "active": "e18b428c543bdb77",
   "lastOpenFiles": [
+    "Carbon Tax.md",
+    "Why is it so hard to reduce GHGs.md",
+    "QGIS.md",
     "Google Earth Engine.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md",
@@ -294,9 +293,6 @@
     "Vallicrosa, Helena.md",
     "Cusack, Daniela.md",
     "People.md",
-    "Quesada, Carlos.md",
-    "Wright, Joseph.md",
-    "Schnabel, Florian.md",
     "Files/Carbon Tax-1.pdf",
     "Files/Carbon Tax.pdf",
     "Files/Complex Adaptive Systems - Levin-1.png",
