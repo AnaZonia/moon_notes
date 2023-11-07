@@ -141,3 +141,5 @@
 [CAMBAM/QLS Seminar - Allison Shaw - April 5 2022 - YouTube](https://www.youtube.com/watch?v=sTWfK0njfEk)
 
 [QLS Seminar - Pedro Peres-Neto - December 7 - YouTube](https://www.youtube.com/watch?v=3EFHYP8SwX0)
+
+ESA Biomass SAR heteroskedasticity

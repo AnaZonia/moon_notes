@@ -245,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5,
-    "collapsed": true
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,13 +264,14 @@
   },
   "active": "e18b428c543bdb77",
   "lastOpenFiles": [
+    "1 Captain's Log/1 Daily/2023-10-30 Mon.md",
+    "002 Reading Map.md",
     "Why is it so hard to reduce GHGs.md",
     "Carbon Tax.md",
     "QGIS.md",
     "Google Earth Engine.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/2024 Gantt chart.md",
-    "002 Reading Map.md",
     "001 Rolling ideas.md",
     "003 Data Sources.md",
     "5 Data Sources/GEO-TREES 1.md",
@@ -291,7 +291,6 @@
     "Terrer, Cesar.md",
     "Vallicrosa, Helena.md",
     "Cusack, Daniela.md",
-    "People.md",
     "Files/Carbon Tax-1.pdf",
     "Files/Carbon Tax.pdf",
     "Files/Complex Adaptive Systems - Levin-1.png",
