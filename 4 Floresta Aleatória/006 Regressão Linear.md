@@ -17,7 +17,7 @@
 [regression - Why is multicollinearity different than correlation? - Cross Validated (stackexchange.com)](https://stats.stackexchange.com/questions/545148/why-is-multicollinearity-different-than-correlation#:~:text=Multicollinearity%20may%20occur%20even%20when,sum%20of%20the%20other%20predictors.)
 
 Os coeficientes.
-
+[Pearson Correlation Coefficient (r) | Guide & Examples (scribbr.com)](https://www.scribbr.com/statistics/pearson-correlation-coefficient/)
 # Mínimos Quadrados Não Lineares
 
 **Mínimos Quadrados Não Lineares (NLS):**
