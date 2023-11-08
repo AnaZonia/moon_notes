@@ -17,3 +17,6 @@ update: Oct 20th 2023
 [[Science Outreach]]
 
 [[Bad Science]]
+
+[Should scientists include their race, gender, or other personal details in papers? | Science | AAAS (mcgill.ca)](https://www-science-org.proxy3.library.mcgill.ca/content/article/should-scientists-include-their-race-gender-or-other-personal-details-papers)
+

@@ -47,3 +47,4 @@ But since a lot of resources come in javascript, it's good  (and very possible) 
 ## geemap
 - [A collection of 300+ examples for using Earth Engine and the geemap Python package](https://github.com/giswqs/earthengine-py-examples)
 - [Earth Engine Python API](https://developers.google.com/earth-engine/tutorials/community/intro-to-python-api)
+- https://www.youtube.com/watch?v=wGjpjh9IQ5I

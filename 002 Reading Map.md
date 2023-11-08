@@ -143,3 +143,6 @@
 [QLS Seminar - Pedro Peres-Neto - December 7 - YouTube](https://www.youtube.com/watch?v=3EFHYP8SwX0)
 
 ESA Biomass SAR heteroskedasticity
+
+[Biodiversity market doublespeak | Science (mcgill.ca)](https://www-science-org.proxy3.library.mcgill.ca/doi/full/10.1126/science.adg6823)
+
