@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1b9d6e97b2ea6b08",
+        "id": "cfd97526a8e93419",
         "type": "tabs",
         "children": [
           {
-            "id": "bb8b1aa71c8ca72e",
+            "id": "92789a8decab1d14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alberto Vicentini.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alberto Vicentini.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alberto Vicentini.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alberto Vicentini.md"
+                "file": "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Alberto Vicentini.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -249,11 +249,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "bb8b1aa71c8ca72e",
+  "active": "92789a8decab1d14",
   "lastOpenFiles": [
+    "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
+    "Alberto Vicentini.md",
     "004 People and Networks.md",
     "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
-    "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
     "1 Captain's Log/1 Daily/2023-11-10 Fri.md",
     "Psychology.md",
     "400 Interests.md",
@@ -276,7 +277,6 @@
     "3 Alexandria/Research/andereggRepresentingPlantDiversity2021 1.md",
     "4 Floresta Aleatória/Statistics.md",
     "4 Floresta Aleatória/001 Introdução à Estatística.md",
-    "4 Floresta Aleatória/000 Prefácio.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Files/Carbon Tax-1.pdf",
     "Files/Carbon Tax.pdf",
