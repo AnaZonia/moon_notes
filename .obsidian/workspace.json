@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -252,6 +251,8 @@
   },
   "active": "bb8b1aa71c8ca72e",
   "lastOpenFiles": [
+    "Climate Change.md",
+    "4 Floresta Aleatória/006 Regressão Linear.md",
     "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
     "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
     "3 Alexandria/Research/perez-ramosFunctionalTraitsPhenotypic2019b.md",
@@ -268,13 +269,11 @@
     "3 Alexandria/Research/wongBiologicalNitrogenFixation2020.md",
     "3 Alexandria/Research/tschakertIndigenousLivelihoodsSlashandburn2007.md",
     "3 Alexandria/Research/andereggRepresentingPlantDiversity2021 1.md",
-    "4 Floresta Aleatória/006 Regressão Linear.md",
     "4 Floresta Aleatória/Statistics.md",
     "4 Floresta Aleatória/001 Introdução à Estatística.md",
     "4 Floresta Aleatória/000 Prefácio.md",
     "Google Earth Engine.md",
     "002 Reading Map.md",
-    "Climate Change.md",
     "300 Doing Science.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
     "1 Captain's Log/1 Daily/2023-10-30 Mon.md",
