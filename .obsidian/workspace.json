@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 Floresta Aleatória/006 Regressão Linear.md",
+                "file": "Psychology.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 Floresta Aleatória/006 Regressão Linear.md",
+                "file": "Psychology.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 Floresta Aleatória/006 Regressão Linear.md",
+                "file": "Psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 Floresta Aleatória/006 Regressão Linear.md"
+                "file": "Psychology.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4 Floresta Aleatória/006 Regressão Linear.md",
+                "file": "Psychology.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -251,8 +251,11 @@
   },
   "active": "bb8b1aa71c8ca72e",
   "lastOpenFiles": [
-    "Climate Change.md",
+    "400 Interests.md",
+    "Psychology.md",
+    "Adriana Maria Zanforlin Martini.md",
     "4 Floresta Aleatória/006 Regressão Linear.md",
+    "Climate Change.md",
     "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
     "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
     "3 Alexandria/Research/perez-ramosFunctionalTraitsPhenotypic2019b.md",
@@ -274,9 +277,6 @@
     "4 Floresta Aleatória/000 Prefácio.md",
     "Google Earth Engine.md",
     "002 Reading Map.md",
-    "300 Doing Science.md",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
-    "1 Captain's Log/1 Daily/2023-10-30 Mon.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Files/Carbon Tax-1.pdf",
     "Files/Carbon Tax.pdf",
