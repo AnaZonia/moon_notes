@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Life Sciences.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "200 Life Sciences.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "200 Life Sciences.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "200 Life Sciences.md"
+                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md"
               }
             }
           },
@@ -133,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "200 Life Sciences.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -232,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 662.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,12 +251,12 @@
   },
   "active": "92789a8decab1d14",
   "lastOpenFiles": [
+    "200 Life Sciences.md",
     "Latin American History.md",
     "Brazilian History.md",
     "400 Interests.md",
     "Forest Resilience and Climate.md",
     "Climate Change.md",
-    "200 Life Sciences.md",
     "Regrowth.md",
     "Tropical Ecology.md",
     "Latin American Agriculture.md",
