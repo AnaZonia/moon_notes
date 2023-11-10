@@ -129,7 +129,7 @@
 [‪Cory Cleveland‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=P6B_FaQAAAAJ&hl=en)
 
 [Marielle SMITH | Postdoctoral Research Associate | PhD Ecology and Evolutionary Biology | Michigan State University, MI | MSU | Department of Forestry | Research profile (researchgate.net)](https://www.researchgate.net/profile/Marielle-Smith-2)
-## Women in academia
+## [[Women in academia]]
 [Harsh workplace climate is pushing women out of academia | CU Boulder Today | University of Colorado Boulder](https://www.colorado.edu/today/2023/10/20/harsh-workplace-climate-pushing-women-out-academia)
 
 [Women participate less at conferences, even if gender-balanced – study | Gender | The Guardian](https://www.theguardian.com/world/2021/jul/30/women-participate-less-at-conferences-even-if-gender-balanced-study#:~:text=Women%20are%20less%20likely%20to,inclusion%2C%20a%20study%20has%20found.)

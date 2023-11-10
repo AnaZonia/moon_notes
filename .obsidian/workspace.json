@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ca793f1d57a00417",
+        "id": "d596739d19d191d1",
         "type": "tabs",
         "children": [
           {
-            "id": "0c1fdc79583201d4",
+            "id": "7e1702482715b599",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Excalidraw/Obsidian.md"
-              }
-            }
-          },
-          {
-            "id": "48d80f96fdfcabcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Land Use.md",
-                "mode": "source",
-                "source": false
               }
             }
           }
@@ -58,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "iita",
+                "query": "women",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 248.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -88,7 +76,7 @@
       {
         "id": "6b3e5e477cb16920",
         "type": "tabs",
-        "dimension": 61.274509803921575,
+        "dimension": 53.40909090909091,
         "children": [
           {
             "id": "b0c74e50e28a8d26",
@@ -159,7 +147,7 @@
       {
         "id": "3dbac5c2f60b2e8e",
         "type": "tabs",
-        "dimension": 38.72549019607843,
+        "dimension": 46.590909090909086,
         "children": [
           {
             "id": "f6a230dcc8184e2d",
@@ -183,12 +171,12 @@
             }
           },
           {
-            "id": "cbbe6629e899d586",
+            "id": "0c1fdc79583201d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-10-30 Mon.md",
+                "file": "1 Captain's Log/1 Daily/2023-11-10 Fri.md",
                 "mode": "source",
                 "source": false
               }
@@ -199,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409.5
+    "width": 328.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,56 +195,56 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
+      "periodic-notes:Open today": false,
       "cmdr:Open current tab in new window": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "periodic-notes:Open today": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "0c1fdc79583201d4",
+  "active": "7e1702482715b599",
   "lastOpenFiles": [
+    "002 Reading Map.md",
+    "003 Data Sources.md",
+    "Excalidraw/Obsidian.md",
+    "Files/Pasted Image 20231110110524_752.png",
+    "Files/Pasted Image 20231110105455_142.png",
+    "Files/Pasted Image 20231110105425_134.jpg",
+    "1 Captain's Log/1 Daily/2023-11-10 Fri.md",
+    "1 Captain's Log/1 Daily/2023-10-30 Mon.md",
+    "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
+    "Forest Resilience and Climate.md",
+    "Amazonia.md",
+    "Climate Change.md",
+    "Carbon Tax.md",
+    "Files/Pasted Image 20231110104222_291.jpg",
+    "Files/Pasted Image 20231110104152_275.jpg",
+    "Files/Pasted Image 20231110103335_997.jpg",
+    "Files/Pasted Image 20231110103235_965.png",
+    "Files/Pasted Image 20231110103220_955.jpg",
+    "Women in academia.md",
+    "Land Use.md",
     "Files/Pasted Image 20231110013650_299.png",
     "Files/Pasted Image 20231110013105_019.png",
-    "Files/Pasted Image 20231110011420_363.jpg",
-    "Files/Pasted Image 20231110011405_348.jpg",
-    "Files/Pasted Image 20231110011205_274.png",
-    "Files/Pasted Image 20231110011105_244.jpg",
-    "Files/Pasted Image 20231110010750_080.png",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
-    "Excalidraw/Obsidian.md",
-    "Land Use.md",
     "Remote Sensing.md",
     "ICESat1 - GLAS & ICESat2 - ATLAS.md",
     "5 Data Sources/Asner ACD.md",
     "GEDI.md",
     "ECOSTRESS.md",
     "Evapotranspiration.md",
-    "Files/Pasted Image 20231110005256_953.jpg",
-    "Forest Resilience and Climate.md",
     "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
     "Excalidraw/Nitrogen Cycle Sept 27th 2023.excalidraw.md",
     "4 Floresta Aleatória/Statistics.md",
-    "Climate Change.md",
-    "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
     "200 Life Sciences.md",
     "Latin American History.md",
     "Brazilian History.md",
     "400 Interests.md",
-    "Regrowth.md",
-    "Tropical Ecology.md",
-    "Latin American Agriculture.md",
-    "3 Alexandria/Research/poorterBiodiversityClimateDetermine2017.md",
-    "Presenting Science.md",
-    "300 Doing Science.md",
     "Files/Carbon Tax-1.pdf",
     "Files/Carbon Tax.pdf",
-    "Files/Complex Adaptive Systems - Levin-1.png",
-    "Files/Complex Adaptive Systems - Levin.png",
-    "Files/Bad Science.png",
     "Biodiversity.canvas",
     "3 Research",
     "Templates/scripts/pin_me.js",

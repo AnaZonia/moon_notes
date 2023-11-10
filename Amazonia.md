@@ -6,7 +6,7 @@ update: Oct 7th 2023
 tags: []
 ---
 Patterns of climate in the Amazon
-
+Peatlands/turfeiras
 Regeneration vs regrowth vs restoration 
 
 Degredation vs deforestation vs disturbance

@@ -20,7 +20,10 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false
   },
   "1 Captain's Log": "LiRocket",
   "000 The Bridge.md": "SiStartrek",

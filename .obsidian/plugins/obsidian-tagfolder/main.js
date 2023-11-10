@@ -56,6 +56,7 @@ var import_obsidian8 = require("obsidian"), DEFAULT_SETTINGS = {
   tagInfo: "pininfo.md",
   mergeRedundantCombination: false,
   useVirtualTag: false,
+  useFrontmatterTagsForNewNotes: false,
   doNotSimplifyTags: false,
   overrideTagClicking: false,
   useMultiPaneList: false,
@@ -920,7 +921,13 @@ var doEvents = () => new Promise((res => {
     res();
   }));
   pump();
-})), compare = Intl && Intl.Collator ? (new Intl.Collator).compare : (x, y) => `${null != x ? x : ""}`.localeCompare(`${null != y ? y : ""}`);
+}));
+
+function compare(x, y) {
+  return `${x || ""}`.localeCompare(y, void 0, {
+    numeric: true
+  });
+}
 
 function getTagName(tagName, subtreePrefix, tagInfo2, invert) {
   if (null == tagInfo2) return tagName;
@@ -980,8 +987,8 @@ function selectCompareMethodTags(settings, tagInfo2) {
    default:
     console.warn("Compare method (tags) corrupted");
     return (a, b) => {
-      const isASubTree = "" == a[V2FI_IDX_TAGDISP][0], isBSubTree = "" == b[V2FI_IDX_TAGDISP][0], aName = a[V2FI_IDX_TAGNAME], bName = b[V2FI_IDX_TAGNAME], aPrefix = isASubTree ? subTreeChar[invert] : "", bPrefix = isBSubTree ? subTreeChar[invert] : "";
-      return compare(aPrefix + aName, bPrefix + bName) * invert;
+      const isASubTree = "" == a[V2FI_IDX_TAGDISP][0], isBSubTree = "" == b[V2FI_IDX_TAGDISP][0], aName = a[V2FI_IDX_TAGNAME], bName = b[V2FI_IDX_TAGNAME];
+      return compare((isASubTree ? subTreeChar[invert] : "") + aName, (isBSubTree ? subTreeChar[invert] : "") + bName) * invert;
     };
   }
 }
@@ -1018,7 +1025,7 @@ function trimTrailingSlash(src) {
 }
 
 function joinPartialPath(path) {
-  return path.reduceRight(((p, c) => c.endsWith("/") && p.length > 0 ? [ c + p[0], ...p.slice(1) ] : [ c, ...p ]), []);
+  return path.reduce(((p, c) => c.endsWith("/") && p.length > 0 ? [ c + p[0], ...p.slice(1) ] : [ c, ...p ]), []);
 }
 
 function pathMatch(haystackLC, needleLC) {
@@ -3604,8 +3611,7 @@ var TagFolderViewBase = class extends import_obsidian5.ItemView {
         new import_obsidian5.Notice("Copied");
       }))));
       menu.addItem((item => item.setTitle("New note " + (targetTag ? "in here" : "as like this")).setIcon("create-new").onClick((async () => {
-        const ww = await this.app.fileManager.createAndOpenMarkdownFile();
-        await this.app.vault.append(ww, expandedTags);
+        await this.plugin.createNewNote(trail);
       }))));
       if (targetTag) if (this.plugin.settings.useTagInfo && null != this.plugin.tagInfo) {
         const tag = targetTag;
@@ -3791,8 +3797,7 @@ var TagFolderViewBase = class extends import_obsidian5.ItemView {
     return this.state;
   }
   async newNote(evt) {
-    const expandedTags = this.state.tags.map((e => trimTrailingSlash(e))).map((e => e.split("/").filter((ee => !isSpecialTag(ee))).join("/"))).filter((e => "" != e)).map((e => "#" + e)).join(" ").trim(), ww = await this.app.fileManager.createAndOpenMarkdownFile();
-    await this.app.vault.append(ww, expandedTags);
+    await this.plugin.createNewNote(this.state.tags);
   }
   getViewType() {
     return VIEW_TYPE_TAGFOLDER_LIST;
@@ -3879,7 +3884,8 @@ var TagFolderPlugin5 = class extends import_obsidian8.Plugin {
     this.allViewItemsByLink = [];
     this.compareItems = (_, __) => 0;
     this.focusFile = (path, specialKey) => {
-      const targetFile = this.app.vault.getFiles().find((f => f.path === path));
+      if (this.currentOpeningFile == path) return;
+      const _targetFile = this.app.vault.getAbstractFileByPath(path), targetFile = _targetFile instanceof import_obsidian8.TFile ? _targetFile : this.app.vault.getFiles().find((f => f.path === path));
       if (targetFile) if (specialKey) this.app.workspace.openLinkText(targetFile.path, targetFile.path, "tab"); else this.app.workspace.openLinkText(targetFile.path, targetFile.path);
     };
     this.fileCaches = [];
@@ -3976,6 +3982,13 @@ var TagFolderPlugin5 = class extends import_obsidian8.Plugin {
       }
     });
     this.addCommand({
+      id: "tagfolder-rebuild-tree",
+      name: "Force Rebuild",
+      callback: () => {
+        this.refreshAllTree();
+      }
+    });
+    this.addCommand({
       id: "tagfolder-create-similar",
       name: "Create a new note with the same tags",
       editorCallback: async (editor, view) => {
@@ -3984,8 +3997,8 @@ var TagFolderPlugin5 = class extends import_obsidian8.Plugin {
         if (!file) return;
         const cache = this.app.metadataCache.getFileCache(file);
         if (!cache) return;
-        const tags = null != (_a = (0, import_obsidian8.getAllTags)(cache)) ? _a : [], ww = await this.app.fileManager.createAndOpenMarkdownFile();
-        await this.app.vault.append(ww, tags.join(" "));
+        const tagsWithoutPrefix = (null != (_a = (0, import_obsidian8.getAllTags)(cache)) ? _a : []).map((e => trimPrefix(e, "#")));
+        await this.createNewNote(tagsWithoutPrefix);
       }
     });
     this.metadataCacheChanged = this.metadataCacheChanged.bind(this);
@@ -4071,7 +4084,7 @@ var TagFolderPlugin5 = class extends import_obsidian8.Plugin {
     if (null != this.getLinkView()) ;
   }
   refreshTree(file, oldName) {
-    if (file instanceof import_obsidian8.TFile) this.loadFileInfo(file);
+    if (oldName) this.refreshAllTree(); else if (file instanceof import_obsidian8.TFile) this.loadFileInfo(file);
   }
   refreshAllTree() {
     this.loadFileInfo();
@@ -4217,6 +4230,11 @@ var TagFolderPlugin5 = class extends import_obsidian8.Plugin {
         await this.applyFileInfoToView();
       }
       await this.applyUpdateIntoScroll(diffs);
+      const af = this.app.workspace.getActiveFile();
+      if (af && this.currentOpeningFile != af.path) {
+        this.currentOpeningFile = af.path;
+        currentFile.set(this.currentOpeningFile);
+      }
     } finally {
       this.processingFileInfo = false;
     } else diffs.forEach((e => this.loadFileInfoAsync(e)));
@@ -4473,6 +4491,14 @@ var TagFolderPlugin5 = class extends import_obsidian8.Plugin {
     });
     this.app.workspace.revealLeaf(theLeaf);
   }
+  async createNewNote(tags) {
+    const expandedTagsAll = ancestorToLongestTag(ancestorToTags(joinPartialPath(removeIntermediatePath(null != tags ? tags : [])))).map((e => trimTrailingSlash(e))), expandedTags = expandedTagsAll.map((e => e.split("/").filter((ee => !isSpecialTag(ee))).join("/"))).filter((e => "" != e)).map((e => "#" + e)).join(" ").trim(), ww = await this.app.fileManager.createAndOpenMarkdownFile();
+    if (this.settings.useFrontmatterTagsForNewNotes) await this.app.fileManager.processFrontMatter(ww, (matter => {
+      var _a;
+      matter.tags = null != (_a = matter.tags) ? _a : [];
+      matter.tags = expandedTagsAll.filter((e => !isSpecialTag(e))).filter((e => matter.tags.indexOf(e) < 0)).concat(matter.tags);
+    })); else await this.app.vault.append(ww, expandedTags);
+  }
 }, TagFolderSettingTab = class extends import_obsidian8.PluginSettingTab {
   constructor(app2, plugin) {
     super(app2, plugin);
@@ -4576,6 +4602,12 @@ var TagFolderPlugin5 = class extends import_obsidian8.Plugin {
     new import_obsidian8.Setting(containerEl).setName("Use virtual tags").addToggle((toggle => {
       toggle.setValue(this.plugin.settings.useVirtualTag).onChange((async value => {
         this.plugin.settings.useVirtualTag = value;
+        await this.plugin.saveSettings();
+      }));
+    }));
+    new import_obsidian8.Setting(containerEl).setName("Store tags in frontmatter for new notes").setDesc("Otherwise, tags are stored with #hashtags at the top of the note").addToggle((toggle => {
+      toggle.setValue(this.plugin.settings.useFrontmatterTagsForNewNotes).onChange((async value => {
+        this.plugin.settings.useFrontmatterTagsForNewNotes = value;
         await this.plugin.saveSettings();
       }));
     }));
