@@ -24,3 +24,7 @@ Grassi et al 2017
 
 
 [Airborne laser-guided imaging spectroscopy to map forest trait diversity and guide conservation | Science (mcgill.ca)](https://www-science-org.proxy3.library.mcgill.ca/doi/10.1126/science.aaj1987)
+
+## Methods
+Using GEDI and ICESAT with regrowth in amazon
+[[milenkovicAssessingAmazonRainforest2022a]]

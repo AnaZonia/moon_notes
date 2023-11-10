@@ -4,16 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "cfd97526a8e93419",
+        "id": "ca793f1d57a00417",
         "type": "tabs",
         "children": [
           {
-            "id": "92789a8decab1d14",
+            "id": "0c1fdc79583201d4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Obsidian.md"
+              }
+            }
+          },
+          {
+            "id": "48d80f96fdfcabcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
+                "file": "Land Use.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,14 +74,6 @@
               "type": "bookmarks",
               "state": {}
             }
-          },
-          {
-            "id": "9d2fec07239ffcbf",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
           }
         ]
       }
@@ -86,7 +88,7 @@
       {
         "id": "6b3e5e477cb16920",
         "type": "tabs",
-        "dimension": 39.14728682170542,
+        "dimension": 61.274509803921575,
         "children": [
           {
             "id": "b0c74e50e28a8d26",
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
+                "file": "Excalidraw/Obsidian.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
+                "file": "Excalidraw/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,42 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md"
-              }
-            }
-          },
-          {
-            "id": "2d97f16d7ce37209",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.3628873693012119,
-                  "close": true
-                }
+                "file": "Excalidraw/Obsidian.md"
               }
             }
           },
@@ -179,20 +146,20 @@
             }
           },
           {
-            "id": "c177ea2bb78a3310",
+            "id": "92789a8decab1d14",
             "type": "leaf",
             "state": {
-              "type": "QUICKSHARE_SIDE_VIEW",
+              "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "3dbac5c2f60b2e8e",
         "type": "tabs",
-        "dimension": 60.85271317829457,
+        "dimension": 38.72549019607843,
         "children": [
           {
             "id": "f6a230dcc8184e2d",
@@ -232,10 +199,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 662.5
+    "width": 409.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
@@ -243,54 +211,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
-      "graph:Open graph view": false,
       "cmdr:Open current tab in new window": false,
       "digitalgarden:Digital Garden Publication Center": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "92789a8decab1d14",
+  "active": "0c1fdc79583201d4",
   "lastOpenFiles": [
+    "Files/Pasted Image 20231110013650_299.png",
+    "Files/Pasted Image 20231110013105_019.png",
+    "Files/Pasted Image 20231110011420_363.jpg",
+    "Files/Pasted Image 20231110011405_348.jpg",
+    "Files/Pasted Image 20231110011205_274.png",
+    "Files/Pasted Image 20231110011105_244.jpg",
+    "Files/Pasted Image 20231110010750_080.png",
+    "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+    "Excalidraw/Obsidian.md",
+    "Land Use.md",
+    "Remote Sensing.md",
+    "ICESat1 - GLAS & ICESat2 - ATLAS.md",
+    "5 Data Sources/Asner ACD.md",
+    "GEDI.md",
+    "ECOSTRESS.md",
+    "Evapotranspiration.md",
+    "Files/Pasted Image 20231110005256_953.jpg",
+    "Forest Resilience and Climate.md",
+    "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
+    "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
+    "Excalidraw/Nitrogen Cycle Sept 27th 2023.excalidraw.md",
+    "4 Floresta Aleatória/Statistics.md",
+    "Climate Change.md",
+    "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
     "200 Life Sciences.md",
     "Latin American History.md",
     "Brazilian History.md",
     "400 Interests.md",
-    "Forest Resilience and Climate.md",
-    "Climate Change.md",
     "Regrowth.md",
     "Tropical Ecology.md",
     "Latin American Agriculture.md",
     "3 Alexandria/Research/poorterBiodiversityClimateDetermine2017.md",
     "Presenting Science.md",
     "300 Doing Science.md",
-    "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
-    "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
-    "Alberto Vicentini.md",
-    "004 People and Networks.md",
-    "1 Captain's Log/1 Daily/2023-11-10 Fri.md",
-    "Psychology.md",
-    "Adriana Maria Zanforlin Martini.md",
-    "4 Floresta Aleatória/006 Regressão Linear.md",
-    "3 Alexandria/Research/perez-ramosFunctionalTraitsPhenotypic2019b.md",
-    "3 Alexandria/Research/chazdonCarbonSequestrationPotential2016.md",
-    "3 Alexandria/Research/bennettSensitivitySouthAmerican2023.md",
-    "3 Alexandria/Research/davidsonNITROGENPHOSPHORUSLIMITATION2004.md",
-    "3 Alexandria/Research/jakovacRoleLandUse2021.md",
-    "3 Alexandria/Research/guckerDissolvedNutrientExports2016.md",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Files/Carbon Tax-1.pdf",
     "Files/Carbon Tax.pdf",
     "Files/Complex Adaptive Systems - Levin-1.png",
     "Files/Complex Adaptive Systems - Levin.png",
     "Files/Bad Science.png",
-    "Files/Computers and Bash.png",
-    "Files/Landsat-5.png",
     "Biodiversity.canvas",
-    "Files/FAO Soil Map of the World-1.png",
-    "Files/FAO Soil Map of the World.png",
-    "Files/MAPBIOMAS LULC-4.png",
-    "Files/MAPBIOMAS LULC-3.png",
-    "Files/MAPBIOMAS LULC-2.png",
     "3 Research",
     "Templates/scripts/pin_me.js",
     "Templates/scripts/my_script.js",
