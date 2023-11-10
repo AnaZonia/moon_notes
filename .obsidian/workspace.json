@@ -84,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Obsidian.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Obsidian.md"
-              }
+              "state": {}
             }
           },
           {
@@ -142,12 +138,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "3dbac5c2f60b2e8e",
         "type": "tabs",
-        "dimension": 46.590909090909086,
+        "dimension": 46.59090909090909,
         "children": [
           {
             "id": "f6a230dcc8184e2d",
@@ -187,7 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 450.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,18 +193,19 @@
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "workspaces:Manage workspace layouts": false,
-      "periodic-notes:Open today": false,
       "cmdr:Open current tab in new window": false,
       "digitalgarden:Digital Garden Publication Center": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "7e1702482715b599",
+  "active": "92789a8decab1d14",
   "lastOpenFiles": [
+    "3 Alexandria/Research/bennettSensitivitySouthAmerican2023.md",
+    "Excalidraw/Obsidian.md",
     "002 Reading Map.md",
     "003 Data Sources.md",
-    "Excalidraw/Obsidian.md",
     "Files/Pasted Image 20231110110524_752.png",
     "Files/Pasted Image 20231110105455_142.png",
     "Files/Pasted Image 20231110105425_134.jpg",
@@ -242,7 +239,6 @@
     "200 Life Sciences.md",
     "Latin American History.md",
     "Brazilian History.md",
-    "400 Interests.md",
     "Files/Carbon Tax-1.pdf",
     "Files/Carbon Tax.pdf",
     "Biodiversity.canvas",
