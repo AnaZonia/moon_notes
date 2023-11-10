@@ -15,3 +15,6 @@ SORT file.ctime DESC
 [[Carbon Tax]]
 
 [When Alexandria Ocasio-Cortez met Greta Thunberg: 'Hope is contagious' | Climate crisis | The Guardian](https://www.theguardian.com/environment/2019/jun/29/alexandria-ocasio-cortez-met-greta-thunberg-hope-contagious-climate)
+
+
+[[Forest Resilience and Climate]]
