@@ -11,31 +11,9 @@
             "id": "7e1702482715b599",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Obsidian.md"
-              }
-            }
-          },
-          {
-            "id": "4e16ce12ca6ade6e",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Remote Sensing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "484478dd6c9a4014",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LiDAR.md",
+                "file": "Excalidraw/Poster Making.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Obsidian.md",
+                "file": "Excalidraw/Poster Making.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Obsidian.md",
+                "file": "Excalidraw/Poster Making.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Obsidian.md"
+                "file": "Excalidraw/Poster Making.md"
               }
             }
           },
@@ -212,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5,
+    "width": 373.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -232,11 +210,15 @@
   },
   "active": "7e1702482715b599",
   "lastOpenFiles": [
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+    "Files/Poster Making.png",
+    "Excalidraw/Modern Art.md",
+    "Excalidraw/Poster Making.md",
+    "Files/Modern Art.png",
     "Excalidraw/Obsidian.md",
+    "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+    "LiDAR.md",
     "Remote Sensing.md",
     "Landsat.md",
-    "LiDAR.md",
     "GEDI.md",
     "5 Data Sources/Asner ACD.md",
     "3 Alexandria/Research/bennettSensitivitySouthAmerican2023.md",
@@ -260,14 +242,11 @@
     "Women in academia.md",
     "Land Use.md",
     "Files/Pasted Image 20231110013650_299.png",
-    "Files/Pasted Image 20231110013105_019.png",
     "ICESat1 - GLAS & ICESat2 - ATLAS.md",
     "ECOSTRESS.md",
     "Evapotranspiration.md",
     "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
-    "Excalidraw/Nitrogen Cycle Sept 27th 2023.excalidraw.md",
-    "4 Floresta Aleatória/Statistics.md",
     "Files/Carbon Tax-1.pdf",
     "Files/Carbon Tax.pdf",
     "Biodiversity.canvas",
