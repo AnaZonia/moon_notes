@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Modern Art.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Modern Art.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Modern Art.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Modern Art.md"
+                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md"
               }
             }
           },
@@ -145,7 +145,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "3dbac5c2f60b2e8e",
@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,9 +209,10 @@
   },
   "active": "7e1702482715b599",
   "lastOpenFiles": [
+    "Google Earth Engine.md",
+    "Excalidraw/Modern Art.md",
     "Excalidraw/Poster Making.md",
     "Files/Poster Making.png",
-    "Excalidraw/Modern Art.md",
     "Files/Modern Art.png",
     "Excalidraw/Obsidian.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
