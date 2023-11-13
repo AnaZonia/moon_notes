@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Poster Making.md",
+                "file": "Excalidraw/Modern Art.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Poster Making.md",
+                "file": "Excalidraw/Modern Art.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Poster Making.md",
+                "file": "Excalidraw/Modern Art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Poster Making.md"
+                "file": "Excalidraw/Modern Art.md"
               }
             }
           },
@@ -210,9 +210,9 @@
   },
   "active": "7e1702482715b599",
   "lastOpenFiles": [
+    "Excalidraw/Poster Making.md",
     "Files/Poster Making.png",
     "Excalidraw/Modern Art.md",
-    "Excalidraw/Poster Making.md",
     "Files/Modern Art.png",
     "Excalidraw/Obsidian.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
@@ -241,7 +241,6 @@
     "Files/Pasted Image 20231110103220_955.jpg",
     "Women in academia.md",
     "Land Use.md",
-    "Files/Pasted Image 20231110013650_299.png",
     "ICESat1 - GLAS & ICESat2 - ATLAS.md",
     "ECOSTRESS.md",
     "Evapotranspiration.md",
