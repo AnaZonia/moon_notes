@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-11-10 Fri.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-11-10 Fri.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-11-10 Fri.md"
+                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md"
               }
             }
           },
@@ -207,8 +207,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0c1fdc79583201d4",
+  "active": "7e1702482715b599",
   "lastOpenFiles": [
+    "1 Captain's Log/1 Daily/2023-11-10 Fri.md",
     "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
     "Google Earth Engine.md",
     "Excalidraw/Modern Art.md",
@@ -228,7 +229,6 @@
     "Files/Pasted Image 20231110110524_752.png",
     "Files/Pasted Image 20231110105455_142.png",
     "Files/Pasted Image 20231110105425_134.jpg",
-    "1 Captain's Log/1 Daily/2023-11-10 Fri.md",
     "1 Captain's Log/1 Daily/2023-10-30 Mon.md",
     "Forest Resilience and Climate.md",
     "Amazonia.md",
