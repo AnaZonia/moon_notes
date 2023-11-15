@@ -11,6 +11,7 @@ related: "[[Remote Sensing]]"
 [[MAPBIOMAS Fire]]
 [[MAPBIOMAS Forest Age]]
 [[MAPBIOMAS Soil Carbon]]
+[[MAPBIOMAS Cacau]]
 
 É uma iniciativa do [Observatório do Clima](https://www.oc.eco.br/en/), que é uma rede de ONGs trabalhando no Brasil com mudanças climáticas.
 

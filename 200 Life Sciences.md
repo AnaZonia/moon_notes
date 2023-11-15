@@ -41,4 +41,4 @@
 [[A Primer of Ecology with R]]
 [[Bayesian models: A statistical primer for ecologists]]
 [[A Biologist's Guide to Mathematical Modeling in Ecology and Evolution]]
-
+https://www.reddit.com/r/ecology/wiki/books/#wiki_ecology_and_evolution
