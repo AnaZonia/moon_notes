@@ -1,11 +1,10 @@
 ---
 up:
   - "[[Amazonia]]"
-url: 
+url: https://scholar.google.com.br/citations?user=JMRUKIUAAAAJ&hl=pt-BR
 type:
   - researcher
 aliases: 
-at-a-glance: 
 location:
   - INPA
 ---
