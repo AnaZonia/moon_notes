@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Tropical Ecology]]"
+  - "[[Tropical Forest Ecology]]"
 stardate: Oct 8th 2023
 update: Oct 8th 2023
 ---

@@ -1,18 +1,9 @@
-## Philosophy
-[[Philosophy]]
-## Literature
-[[Literature]]
-## History
-[[Latin American History]]
-[[European History]]
-[[Iranian History]]
-## Art
-[[Renaissance]]
-[[Baroque]]
-[[Rococo]]
-[[Modern Art]]
-[[Movies]]
-## Astronomy
-[[Astronomy]]
 
-[[Psychology]]
+- [[Philosophy and Psychology]]
+- [[Literature]]
+- [[Latin American History]]
+- [[European History]]
+- [[Iranian History]]
+- [[Astronomy]]
+- [[Movies]]
+- [[Art]]

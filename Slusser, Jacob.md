@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Latin American Agriculture]]"
+  - "[[Sustainable Agriculture]]"
   - "[[Regrowth]]"
 url: https://twitter.com/TropicalForestr
 type:

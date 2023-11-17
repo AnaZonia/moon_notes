@@ -1,3 +1,14 @@
+---
+up:
+  - "[[Amazonia]]"
+url: 
+type: []
+aliases: 
+at-a-glance: 
+location:
+---
+
+
 [Projeto Pioneiras](http://pioneiras.blogspot.com/)
 
 [Dinâmica da vegetação numa Amazônia em mudança](http://dgp.cnpq.br/dgp/espelhogrupo/3038463321998526)

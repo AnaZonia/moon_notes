@@ -1,5 +1,16 @@
 ## Visualization
 
+>[!note] What is in your control on your hierarchy?
+>What variables support your key findings?
+### Award Winning Posters
+
+![](https://i.imgur.com/yg1QAg9.png)
+
+<!--⚠️Imgur upload failed, check dev console-->
+![[Poster Making.png]]
+
+
+
 [5 Psychology Studies on How People Perceive Visual Information (piktochart.com)](https://piktochart.com/blog/5-psychology-studies-that-tell-us-how-people-perceive-visual-information/)
 
 ![](https://i.imgur.com/180Nwrx.png)

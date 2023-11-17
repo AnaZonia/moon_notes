@@ -32,9 +32,7 @@ But since a lot of resources come in javascript, it's good  (and very possible) 
 
 [Land use and Land cover classification using Random forest machine learning in Google Earth Engine - YouTube](https://www.youtube.com/watch?v=Z-DPRCWWaqg)
 
-
-
-
+[Analyzing the Amazon Deforestation with ML and Google Earth – Part 1 | AI FOR GOOD DISCOVERY - YouTube](https://www.youtube.com/watch?v=C4IU21rjO3k)
 ## rgee
 - [Using Google Earth Engine with R](https://www.css.cornell.edu/faculty/dgr2/_static/files/R_html/ex_rgee.html)
 - [Introduction to Google Earth Engine with R language - YouTube](https://www.youtube.com/watch?v=SHXuIpjU3YE)

@@ -1,12 +1,12 @@
 ---
 up:
-  - "[[Philosophy]]"
+  - "[[Philosophy and Psychology]]"
 stardate: Oct 23rd 2023
 update: Nov 15th 2023
 aliases:
   - Philosophy of Science
 ---
-
+[[Is Science Moral]]
 
 [Seminários do LEFHBio/LEFHBio Seminars – 22 de agosto de 2023 - Julia Turska - YouTube](https://www.youtube.com/watch?v=QFucXS6BUB4)
 

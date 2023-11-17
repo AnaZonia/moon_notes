@@ -129,20 +129,13 @@
 [‪Cory Cleveland‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=P6B_FaQAAAAJ&hl=en)
 
 [Marielle SMITH | Postdoctoral Research Associate | PhD Ecology and Evolutionary Biology | Michigan State University, MI | MSU | Department of Forestry | Research profile (researchgate.net)](https://www.researchgate.net/profile/Marielle-Smith-2)
-## [[Women in academia]]
-[Harsh workplace climate is pushing women out of academia | CU Boulder Today | University of Colorado Boulder](https://www.colorado.edu/today/2023/10/20/harsh-workplace-climate-pushing-women-out-academia)
 
-[Women participate less at conferences, even if gender-balanced – study | Gender | The Guardian](https://www.theguardian.com/world/2021/jul/30/women-participate-less-at-conferences-even-if-gender-balanced-study#:~:text=Women%20are%20less%20likely%20to,inclusion%2C%20a%20study%20has%20found.)
-
-[Toxic workplaces are the main reason women leave academic jobs (nature.com)](https://www.nature.com/articles/d41586-023-03251-8?utm_medium=Social&utm_campaign=nature&utm_source=Twitter#Echobox=1698143185)
-
-[La théorie du pot de yogourt ou perdre au change en couple (radio-canada.ca)](https://ici.radio-canada.ca/ohdio/premiere/emissions/c-est-encore-mieux-l-apres-midi/segments/chronique/449393/budget-couple-finances-personnelles-prorata)
 ## Talks
 [CAMBAM/QLS Seminar - Allison Shaw - April 5 2022 - YouTube](https://www.youtube.com/watch?v=sTWfK0njfEk)
 
 [QLS Seminar - Pedro Peres-Neto - December 7 - YouTube](https://www.youtube.com/watch?v=3EFHYP8SwX0)
 
-ESA Biomass SAR heteroskedasticity
+
 
 [Biodiversity market doublespeak | Science (mcgill.ca)](https://www-science-org.proxy3.library.mcgill.ca/doi/full/10.1126/science.adg6823)
 

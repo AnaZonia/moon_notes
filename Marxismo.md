@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Philosophy]]"
+  - "[[Philosophy and Psychology]]"
 stardate: Oct 4th 2023
 update: Oct 6th 2023
 tags:

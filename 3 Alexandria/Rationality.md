@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Philosophy]]"
+  - "[[Philosophy and Psychology]]"
 tags:
   - tribble
 type:

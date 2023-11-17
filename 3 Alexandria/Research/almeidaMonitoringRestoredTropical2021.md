@@ -9,7 +9,7 @@ type: lit_note
 at-a-glance: ""
 
 --- 
-#tribble
+
 >[!summary] Summary
 
 >[!quote] Cited

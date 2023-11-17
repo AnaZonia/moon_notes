@@ -1,5 +1,18 @@
+---
+up:
+  - "[[200 Life Sciences]]"
+stardate: Sep 16th 2023
+aliases:
+  - Non-Timber Forest Product (NTFP)
+---
 
-Studnicki-Gizbert is a professor at McGill that works with Latin American history, in particular indigenous people.
+
+[[Ecosystem Services Approach to Landscape Restoration and Sustainable Livelihoods]]
+
+## Silvopasture
+
+[[Guía Práctica para Estabelecer Sistemas Silvopastoriles en la Península de Azuero de Panamá]]
+
 
 Cultivated Landscapes, William Denevan
 [Cultivated landscapes of Native Amazonia and the Andes : triumph over the soil : Denevan, William M : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/cultivatedlandsc0000dene/page/n9/mode/2up)
@@ -8,15 +21,13 @@ Cultivated Landscapes, William Denevan
 
 Susana Hetch
 Defenders of the amazon
-[[Indigenous Peoples]]
+
 
 Cacao agroforestry may be a viable substitute to monocultures in Latin America. Potential research idea - if there is a way to quantify the large-scale ability of the forest to provide fruit and to maintain itself with healthy carbon cycling over a large period, we could quantify potential profits of agroforestry over monocultures.
 	Main issue is whether these products would be exportable - who would buy very expensive cacao? - and whether carbon credits can be used in the 3 years that it takes cacao to reach maturity.
 
 
 [[Alliance Biodiversity International & CIAT]] is a billion-dollar NGO working with Latin American sustainable agriculture.
-
-[[Non-Timber Forest Product (NTFP)]]
 
 Also timber may be a good idea? [[bongersPotentialSecondaryForests2015]] says it can be managed in a way to maximize C uptake!
 

@@ -1,3 +1,4 @@
+
 ```dataview
 TABLE WITHOUT ID link(file.link, file.name), location
 WHERE contains(type, "researcher")

@@ -1,5 +1,6 @@
 ---
-up: 
+up:
+  - "[[000 The Bridge]]"
 stardate: Oct 20th 2023
 update: Oct 20th 2023
 ---
@@ -14,9 +15,9 @@ update: Oct 20th 2023
 
 [[Debates and Discourse]]
 
-[[Science Outreach]]
+[[Science Communication]]
 
-[[Bad Science]]
-
-[Should scientists include their race, gender, or other personal details in papers? | Science | AAAS (mcgill.ca)](https://www-science-org.proxy3.library.mcgill.ca/content/article/should-scientists-include-their-race-gender-or-other-personal-details-papers)
-
+## Academia
+- [[Should scientists include their race, gender, or other personal details in papers]]
+- [[Women in Academia]]
+- [[How is Bad Science Published]]

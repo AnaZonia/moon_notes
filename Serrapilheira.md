@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Science Outreach]]"
+  - "[[Science Communication]]"
 location:
   - Brasil
 url: https://serrapilheira.org/

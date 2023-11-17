@@ -57,6 +57,7 @@
   "autoExportLightAndDark": false,
   "autoexportExcalidraw": false,
   "embedType": "excalidraw",
+  "embedMarkdownCommentLinks": true,
   "embedWikiLink": true,
   "syncExcalidraw": false,
   "experimentalFileType": false,
@@ -2029,7 +2030,7 @@
     }
   },
   "defaultTrayMode": true,
-  "previousRelease": "1.9.28",
+  "previousRelease": "2.0.1",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",

@@ -10,7 +10,7 @@ type: lit_note
 at-a-glance: ""
 
 --- 
-#tribble
+
 [[Biomass]], [[Ecosystem Services]], [[Indigenous Peoples]], [[Panama]], [[Land Use]]
 
 >[!summary] Summary

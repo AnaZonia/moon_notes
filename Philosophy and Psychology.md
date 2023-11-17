@@ -9,6 +9,7 @@ update: Oct 8th 2023
 [[Ontology]]
 [[Marxismo]]
 
+[Stop Complaining About Your Colleagues Behind Their Backs](https://hbr.org/2018/10/stop-complaining-about-your-colleagues-behind-their-backs)
 
 [[Of Men and Masculinity]]
 

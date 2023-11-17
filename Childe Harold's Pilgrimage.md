@@ -4,7 +4,7 @@ up:
 type:
   - poetry
 stardate: Oct 22nd 2023
-first-author: "[[Lord Byron]]"
+authors: "[[Lord Byron]]"
 ---
 
 “There is a pleasure in the pathless woods,  

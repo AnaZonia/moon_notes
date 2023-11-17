@@ -1,7 +1,7 @@
 ---
 up:
   - "[[Remote Sensing]]"
-  - "[[Tropical Ecology]]"
+  - "[[Tropical Forest Ecology]]"
 url: https://scholar.google.ca/citations?user=hpPTEmcAAAAJ&hl=en
 type:
   - researcher

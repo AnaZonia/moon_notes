@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Science Outreach]]"
+  - "[[Science Communication]]"
 url: http://portal.sbpcnet.org.br/
 type:
   - outreach_group

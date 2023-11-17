@@ -2,6 +2,8 @@
 up:
   - "[[Remote Sensing]]"
 ---
+[The SAR Handbook](https://ntrs.nasa.gov/api/citations/20190002563/downloads/20190002563.pdf)
+
 It's called synthetic aperture as it uses a very large antenna that moves in a way that it artificially acts as if it's a much larger aperture ([great explanation!](https://www.youtube.com/watch?v=u2bUKEi9It4))
 - The same antenna is used repeatedly as it moves, acting as if it's a much larger antenna.
 - The doppler shift in the return signal allows it to determine which direction the echoes are coming from.

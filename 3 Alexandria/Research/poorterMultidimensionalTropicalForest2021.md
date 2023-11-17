@@ -10,7 +10,7 @@ type: lit_note
 at-a-glance: ""
 
 --- 
-[[Tropical Ecology]], [[Regrowth]]
+[[Tropical Forest Ecology]], [[Regrowth]]
 
 >[!summary] Summary
 > 

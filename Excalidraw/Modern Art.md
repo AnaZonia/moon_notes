@@ -1,3 +1,10 @@
+---
+up:
+  - "[[Art]]"
+stardate: Nov 11th 2023
+update: Nov 16th 2023
+---
+
 Modernism - 1800s to 1950s
 
 Images have weight and forces
@@ -37,9 +44,3 @@ Thomas Eakins - The Gross Clinic
 
 Franz Marc - Deer in the Forest (emphasis in the baby deer)
 ![](https://i.imgur.com/f68Tf40.jpg)
-
-### What is in your control on your hierarchy?
-
-- What variables support your key findings?
-
-[[Poster Making]]

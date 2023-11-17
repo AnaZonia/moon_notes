@@ -1,12 +1,12 @@
 ---
 up:
-  - "[[Latin American Agriculture]]"
+  - "[[Sustainable Agriculture]]"
   - "[[Ecosystem Services]]"
 stardate: Oct 6th 2023
 update: Oct 6th 2023
-tags:
-  - "#tribble"
 ---
+Where is the intersection between human and forest health?
+
 [Global trends in emerging infectious diseases | Nature (mcgill.ca)](https://www-nature-com.proxy3.library.mcgill.ca/articles/nature06536)
 
 

@@ -1,7 +1,7 @@
 ---
 up:
   - "[[100 A Floresta Aleatória]]"
-  - "[[Latin American Agriculture]]"
+  - "[[Sustainable Agriculture]]"
 stardate: Oct 16th 2023
 update: Oct 16th 2023
 ---

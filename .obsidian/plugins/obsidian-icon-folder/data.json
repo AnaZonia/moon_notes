@@ -23,7 +23,8 @@
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
-    "iconsBackgroundCheckEnabled": false
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
   },
   "1 Captain's Log": "LiRocket",
   "000 The Bridge.md": "SiStartrek",
@@ -54,18 +55,18 @@
   "Writing Science.md": "LiExpand",
   "Literature Review.md": "LiExpand",
   "Debates and Discourse.md": "LiExpand",
-  "Science Outreach.md": "LiExpand",
   "4 Floresta Aleatória/R programming.md": "SiR",
   "4 Floresta Aleatória/Statistics.md": "TiChartHistogram",
   "4 Floresta Aleatória/Python.md": "TiBrandPython",
-  "Tropical Ecology.md": "LiLeaf",
   "Biogeochemistry.md": "LiLeaf",
   "Biodiversity.md": "LiLeaf",
   "Theoretical Ecology.md": "LiLeaf",
-  "Latin American Agriculture.md": "RiEarthLine",
   "Climate Change.md": "RiEarthLine",
   "400 Interests.md": "TiBook",
   "200 Life Sciences.md": "LiLeaf",
   "300 Doing Science.md": "LiExpand",
-  "Remote Sensing.md": "TiSatellite"
+  "Remote Sensing.md": "TiSatellite",
+  "Tropical Forest Ecology.md": "LiLeaf",
+  "Sustainable Agriculture.md": "RiEarthLine",
+  "Science Communication.md": "LiExpand"
 }

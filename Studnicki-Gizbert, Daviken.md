@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Latin American Agriculture]]"
+  - "[[Sustainable Agriculture]]"
 location:
   - McGill
 url: https://www.mcgill.ca/history/daviken-studnicki-gizbert

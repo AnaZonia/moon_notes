@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Tropical Ecology]]"
+  - "[[Tropical Forest Ecology]]"
 stardate: Aug 22nd 2023
 update: Oct 7th 2023
 tags: []
@@ -8,6 +8,7 @@ tags: []
 Patterns of climate in the Amazon
 Peatlands/turfeiras
 Regeneration vs regrowth vs restoration 
+[[White Sand]]
 
 Degredation vs deforestation vs disturbance
 

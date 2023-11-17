@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Latin American Agriculture]]"
+  - "[[Sustainable Agriculture]]"
 aliases:
   - swidden-fallow
   - milpa
