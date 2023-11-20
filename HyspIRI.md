@@ -9,7 +9,7 @@ resolution: 60m
 time_range: 
 url: https://hyspiri.jpl.nasa.gov/
 ---
-No idea when it will be launched!
+[Welcome to Surface Biology and Geology study — Surface Biology and Geology](https://sbg.jpl.nasa.gov/)
 
 Hyperspectral data seems to be acquired from the combination of multispectral readings with a spectrometer.
 

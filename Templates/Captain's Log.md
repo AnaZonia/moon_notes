@@ -8,11 +8,7 @@ tags:
 
 ### Daily review
 ## Make it so
-```tasks
-due before tomorrow
-not done
-short view
-```
+
 
 ## Self
 

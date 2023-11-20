@@ -1,32 +1,25 @@
 {
 	"nodes":[
-		{"id":"482363316d6190d4","type":"group","x":220,"y":-1280,"width":325,"height":545,"label":"Climatic variables"},
-		{"id":"4f288f1a138758e4","type":"text","text":"FAO soil","x":240,"y":-1420,"width":285,"height":60},
-		{"id":"7dab9b2624125d8b","type":"text","text":"WorldClim precipitation","x":240,"y":-1055,"width":285,"height":60},
-		{"id":"38acc55e7c93175f","type":"text","text":"WorldClim temperature","x":240,"y":-1160,"width":285,"height":60},
-		{"id":"1cdd4a2e6e6952e4","type":"text","text":"WorldClim seasonality","x":240,"y":-1260,"width":285,"height":60},
-		{"id":"931ae927bd687548","type":"text","text":"elevation?","x":240,"y":-1520,"width":285,"height":60},
-		{"id":"bd0c31f6e226f06d","type":"text","text":"MAPBIOMAS Fire","x":-620,"y":-575,"width":280,"height":50,"color":"3"},
-		{"id":"b2d7ee57e4602a36","type":"text","text":"MAPBIOMAS Forest Cover","x":-620,"y":-500,"width":280,"height":50,"color":"3"},
-		{"id":"87a9fcc0ae373d38","type":"text","text":"Get weighed mean value biomass per error.","x":-60,"y":-180,"width":230,"height":220},
-		{"id":"a9246cee45e38606","type":"text","text":"[location]_mature_mask.tif","x":160,"y":-500,"width":274,"height":50,"color":"#0ed879"},
-		{"id":"f21dd1d6d9e4b771","type":"text","text":"MAPBIOMAS Land Use","x":-601,"y":-959,"width":280,"height":50,"color":"3"},
-		{"id":"147dde0e3f9924bd","type":"text","text":"CWD from Poorter's source","x":240,"y":-959,"width":285,"height":60},
-		{"id":"a226f1437c36c490","type":"text","text":"Secondary forest age","x":553,"y":-760,"width":274,"height":50,"color":"3"},
-		{"id":"cf2a76fae70864af","type":"text","text":"CCI Biomass AGB","x":-461,"y":-180,"width":280,"height":50,"color":"3"},
-		{"id":"22066326d9ab38e2","type":"text","text":"CCI Biomass SD","x":-461,"y":-10,"width":280,"height":50,"color":"3"},
-		{"id":"7dfcef2e3a3516c0","type":"text","text":"QGIS (merge into large raster)","x":600,"y":-560,"width":180,"height":165},
-		{"id":"797da8960810d298","type":"text","text":"secondary_amazon.tif","x":900,"y":-499,"width":250,"height":50,"color":"4"},
-		{"id":"7be784f931919135","type":"text","text":"Mature forest\n\nAll pixels classified as mature forest IN ALL YEARS","x":-195,"y":-601,"width":250,"height":255,"color":"#c94f98"},
-		{"id":"d6789375420f1e75","type":"text","text":"-   Time since last observation of each land use type\n\n-   Total years under each land use type\n\n-   Last observed land use type before regrowth.","x":-148,"y":-1100,"width":318,"height":252}
+		{"id":"482363316d6190d4","type":"group","x":240,"y":-1480,"width":333,"height":545,"label":"Climate"},
+		{"id":"7be784f931919135","type":"text","text":"Mature forest\n\nAll pixels classified as mature forest IN ALL YEARS","x":-240,"y":-601,"width":295,"height":255,"color":"#c94f98"},
+		{"id":"b2d7ee57e4602a36","type":"text","text":"MAPBIOMAS Forest Cover","x":-1020,"y":-526,"width":280,"height":105,"color":"3"},
+		{"id":"bd0c31f6e226f06d","type":"text","text":"MAPBIOMAS Fire","x":-1020,"y":-677,"width":280,"height":50,"color":"3"},
+		{"id":"f21dd1d6d9e4b771","type":"text","text":"MAPBIOMAS Land Use","x":-1020,"y":-943,"width":280,"height":127,"color":"3"},
+		{"id":"4f288f1a138758e4","type":"text","text":"FAO soil","x":-1165,"y":-1244,"width":285,"height":60},
+		{"id":"147dde0e3f9924bd","type":"text","text":"CWD from Poorter's source","x":260,"y":-1071,"width":285,"height":111},
+		{"id":"7dab9b2624125d8b","type":"text","text":"WorldClim precipitation","x":260,"y":-1194,"width":285,"height":121},
+		{"id":"38acc55e7c93175f","type":"text","text":"WorldClim temperature","x":260,"y":-1314,"width":285,"height":120},
+		{"id":"1cdd4a2e6e6952e4","type":"text","text":"WorldClim seasonality","x":260,"y":-1414,"width":285,"height":100},
+		{"id":"d6789375420f1e75","type":"text","text":"-   Time since last observation of each land use type\n\n-   Total years under each land use type\n\n-   Last observed land use type before regrowth.","x":-240,"y":-1062,"width":410,"height":365},
+		{"id":"22066326d9ab38e2","type":"text","text":"CCI Biomass SD","x":-1360,"y":-95,"width":280,"height":50,"color":"3"},
+		{"id":"a226f1437c36c490","type":"text","text":"Secondary forest age","x":-383,"y":281,"width":348,"height":71,"color":"3"},
+		{"id":"bc32319db6c0fcec","x":-703,"y":576,"width":400,"height":380,"type":"file","file":"Files/Screenshot 2023-11-06 104649.png"},
+		{"id":"cf2a76fae70864af","type":"text","text":"CCI Biomass AGB","x":-985,"y":280,"width":282,"height":72,"color":"3"}
 	],
 	"edges":[
-		{"id":"ff1925b062ca9382","fromNode":"7be784f931919135","fromSide":"right","toNode":"a9246cee45e38606","toSide":"left"},
-		{"id":"e61367ada306b66e","fromNode":"22066326d9ab38e2","fromSide":"right","toNode":"87a9fcc0ae373d38","toSide":"left"},
 		{"id":"b88f03654c8bea2d","fromNode":"b2d7ee57e4602a36","fromSide":"right","toNode":"7be784f931919135","toSide":"left"},
-		{"id":"f909a1b8ef63f319","fromNode":"a9246cee45e38606","fromSide":"right","toNode":"7dfcef2e3a3516c0","toSide":"left"},
-		{"id":"6a37ec5a961bfc39","fromNode":"a226f1437c36c490","fromSide":"bottom","toNode":"7dfcef2e3a3516c0","toSide":"top"},
 		{"id":"924d93824da2a898","fromNode":"f21dd1d6d9e4b771","fromSide":"right","toNode":"d6789375420f1e75","toSide":"left"},
-		{"id":"ae467ba5e2ea6b0a","fromNode":"cf2a76fae70864af","fromSide":"right","toNode":"87a9fcc0ae373d38","toSide":"left"}
+		{"id":"8a3a7d47558dd139","fromNode":"cf2a76fae70864af","fromSide":"bottom","toNode":"bc32319db6c0fcec","toSide":"top"},
+		{"id":"63c90c20560d7c43","fromNode":"a226f1437c36c490","fromSide":"bottom","toNode":"bc32319db6c0fcec","toSide":"top"}
 	]
 }

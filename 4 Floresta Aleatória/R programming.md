@@ -60,6 +60,10 @@ With the testthat package, we can check if the results given are expected, such 
 
 ### Pipe Operator
 
+Note: the pipe operator can make loops/apply/per run much slower:
+
+![](https://i.imgur.com/wKnlrvP.png)
+
 
 ### VSCode Extensions
 [R in Visual Studio Code](https://code.visualstudio.com/docs/languages/r)
@@ -77,5 +81,6 @@ With the testthat package, we can check if the results given are expected, such 
 Python-like working with R code
 [Introduction to renv • renv (rstudio.github.io)](https://rstudio.github.io/renv/articles/renv.html)
 [R Programs in Batch mode for HPC - HPC Documentation - UIowa Wiki](https://wiki.uiowa.edu/display/hpcdocs/R+Programs+in+Batch+mode+for+HPC)
-
+- Not as necessary in R, as packages are not so version-dependent as is Python. If anything, virtual environments can cause trouble when versions are updated globally.
+- Similarly, R code should not be written the same way as Python code (everything within a function), as R functions create a separate environment and are much slower than Python.
 

@@ -1,13 +1,13 @@
 ---
 type:
   - "[[Multispectral]]"
+  - "[[Sentinel]]"
 resolution: 
 time_range: 2015-
 source:
   - ESA
 url: https://sentinel.esa.int/web/sentinel/missions/sentinel-2
 ---
-[[Sentinel 1]]
 
 Can be downloaded with sen2r
 
