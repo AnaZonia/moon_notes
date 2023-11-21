@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAPBIOMAS.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAPBIOMAS.md",
+                "file": "1 Captain's Log/1 Daily/2023-11-18 Sat.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAPBIOMAS.md",
+                "file": "1 Captain's Log/1 Daily/2023-11-18 Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAPBIOMAS.md"
+                "file": "1 Captain's Log/1 Daily/2023-11-18 Sat.md"
               }
             }
           },
@@ -189,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 856.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,49 +207,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "floating": {
-    "id": "00bb7ae3d107477f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ce3174d2ab2c38b2",
-        "type": "window",
-        "children": [
-          {
-            "id": "54f4d3a02124af57",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7e0e35314ccca347",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
-                    "viewState": {
-                      "x": 686.4252850356996,
-                      "y": 325.0103277943533,
-                      "zoom": -1.5823121439457082
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 12,
-        "y": 50,
-        "width": 1544,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "086f1e0965c67c3f",
+  "active": "e34578966ea1f9b2",
   "lastOpenFiles": [
     "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
+    "1 Captain's Log/1 Daily/2023-11-19 Sun.md",
+    "1 Captain's Log/1 Daily/2023-11-21 Tue.md",
+    "MAPBIOMAS.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "5 Data Sources/TerraClimate.md",
     "HyspIRI.md",
@@ -262,7 +225,6 @@
     "5 Data Sources/CHIRPS.md",
     "Templates/3 Data Source.md",
     "1 Captain's Log/1 Daily/2023-11-18 Sat.md",
-    "1 Captain's Log/1 Daily/2023-11-19 Sun.md",
     "1 Captain's Log/1 Daily/2023-11-17 Fri.md",
     "Templates/Captain's Log.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
@@ -275,7 +237,6 @@
     "200 Life Sciences.md",
     "4 Floresta Aleatória/Statistics.md",
     "3 Alexandria/The Art of Probability - Richard Hamming.md",
-    "3 Alexandria/Research/almeidaMonitoringRestoredTropical2021.md",
     "Files/Poster Making.png",
     "Files/Modern Art.png",
     "Files/Pasted Image 20231110110524_752.png",
