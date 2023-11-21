@@ -18,6 +18,7 @@
 - [[Connectivity]]
 - [[Community Ecology]]
 - [[Predictive Ecology]]
+- [[Critical Ecology]]
 
 ## Sustainability and Ecosystem Services
 [[Ecosystem Services]]

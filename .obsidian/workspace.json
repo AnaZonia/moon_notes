@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-11-18 Sat.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-11-18 Sat.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-11-18 Sat.md"
+                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md"
               }
             }
           },
@@ -190,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 856.5
+    "width": 212.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,12 +203,21 @@
       "digitalgarden:Digital Garden Publication Center": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false
     }
   },
-  "active": "e34578966ea1f9b2",
+  "active": "086f1e0965c67c3f",
   "lastOpenFiles": [
+    "Philosophy and Psychology.md",
     "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
+    "Bell Hooks - Of Men and Masculinity.md",
+    "400 Interests.md",
+    "200 Life Sciences.md",
+    "Critical Ecology.md",
+    "Latin American History.md",
+    "Movies.md",
+    "1 Captain's Log/1 Daily/2023-11-18 Sat.md",
     "1 Captain's Log/1 Daily/2023-11-19 Sun.md",
     "1 Captain's Log/1 Daily/2023-11-21 Tue.md",
     "MAPBIOMAS.md",
@@ -224,19 +232,11 @@
     "Files/Screenshot 2023-11-06 104649.png",
     "5 Data Sources/CHIRPS.md",
     "Templates/3 Data Source.md",
-    "1 Captain's Log/1 Daily/2023-11-18 Sat.md",
     "1 Captain's Log/1 Daily/2023-11-17 Fri.md",
     "Templates/Captain's Log.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
     "2 Workstation/2 - Predicting Regrowth in Central America/Predicting Regrowth in Central America - Project.md",
     "1 Captain's Log/2 Weekly/2023 - W51 - Dec.md",
-    "4 Floresta Aleatória/R programming.md",
-    "1 Captain's Log/1 Daily/2023-11-10 Fri.md",
-    "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
-    "2 Workstation/Conferences and Funding.md",
-    "200 Life Sciences.md",
-    "4 Floresta Aleatória/Statistics.md",
-    "3 Alexandria/The Art of Probability - Richard Hamming.md",
     "Files/Poster Making.png",
     "Files/Modern Art.png",
     "Files/Pasted Image 20231110110524_752.png",

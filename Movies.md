@@ -8,6 +8,7 @@
 
 ## Mystery/Thriller:
 - **All the President's Men** - Investigative journalists uncover the Watergate scandal.
+- **The Skin I live In** - Spanish Almodovar movie where a doctor kidnaps a woman 
 - **Entrapment (1999)** - A heist film involving art theft and intrigue.
 - **No Country for Old Men** - A modern Western thriller involving a drug deal gone wrong.
 - **Catch Me If You Can** - Based on a true story, a young con artist and a determined FBI agent engage in a cat-and-mouse game.
