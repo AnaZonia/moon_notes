@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Workstation/Conferences and Funding.md",
+                "file": "Amazonia.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tribble",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +65,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -86,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Workstation/Conferences and Funding.md",
+                "file": "Amazonia.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Workstation/Conferences and Funding.md",
+                "file": "Amazonia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Workstation/Conferences and Funding.md"
+                "file": "Amazonia.md"
               }
             }
           },
@@ -189,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 411.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,12 +212,17 @@
   },
   "active": "086f1e0965c67c3f",
   "lastOpenFiles": [
+    "Dalagnol, Ricardo.md",
+    "3 Alexandria/Research/allenModelingCarbonCost2020a.md",
+    "Earth System Models.md",
+    "Amazonia.md",
+    "RELAM talk.md",
+    "2 Workstation/Conferences and Funding.md",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
     "4 Floresta Aleatória/Statistics.md",
     "4 Floresta Aleatória/000 Prefácio.md",
     "4 Floresta Aleatória/001 Introdução à Estatística.md",
     "4 Floresta Aleatória/004 Testes de Hipóteses.md",
-    "Amazonia.md",
     "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
     "Philosophy and Psychology.md",
     "Bell Hooks - Of Men and Masculinity.md",
@@ -231,12 +239,7 @@
     "5 Data Sources/TerraClimate.md",
     "HyspIRI.md",
     "Remote Sensing.md",
-    "Sentinel.md",
-    "Sentinel 2.md",
-    "Sentinel 1.md",
-    "003 Data Sources.md",
     "Files/Screenshot 2023-11-06 104649.png",
-    "5 Data Sources/CHIRPS.md",
     "Files/Poster Making.png",
     "Files/Modern Art.png",
     "Files/Pasted Image 20231110110524_752.png",

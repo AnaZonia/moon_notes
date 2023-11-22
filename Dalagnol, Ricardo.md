@@ -9,6 +9,7 @@ type:
 ---
 [[Amazonia]]
 
+[JPL Science: Renato Braghiere](https://science.jpl.nasa.gov/people/braghiere/)
 ###### Related contacts/institutes:
 
 No site e no youtube, ele tem alguns cursos de aprendizado de máquina: [[Remote Sensing#Dalagnol's courses]].

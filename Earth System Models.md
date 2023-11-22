@@ -3,7 +3,9 @@ up:
   - "[[Biogeochemistry]]"
 stardate: Oct 7th 2023
 update: Oct 7th 2023
-tags: []
+tags: 
+aliases:
+  - ESM
 ---
 
 [Landscape Ecosystem Modelling in R • LandR (predictiveecology.org)](https://landr.predictiveecology.org/)
