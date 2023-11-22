@@ -10,6 +10,11 @@ Peatlands/turfeiras
 Regeneration vs regrowth vs restoration 
 [[White Sand]]
 
+[RAS - Rede Amazônia Sustentável](https://ras-network.org/)
+[Amazon Conservation Team Brasil | Conservando a Amazônia em parceria com os Povos Indígenas e Comunidades Tradicionais](https://brasil.amazonteam.org/)
+[Amazônia à prova de fogo | Erika Berenguer | TEDxAmazônia - YouTube](https://www.youtube.com/watch?v=2724-YYtu2E)
+[www.dp-amazonie.org](https://www.dp-amazonie.org/en)
+
 Degredation vs deforestation vs disturbance
 
 1. Dry vs wet tropical forests.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
+                "file": "2 Workstation/Conferences and Funding.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
+                "file": "2 Workstation/Conferences and Funding.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
+                "file": "2 Workstation/Conferences and Funding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md"
+                "file": "2 Workstation/Conferences and Funding.md"
               }
             }
           },
@@ -189,7 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 212.5
+    "width": 411.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,14 +203,20 @@
       "digitalgarden:Digital Garden Publication Center": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "086f1e0965c67c3f",
   "lastOpenFiles": [
-    "Philosophy and Psychology.md",
+    "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
+    "4 Floresta Aleatória/Statistics.md",
+    "4 Floresta Aleatória/000 Prefácio.md",
+    "4 Floresta Aleatória/001 Introdução à Estatística.md",
+    "4 Floresta Aleatória/004 Testes de Hipóteses.md",
+    "Amazonia.md",
     "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
+    "Philosophy and Psychology.md",
     "Bell Hooks - Of Men and Masculinity.md",
     "400 Interests.md",
     "200 Life Sciences.md",
@@ -231,12 +237,6 @@
     "003 Data Sources.md",
     "Files/Screenshot 2023-11-06 104649.png",
     "5 Data Sources/CHIRPS.md",
-    "Templates/3 Data Source.md",
-    "1 Captain's Log/1 Daily/2023-11-17 Fri.md",
-    "Templates/Captain's Log.md",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
-    "2 Workstation/2 - Predicting Regrowth in Central America/Predicting Regrowth in Central America - Project.md",
-    "1 Captain's Log/2 Weekly/2023 - W51 - Dec.md",
     "Files/Poster Making.png",
     "Files/Modern Art.png",
     "Files/Pasted Image 20231110110524_752.png",

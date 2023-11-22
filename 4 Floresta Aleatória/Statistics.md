@@ -59,6 +59,7 @@
    - Diagnóstico de Regressão
    - Mínimos Quadrados e Ajuste de Modelos
    - Correlação
+   - [Information Gain and Mutual Information for Machine Learning - MachineLearningMastery.com](https://machinelearningmastery.com/information-gain-and-mutual-information/)
 
 [[007 Regressão Não Linear]]
    - Verossimilhança e Máxima Verossimilhança
