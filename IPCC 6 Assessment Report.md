@@ -7,6 +7,8 @@ type:
   - report
 authors:
   - "[[IPCC - Intergovernmental Panel on Climate Change]]"
+tags:
+  - tribble
 ---
 
 

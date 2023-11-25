@@ -8,5 +8,5 @@ at-a-glance:
 location:
   - USDA
 ---
-[[Large Scale Biosphere-Atmosphere Experiment -- LBA]]
+[[LBA - Large Scale Biosphere-Atmosphere Experiment]]
 [[PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation]]

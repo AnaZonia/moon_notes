@@ -1,10 +1,14 @@
 ---
 up:
-  - "[[Sustainable Agriculture]]"
+  - "[[Agroforestry]]"
 url: https://sustainabledevelopment.un.org/content/documents/1554TST_compendium_issues_briefs_rev1610.pdf
 type:
   - report
 stardate: Oct 9th 2023
+tags:
+  - tribble
+authors:
+  - "[[UN]]"
 ---
 ### Sustainable Agriculture
 

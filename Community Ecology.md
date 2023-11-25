@@ -13,3 +13,11 @@ update: Nov 24th 2023
 
 [Facilitation in plant communities: the past, the present, and the future - Brooker - 2008 - Journal of Ecology - Wiley Online Library (mcgill.ca)](https://besjournals-onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/full/10.1111/j.1365-2745.2007.01295.x)
 
+
+## Talks
+```dataview
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author", tags as "Tribble?"
+FROM [[]]
+WHERE contains(type, "talk")
+SORT authors ASC
+```

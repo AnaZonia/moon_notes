@@ -1,8 +1,8 @@
 ---
 up:
   - "[[Amazonia]]"
-  - "[[Non-Timber Forest Product (NTFP)]]"
   - "[[Policy]]"
+  - "[[Agroforestry]]"
 location:
   - Brasil
 url: https://imazon.org.br/en/

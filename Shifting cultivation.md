@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Sustainable Agriculture]]"
+  - "[[Agroforestry]]"
 aliases:
   - swidden-fallow
   - milpa

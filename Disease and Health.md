@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Sustainable Agriculture]]"
+  - "[[Agroforestry]]"
   - "[[Ecosystem Services]]"
 stardate: Oct 6th 2023
 update: Oct 6th 2023

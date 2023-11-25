@@ -5,23 +5,56 @@ stardate: Sep 12th 2023
 update: Nov 9th 2023
 ---
 
+- [[Carbon Tax]]
+- [[Carbon Credits]]
+- [[Carbon Exports]]
+- [[Títulos Verdes]]
+- [[Debt-for-climate swaps]]
+- [[Green New Deal]]
+- [[Non-CO2 Greenhouse gases]]
+- [[What is the current contribution of forest regrowth to carbon sequestration]]
+[[Evidence and attribution of the land carbon sink's historic enhancement]]
+
+
+## Books
+```dataview
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author"
+FROM [[]]
+WHERE contains(type, "book") AND !contains(type, "textbook")
+SORT authors ASC
+```
+
+## Reports
+```dataview
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author", tags as "Tribble?"
+FROM [[]]
+WHERE contains(type, "report")
+SORT authors ASC
+```
+
+## Articles
+```dataview
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author", tags as "Tribble?"
+FROM [[]]
+WHERE contains(type, "article") AND !contains(type, "scicomm_article")
+SORT authors ASC
+```
+
+## Talks
+```dataview
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author", tags as "Tribble?"
+FROM [[]]
+WHERE contains(type, "talk")
+SORT authors ASC
+```
+
+## Who works on it
 
 ```dataview
-LIST
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", at-a-glance AS "At a Glance"
 FROM [[]]
-WHERE !file.inlinks
-SORT file.ctime DESC
+WHERE contains(type, "research network") OR contains(type, "NGO") OR contains(type, "think-tank") OR contains(type, "policy")
 ```
-[[Policy]]
-[[Paris Agreement]]
-[A safe operating space for humanity](https://www-nature-com.proxy3.library.mcgill.ca/articles/461472a)
-
-[[Developed countries]]
-[[REDD+]]
-
-[[Carbon Tax]]
-
-[When Alexandria Ocasio-Cortez met Greta Thunberg: 'Hope is contagious' | Climate crisis | The Guardian](https://www.theguardian.com/environment/2019/jun/29/alexandria-ocasio-cortez-met-greta-thunberg-hope-contagious-climate)
 
 
-[[Forest Resilience and Climate]]
+

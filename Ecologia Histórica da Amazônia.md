@@ -9,4 +9,6 @@ type:
   - talk
 authors:
   - "[[Junqueira, André B.]]"
+tags:
+  - tribble
 ---

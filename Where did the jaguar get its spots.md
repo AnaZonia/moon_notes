@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Science Communication]]"
+  - "[[Outreach]]"
   - "[[Theoretical Ecology]]"
 type:
   - scicomm_article

@@ -7,6 +7,8 @@ type:
 stardate: Oct 6th 2023
 authors:
   - "[[André Correa do Lago]]"
+tags:
+  - tribble
 ---
 
 

@@ -8,4 +8,6 @@ type:
 stardate: Nov 1st 2023
 authors:
   - "[[Aragão, Luiz E. O. C.]]"
+tags:
+  - tribble
 ---

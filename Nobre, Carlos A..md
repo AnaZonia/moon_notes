@@ -16,4 +16,4 @@ Member or leader of:
 [[Science Panel for the Amazon]]
 [[Amazonia 4.0]]
 
-Organized the [[Large Scale Biosphere-Atmosphere Experiment -- LBA]] that led to the book [[Amazonia and Global Change]].
+Organized the [[LBA - Large Scale Biosphere-Atmosphere Experiment]] that led to the book [[Amazonia and Global Change]].

@@ -1,6 +1,15 @@
-Sen Rosa Galvez talk
+---
+up:
+  - "[[Critical Ecology]]"
+stardate: Oct 30th 2023
+update: Nov 25th 2023
+---
 
-Canada emits much more per capita and not just because of the cold (other cold nations don't have the same emissions)
+- [[Carbon Exports]]
+
+Senator Rosa Galvez (Peruvian-Canadian) gave a talk on how Canada is very far behind on its climate goals.
+
+Canada emits much more per capita and it's not just because of the cold, as other cold nations don't have the same emissions.
 
 ![](https://i.imgur.com/sP7S0d1.png)
 

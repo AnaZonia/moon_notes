@@ -20,7 +20,7 @@ at-a-glance: ""
 
 [[Amazonia]] [[Biogeochemistry]]   
 #### Authors:
-[[Davidson, Eric A.]], [[De Carvalho, Cláudio J. Reis]], [[Figueira, Adelaine Michela]], [[Ishida, Françoise Yoko]], [[Ometto, Jean Pierre H. B.]], [[Nardoto, Gabriela B.]], [[Sabá, Renata Tuma]], [[Hayashi, Sanae N.]], [[Leal, Eliane C.]], [[Vieira, Ima Célia G.]], [[Martinelli, Luiz A.]]
+[[Davidson, Eric A.]], [[De Carvalho, Cláudio J. Reis]], [[Figueira, Adelaine Michela]], [[Ishida, Françoise Yoko]], [[Ometto, Jean Pierre H. B.]], [[Nardoto, Gabriela B.]], [[Sabá, Renata Tuma]], [[Hayashi, Sanae N.]], [[Leal, Eliane C.]], [[Vieira, Ima C. G.|Vieira, Ima Célia G.]], [[Martinelli, Luiz A.]]
 #### Notes:
 
 Early succ forests are N limited, must use deep soil N. Late succ becomes P limited 

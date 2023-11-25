@@ -6,6 +6,6 @@ type:
   - NGO
 at-a-glance: Research for sustainable use of nature
 location:
-  - Belém
   - Brasil
+  - Pará
 ---

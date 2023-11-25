@@ -2,10 +2,10 @@
 up:
   - "[[Amazonia]]"
 url: 
-type: []
+type:
+  - research network
 aliases: 
-at-a-glance: 
-location:
+at-a-glance:
 ---
 
 
@@ -17,3 +17,8 @@ location:
 
 [Repositório do INPA: The need for large-scale, integrated studies of biodiversity - the experience of the program for biodiversity research in Brazilian Amazonia](https://repositorio.inpa.gov.br/handle/1/16243?locale=en)
 
+
+```dataview
+LIST 
+WHERE contains(type, "researcher") AND contains(location, "INPA")
+```

@@ -7,7 +7,7 @@ update: Nov 24th 2023
 
 
 ```dataview
-TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author", up AS "Topic"
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author", up AS "Topic", tags as "Tribble?"
 WHERE contains(type, "article") AND !contains(type, "scicomm_article")
 SORT authors ASC
 ```

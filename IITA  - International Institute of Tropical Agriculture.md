@@ -1,5 +1,6 @@
 ---
-up: 
+up:
+  - "[[Agroforestry]]"
 url: https://www.iita.org/
 type:
   - NGO

@@ -7,4 +7,6 @@ type:
 stardate: Nov 16th 2023
 authors:
   - "[[Magnusson, William E.]]"
+tags:
+  - tribble
 ---

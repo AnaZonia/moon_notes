@@ -1,11 +1,13 @@
 ---
 up:
-  - "[[Science Communication]]"
+  - "[[Outreach]]"
   - "[[Botany]]"
 type:
   - scicomm_article
 stardate: Sep 24th 2023
 update: Oct 7th 2023
+tags:
+  - tribble
 ---
 
 [Feynman](https://www.youtube.com/watch?v=ifk6iuLQk28)

@@ -1,7 +1,6 @@
 ---
 up:
   - "[[200 Life Sciences]]"
-  - "[[400 Interests]]"
 stardate: Oct 11th 2023
 update: Oct 11th 2023
 ---
@@ -13,14 +12,6 @@ update: Oct 11th 2023
 [Observations on the Nature and Culture of Environmental History - McNeill - 2003 - History and Theory - Wiley Online Library (mcgill.ca)](https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/full/10.1046/j.1468-2303.2003.00255.x)
 
 Soil history - can they carbon date things?
-
-
-
-With broadaxe and firebrand
-Warren Dean
-
-Ecological Imperialism
-Alfred Cosby
 
 ### Marisol de la Cadena
 

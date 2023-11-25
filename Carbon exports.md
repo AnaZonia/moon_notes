@@ -1,5 +1,6 @@
 ---
-up: "[[Climate Change]]"
+up:
+  - "[[Climate Change]]"
 aliases:
   - emission transfers
 ---
@@ -7,7 +8,7 @@ aliases:
 
 [Carbon dioxide emissions from a consumption perspective - Canada.ca](https://www.canada.ca/en/environment-climate-change/services/environmental-indicators/carbon-dioxide-emissions-consumption-perspective.html)
 
-# Consumption-based accounting of CO2 emissions
+
 davis 2010
 
 Growth in emission transfers via international trade from 1990 to 2008

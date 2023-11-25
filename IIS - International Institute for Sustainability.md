@@ -3,6 +3,7 @@ up:
   - "[[Regrowth]]"
   - "[[Land Use]]"
   - "[[Policy]]"
+  - "[[Agroforestry]]"
 location:
   - global
   - Rio de Janeiro

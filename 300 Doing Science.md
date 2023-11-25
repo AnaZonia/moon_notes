@@ -7,7 +7,8 @@ update: Oct 20th 2023
 - [[Literature Review]]
 - [[Presenting Science]]
 - [[Debates and Discourse]]
-- [[Science Communication]]
+- [[Scientific Writing]]
+- [[Outreach]]
 - [[Rolling Ideas]]
 
 ## Academia

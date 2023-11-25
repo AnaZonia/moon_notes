@@ -1,7 +1,6 @@
 ---
 up:
   - "[[Tropical Forest Ecology]]"
-  - "[[Sustainable Agriculture]]"
 stardate: Sep 23rd 2023
 update: Oct 8th 2023
 aliases:
@@ -10,4 +9,7 @@ tags:
   - glossary
 ---
 - [[Disease and Health]]
-- [[Sustainable Agriculture]]
+- [[Timber]]
+- [[Agroforestry]]
+
+

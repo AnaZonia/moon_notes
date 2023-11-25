@@ -7,28 +7,15 @@
 
 [Shibboleth Authentication Request](https://scholar-google-com.proxy3.library.mcgill.ca/citations?user=JYwx1NcAAAAJ&hl=en)
 
-
-
 [SciELO - Brazil - Um exame histórico-filosófico da biologia evolutiva do desenvolvimento Um exame histórico-filosófico da biologia evolutiva do desenvolvimento](https://www.scielo.br/j/ss/a/KBtnzpjBtDxpS9KLsBgpbHN/)
-
-[IITF - US research in Puerto Rico](https://www.fs.usda.gov/detail/iitf/research/?cid=fseprd487298)
 
 [Ecological impacts of invasive alien plants: a meta‐analysis of their effects on species, communities and ecosystems - Vilà - 2011 - Ecology Letters - Wiley Online Library (mcgill.ca)](https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/pdf/10.1111/j.1461-0248.2011.01628.x)
 
-
-
-
 [The what, how and why of doing macroecology - McGill - 2019 - Global Ecology and Biogeography - Wiley Online Library](https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/full/10.1111/geb.12855)
-
-[Latin America's largest scientific event to discuss Amazon reality at UFPA in Belém (liberalamazon.com)](https://www.liberalamazon.com/education/news/latin-americas-largest-scientific-event-to-discuss-amazon-reality-at-ufpa-in-belem)
 
 [Carbon verification | Smithsonian Tropical Research Institute (si.edu)](https://stri.si.edu/story/carbon-verification)
 
-
 [The energy transition: A region-by-region agenda for near-term action | McKinsey](https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-energy-transition-a-region-by-region-agenda-for-near-term-action)
-
-[Gernot Wagner (gwagner.com)](https://gwagner.com/green-growth-mindset/)
-
 
 [The importance of stupidity in scientific research | Journal of Cell Science | The Company of Biologists](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
 
@@ -36,11 +23,7 @@
 
 [The Key to Species Diversity May Be in Their Similarities | Quanta Magazine](https://www.quantamagazine.org/the-key-to-species-diversity-may-be-in-their-similarities-20230626/)
 
-
-
 [Erika Berenguer on Twitter: "@jakespring @gabriel_araujo1 I am a co-author of the restoration chapter in SPA and of the policy brief. These numbers are not there. If you interview him again and get the reference, do you mind sharing it? I don't remember seeing these numbers anywhere, so it would be great to have those figures! Tks : )" / X](https://twitter.com/Erika_Berenguer/status/1681290950033694720)
-
-[O Brasil pode liderar a transição para uma bioeconomia circular - 05/01/2023 - Ciência Fundamental - Folha (uol.com.br)](https://www1.folha.uol.com.br/blogs/ciencia-fundamental/2023/01/o-brasil-pode-liderar-a-transicao-para-uma-bioeconomia-circular.shtml)
 
 [Referências (biota.org.br)](https://spsas-amazonia.biota.org.br/pt/referencias/)
 
@@ -52,12 +35,6 @@
 
 [In Brazil, scientists fight an uphill battle to restore the disappearing Cerrado savanna (mongabay.com)](https://news.mongabay.com/2023/04/in-brazil-scientists-fight-an-uphill-battle-to-restore-the-disappearing-cerrado-savanna/)
 
-
-[Naming diseases: First do no harm | Science](https://www.science.org/doi/10.1126/science.348.6235.643)
-
-[The Amazon might not have a 'tipping point.' But it's still in trouble (sciencenews.org)](https://www.sciencenews.org/article/amazon-tipping-trouble-climate-cerrado)
-
-[Ecological tipping points could occur much sooner than expected, study finds | Environment | The Guardian](https://www.theguardian.com/environment/2023/jun/22/ecological-tipping-points-could-occur-much-sooner-than-expected-study-finds)
 
 [The p‐value statement, five years on - Matthews - 2021 - Significance - Wiley Online Library](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/1740-9713.01505)
 
@@ -76,10 +53,7 @@
 
 [What is climate change lobbying? - Grantham Research Institute on climate change and the environment (lse.ac.uk)](https://www.lse.ac.uk/granthaminstitute/explainers/what-is-climate-change-lobbying/)
 
-[Regrowing tropical forests absorb megatonnes of carbon (mcgill.ca)](https://www-nature-com.proxy3.library.mcgill.ca/articles/d41586-023-00706-w)
 
-
-[Old-growth forest loss and secondary forest recovery across Amazonian countries - IOPscience](https://iopscience.iop.org/article/10.1088/1748-9326/ac1701)
 
 [Hélio Gurgel Cavalcanti no Migalhas](https://www.migalhas.com.br/autor/helio-gurgel-cavalcanti)
 
@@ -96,12 +70,6 @@
 
 [‪Cory Cleveland‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=P6B_FaQAAAAJ&hl=en)
 
-[Marielle SMITH | Postdoctoral Research Associate | PhD Ecology and Evolutionary Biology | Michigan State University, MI | MSU | Department of Forestry | Research profile (researchgate.net)](https://www.researchgate.net/profile/Marielle-Smith-2)
 
-## Talks
-[CAMBAM/QLS Seminar - Allison Shaw - April 5 2022 - YouTube](https://www.youtube.com/watch?v=sTWfK0njfEk)
 
-[QLS Seminar - Pedro Peres-Neto - December 7 - YouTube](https://www.youtube.com/watch?v=3EFHYP8SwX0)
-
-[Biodiversity market doublespeak | Science (mcgill.ca)](https://www-science-org.proxy3.library.mcgill.ca/doi/full/10.1126/science.adg6823)
 

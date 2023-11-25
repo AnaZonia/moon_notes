@@ -6,6 +6,7 @@ up:
   - "[[Amazonia]]"
 location:
   - Oxford
+  - UK
 url: https://www.ox.ac.uk/news-and-events/find-an-expert/dr-erika-berenguer
 type:
   - researcher

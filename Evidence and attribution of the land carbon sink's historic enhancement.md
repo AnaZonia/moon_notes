@@ -1,3 +1,16 @@
+---
+up:
+  - "[[Forest resilience under climate change]]"
+authors:
+  - "[[Ruehr, Sophie]]"
+type:
+  - talk
+url: 
+stardate: Nov 9th 2023
+tags:
+  - tribble
+---
+
 
 ![](https://i.imgur.com/fezMhIn.png)
 ![](https://i.imgur.com/bITv0uE.png)
@@ -31,22 +44,4 @@
 ![](https://i.imgur.com/wXpM4oi.png)
 ![](https://i.imgur.com/xB6Ll3n.png)
 ![](https://i.imgur.com/Sm3Ttdl.png)
-
-
-
-https://www.science.org/content/article/peru-20-year-study-charted-amazon-forests-revealed-warming-changed
-
-https://www-nature-com.proxy3.library.mcgill.ca/articles/s41467-023-36207-7
-
-https://www-nature-com.proxy3.library.mcgill.ca/articles/s41558-022-01352-2
-
-https://www-nature-com.proxy3.library.mcgill.ca/articles/s41558-020-00976-6
-
-https://scholar-google-com.proxy3.library.mcgill.ca/citations?user=7ZVPwSIAAAAJ&hl=en
-
-https://www-nature-com.proxy3.library.mcgill.ca/articles/s41598-020-80809-w
-
-https://www-nature-com.proxy3.library.mcgill.ca/articles/s43017-023-00456-3
-
-https://www-nature-com.proxy3.library.mcgill.ca/articles/s41467-019-08348-1
 

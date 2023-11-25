@@ -1,8 +1,7 @@
 ---
 up:
   - "[[Land Use]]"
-  - "[[Non-Timber Forest Product (NTFP)]]"
-  - "[[Sustainable Agriculture]]"
+  - "[[Agroforestry]]"
 location:
   - global
 url: https://alliancebioversityciat.org/

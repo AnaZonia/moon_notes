@@ -2,9 +2,10 @@
 up:
   - "[[Regrowth]]"
   - "[[Land Use]]"
-  - "[[Non-Timber Forest Product (NTFP)]]"
+  - "[[Agroforestry]]"
 location:
   - Kenya
+  - "[[Africa]]"
 url: https://www.cifor-icraf.org/
 type:
   - research network

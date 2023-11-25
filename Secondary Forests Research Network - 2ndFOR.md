@@ -8,7 +8,6 @@ location:
   - global
 at-a-glance: Secondary Forest research group
 ---
-Research collaboration on Forest [[Regrowth]]
 
 [[Mesquita, Rita]]
 [[Brancalion, Pedro H. S.|Brancalion, Pedro]]

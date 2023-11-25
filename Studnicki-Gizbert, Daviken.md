@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Sustainable Agriculture]]"
+  - "[[Agroforestry]]"
 location:
   - McGill
 url: https://www.mcgill.ca/history/daviken-studnicki-gizbert

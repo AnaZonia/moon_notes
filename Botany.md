@@ -5,6 +5,9 @@ stardate: Oct 8th 2023
 update: Oct 8th 2023
 ---
 
-[[Lianas]]
-	- [[Photosynthesis]]
-	- [[Nitrogen Fixation]]
+- [[Lianas]]
+- [[Photosynthesis]]
+- [[Nitrogen Fixation]]
+- [[Photoinhibition]]
+
+- [[How do mature forests keep on sequestering carbon after they've reached peak community]]

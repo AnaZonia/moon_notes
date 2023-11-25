@@ -1,6 +1,7 @@
 ---
 up:
-  - "[[003 People and Networks]]"
+  - "[[Remote Sensing]]"
+  - "[[Tropical Forest Ecology]]"
 url: https://science.jpl.nasa.gov/people/dana-chadwick/
 type:
   - researcher
