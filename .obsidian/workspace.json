@@ -14,13 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Map.md",
+                "file": "001 Workstation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "850792dfcb4a1de8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Amazonia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7b82a7bcaa6bcbe9",
@@ -28,12 +41,12 @@
         "dimension": 50,
         "children": [
           {
-            "id": "850792dfcb4a1de8",
+            "id": "223d58d61b623aae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Animals on Regrowth.md",
+                "file": "Reading Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Animals on Regrowth.md"
+                "file": "Reading Map.md"
               }
             }
           },
@@ -116,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Animals on Regrowth.md",
+                "file": "Reading Map.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Animals on Regrowth.md",
+                "file": "Reading Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,36 +238,36 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "850792dfcb4a1de8",
+  "active": "223d58d61b623aae",
   "lastOpenFiles": [
-    "Herbivory limits success of vegetation restoration globally.md",
+    "Amazonia.md",
+    "Reading Map.md",
+    "The Changing Carbon Balance in Amazonia.md",
+    "Climate Patterns in the Amazon.md",
+    "Peatlands.md",
+    "Tropical Forest Ecology.md",
+    "200 Life Sciences.md",
+    "Biogeochemistry.md",
+    "Gaia Hypothesis.md",
+    "Desert Biogeochemistry.md",
+    "001 Workstation.md",
+    "002 Data Sources.md",
+    "500 Alexandria.md",
+    "The Selfish Gene.md",
+    "2 Research/heinrichLargeCarbonSink2021.md",
+    "Nutrient limitations to carbon capture.md",
+    "Climate Change.md",
+    "Forest Resilience and Climate.md",
+    "Developed countries.md",
     "Animals on Regrowth.md",
+    "Herbivory limits success of vegetation restoration globally.md",
     "Regrowth.md",
     "Forest Dynamics.md",
     "Disturbance.md",
-    "Reading Map.md",
     "Community Ecology.md",
-    "200 Life Sciences.md",
     "Biodiversity.md",
-    "Why do the tropics have higher biodiversity.md",
     "Biodiversity.canvas",
-    "Biodiversity/Biodiversity - Biomass Relationship.md",
     "Biodiversity",
-    "Cost of protecting the Amazon.md",
-    "Amazonia.md",
-    "500 Alexandria.md",
-    "Is Science Amoral.md",
-    "Filosofia da Ciência.md",
-    "Articles.md",
-    "Amazon Economics.md",
-    "Predicting Regrowth in the Amazon - Project.md",
-    "001 Workstation.md",
-    "2 Research/jakovacRoleLandUse2021.md",
-    "100 A Floresta Aleatória.md",
-    "300 Doing Science.md",
-    "400 Interests.md",
-    "003 People and Networks.md",
-    "002 Data Sources.md",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "2 Workstation/3 - Incorporating Biodiversity",
     "2 Workstation/2 - Predicting Regrowth in Central America",

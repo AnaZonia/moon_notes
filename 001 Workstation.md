@@ -8,12 +8,11 @@
 
 ## Other ongoing projects
 
-[[RELAM talk]]
+- [[RELAM talk]]
 
-
-
+## Articles on progress
 ```dataview
-TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author", up AS "Topic"
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", up AS "Topic"
 WHERE contains(type, "scicomm_article")
-SORT authors ASC
+SORT ASC
 ```

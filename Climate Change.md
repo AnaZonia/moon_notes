@@ -17,6 +17,7 @@ SORT file.ctime DESC
 [A safe operating space for humanity](https://www-nature-com.proxy3.library.mcgill.ca/articles/461472a)
 
 [[Developed countries]]
+[[REDD+]]
 
 [[Carbon Tax]]
 
