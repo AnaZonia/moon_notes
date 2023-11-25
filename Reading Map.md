@@ -18,41 +18,6 @@
 
 https://www.anthropocenemagazine.org/2023/11/out-of-control-herbivores-are-derailing-restoration-projects-around-the-globe/
 
-
-## What is the cost of protecting the Amazon?
-[Sustainable-use protected areas catalyze enhanced livelihoods in rural Amazonia | PNAS (mcgill.ca)](https://www-pnas-org.proxy3.library.mcgill.ca/doi/full/10.1073/pnas.2105480118)
-
-[Funding deficits of protected areas in Brazil - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0264837720306207?via%3Dihub)
-
-[The role of forest conversion, degradation, and disturbance in the carbon dynamics of Amazon indigenous territories and protected areas | PNAS (mcgill.ca)](https://www-pnas-org.proxy3.library.mcgill.ca/doi/full/10.1073/pnas.1913321117)
-
-[Slowing Amazon deforestation through public policy and interventions in beef and soy supply chains | Science](https://www.science.org/doi/10.1126/science.1248525)
-
-[Role of Brazilian Amazon protected areas in climate change mitigation | PNAS (mcgill.ca)](https://www-pnas-org.proxy3.library.mcgill.ca/doi/full/10.1073/pnas.0913048107)
-
-[The performance and potential of protected areas | Nature (mcgill.ca)](https://www-nature-com.proxy3.library.mcgill.ca/articles/nature13947)
-
-## Corina Tarnita's work
-[‪Corina E. Tarnita‬ - ‪Google Scholar‬ (mcgill.ca)](https://scholar-google-com.proxy3.library.mcgill.ca/citations?user=FXbbGUYAAAAJ&hl=en)
-
-## Functional traits as biodiv/biomass relationship
-[The world‐wide ‘fast–slow’ plant economics spectrum: a traits manifesto - Reich - 2014 - Journal of Ecology - Wiley Online Library (mcgill.ca)](https://besjournals-onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/10.1111/1365-2745.12211)
-
-[Rebuilding community ecology from functional traits - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0169534706000334)
-
-[Why Functional Traits Do Not Predict Tree Demographic Rates - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/29605086/)
-
-[Let the concept of trait be functional! - Violle - 2007 - Oikos - Wiley Online Library (mcgill.ca)](https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/10.1111/j.0030-1299.2007.15559.x#:~:text=Arnold%27s%20(1983)%20framework%20revisited%20in,in%20fine%2C%20its%20individual%20fitness.)
-
-[Revisiting the Holy Grail: using plant functional traits to understand ecological processes - Funk - 2017 - Biological Reviews - Wiley Online Library (mcgill.ca)](https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/full/10.1111/brv.12275)
-
-[Stand age and soils as drivers of plant functional traits and aboveground biomass in secondary tropical dry forest (cdnsciencepub.com)](https://cdnsciencepub.com/doi/full/10.1139/cjfr-2013-0331?casa_token=QtsuI5I_tsAAAAAA%3A_trfDsvpyczf3os2UscVOlRireVHmq-HrLYrFpa0GgO_ps7BdQP-sHsZYPPtWCs8pNX7GQBwjPnUmNI)
-
-[Using Plant Functional Traits to Explain Diversity–Productivity Relationships | PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0036760)
-
-[The relationships between biomass allocation and plant functional trait - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1470160X19301578?casa_token=uNy_QhpoyYMAAAAA:2EAHZt-Q8RzaurFggdz0cP5UELcGY21HMVM_Q6jwa1448vkYATxYbj3MIsoSsRoRph6hTM9nL9w9)
-
-## Online articles
 [In retrospect: The Selfish Gene | Nature (mcgill.ca)](https://www-nature-com.proxy3.library.mcgill.ca/articles/529462a)
 
 [Monetizar a restauração florestal limita o papel da regeneração natural na Amazônia (liberalamazon.com)](https://www.liberalamazon.com/en/artigos-de-opiniao/news/monetizar-a-restauracao-florestal-limita-o-papel-da-regeneracao-natural-na-amazonia)

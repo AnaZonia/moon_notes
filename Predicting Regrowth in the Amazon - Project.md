@@ -1,6 +1,11 @@
-
+---
+up:
+  - "[[001 Workstation]]"
+stardate: Aug 18th 2023
+update: Nov 24th 2023
+---
 Brainstorming titles and keywords
-Incorporando complexidade a um modelo de regereração de florestas neotropicais
+Incorporando complexidad  e a um modelo de regereração de florestas neotropicais
 Incorporating complexity to neotropical forest regrowth predictions
 
 - predictiveness as well as ecological insight.
@@ -16,7 +21,6 @@ Arguing for importance
 [[Methods Flowchart - Predicting Regrowth in the Amazon.canvas|Methods Flowchart - Predicting Regrowth in the Amazon]]
 
 41 anthropogenic CO2 emissions are removed by terrestrial ecosystems, mainly forests"
-
 
 [Airborne laser-guided imaging spectroscopy to map forest trait diversity and guide conservation | Science (mcgill.ca)](https://www-science-org.proxy3.library.mcgill.ca/doi/10.1126/science.aaj1987)
 

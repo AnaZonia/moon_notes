@@ -1,8 +1,7 @@
 {
 	"nodes":[
-		{"id":"92699e29d4ac0261","x":160,"y":-141,"width":440,"height":357,"type":"file","file":"Why do tropical areas have so much more diversity.md"},
-		{"id":"8d58e0b58e462991","x":-480,"y":-40,"width":400,"height":400,"type":"file","file":"Biodiversity - Biomass Relationship.md"},
-		{"id":"2de4e2fcc19ce504","x":-960,"y":-600,"width":400,"height":400,"type":"file","file":"2 Research/poorterBiodiversityClimateDetermine2017.md"}
+		{"id":"8d58e0b58e462991","type":"file","file":"Biodiversity - Biomass Relationship.md","x":-480,"y":-40,"width":400,"height":400},
+		{"id":"2de4e2fcc19ce504","type":"file","file":"2 Research/poorterBiodiversityClimateDetermine2017.md","x":-960,"y":-600,"width":400,"height":400}
 	],
 	"edges":[]
 }

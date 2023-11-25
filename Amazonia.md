@@ -30,7 +30,7 @@ Peatlands/turfeiras
 ## Restoration efforts
 
 ### Overview and paths to follow
-
+[[Cost of protecting the Amazon]]
 
 [[Aliança pela Restauração da Amazônia]]
 
