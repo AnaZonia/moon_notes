@@ -1,10 +1,10 @@
 ---
-up: 
+up:
+  - "[[Biogeochemistry]]"
 url: https://scholar.google.es/citations?user=0R6mROIAAAAJ&hl=ca
 type:
   - researcher
 aliases: 
-at-a-glance: 
 location:
   - MIT
 ---

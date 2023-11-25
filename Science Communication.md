@@ -1,6 +1,31 @@
+---
+up:
+  - "[[300 Doing Science]]"
+stardate: Sep 24th 2023
+update: Oct 23rd 2023
+---
 
 > [!success] Estratégias e iniciativas para divulgação e comunicação científica no Brasil
 
+## Scientific Writing
+[[Writing Science]]
+### Useful links
+- [OpenAcademics Writing References](https://www.oacommunity.org/resources)
+- [Paperpal - Manuscript checker](https://edit.paperpal.com/documents/de11a755-7810-4717-b3a6-98b3de4351f4)
+- [QuillBot AI - Paraphraser](https://quillbot.com/)
+- [Hemingway Editor](https://hemingwayapp.com/)
+
+### My Guidelines on Writing
+- One point per paragraph, one paragraph per point.
+- *Write as you would speak* - maybe speak out the text first, and then organize it as it's easier for the words to flow. ChatGPT can help transcribe spoken text to something acceptable.
+- When stuck, *writing by hand can help*.
+- Read/write a little every day.
+- Only use reference to help determine amount of detail needed.
+- *Add subheadings* - you can always take them away later.
+- Interesting to write a title as personifying the object of study, when speaking to the public.
+- Short titles get more attention.
+
+## Science Outreach
 [[Serrapilheira]]
 
 [Revista Ciência Hoje (archive.org)](https://web.archive.org/web/20050210211053/http://cienciahoje.uol.com.br/view/3190)

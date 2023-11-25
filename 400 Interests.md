@@ -1,10 +1,8 @@
 
 - [[Philosophy and Psychology]]
-- [[Literature]]
 - [[Latin American History]]
 - [[European History]]
 - [[Iranian History]]
 - [[Economics]]
 - [[Astronomy]]
-- [[Movies]]
 - [[Art]]

@@ -1,10 +1,10 @@
 ---
 up:
-  - "[[100 A Floresta Aleatória]]"
   - "[[Sustainable Agriculture]]"
 stardate: Oct 16th 2023
 update: Oct 16th 2023
 ---
+
 [Frontiers | Handling multiple levels in agent-based models of complex socio-environmental systems: A comprehensive review (frontiersin.org)](https://www.frontiersin.org/articles/10.3389/fams.2022.1020353/full)
 
 [Eight grand challenges in socio-environmental systems modeling | Socio-Environmental Systems Modelling (sesmo.org)](https://sesmo.org/article/view/16226)

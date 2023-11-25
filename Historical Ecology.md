@@ -1,5 +1,6 @@
 ---
 up:
+  - "[[200 Life Sciences]]"
   - "[[400 Interests]]"
 stardate: Oct 11th 2023
 update: Oct 11th 2023

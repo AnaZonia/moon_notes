@@ -1,3 +1,12 @@
+---
+up:
+  - "[[Filosofia da Ciência]]"
+  - "[[300 Doing Science]]"
+stardate: Sep 28th 2023
+update: Nov 24th 2023
+---
+
+
 [Public debate is good for science | Science](https://www.science.org/doi/10.1126/science.abg4685)
 
 [Is bothsidesism killing us? (And why scientific consensus matters) - Healthy Debate](https://healthydebate.ca/2023/08/topic/bothsidesism-scientific-consensus-matters/)
@@ -19,4 +28,3 @@ Rationality books
 
 [A Framework for Analyzing Broadly Engaged Philosophy of Science | Philosophy of Science | Cambridge Core](https://www.cambridge.org/core/journals/philosophy-of-science/article/framework-for-analyzing-broadly-engaged-philosophy-of-science/7B6AF87B2AA3C097E006A77FF3EAE25E)
 
-[[Filosofia da Ciência]]

@@ -6,6 +6,9 @@ aliases:
   - Non-Timber Forest Product (NTFP)
 ---
 
+[[Agent-Based Modelling]]
+
+
 
 [[Ecosystem Services Approach to Landscape Restoration and Sustainable Livelihoods]]
 

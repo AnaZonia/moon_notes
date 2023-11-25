@@ -12,6 +12,7 @@
     "mission": "multitext",
     "dg-publish": "checkbox",
     "dg-home": "checkbox",
-    "first-author": "text"
+    "first-author": "text",
+    "status": "checkbox"
   }
 }

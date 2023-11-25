@@ -1,5 +1,7 @@
 ---
-up: 
+up:
+  - "[[Biogeochemistry]]"
+  - "[[Remote Sensing]]"
 url: https://www.nrel.colostate.edu/investigator/daniela-cusack-homepage/cusack-research/
 type:
   - researcher

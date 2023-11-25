@@ -7,17 +7,16 @@ tags: []
 ---
 Patterns of climate in the Amazon
 Peatlands/turfeiras
-Regeneration vs regrowth vs restoration 
+
 [[White Sand]]
 
-[[RELAM talk]]
 
 [RAS - Rede Amazônia Sustentável](https://ras-network.org/)
 [Amazon Conservation Team Brasil | Conservando a Amazônia em parceria com os Povos Indígenas e Comunidades Tradicionais](https://brasil.amazonteam.org/)
 [Amazônia à prova de fogo | Erika Berenguer | TEDxAmazônia - YouTube](https://www.youtube.com/watch?v=2724-YYtu2E)
 [www.dp-amazonie.org](https://www.dp-amazonie.org/en)
 
-Degredation vs deforestation vs disturbance
+
 
 1. Dry vs wet tropical forests.
 
@@ -35,19 +34,8 @@ Degredation vs deforestation vs disturbance
 
 [[Aliança pela Restauração da Amazônia]]
 
-```dataview
-LIST
-FROM #amazonia
-WHERE !file.inlinks
-SORT file.ctime DESC
-```
 **The changing carbon balance in Amazonia**  **+ discussion  
 **Paulo Artaxo - Instituto de Física da Universidade de Sao Paulo
 [Max Planck Jena seminar Amazonia Short 4 May 2022.pdf - MPI for Biogeochemistry (mpg.de)](https://nextcloud.bgc-jena.mpg.de/s/nZez8tmK7Ng99Xa?dir=undefined&openfile=38259529)
 
-
-## Amazonia Articles
-```dataview
-TABLE WITHOUT ID link(file.link, default(file.aliases[0], file.name)) AS "Article", year, first-author, at-a-glance FROM "3 Research" AND #amazonia SORT first_author ASC
-```
 [Functional traits and niche-based tree community assembly in an Amazonian forest - PubMed (nih.gov)](https://pubmed.ncbi.nlm.nih.gov/18948539/)

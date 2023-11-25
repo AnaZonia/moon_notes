@@ -1,10 +1,11 @@
 ---
 up:
   - "[[Evolution]]"
-url: 
 type:
   - book
 stardate: Oct 22nd 2023
+authors:
+  - "[[Darwin, Charles]]"
 ---
 
 

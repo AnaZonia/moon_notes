@@ -1,3 +1,9 @@
+---
+up:
+  - "[[200 Life Sciences]]"
+stardate: Sep 12th 2023
+update: Nov 9th 2023
+---
 
 
 ```dataview

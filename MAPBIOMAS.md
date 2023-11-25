@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[003 Data Sources]]"
+  - "[[002 Data Sources]]"
 url: https://brasil.mapbiomas.org/en/
 type:
   - research network

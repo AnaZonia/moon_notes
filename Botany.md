@@ -1,12 +1,10 @@
 ---
 up:
-  - "[[000 The Bridge]]"
+  - "[[200 Life Sciences]]"
 stardate: Oct 8th 2023
 update: Oct 8th 2023
-tags:
 ---
-```dataview
-LIST
-FROM [[]]
-````
+
 [[Lianas]]
+	- [[Photosynthesis]]
+	- [[Nitrogen Fixation]]

@@ -9,3 +9,5 @@ aliases:
 tags:
   - glossary
 ---
+- [[Disease and Health]]
+- [[Sustainable Agriculture]]

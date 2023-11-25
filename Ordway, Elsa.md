@@ -1,5 +1,6 @@
 ---
-up: 
+up:
+  - "[[Tropical Forest Ecology]]"
 url: https://www.ioes.ucla.edu/person/elsa-ordway/
 type:
   - researcher

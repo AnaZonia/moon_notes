@@ -7,6 +7,7 @@ update: Oct 7th 2023
 
 ## Excalidraw
 - exporting a region of the drawing as a group will allow updates to go smoothly on the note it's inserted in!
+[[Excalidraw/Obsidian|Obsidian]] - my guide on the tool to the BGSA meeting, 2023
 
 ## Tasks
 
@@ -54,6 +55,7 @@ hide backlink or short mode
 
 [Dataview Cheatsheet](https://github.com/seburbandev/obsidian-dataview-cheatsheet)
 [Dataview Query Builder](https://s-blu.github.io/basic-dataview-query-builder/)
+
 
 ## Checkbox
 

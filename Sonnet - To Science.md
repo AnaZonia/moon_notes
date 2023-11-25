@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[400 Interests]]"
+  - "[[Literature]]"
 stardate: Nov 16th 2023
 update: Nov 16th 2023
 authors:

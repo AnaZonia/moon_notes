@@ -1,6 +1,6 @@
 ---
 up:
-  - Life Sciences
+  - "[[200 Life Sciences]]"
 stardate: Nov 21st 2023
 update: Nov 21st 2023
 url: https://criticalecologylab.weebly.com/

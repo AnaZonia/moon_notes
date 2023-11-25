@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[000 The Bridge]]"
+  - "[[500 Alexandria]]"
 stardate: Sep 24th 2023
 update: Sep 24th 2023
 ---

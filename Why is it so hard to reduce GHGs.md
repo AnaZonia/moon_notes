@@ -5,6 +5,8 @@ url:
 type:
   - talk
 stardate: Nov 6th 2023
+authors:
+  - "[[Ragan, Chris]]"
 ---
 Including all GHGs, emissions are 30% higher than considering just carbon.
 3/4 of emissions are coming from energy - coal, oil, to generate electricity, heat houses and power vehicles.

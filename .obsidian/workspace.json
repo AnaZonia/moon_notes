@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "086f1e0965c67c3f",
+            "id": "aa901667ad75d45b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amazonia.md",
+                "file": "Predicting Regrowth in the Amazon - Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"type\"] scicomm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -83,12 +81,22 @@
         "dimension": 34.10852713178294,
         "children": [
           {
+            "id": "9f7f1373e05d036e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Predicting Regrowth in the Amazon - Project.md"
+              }
+            }
+          },
+          {
             "id": "b0c74e50e28a8d26",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Amazonia.md",
+                "file": "Predicting Regrowth in the Amazon - Project.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,19 +113,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Amazonia.md",
+                "file": "Predicting Regrowth in the Amazon - Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "9f7f1373e05d036e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Amazonia.md"
               }
             }
           },
@@ -145,8 +143,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "3dbac5c2f60b2e8e",
@@ -186,13 +183,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 411.5,
-    "collapsed": true
+    "width": 361.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,35 +205,40 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "086f1e0965c67c3f",
+  "active": "aa901667ad75d45b",
   "lastOpenFiles": [
-    "Dalagnol, Ricardo.md",
-    "3 Alexandria/Research/allenModelingCarbonCost2020a.md",
-    "Earth System Models.md",
-    "Amazonia.md",
-    "RELAM talk.md",
-    "2 Workstation/Conferences and Funding.md",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Predicting Regrowth in the Amazon - Project.md",
-    "4 Floresta Aleatória/Statistics.md",
-    "4 Floresta Aleatória/000 Prefácio.md",
-    "4 Floresta Aleatória/001 Introdução à Estatística.md",
-    "4 Floresta Aleatória/004 Testes de Hipóteses.md",
-    "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
-    "Philosophy and Psychology.md",
-    "Bell Hooks - Of Men and Masculinity.md",
-    "400 Interests.md",
+    "2 Research/jakovacRoleLandUse2021.md",
+    "Predicting Regrowth in the Amazon - Project.md",
+    "001 Workstation.md",
+    "100 A Floresta Aleatória.md",
     "200 Life Sciences.md",
-    "Critical Ecology.md",
-    "Latin American History.md",
-    "Movies.md",
-    "1 Captain's Log/1 Daily/2023-11-18 Sat.md",
-    "1 Captain's Log/1 Daily/2023-11-19 Sun.md",
-    "1 Captain's Log/1 Daily/2023-11-21 Tue.md",
-    "MAPBIOMAS.md",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
-    "5 Data Sources/TerraClimate.md",
-    "HyspIRI.md",
-    "Remote Sensing.md",
+    "300 Doing Science.md",
+    "400 Interests.md",
+    "500 Alexandria.md",
+    "003 People and Networks.md",
+    "002 Data Sources.md",
+    "Incorporating nutrient cycling into models.md",
+    "Canadian Mining in LATAM.md",
+    "2 Research/grassiKeyRoleForests2017a.md",
+    "2 Research/poorterBiodiversityClimateDetermine2017.md",
+    "2 Research/rozendaalDemographicDriversTree2015 1.md",
+    "2 Research/ruiz-jaenCanWePredict2011.md",
+    "2 Research/verbesseltRemotelySensedResilience2016.md",
+    "2 Research/strassburgGlobalPriorityAreas2020.md",
+    "2 Research/tschakertIndigenousLivelihoodsSlashandburn2007.md",
+    "Articles.md",
+    "Should scientists include their race, gender, or other personal details in papers.md",
+    "Books.md",
+    "Poetry.md",
+    "Is Science Amoral.md",
+    "Where did the jaguar get its spots.md",
+    "Science Communication.md",
+    "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+    "2 Workstation/3 - Incorporating Biodiversity",
+    "2 Workstation/2 - Predicting Regrowth in Central America",
+    "2 Workstation/1 - Predicting Regrowth in the Amazon",
+    "2 Workstation",
+    "Biodiversity.canvas",
     "Files/Screenshot 2023-11-06 104649.png",
     "Files/Poster Making.png",
     "Files/Modern Art.png",
@@ -251,16 +251,11 @@
     "Files/Pasted Image 20231110103235_965.png",
     "Files/Carbon Tax-1.pdf",
     "Files/Carbon Tax.pdf",
-    "Biodiversity.canvas",
-    "3 Research",
+    "2 Research",
     "Templates/scripts/pin_me.js",
     "Templates/scripts/my_script.js",
     "Templates/scripts/003 Data Sources MOC.js",
-    "Templates/scripts",
-    "6 Data and Methods",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Regrowth in Amazonia.canvas",
-    "2 Workstation/2 - Predicting Regrowth in Panama",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon",
     "20 Python MOC.canvas",
     "2 Literature/Regrowth/Regrowth literature.canvas",
     "2 Literature/Biogeochemistry/Biogeochemistry.canvas"

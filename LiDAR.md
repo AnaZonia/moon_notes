@@ -3,6 +3,10 @@ up:
   - "[[Remote Sensing]]"
 stardate: Sep 23rd 2023
 ---
+- [[GEDI]]
+- [[ICESat1 - GLAS & ICESat2 - ATLAS]]
+- [[Asner ACD]]
+
 Is an active sensor - shoots near infrared light towards the Earth. Measures the return time interval and intensity.
 
 ![[LiDAR.png]]

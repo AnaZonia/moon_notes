@@ -10,7 +10,7 @@ type: lit_note
 at-a-glance: ""
 
 --- 
-#tribble
+
 {% for t in tags %}{% if t.tag not in ['review', 'meta_analysis', 'number_one', 'model', 'synthesis', 'thesis', 'data/plots'] %}[[{{t.tag}}]]{% endif %}{% if not loop.last %} {% endif %}{% endfor %}
 
 >[!summary] Summary

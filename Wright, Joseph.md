@@ -1,5 +1,6 @@
 ---
-up: 
+up:
+  - "[[Tropical Forest Ecology]]"
 url: https://stri.si.edu/scientist/s-joseph-wright
 type:
   - researcher
