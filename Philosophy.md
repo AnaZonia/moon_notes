@@ -5,6 +5,7 @@ stardate: Oct 8th 2023
 update: Oct 8th 2023
 ---
 ## Philosophers
+- [[Confucius]]
 - [[Pré Socráticos]]
 - [[Socrates]]
 - [[Plato]]
@@ -17,6 +18,7 @@ update: Oct 8th 2023
 - [[Sartre]]
 - [[Bertrand Russell]]
 - [[Slavoj Zizek]]
+- [[Ailton Krenak]]
 
 ## Campos Filosóficos
 - [[Estoicismo]]

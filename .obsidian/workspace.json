@@ -4,41 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "a83b9327a429cafe",
-        "type": "tabs",
-        "dimension": 48.36244541484716,
-        "children": [
-          {
-            "id": "3365fbcc82ad6e20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W47 - Nov.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "8166ded475b9094a",
         "type": "tabs",
-        "dimension": 51.637554585152834,
         "children": [
           {
             "id": "62163af058a6f82b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
-                "viewState": {
-                  "x": -548.5561478605069,
-                  "y": -59.77947000388117,
-                  "zoom": -1.5040502544325316
-                }
+                "file": "Philosophy.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -111,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methods Flowchart - Predicting Regrowth in the Amazon.canvas"
+                "file": "Philosophy.md"
               }
             }
           },
@@ -121,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+                "file": "Philosophy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+                "file": "Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,12 +212,15 @@
   },
   "active": "62163af058a6f82b",
   "lastOpenFiles": [
+    "How does communication work between trees.md",
+    "Botany.md",
+    "1 Captain's Log/2 Weekly/2023 - W47 - Nov.md",
+    "Philosophy.md",
+    "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Sonnet - To Science.md",
     "ForestPlots - RAINFOR.md",
     "3 Floresta Aleatória/Data Visualization.md",
     "Biodiversity - Biomass Relationship.md",
-    "1 Captain's Log/2 Weekly/2023 - W47 - Nov.md",
-    "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Predicting Regrowth in the Amazon - Project.md",
     "001 Workstation.md",
     "Oil palm-driven deforestation.md",
@@ -259,9 +239,6 @@
     "Climate Change.md",
     "Carbon Credits.md",
     "Why was 2023 so much worse than others.md",
-    "Carbono e o destino da Amazônia.md",
-    "As bases para o desenvolvimento sustentável.md",
-    "IMAZON - Instituto do Homem e Meio Ambiente da Amazônia.md",
     "Biodiversity.canvas",
     "Biodiversity",
     "2 Workstation/3 - Incorporating Biodiversity",
