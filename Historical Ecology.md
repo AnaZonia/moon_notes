@@ -1,6 +1,7 @@
 ---
 up:
   - "[[200 Life Sciences]]"
+  - "[[History]]"
 stardate: Oct 11th 2023
 update: Oct 11th 2023
 ---

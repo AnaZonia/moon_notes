@@ -11,12 +11,7 @@ at-a-glance: Financia projetos de pesquisa e divulgação, e organiza capacitaç
 
 - Formação em ecologia quantitativa
 - Jornalismo e mídia (divulgação científica)
+	- [Blog: Ciência Fundamental | Folha](https://www1.folha.uol.com.br/blogs/ciencia-fundamental/)
 - Capacitação e financiamento de pesquisa (grant)
 	[[Jakovac, Catarina C.]] foi beneficiada
-
-## Blog Ciencia Fundamental na Folha
-
-[Blog: Ciência Fundamental | Folha](https://www1.folha.uol.com.br/blogs/ciencia-fundamental/)
-Possibilidades para escrever artigos.
-
-Funded in part by [[The Nature Conservancy]]
+- Funded in part by [[The Nature Conservancy]]

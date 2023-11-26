@@ -4,6 +4,8 @@ up:
   - "[[Theoretical Ecology]]"
 type:
   - scicomm_article
+tags:
+  - tribble
 ---
 
 

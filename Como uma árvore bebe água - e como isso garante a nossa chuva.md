@@ -1,14 +1,14 @@
 ---
 up:
   - "[[Outreach]]"
+  - "[[Botany]]"
 stardate: Sep 24th 2023
 update: Oct 7th 2023
 type:
   - scicomm_article
+tags:
+  - tribble
 ---
-[[Botany]]
-
-
 [How Trees Bring Water - YouTube](https://www.youtube.com/watch?v=oY8ds4BiG1A&list=WL&index=2)
 
 [How Can Trees Be Taller Than 10m? - YouTube](https://www.youtube.com/watch?v=qiiFMRYUEQM&list=WL&index=3)

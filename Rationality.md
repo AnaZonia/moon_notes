@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Philosophy and Psychology]]"
+  - "[[Philosophy]]"
 type:
   - book
 stardate: Sep 29th 2023

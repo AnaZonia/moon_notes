@@ -7,5 +7,5 @@ mission:
   - plots
 resolution: 
 time_range: 
-url: https://geo-trees.org/project/
+url:
 ---

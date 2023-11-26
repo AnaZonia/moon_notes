@@ -15,3 +15,4 @@ update: Oct 20th 2023
 - [[Should scientists include their race, gender, or other personal details in papers]]
 - [[Women in Academia]]
 - [[How is Bad Science Published]]
+- [[Science in Latin America]]

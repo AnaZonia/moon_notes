@@ -120,6 +120,7 @@ For mapping annual crops, the Landsat mosaics require images that cover the peri
 
 [Comparing Two Methods of Leaf Area Index Estimation for Rice (Oryza sativa L.) Using In-Field Spectroradiometric Measurements and Multispectral Satellite Images](https://www.mdpi.com/2624-7402/5/2/60)
 
+[Remote Sensing | Free Full-Text | Trend Change Detection in NDVI Time Series: Effects of Inter-Annual Variability and Methodology](https://www.mdpi.com/2072-4292/5/5/2113)
 
 ### Desmatamento/Vegetação Secundária
 

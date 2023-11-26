@@ -18,3 +18,10 @@ I use experimental and observational approaches to investigate and biogeochemica
 - the effects of anthropogenic environmental changes including land-cover change, global warming and nitrogen deposition on element cycling processes,
 - the feedbacks among soil fertility, plant processes and microbial communities, and,
 - how individual plant and microbial species influence element cycling processes.
+
+
+```dataview
+TABLE WITHOUT ID link(file.link, aliases) AS "Title", at-a-glance as "At a Glance", year as "Year"
+FROM "2 Research" AND [[]]
+SORT "Year" ASC
+```

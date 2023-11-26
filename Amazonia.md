@@ -12,6 +12,7 @@ tags: []
 - [[Tipos de Mata na Amazônia]]
 - [[Fogo na Amazonia]]
 - [[História da Amazônia]]
+- [[Amazonian Indigenous Peoples]]
 
 ### Conservation
 - [[The Tipping Point]]
@@ -57,7 +58,7 @@ WHERE contains(type, "talk")
 SORT authors ASC
 ```
 
-## Who works on it
+## Networks
 
 ```dataview
 TABLE WITHOUT ID link(file.link, file.name) AS "Title", at-a-glance AS "At a Glance"
@@ -66,3 +67,10 @@ WHERE contains(type, "research network") OR contains(type, "NGO") OR contains(ty
 ```
 
 
+
+## People
+```dataview
+TABLE WITHOUT ID link(file.link, file.name), location
+FROM [[]]
+WHERE contains(type, "researcher")
+```

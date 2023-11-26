@@ -1,13 +1,13 @@
 ---
 up:
-  - "[[Philosophy and Psychology]]"
+  - "[[Gender Studies]]"
 type:
   - book
 stardate: Oct 14th 2023
 authors:
   - "[[bell hooks]]"
 ---
-## 1 - Wanted: Men Who Love
+1. [[Wanted: Men Who Love]]
 ## 2 - Understanding Patriarchy
 ## 3 - Being a Boy
 ## 4 - Stopping Male Violence

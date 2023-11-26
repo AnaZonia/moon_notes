@@ -18,4 +18,3 @@ update: Oct 16th 2023
 [A Review of Bayesian Networks for Spatial Data | ACM Transactions on Spatial Algorithms and Systems](https://dl.acm.org/doi/10.1145/3516523)
 
 [A Gentle Introduction to Bayesian Belief Networks - MachineLearningMastery.com](https://machinelearningmastery.com/introduction-to-bayesian-belief-networks/)
-

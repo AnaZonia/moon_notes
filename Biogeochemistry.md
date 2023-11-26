@@ -12,5 +12,13 @@ update: Oct 8th 2023
 - [[Leaf Economics Spectrum]]
 - [[Desert Biogeochemistry]]
 - [[Gaia Hypothesis]]
+- [[Eddy Covariance]]
 
 
+
+## People
+```dataview
+TABLE WITHOUT ID link(file.link, file.name), location
+FROM [[]]
+WHERE contains(type, "researcher")
+```

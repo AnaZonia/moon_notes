@@ -11,6 +11,7 @@
 - [R for Data Science](https://r4ds.hadley.nz/)
 - [Geocomputation with R](https://r.geocompx.org/)
 - [Spatial Data Science](https://r-spatial.org/book/)
+- [Intro a Mapas en R - Github](https://github.com/ulisesbalza/mapas_R_intro/tree/main)
 
 ## Help if needed
 - [jakelawlor/TidyTuesday](https://github.com/jakelawlor/TidyTuesday_JL/tree/master)
@@ -49,7 +50,7 @@ Note that some packages will work differently with data from stars, terra or ras
 ## Functional Programming and OOP
 
 
-## Reproducible code
+## Reproducible code and good practices
 ```bash
 # install many packages at once with their dependencies
 R -q -e "install.packages(c('terra', 'randomForest', 'tidyverse'), dependencies = TRUE)"

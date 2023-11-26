@@ -5,7 +5,8 @@ stardate: Oct 2nd 2023
 update: Oct 2nd 2023
 type:
   - scicomm_article
-status:
+tags:
+  - tribble
 ---
 # Story
 Educated professionals of the Global North have great power to help change the course of the climate crisis - and with this power, comes responsibility.

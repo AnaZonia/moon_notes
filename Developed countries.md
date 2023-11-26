@@ -22,6 +22,7 @@ Canada emits much more per capita and it's not just because of the cold, as othe
 
 [Centenas manifestam-se pelo quarto dia contra mina de cobre no Panamá - Correio da Manhã Canadá (correiodamanhacanada.com)](https://www.correiodamanhacanada.com/centenas-manifestam-se-pelo-quarto-dia-contra-mina-de-cobre-no-panama/)
 
+[Agribusiness giant again linked to Amazon deforestation Agribusiness giant again linked to Amazon deforestation - Unearthed](https://unearthed.greenpeace.org/2022/01/14/agribusiness-giant-cargill-amazon-deforestation/)
 
 ![](https://i.imgur.com/h4lFBWj.png)
 

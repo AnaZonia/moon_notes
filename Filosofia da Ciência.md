@@ -1,15 +1,32 @@
 ---
 up:
-  - "[[Philosophy and Psychology]]"
+  - "[[Philosophy]]"
 stardate: Oct 23rd 2023
 update: Nov 15th 2023
 aliases:
   - Philosophy of Science
 ---
-[[Is Science Amoral]]
- 
-[Seminários do LEFHBio/LEFHBio Seminars – 22 de agosto de 2023 - Julia Turska - YouTube](https://www.youtube.com/watch?v=QFucXS6BUB4)
 
-https://en.wikipedia.org/wiki/Lakatos_Award
+## Books
+```dataview
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author"
+FROM [[]]
+WHERE contains(type, "book") AND !contains(type, "textbook") AND !contains(type, "textbook")
+SORT authors ASC
+```
 
-https://www.reddit.com/r/askphilosophy/comments/v3ujxt/book_on_the_philosophy_of_science/
+## Articles
+```dataview
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author", tags as "Tribble?"
+FROM [[]]
+WHERE contains(type, "article") AND !contains(type, "scicomm_article")
+SORT authors ASC
+```
+
+## Talks
+```dataview
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author", tags as "Tribble?"
+FROM [[]]
+WHERE contains(type, "talk")
+SORT authors ASC
+```

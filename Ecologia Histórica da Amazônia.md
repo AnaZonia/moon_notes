@@ -1,7 +1,7 @@
 ---
 up:
   - "[[Amazonia]]"
-  - "[[Filosofia da Ciência]]"
+  - "[[Historical Ecology]]"
 stardate: Oct 23rd 2023
 update: Oct 23rd 2023
 url: https://www.youtube.com/watch?v=ws_T7zPwqNs

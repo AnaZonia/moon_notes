@@ -1,11 +1,9 @@
 ---
 up:
   - "[[Climate Change]]"
+  - "[[Regrowth]]"
 stardate: Oct 1st 2023
 update: Oct 1st 2023
-tags:
-  - "#tribble"
-  - question
 ---
 
 Would be interesting to look into the [[IPCC - Intergovernmental Panel on Climate Change]] notes that Sunday gave in the FSCI198 class.

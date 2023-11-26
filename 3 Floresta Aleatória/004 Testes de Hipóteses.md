@@ -6,6 +6,7 @@ Chi squared
 [A. Jordan Nafa on Twitter: "Do people outside of elementary statistics courses do χ2 tests? Like, is that an actual thing?" / X](https://twitter.com/ajordannafa/status/1599274821832974336)
 
 Porque p-values não são tudo isso:
+[The p‐value statement, five years on - Matthews - 2021 - Significance - Wiley Online Library](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/1740-9713.01505)
 
 [(1) Matt Dancho (Business Science) on X: "This used to be me when I was first learning linear regression. 😂 But here's what's changed for me. https://t.co/ToTbP3hjZv" / X (twitter.com)](https://twitter.com/mdancho84/status/1626709235282202629)
 

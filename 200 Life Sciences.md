@@ -5,6 +5,9 @@
 - [[Predictive Ecology]]
 - [[Botany]]
 
+### Population Ecology
+- [[Niche Theory]]
+
 ### Communities and Ecosystems
 - [[Tropical Forest Ecology]]
 - [[Community Ecology]]

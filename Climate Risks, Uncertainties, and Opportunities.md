@@ -2,10 +2,12 @@
 up:
   - "[[Climate Change]]"
   - "[[Policy]]"
+  - "[[Economics]]"
 type:
   - talk
 stardate: Oct 5th 2023
-authors: "[[Wagner, G.]]"
+authors:
+  - "[[Wagner, G.]]"
 ---
 
 [Smil - climate activist?](https://www.nytimes.com/interactive/2022/04/25/magazine/vaclav-smil-interview.html)

@@ -1,28 +1,3 @@
-### Ongoing
-- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
-- [Statistical Rethinking](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
-	- [ebook](https://bookdown.org/content/4857/)
-- [Basic Stats in R](https://bookdown.org/josiesmith/labbook/introduction-to-r-rstudio-and-r-markdown.html)
-- [probabilitycourse.com](https://www.probabilitycourse.com/chapter11/11_3_1_introduction.php)
-- [UNESP Estatística para Ecologia](https://cran.r-project.org/doc/contrib/Provete-Estatistica_aplicada.pdf)
-- [Estatística Aplicada à Ecologia - índice](https://www.ppgern.ufscar.br/pt-br/alunos/disciplinas/estatistica-aplicada-a-ecologia)
-- [Improving Your Statistical Inferences](https://lakens.github.io/statistical_inferences/)
-	- [Improving your statistical inferences - Coursera](https://www.coursera.org/learn/statistical-inferences/home/week/1)
-- [[Estatística Sem Matemática]]
-### Next
-- [Ecologia no R](https://analises-ecologicas.com/)
-- [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)
-- [Statistical Learning](https://www.youtube.com/watch?v=LvySJGj-88U&list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e&index=1)
-- [BIOS601: Epidemiology & Statistical Models](https://www.medicine.mcgill.ca/epidemiology/hanley/bios601/)
-- [STAT 220](https://github.com/AmeliaMN/STAT220-labs)
-- [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
-
-### Help if needed
-- [resouRces: Resources to Learn & Teach R](https://www.resourcesdatabase.com/)
-- [Statistics by Jim](https://statisticsbyjim.com/)
-- [[The Art of Probability]]
-- https://rpsychologist.com/
-
 [[001 Introdução à Estatística]]
    - Definição da Estatística
    - Métodos Estatísticos e Suas Aplicações
@@ -99,7 +74,7 @@
    - Análise no Domínio de Frequência
    - Análise Espacial e Geostatística
 
-[[018 Inferência causal]]
+[[018 Inferência Causal]]
 
 [[017 Aprendizado de Máquina]]
     - Introdução ao Aprendizado de Máquina
@@ -111,3 +86,32 @@
     - Gradient Descent Estocástico
     - Métodos de Otimização: BFGS, Finite Differences, NovoGrad
     - Otimização Estocástica Global
+
+
+
+## Resources
+### Ongoing
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [Statistical Rethinking](https://www.youtube.com/watch?v=FdnMWdICdRs&list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)
+	- [ebook](https://bookdown.org/content/4857/)
+	- [github](https://github.com/rmcelreath/stat_rethinking_2023#calendar--topical-outline)
+- [Basic Stats in R](https://bookdown.org/josiesmith/labbook/introduction-to-r-rstudio-and-r-markdown.html)
+- [probabilitycourse.com](https://www.probabilitycourse.com/chapter11/11_3_1_introduction.php)
+- [UNESP Estatística para Ecologia](https://cran.r-project.org/doc/contrib/Provete-Estatistica_aplicada.pdf)
+- [Estatística Aplicada à Ecologia - índice](https://www.ppgern.ufscar.br/pt-br/alunos/disciplinas/estatistica-aplicada-a-ecologia)
+- [Improving Your Statistical Inferences](https://lakens.github.io/statistical_inferences/)
+	- [Improving your statistical inferences - Coursera](https://www.coursera.org/learn/statistical-inferences/home/week/1)
+- [[Estatística Sem Matemática]]
+### Next
+- [Ecologia no R](https://analises-ecologicas.com/)
+- [Modern Statistics for Modern Biology](https://www.huber.embl.de/msmb/)
+- [Statistical Learning](https://www.youtube.com/watch?v=LvySJGj-88U&list=PLoROMvodv4rOzrYsAxzQyHb8n_RWNuS1e&index=1)
+- [BIOS601: Epidemiology & Statistical Models](https://www.medicine.mcgill.ca/epidemiology/hanley/bios601/)
+- [STAT 220](https://github.com/AmeliaMN/STAT220-labs)
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
+
+### Help if needed
+- [resouRces: Resources to Learn & Teach R](https://www.resourcesdatabase.com/)
+- [Statistics by Jim](https://statisticsbyjim.com/)
+- [[The Art of Probability]]
+- https://rpsychologist.com/

@@ -7,6 +7,8 @@ type:
   - book
 authors:
   - "[[Marshall, George]]"
+tags:
+  - tribble
 ---
 ![[Don't even think about it - why our brains are wired to ignore climate change.png]]
 

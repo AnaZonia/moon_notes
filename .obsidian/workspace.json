@@ -6,15 +6,15 @@
       {
         "id": "a83b9327a429cafe",
         "type": "tabs",
-        "dimension": 59.31091058244463,
+        "dimension": 48.36244541484716,
         "children": [
           {
-            "id": "02ce52322573f2c9",
+            "id": "3365fbcc82ad6e20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forest resilience under climate change.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W47 - Nov.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,19 +23,22 @@
         ]
       },
       {
-        "id": "7b82a7bcaa6bcbe9",
+        "id": "8166ded475b9094a",
         "type": "tabs",
-        "dimension": 40.68908941755537,
+        "dimension": 51.637554585152834,
         "children": [
           {
-            "id": "223d58d61b623aae",
+            "id": "62163af058a6f82b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Botany.md",
-                "mode": "source",
-                "source": false
+                "file": "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+                "viewState": {
+                  "x": -548.5561478605069,
+                  "y": -59.77947000388117,
+                  "zoom": -1.5040502544325316
+                }
               }
             }
           }
@@ -68,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#glossary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -99,7 +103,7 @@
       {
         "id": "6b3e5e477cb16920",
         "type": "tabs",
-        "dimension": 61.82170542635659,
+        "dimension": 34.84995159728945,
         "children": [
           {
             "id": "9f7f1373e05d036e",
@@ -107,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Forest resilience under climate change.md"
+                "file": "Methods Flowchart - Predicting Regrowth in the Amazon.canvas"
               }
             }
           },
@@ -117,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forest resilience under climate change.md",
+                "file": "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,18 +138,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Forest resilience under climate change.md",
+                "file": "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "c17af29c53427159",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           },
           {
@@ -163,14 +159,22 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "c17af29c53427159",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "3dbac5c2f60b2e8e",
         "type": "tabs",
-        "dimension": 38.17829457364341,
+        "dimension": 65.15004840271055,
         "children": [
           {
             "id": "f6a230dcc8184e2d",
@@ -194,22 +198,24 @@
             }
           },
           {
-            "id": "e34578966ea1f9b2",
+            "id": "02ce52322573f2c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-11-18 Sat.md",
+                "file": "1 Captain's Log/1 Daily/2023-11-25 Sat.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 382.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,37 +233,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "02ce52322573f2c9",
+  "active": "62163af058a6f82b",
   "lastOpenFiles": [
-    "Evidence and attribution of the land carbon sink's historic enhancement.md",
-    "Botany.md",
-    "How do mature forests keep on sequestering carbon after they've reached peak community.md",
-    "Forest resilience under climate change.md",
-    "Resilience.md",
-    "The increase in land carbon sink.md",
-    "Water Stress.md",
-    "Forest Dynamics.md",
-    "Talks.md",
-    "500 Alexandria.md",
-    "Reading Map.md",
-    "Biomass and Climate Change Workshop - EEBIOMASS.md",
-    "Climate Change.md",
-    "Carbon Exports.md",
-    "200 Life Sciences.md",
-    "Critical Ecology.md",
-    "Developed Countries.md",
-    "Policy.md",
+    "Sonnet - To Science.md",
+    "ForestPlots - RAINFOR.md",
+    "3 Floresta Aleatória/Data Visualization.md",
+    "Biodiversity - Biomass Relationship.md",
+    "1 Captain's Log/2 Weekly/2023 - W47 - Nov.md",
+    "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+    "Predicting Regrowth in the Amazon - Project.md",
+    "001 Workstation.md",
+    "Oil palm-driven deforestation.md",
+    "Disturbance.md",
+    "Rubber-driven deforestation.md",
+    "Darcy Ribeiro.md",
+    "Women in academia.md",
+    "300 Doing Science.md",
     "Amazonia.md",
-    "Cost of Carbon.md",
-    "Títulos Verdes.md",
-    "Why Facts Aren't Enough.md",
-    "Neutralidade de carbono até 2050 - Cenários para uma transição eficiente no Brasil.md",
-    "REDD+.md",
-    "Non-CO2 Greenhouse gases.md",
-    "When Alexandria Ocasio-Cortez met Greta Thunberg - 'Hope is contagious'.md",
+    "Brazilian History.md",
+    "Tropical Forest Ecology.md",
+    "200 Life Sciences.md",
+    "Gender Studies.md",
+    "Produção de carne - Menos terra, mais boi.md",
+    "Woman the Hunter.md",
+    "Climate Change.md",
+    "Carbon Credits.md",
+    "Why was 2023 so much worse than others.md",
+    "Carbono e o destino da Amazônia.md",
+    "As bases para o desenvolvimento sustentável.md",
+    "IMAZON - Instituto do Homem e Meio Ambiente da Amazônia.md",
     "Biodiversity.canvas",
     "Biodiversity",
-    "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "2 Workstation/3 - Incorporating Biodiversity",
     "2 Workstation/2 - Predicting Regrowth in Central America",
     "2 Workstation/1 - Predicting Regrowth in the Amazon",

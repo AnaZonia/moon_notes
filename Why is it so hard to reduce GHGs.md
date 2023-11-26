@@ -1,6 +1,7 @@
 ---
 up:
   - "[[Carbon Tax]]"
+  - "[[Economics]]"
 url: 
 type:
   - talk

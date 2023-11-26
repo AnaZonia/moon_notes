@@ -4,21 +4,25 @@ up:
 stardate: Sep 12th 2023
 update: Nov 9th 2023
 ---
-
+## Policy and Economics
 - [[Carbon Tax]]
 - [[Carbon Credits]]
 - [[Carbon Exports]]
 - [[Títulos Verdes]]
 - [[Debt-for-climate swaps]]
 - [[Green New Deal]]
-- [[Non-CO2 Greenhouse gases]]
-- [[What is the current contribution of forest regrowth to carbon sequestration]]
-[[Evidence and attribution of the land carbon sink's historic enhancement]]
+- [[Lobbying]]
+- [[Nature-Based Solutions]]
 
+## Science
+- [[Non-CO2 Greenhouse gases]]
+- [[Forest Dynamics]]
+- [[ENSO - El Niño-Southern Oscillation]]
+- [[Why was 2023 so much worse than others]]
 
 ## Books
 ```dataview
-TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author"
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author", tags as "Tribble?"
 FROM [[]]
 WHERE contains(type, "book") AND !contains(type, "textbook")
 SORT authors ASC

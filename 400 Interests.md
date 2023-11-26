@@ -1,8 +1,6 @@
 
-- [[Philosophy and Psychology]]
-- [[Latin American History]]
-- [[European History]]
-- [[Iranian History]]
+- [[Philosophy]]
+- [[History]]
 - [[Economics]]
 - [[Astronomy]]
 - [[Art]]

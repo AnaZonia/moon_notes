@@ -1,4 +1,20 @@
+---
+up:
+  - "[[Statistics]]"
+stardate: Aug 31st 2023
+update: Nov 25th 2023
+aliases:
+  - Bayesian Statistics
+---
 
+
+
+### O que é a posterior?
+
+![](https://i.imgur.com/5UsrwC4.gif)
+Créditos a Richard McElreath, o autor de "Statistical Rethinking"
+
+[[Bayesian Networks]]
 Otimização Bayesiana
 
 Quando há uma função a ser otimizada que tem vários máximos e mínimos, é uma maneira de obter o valor máximo global com o mínimo de amostra.

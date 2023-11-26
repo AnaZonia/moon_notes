@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Forest resilience under climate change]]"
+  - "[[Disturbance]]"
 authors:
   - "[[Ruehr, Sophie]]"
 type:

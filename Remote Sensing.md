@@ -42,6 +42,17 @@
 Solved with constellations, such as [[Airbus]], [[Planet]] and [[Maxar]].
 ![[110 Remote Sensing.png|ARSET image - MODIS boxes in blue and Landsat boxes in red]]
 
+
+
+
+
+## People
+```dataview
+TABLE WITHOUT ID link(file.link, file.name), location
+FROM [[]]
+WHERE contains(type, "researcher")
+```
+
 ## Data Access
 - [INPE :: Catálogo de Imagens](http://www.dgi.inpe.br/catalogo/explore)
 - [USGS EarthExplorer](https://earthexplorer.usgs.gov/)
