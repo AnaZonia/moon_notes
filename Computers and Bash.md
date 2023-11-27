@@ -10,6 +10,9 @@ My GPU is Intel with 16GB. CUDA is a tool to speed up Deep Learning, and runs on
 
 We have 8 cores - Janus has 64
 
+- Double format is the same as a 64-bit float.
+- 16-bit floats can handle 3 decimal places, and 32-bit floats can handle 6 decimal places
+
 ## Bash basics
 [Intro to Shell](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html)
 ```bash

@@ -36,3 +36,4 @@ update: Oct 8th 2023
 - [[Is Life Worth Living]]
 - [[Why is it bad to speak badly of others]]
 - [[Is happiness the end goal?]]
+- [[Was Nazi Germany capitalist?]]

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Outreach]]"
+  - "[[Scientific Writing]]"
 stardate: Aug 22nd 2023
 update: Nov 24th 2023
 type:
@@ -10,6 +10,8 @@ authors:
 ---
 
 How to be credible while still engaging curiosity?
+
+
 
 ## Main takeaways
 

@@ -7,6 +7,9 @@ update: Nov 25th 2023
 
 [[Writing Science]]
 
+### Tools
+- Overleaf (journals have templates for it)
+- Markdown
 
 ### My Guidelines on Writing
 - One point per paragraph, one paragraph per point.
