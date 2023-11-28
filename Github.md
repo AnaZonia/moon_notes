@@ -10,12 +10,12 @@ update: Sep 24th 2023
 git init
 
 # clone your remote repository to have a local copy on different locations
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+git clone https://github.com/AnaCAvila/forest_regrowth.git
 # note that the clone will create a new folder with the name YOUR-REPOSITORY
 # can be done with https or ssh key
 
 # to initiate a remote repository (origin) that already exists,
-git remote add origin git@github.com:user/repo.git
+git remote add origin https://github.com/AnaCAvila/forest_regrowth.git
 ```
 
 Note that there may be a need to create a token on github to create a new local repository in case you initiate with SSH. There is a pubkey saved in janus, and this is the one that was generated in github: 

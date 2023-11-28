@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100 A Floresta Aleatória.md",
+                "file": "Google Earth Engine.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100 A Floresta Aleatória.md"
+                "file": "Google Earth Engine.md"
               }
             }
           },
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "100 A Floresta Aleatória.md",
+                "file": "Google Earth Engine.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "100 A Floresta Aleatória.md",
+                "file": "Google Earth Engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,21 +211,22 @@
   "active": "7814ce631efaf6c4",
   "lastOpenFiles": [
     "Github.md",
+    "Google Earth Engine.md",
+    "Scientific Writing.md",
+    "Writing Science.md",
+    "Computers and Bash.md",
+    "100 A Floresta Aleatória.md",
     "MAPBIOMAS LULC.md",
     "1 Captain's Log/1 Daily/2023-11-27 Mon.md",
     "MAPBIOMAS.md",
     "Land Use.md",
     "3 Floresta Aleatória/Python.md",
-    "Google Earth Engine.md",
-    "Scientific Writing.md",
-    "Writing Science.md",
     "300 Doing Science.md",
     "1 Captain's Log/2 Weekly/2023 - W48 - Nov.md",
     "1 Captain's Log/2 Weekly/2023 - W47 - Nov.md",
     "1 Captain's Log/1 Daily/2023-11-28 Tue.md",
     "1 Captain's Log/1 Daily/2023-11-21 Tue.md",
     "200 Life Sciences.md",
-    "Computers and Bash.md",
     "Philosophy.md",
     "Marx.md",
     "How does communication work between trees.md",
@@ -235,7 +237,6 @@
     "3 Floresta Aleatória/Data Visualization.md",
     "Biodiversity - Biomass Relationship.md",
     "Predicting Regrowth in the Amazon - Project.md",
-    "001 Workstation.md",
     "Biodiversity.canvas",
     "Biodiversity",
     "2 Workstation/3 - Incorporating Biodiversity",

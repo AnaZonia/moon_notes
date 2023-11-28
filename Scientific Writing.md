@@ -5,12 +5,13 @@ stardate: Nov 25th 2023
 update: Nov 25th 2023
 ---
 
-[[Writing Science]]
+- [[Writing Science]]
 
-### Tools
-- Overleaf (journals have templates for it)
-- Markdown
-
+### Quarto
+- [Making Pretty PDFs with Quarto | Nicola Rennie](https://nrennie.rbind.io/blog/making-pretty-pdf-quarto/)
+- [Tips for Custom Parameterized PDFs in Quarto | Meghan Hall](https://meghan.rbind.io/blog/quarto-pdfs/)
+- [GitHub - mcanouil/awesome-quarto: A curated list of Quarto talks, tools, examples & articles! Contributions welcome!](https://github.com/mcanouil/awesome-quarto)
+- [Quarto - Guide](https://quarto.org/docs/guide/)
 ### My Guidelines on Writing
 - One point per paragraph, one paragraph per point.
 - *Write as you would speak* - maybe speak out the text first, and then organize it as it's easier for the words to flow. ChatGPT can help transcribe spoken text to something acceptable.

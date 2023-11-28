@@ -18,6 +18,7 @@ aliases:
 - **Learning curve is reasonably steep** - ImageCollections and Features are not as intuitive as rasters and sf files in R for example.
 - **Hard to examine FeatureCollections** - It may be impossible to even print out summaries on the information of very large FeatureCollections.
 - **Hard to tell what changes are being done to the files** - getInfo() will return the original value of the file, before processing. So if you clip an image, sometimes the initial size will be returned rather than the clipped size. This can make it hard to monitor progress.
+- There is a difference between **client-side and server-side** functions, and these can sometimes run into issues. Trying to pass a client-side function into a server-side function will not work!
 
 ### EECU - Earth Engine Compute Unit
 [API Monitoring  |  Google Earth Engine  |  Google for Developers](https://developers.google.com/earth-engine/cloud/api_monitoring#:~:text=An%20EECU%20is%20an%20Earth,online%20%2C%20batch%20%2C%20highvolume%20%5D.)
