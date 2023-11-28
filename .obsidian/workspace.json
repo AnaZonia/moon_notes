@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Floresta Aleatória/Python.md",
+                "file": "MAPBIOMAS LULC.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,8 +143,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       },
       {
         "id": "3dbac5c2f60b2e8e",
@@ -209,9 +208,12 @@
   },
   "active": "62163af058a6f82b",
   "lastOpenFiles": [
+    "MAPBIOMAS LULC.md",
+    "MAPBIOMAS.md",
+    "Land Use.md",
     "3 Floresta Aleatória/Python.md",
-    "Google Earth Engine.md",
     "1 Captain's Log/1 Daily/2023-11-27 Mon.md",
+    "Google Earth Engine.md",
     "Scientific Writing.md",
     "Writing Science.md",
     "300 Doing Science.md",
@@ -233,9 +235,6 @@
     "Predicting Regrowth in the Amazon - Project.md",
     "001 Workstation.md",
     "Oil palm-driven deforestation.md",
-    "Disturbance.md",
-    "Rubber-driven deforestation.md",
-    "Darcy Ribeiro.md",
     "Biodiversity.canvas",
     "Biodiversity",
     "2 Workstation/3 - Incorporating Biodiversity",
