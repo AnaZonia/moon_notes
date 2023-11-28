@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[500 Alexandria]]"
+  - "[[100 A Floresta Aleatória]]"
 stardate: Sep 24th 2023
 update: Sep 24th 2023
 ---
@@ -93,6 +93,7 @@ Once the changes are accepted, we can do `git merge` or `git pull` to incorporat
 ```bash
 # to make sure your master branch is up to date
 git pull origin master
+# origin refers to the remote repository that was initially cloned
 
 # make sure you're navigating from the branch you'd like to merge to master
 git checkout feature-name-temp
@@ -124,6 +125,7 @@ It can be nice to feel like the project is more linear, and there's less registr
 ![[Screenshot 2023-09-24 143749.png]]
 
 Pros -> more linear, clearer history. Looks like all the changes were made straight on master! ==great to keep local commits looking clean within feature branches!==
+
 Cons -> no idea when changes were made in parallel, everything looks like it was made in a sequence, so it's hard to tell each contribution apart. ==terrible to use on commits that someone else is working with!== 
 
 I think rebase could work well for feature branches, when I am working alone and don't really want a detailed history of all the separate "trips" I took away from the master branch, only want a clear registry of when which change was made.
@@ -217,3 +219,7 @@ git rm --cached .env
 The `git rm` command, along with the `--cached` option, deletes the file from the repository but does not delete the actual file. This means the file remains on your local system and in your working directory as an ignored file.
 
 Right now, I have my gitignore file ignoring folders with large data or virtual environment directories.
+
+## Resources
+
+[GitHub Skills](https://skills.github.com/)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAPBIOMAS LULC.md",
+                "file": "100 A Floresta Aleatória.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-11-27 Mon.md"
+                "file": "100 A Floresta Aleatória.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-11-27 Mon.md",
+                "file": "100 A Floresta Aleatória.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-11-27 Mon.md",
+                "file": "100 A Floresta Aleatória.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +188,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 492.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,13 +207,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "62163af058a6f82b",
+  "active": "7814ce631efaf6c4",
   "lastOpenFiles": [
+    "Github.md",
     "MAPBIOMAS LULC.md",
+    "1 Captain's Log/1 Daily/2023-11-27 Mon.md",
     "MAPBIOMAS.md",
     "Land Use.md",
     "3 Floresta Aleatória/Python.md",
-    "1 Captain's Log/1 Daily/2023-11-27 Mon.md",
     "Google Earth Engine.md",
     "Scientific Writing.md",
     "Writing Science.md",
@@ -234,7 +236,6 @@
     "Biodiversity - Biomass Relationship.md",
     "Predicting Regrowth in the Amazon - Project.md",
     "001 Workstation.md",
-    "Oil palm-driven deforestation.md",
     "Biodiversity.canvas",
     "Biodiversity",
     "2 Workstation/3 - Incorporating Biodiversity",
