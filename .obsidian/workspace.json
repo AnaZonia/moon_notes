@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "3 Floresta Aleatória/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Earth Engine.md"
+                "file": "1 Captain's Log/1 Daily/2023-11-27 Mon.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "1 Captain's Log/1 Daily/2023-11-27 Mon.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "1 Captain's Log/1 Daily/2023-11-27 Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,14 +207,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7814ce631efaf6c4",
+  "active": "62163af058a6f82b",
   "lastOpenFiles": [
-    "1 Captain's Log/1 Daily/2023-11-27 Mon.md",
+    "3 Floresta Aleatória/Python.md",
     "Google Earth Engine.md",
+    "1 Captain's Log/1 Daily/2023-11-27 Mon.md",
     "Scientific Writing.md",
     "Writing Science.md",
     "300 Doing Science.md",
-    "3 Floresta Aleatória/Python.md",
     "1 Captain's Log/2 Weekly/2023 - W48 - Nov.md",
     "1 Captain's Log/2 Weekly/2023 - W47 - Nov.md",
     "1 Captain's Log/1 Daily/2023-11-28 Tue.md",
