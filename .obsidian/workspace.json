@@ -13,7 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "Evapotranspiration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f75f00f7630cc73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cumulative Water Deficit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "90b431bf8ef04aa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c4f77d7bc22ef73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TerraClimate.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Earth Engine.md"
+                "file": "TerraClimate.md"
               }
             }
           },
@@ -97,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "TerraClimate.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "TerraClimate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,8 +239,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7814ce631efaf6c4",
+  "active": "0c4f77d7bc22ef73",
   "lastOpenFiles": [
+    "Cumulative Water Deficit.md",
+    "Evapotranspiration.md",
+    "TerraClimate.md",
     "Github.md",
     "Google Earth Engine.md",
     "Scientific Writing.md",
@@ -234,9 +268,6 @@
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Sonnet - To Science.md",
     "ForestPlots - RAINFOR.md",
-    "3 Floresta Aleatória/Data Visualization.md",
-    "Biodiversity - Biomass Relationship.md",
-    "Predicting Regrowth in the Amazon - Project.md",
     "Biodiversity.canvas",
     "Biodiversity",
     "2 Workstation/3 - Incorporating Biodiversity",
