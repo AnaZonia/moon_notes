@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#glossary",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,12 +108,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -245,9 +245,16 @@
   },
   "active": "0939cfd647630297",
   "lastOpenFiles": [
-    "TerraClimate.md",
+    "How is biodiversity loss happening.md",
+    "Biodiversity.md",
     "1 Captain's Log/1 Daily/2023-11-29 Wed.md",
     "1 Captain's Log/2 Weekly/2023 - W48 - Nov.md",
+    "1 Captain's Log/1 Daily/2023-11-19 Sun.md",
+    "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
+    "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
+    "Conferences and Funding.md",
+    "001 Workstation.md",
+    "TerraClimate.md",
     "1 Captain's Log/1 Daily/2023-11-27 Mon.md",
     "1 Captain's Log/1 Daily/2023-11-28 Tue.md",
     "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
@@ -264,15 +271,8 @@
     "Historical Ecology.md",
     "Is Life Worth Living.md",
     "Biodiversity exchange in the tropics.md",
-    "3 Alexandria/Research/antonelliAmazoniaPrimarySource2018.md",
     "3 Alexandria/Research",
     "3 Alexandria",
-    "Biodiversity.md",
-    "Amazonia.md",
-    "Biodiversity - Biomass Relationship.md",
-    "Google Earth Engine.md",
-    "GDAL.md",
-    "100 A Floresta Aleatória.md",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Biodiversity.canvas",
     "Biodiversity",
