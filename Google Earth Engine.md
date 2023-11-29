@@ -20,8 +20,9 @@ aliases:
 - **Hard to tell what changes are being done to the files** - getInfo() will return the original value of the file, before processing. So if you clip an image, sometimes the initial size will be returned rather than the clipped size. This can make it hard to monitor progress.
 - There is a difference between **client-side and server-side** functions, and these can sometimes run into issues. Trying to pass a client-side function into a server-side function will not work!
 
-### EECU - Earth Engine Compute Unit
-[API Monitoring  |  Google Earth Engine  |  Google for Developers](https://developers.google.com/earth-engine/cloud/api_monitoring#:~:text=An%20EECU%20is%20an%20Earth,online%20%2C%20batch%20%2C%20highvolume%20%5D.)
+### Computational Power
+- [EECU - Earth Engine Compute Unit](https://developers.google.com/earth-engine/cloud/api_monitoring#:~:text=An%20EECU%20is%20an%20Earth,online%20%2C%20batch%20%2C%20highvolume%20%5D.) is the measure of power. Workload tags can be set to monitor the performance of a task as it's performed.
+- The [high volume endpoint](https://developers.google.com/earth-engine/cloud/highvolume) should be used if making many small requests, like exporting many little tiles from a very large image as done [here](https://gorelick.medium.com/fast-er-downloads-a2abd512aa26).
 
 ### File types
 

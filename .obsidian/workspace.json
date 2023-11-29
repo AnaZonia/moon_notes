@@ -6,6 +6,7 @@
       {
         "id": "414a5420a24219aa",
         "type": "tabs",
+        "dimension": 52.69645608628659,
         "children": [
           {
             "id": "7814ce631efaf6c4",
@@ -14,6 +15,18 @@
               "type": "markdown",
               "state": {
                 "file": "Evapotranspiration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c4f77d7bc22ef73",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TerraClimate.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,22 +48,36 @@
         "currentTab": 1
       },
       {
-        "id": "90b431bf8ef04aa9",
+        "id": "5c8cafde81e01119",
         "type": "tabs",
+        "dimension": 47.303543913713405,
         "children": [
           {
-            "id": "0c4f77d7bc22ef73",
+            "id": "4f10650ffe1772de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TerraClimate.md",
+                "file": "Biodiversity exchange in the tropics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4e47b0f70a3a6fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Alexandria/Research/antonelliAmazoniaPrimarySource2018.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TerraClimate.md"
+                "file": "3 Alexandria/Research/antonelliAmazoniaPrimarySource2018.md"
               }
             }
           },
@@ -128,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TerraClimate.md",
+                "file": "3 Alexandria/Research/antonelliAmazoniaPrimarySource2018.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TerraClimate.md",
+                "file": "3 Alexandria/Research/antonelliAmazoniaPrimarySource2018.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,17 +266,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0c4f77d7bc22ef73",
+  "active": "c4e47b0f70a3a6fc",
   "lastOpenFiles": [
+    "Biodiversity exchange in the tropics.md",
+    "3 Alexandria/Research/antonelliAmazoniaPrimarySource2018.md",
+    "3 Alexandria/Research",
+    "3 Alexandria",
+    "Biodiversity.md",
+    "Amazonia.md",
+    "Biodiversity - Biomass Relationship.md",
+    "200 Life Sciences.md",
+    "Google Earth Engine.md",
+    "GDAL.md",
+    "100 A Floresta Aleatória.md",
+    "TerraClimate.md",
     "Cumulative Water Deficit.md",
     "Evapotranspiration.md",
-    "TerraClimate.md",
     "Github.md",
-    "Google Earth Engine.md",
     "Scientific Writing.md",
     "Writing Science.md",
     "Computers and Bash.md",
-    "100 A Floresta Aleatória.md",
     "MAPBIOMAS LULC.md",
     "1 Captain's Log/1 Daily/2023-11-27 Mon.md",
     "MAPBIOMAS.md",
@@ -260,14 +296,7 @@
     "1 Captain's Log/2 Weekly/2023 - W47 - Nov.md",
     "1 Captain's Log/1 Daily/2023-11-28 Tue.md",
     "1 Captain's Log/1 Daily/2023-11-21 Tue.md",
-    "200 Life Sciences.md",
-    "Philosophy.md",
-    "Marx.md",
-    "How does communication work between trees.md",
-    "Botany.md",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
-    "Sonnet - To Science.md",
-    "ForestPlots - RAINFOR.md",
     "Biodiversity.canvas",
     "Biodiversity",
     "2 Workstation/3 - Incorporating Biodiversity",
@@ -287,8 +316,6 @@
     "Files/Carbon Tax-1.pdf",
     "Files/Carbon Tax.pdf",
     "2 Research",
-    "Templates/scripts/pin_me.js",
-    "Templates/scripts/my_script.js",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Regrowth in Amazonia.canvas",
     "20 Python MOC.canvas",
     "2 Literature/Regrowth/Regrowth literature.canvas",

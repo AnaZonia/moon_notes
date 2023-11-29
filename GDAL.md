@@ -4,7 +4,6 @@ up:
 stardate: Oct 15th 2023
 update: Oct 15th 2023
 ---
-
 #### Show information on an image
 ```bash
 gdalinfo N28E086.hgt
