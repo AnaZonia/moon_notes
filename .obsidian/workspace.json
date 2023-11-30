@@ -4,59 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "414a5420a24219aa",
+        "id": "97e8033211fd3284",
         "type": "tabs",
         "children": [
-          {
-            "id": "7814ce631efaf6c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Evapotranspiration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c4f77d7bc22ef73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TerraClimate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "3f75f00f7630cc73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cumulative Water Deficit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "97e8033211fd3284",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0939cfd647630297",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W48 - Nov.md",
+                "file": "Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -130,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W48 - Nov.md"
+                "file": "Github.md"
               }
             }
           },
@@ -140,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W48 - Nov.md",
+                "file": "Github.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W48 - Nov.md",
+                "file": "Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +183,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 492.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,39 +197,38 @@
       "cmdr:Open current tab in new window": false,
       "digitalgarden:Digital Garden Publication Center": false,
       "templater-obsidian:Templater": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "0939cfd647630297",
+  "active": "3f75f00f7630cc73",
   "lastOpenFiles": [
+    "Google Earth Engine.md",
+    "TerraClimate.md",
+    "Cumulative Water Deficit.md",
+    "Evapotranspiration.md",
+    "Climate Research Unit (CRU).md",
+    "Chave 2014.md",
+    "Global Aridity Index and Potential Evapotranspiration Database.md",
+    "002 Data Sources.md",
+    "Rolling ideas.md",
+    "Latent Heat Flux.md",
+    "Templates/3 Data Source.md",
+    "MODIS.md",
+    "1 Captain's Log/1 Daily/2023-11-29 Wed.md",
+    "Guía Práctica para Estabelecer Sistemas Silvopastoriles en la Península de Azuero de Panamá.md",
+    "1 Captain's Log/2 Weekly/2023 - W48 - Nov.md",
     "How is biodiversity loss happening.md",
     "Biodiversity.md",
-    "1 Captain's Log/1 Daily/2023-11-29 Wed.md",
-    "1 Captain's Log/2 Weekly/2023 - W48 - Nov.md",
     "1 Captain's Log/1 Daily/2023-11-19 Sun.md",
     "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
     "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
     "Conferences and Funding.md",
     "001 Workstation.md",
-    "TerraClimate.md",
     "1 Captain's Log/1 Daily/2023-11-27 Mon.md",
     "1 Captain's Log/1 Daily/2023-11-28 Tue.md",
     "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
     "1 Captain's Log/2 Weekly/2023 - W47 - Nov.md",
-    "1 Captain's Log/1 Daily/2023-11-30 Thu.md",
-    "Agroforestry.md",
-    "Cacao Agroforestry.md",
-    "What factors affect fruit production.md",
-    "Ecosystem Services.md",
-    "200 Life Sciences.md",
-    "Tropical Forest Ecology.md",
-    "Climate Change.md",
-    "Critical Ecology.md",
-    "Historical Ecology.md",
-    "Is Life Worth Living.md",
-    "Biodiversity exchange in the tropics.md",
     "3 Alexandria/Research",
     "3 Alexandria",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",

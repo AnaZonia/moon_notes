@@ -9,4 +9,7 @@
     width: 8px;
   }
 
-  
+.callout[data-callout="glossary"] {
+    --callout-color: 255, 219, 88;
+    --callout-icon: sprout;
+}

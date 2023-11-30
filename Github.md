@@ -80,6 +80,8 @@ git checkout -b feature-name-temp
 # move to branch master
 git checkout master
 
+# delete a merged branch
+git branch -d feature-name-temp
 ```
 
 branches that are adding something new are usually called "feature branches"
@@ -110,8 +112,6 @@ git commit -m 'message'
 
 git push # origin master - check #origin section
 
-# delete the merged branch
-git branch -d feature-name-temp
 
 ```
 
