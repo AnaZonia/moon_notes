@@ -97,7 +97,7 @@ Once the changes are accepted, we can do `git merge` or `git pull` to incorporat
 git pull origin master
 # origin refers to the remote repository that was initially cloned
 
-# make sure you're navigating from the branch you'd like to merge to master
+# make sure you're navigating to the branch you'd like to merge to master
 git checkout feature-name-temp
 
 # finally merge changes with the master branch

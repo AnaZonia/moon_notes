@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 Data Sources.md",
+                "file": "Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 Data Sources.md"
+                "file": "Github.md"
               }
             }
           },
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 Data Sources.md",
+                "file": "Github.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002 Data Sources.md",
+                "file": "Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,8 +203,8 @@
   },
   "active": "3f75f00f7630cc73",
   "lastOpenFiles": [
-    "RESOLVE Ecoregions.md",
     "002 Data Sources.md",
+    "RESOLVE Ecoregions.md",
     "Github.md",
     "Google Earth Engine.md",
     "TerraClimate.md",
