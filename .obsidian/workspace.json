@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github.md",
+                "file": "002 Data Sources.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github.md"
+                "file": "002 Data Sources.md"
               }
             }
           },
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github.md",
+                "file": "002 Data Sources.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github.md",
+                "file": "002 Data Sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,6 +203,9 @@
   },
   "active": "3f75f00f7630cc73",
   "lastOpenFiles": [
+    "RESOLVE Ecoregions.md",
+    "002 Data Sources.md",
+    "Github.md",
     "Google Earth Engine.md",
     "TerraClimate.md",
     "Cumulative Water Deficit.md",
@@ -210,7 +213,6 @@
     "Climate Research Unit (CRU).md",
     "Chave 2014.md",
     "Global Aridity Index and Potential Evapotranspiration Database.md",
-    "002 Data Sources.md",
     "Rolling ideas.md",
     "Latent Heat Flux.md",
     "Templates/3 Data Source.md",
@@ -227,8 +229,6 @@
     "001 Workstation.md",
     "1 Captain's Log/1 Daily/2023-11-27 Mon.md",
     "1 Captain's Log/1 Daily/2023-11-28 Tue.md",
-    "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
-    "1 Captain's Log/2 Weekly/2023 - W47 - Nov.md",
     "3 Alexandria/Research",
     "3 Alexandria",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
