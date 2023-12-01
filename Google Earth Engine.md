@@ -55,9 +55,10 @@ Every image is a feature, but not every feature is an image.
 
 ## Python API
 ### geemap
+- [geemap](https://geemap.org/)
 - [A collection of 300+ examples for using Earth Engine and the geemap Python package](https://github.com/giswqs/earthengine-py-examples)
 - [Earth Engine Python API](https://developers.google.com/earth-engine/tutorials/community/intro-to-python-api)
-- https://www.youtube.com/watch?v=wGjpjh9IQ5I
+
 ## rgee
 - [Using Google Earth Engine with R](https://www.css.cornell.edu/faculty/dgr2/_static/files/R_html/ex_rgee.html)
 - [Introduction to Google Earth Engine with R language - YouTube](https://www.youtube.com/watch?v=SHXuIpjU3YE)

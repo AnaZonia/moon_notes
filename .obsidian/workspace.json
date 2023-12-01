@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github.md",
+                "file": "3 Floresta Aleatória/Python.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github.md"
+                "file": "3 Floresta Aleatória/Python.md"
               }
             }
           },
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github.md",
+                "file": "3 Floresta Aleatória/Python.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github.md",
+                "file": "3 Floresta Aleatória/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,10 +203,22 @@
   },
   "active": "3f75f00f7630cc73",
   "lastOpenFiles": [
+    "Computers and Bash.md",
+    "3 Floresta Aleatória/Python.md",
+    "Google Earth Engine.md",
+    "1 Captain's Log/1 Daily/2023-11-30 Thu.md",
+    "Github.md",
+    "1 Captain's Log/2 Weekly/2024 - W01 - Jan.md",
+    "1 Captain's Log/2 Weekly/2023 - W48 - Nov.md",
+    "Biogeochemistry.md",
+    "Mycorrhizal Distributions Impact Global Patterns of Carbon and Nutrient Cycling.md",
+    "Biodiversity exchange in the tropics.md",
+    "3 Alexandria/Research/antonelliAmazoniaPrimarySource2018.md",
+    "Biodiversity.md",
+    "Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.md",
+    "Files/Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.pdf",
     "002 Data Sources.md",
     "RESOLVE Ecoregions.md",
-    "Github.md",
-    "Google Earth Engine.md",
     "TerraClimate.md",
     "Cumulative Water Deficit.md",
     "Evapotranspiration.md",
@@ -218,17 +230,6 @@
     "Templates/3 Data Source.md",
     "MODIS.md",
     "1 Captain's Log/1 Daily/2023-11-29 Wed.md",
-    "Guía Práctica para Estabelecer Sistemas Silvopastoriles en la Península de Azuero de Panamá.md",
-    "1 Captain's Log/2 Weekly/2023 - W48 - Nov.md",
-    "How is biodiversity loss happening.md",
-    "Biodiversity.md",
-    "1 Captain's Log/1 Daily/2023-11-19 Sun.md",
-    "1 Captain's Log/2 Weekly/2023 - W44 - Oct.md",
-    "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
-    "Conferences and Funding.md",
-    "001 Workstation.md",
-    "1 Captain's Log/1 Daily/2023-11-27 Mon.md",
-    "1 Captain's Log/1 Daily/2023-11-28 Tue.md",
     "3 Alexandria/Research",
     "3 Alexandria",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
@@ -250,7 +251,6 @@
     "Files/Pasted Image 20231110103235_965.png",
     "Files/Carbon Tax-1.pdf",
     "Files/Carbon Tax.pdf",
-    "2 Research",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Regrowth in Amazonia.canvas",
     "20 Python MOC.canvas",
     "2 Literature/Regrowth/Regrowth literature.canvas",

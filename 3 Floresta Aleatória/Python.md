@@ -4,7 +4,7 @@ up:
 stardate: Sep 30th 2023
 update: Oct 8th 2023
 ---
-
+p
 ## First steps
 - Always have a virtual environment. Conda is a sort of a manager for packages and virtual environments, but it's unnecessary - everything can be managed easily with pip and venv.
 
@@ -23,7 +23,7 @@ python3 -m venv forest_regrowth_env
 python3 -m venv venv --system-site-packages 
 
 #activate it 
-source project_env/bin/activate
+source venv/bin/activate
 
 
 #to show only packages installed in this specific environment

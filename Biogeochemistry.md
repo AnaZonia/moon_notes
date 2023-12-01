@@ -16,6 +16,7 @@ update: Oct 8th 2023
 
 
 
+
 ## People
 ```dataview
 TABLE WITHOUT ID link(file.link, file.name), location
