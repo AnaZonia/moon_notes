@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Floresta Aleatória/Landscapes and Human Health.md",
+                "file": "Rolling ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-12-01 Fri.md"
+                "file": "Rolling ideas.md"
               }
             }
           },
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-12-01 Fri.md",
+                "file": "Rolling ideas.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-12-01 Fri.md",
+                "file": "Rolling ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +200,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8d39271ab38559ad",
+  "active": "3f75f00f7630cc73",
   "lastOpenFiles": [
     "3 Floresta Aleatória/Landscapes and Human Health.md",
     "1 Captain's Log/1 Daily/2023-12-01 Fri.md",
