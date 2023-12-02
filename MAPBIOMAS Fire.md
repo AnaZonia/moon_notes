@@ -17,3 +17,4 @@ at-a-glance: NBR Landsat, ground-truthed with fire scars (deep learning)
 
 [method](https://brasil.mapbiomas.org/en/metodo-mapbiomas-fogo/)
 
+The burning frequency data was produced from the grouping of the burned area in each year, running on a single map with 38 classes for the en

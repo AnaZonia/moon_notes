@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Post Growth Life After Capitalism.md",
+                "file": "MAPBIOMAS Fire.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       {
         "id": "6b3e5e477cb16920",
         "type": "tabs",
-        "dimension": 46.69117647058824,
+        "dimension": 46.691176470588246,
         "children": [
           {
             "id": "9f7f1373e05d036e",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Post Growth Life After Capitalism.md"
+                "file": "MAPBIOMAS Fire.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Post Growth Life After Capitalism.md",
+                "file": "MAPBIOMAS Fire.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Post Growth Life After Capitalism.md",
+                "file": "MAPBIOMAS Fire.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
       {
         "id": "3dbac5c2f60b2e8e",
         "type": "tabs",
-        "dimension": 53.30882352941176,
+        "dimension": 53.308823529411754,
         "children": [
           {
             "id": "f6a230dcc8184e2d",
@@ -200,6 +200,7 @@
   },
   "active": "3f75f00f7630cc73",
   "lastOpenFiles": [
+    "Fire.md",
     "Economics.md",
     "Famine, Affluence and Morality.md",
     "Philosophy.md",
@@ -225,7 +226,6 @@
     "Biodiversity exchange in the tropics.md",
     "3 Alexandria/Research/antonelliAmazoniaPrimarySource2018.md",
     "Biodiversity.md",
-    "Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.md",
     "Files/Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.pdf",
     "3 Alexandria/Research",
     "3 Alexandria",
