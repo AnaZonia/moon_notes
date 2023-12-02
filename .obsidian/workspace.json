@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rolling ideas.md",
+                "file": "Ecosystem Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a19b1799f367c1ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c95255d873cb144c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Predicting Regrowth in the Amazon - Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,13 +83,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -88,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rolling ideas.md"
+                "file": "Predicting Regrowth in the Amazon - Project.md"
               }
             }
           },
@@ -98,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rolling ideas.md",
+                "file": "Predicting Regrowth in the Amazon - Project.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rolling ideas.md",
+                "file": "Predicting Regrowth in the Amazon - Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "3dbac5c2f60b2e8e",
@@ -200,10 +216,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3f75f00f7630cc73",
+  "active": "c95255d873cb144c",
   "lastOpenFiles": [
+    "001 Workstation.md",
     "3 Floresta Aleatória/Landscapes and Human Health.md",
+    "Ecosystem Services.md",
+    "200 Life Sciences.md",
+    "Predicting Regrowth in the Amazon - Project.md",
     "1 Captain's Log/1 Daily/2023-12-01 Fri.md",
+    "Rolling ideas.md",
     "3 Floresta Aleatória/Python.md",
     "1 Captain's Log/1 Daily/2023-11-30 Thu.md",
     "1 Captain's Log/1 Daily/2023-11-29 Wed.md",
@@ -224,11 +245,6 @@
     "TerraClimate.md",
     "Cumulative Water Deficit.md",
     "Evapotranspiration.md",
-    "Climate Research Unit (CRU).md",
-    "Chave 2014.md",
-    "Global Aridity Index and Potential Evapotranspiration Database.md",
-    "Rolling ideas.md",
-    "Latent Heat Flux.md",
     "3 Alexandria/Research",
     "3 Alexandria",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
