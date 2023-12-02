@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Ecosystem Services]]"
+  - "[[Disease and Health]]"
 authors:
   - "[[Richetts, Taylor]]"
 type:

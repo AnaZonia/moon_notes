@@ -13,25 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecosystem Services.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a19b1799f367c1ee",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c95255d873cb144c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Predicting Regrowth in the Amazon - Project.md",
+                "file": "Post Growth Life After Capitalism.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "peter singer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Predicting Regrowth in the Amazon - Project.md"
+                "file": "Post Growth Life After Capitalism.md"
               }
             }
           },
@@ -114,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predicting Regrowth in the Amazon - Project.md",
+                "file": "Post Growth Life After Capitalism.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Predicting Regrowth in the Amazon - Project.md",
+                "file": "Post Growth Life After Capitalism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,14 +198,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c95255d873cb144c",
+  "active": "3f75f00f7630cc73",
   "lastOpenFiles": [
-    "001 Workstation.md",
+    "Economics.md",
+    "Famine, Affluence and Morality.md",
+    "Philosophy.md",
+    "Post Growth Life After Capitalism.md",
     "3 Floresta Aleatória/Landscapes and Human Health.md",
-    "Ecosystem Services.md",
-    "200 Life Sciences.md",
-    "Predicting Regrowth in the Amazon - Project.md",
     "1 Captain's Log/1 Daily/2023-12-01 Fri.md",
+    "Ecosystem Services.md",
+    "Disease and Health.md",
+    "Predicting Regrowth in the Amazon - Project.md",
+    "001 Workstation.md",
+    "200 Life Sciences.md",
     "Rolling ideas.md",
     "3 Floresta Aleatória/Python.md",
     "1 Captain's Log/1 Daily/2023-11-30 Thu.md",
@@ -240,11 +227,6 @@
     "Biodiversity.md",
     "Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.md",
     "Files/Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.pdf",
-    "002 Data Sources.md",
-    "RESOLVE Ecoregions.md",
-    "TerraClimate.md",
-    "Cumulative Water Deficit.md",
-    "Evapotranspiration.md",
     "3 Alexandria/Research",
     "3 Alexandria",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
