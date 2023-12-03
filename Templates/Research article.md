@@ -18,19 +18,20 @@ at-a-glance: ""
 >[!quote] Cited
 #### Authors:
 {% for t in creators %}[[{{t.lastName}}, {{t.firstName}}]]{% if not loop.last %}, {% endif %}{% endfor %}
+
 #### Notes:
-{% for annotation in annotations -%} {%- if annotation.annotatedText -%} {% if 'Green' in annotation.colorCategory %} 
-> <span style="color: #90EE90">{{ annotation.annotatedText }}</span> 
-
-{% elif 'Red' in annotation.colorCategory %} 
-
-> <span style="color: #FFC0CB">{{ annotation.annotatedText }}</span>
-
-{% elif 'Yellow' in annotation.colorCategory %}
-
- > <span style="color: #F9E076">{{ annotation.annotatedText }}</span>
-
-{% else %} 
- > <span style="color: #ADD8E6"> {{ annotation.annotatedText }}</span> 
-
-{% endif %}{%- endif %} {% endfor %}
+{% set seen_texts = [] %}
+{% for annotation in annotations -%}
+  {%- if annotation.annotatedText and annotation.annotatedText not in seen_texts -%}
+    {% set seen_texts = seen_texts + [annotation.annotatedText] %}
+    {% if 'Green' in annotation.colorCategory %}
+      > <span style="color: #90EE90">{{ annotation.annotatedText }}</span>
+    {% elif 'Red' in annotation.colorCategory %}
+    > <span style="color: #FFC0CB">{{ annotation.annotatedText }}</span>
+    {% elif 'Yellow' in annotation.colorCategory %}
+      > <span style="color: #F9E076">{{ annotation.annotatedText }}</span>
+    {% else %}
+      > <span style="color: #ADD8E6">{{ annotation.annotatedText }}</span>
+    {% endif %}
+  {%- endif %}
+{% endfor %}

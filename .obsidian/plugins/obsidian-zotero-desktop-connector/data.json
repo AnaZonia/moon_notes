@@ -14,7 +14,7 @@
   "exportFormats": [
     {
       "name": "Import Paper",
-      "outputPathTemplate": "3 Alexandria/Research/{{citekey}}.md",
+      "outputPathTemplate": "2 Research/{{citekey}}.md",
       "imageOutputPathTemplate": "Files/{{citekey}}/",
       "imageBaseNameTemplate": "{{citekey}}",
       "templatePath": "Templates/Research article.md"
