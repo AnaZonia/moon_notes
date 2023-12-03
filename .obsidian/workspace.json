@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAPBIOMAS Fire.md",
+                "file": "3 Alexandria/Research/antonelliAmazoniaPrimarySource2018.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f1ed6950d7090e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Alexandria/Research/dailyEcosystemServicesDecision2009.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAPBIOMAS Fire.md"
+                "file": "3 Alexandria/Research/dailyEcosystemServicesDecision2009.md"
               }
             }
           },
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAPBIOMAS Fire.md",
+                "file": "3 Alexandria/Research/dailyEcosystemServicesDecision2009.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAPBIOMAS Fire.md",
+                "file": "3 Alexandria/Research/dailyEcosystemServicesDecision2009.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +211,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3f75f00f7630cc73",
+  "active": "73760276f664cd91",
   "lastOpenFiles": [
+    "3 Alexandria/Research/antonelliAmazoniaPrimarySource2018.md",
+    "3 Alexandria/Research/dailyEcosystemServicesDecision2009.md",
+    "Templates/Research article.md",
+    "MAPBIOMAS LULC.md",
+    "MAPBIOMAS Fire.md",
     "Fire.md",
     "Economics.md",
     "Famine, Affluence and Morality.md",
@@ -221,11 +239,6 @@
     "Github.md",
     "1 Captain's Log/2 Weekly/2024 - W01 - Jan.md",
     "1 Captain's Log/2 Weekly/2023 - W48 - Nov.md",
-    "Biogeochemistry.md",
-    "Mycorrhizal Distributions Impact Global Patterns of Carbon and Nutrient Cycling.md",
-    "Biodiversity exchange in the tropics.md",
-    "3 Alexandria/Research/antonelliAmazoniaPrimarySource2018.md",
-    "Biodiversity.md",
     "Files/Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.pdf",
     "3 Alexandria/Research",
     "3 Alexandria",
