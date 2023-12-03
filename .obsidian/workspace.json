@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "97e8033211fd3284",
+        "id": "efba7b021433a924",
         "type": "tabs",
         "children": [
           {
-            "id": "3f75f00f7630cc73",
+            "id": "7b9d5eb6b14cc20f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Research article.md",
+                "file": "MAPBIOMAS LULC.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Research article.md"
+                "file": "MAPBIOMAS LULC.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Research article.md",
+                "file": "MAPBIOMAS LULC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Research article.md",
+                "file": "MAPBIOMAS LULC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "3dbac5c2f60b2e8e",
@@ -165,12 +165,12 @@
             }
           },
           {
-            "id": "8d39271ab38559ad",
+            "id": "3f75f00f7630cc73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-12-01 Fri.md",
+                "file": "1 Captain's Log/1 Daily/2023-12-03 Sun.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,14 +198,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3f75f00f7630cc73",
+  "active": "7b9d5eb6b14cc20f",
   "lastOpenFiles": [
-    "2 Research/antonelliAmazoniaPrimarySource2018.md",
+    "1 Captain's Log/1 Daily/2023-12-03 Sun.md",
+    "Templates/Captain's Log.md",
+    "1 Captain's Log/1 Daily/2023-12-04 Mon.md",
+    "1 Captain's Log/1 Daily/2023-12-05 Tue.md",
+    "1 Captain's Log/1 Daily/2023-12-01 Fri.md",
+    "1 Captain's Log/1 Daily/2023-12-02 Sat.md",
+    "MAPBIOMAS LULC.md",
     "Templates/Research article.md",
+    "2 Research/antonelliAmazoniaPrimarySource2018.md",
     "2 Research/dailyEcosystemServicesDecision2009.md",
     "3 Alexandria/Research/antonelliAmazoniaPrimarySource2018.md",
     "3 Alexandria/Research/dailyEcosystemServicesDecision2009.md",
-    "MAPBIOMAS LULC.md",
     "MAPBIOMAS Fire.md",
     "Fire.md",
     "Economics.md",
@@ -213,7 +219,6 @@
     "Philosophy.md",
     "Post Growth Life After Capitalism.md",
     "3 Floresta Aleatória/Landscapes and Human Health.md",
-    "1 Captain's Log/1 Daily/2023-12-01 Fri.md",
     "Ecosystem Services.md",
     "Disease and Health.md",
     "Predicting Regrowth in the Amazon - Project.md",
@@ -221,11 +226,6 @@
     "200 Life Sciences.md",
     "Rolling ideas.md",
     "3 Floresta Aleatória/Python.md",
-    "1 Captain's Log/1 Daily/2023-11-30 Thu.md",
-    "1 Captain's Log/1 Daily/2023-11-29 Wed.md",
-    "Computers and Bash.md",
-    "Google Earth Engine.md",
-    "Github.md",
     "Files/Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.pdf",
     "3 Alexandria/Research",
     "3 Alexandria",

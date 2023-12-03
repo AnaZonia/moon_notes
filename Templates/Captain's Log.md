@@ -6,9 +6,8 @@ tags:
 
 ## Daily report
 
-### Daily review
-## Make it so
+
+### Make it so
 
 
-## Self
 
