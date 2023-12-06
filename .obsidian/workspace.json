@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W49 - Dec.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W35 - Aug.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-12-03 Sun.md"
+                "file": "1 Captain's Log/2 Weekly/2023 - W35 - Aug.md"
               }
             }
           },
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-12-03 Sun.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W35 - Aug.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-12-03 Sun.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W35 - Aug.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,10 +198,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3f75f00f7630cc73",
+  "active": "7b9d5eb6b14cc20f",
   "lastOpenFiles": [
-    "1 Captain's Log/2 Weekly/2023 - W49 - Dec.md",
+    "Files/Screenshot 2023-09-05 170257.png",
+    "1 Captain's Log/2 Weekly/2023 - W35 - Aug.md",
+    "1 Captain's Log/2 Weekly/2023 - W34 - Aug.md",
+    "1 Captain's Log/2 Weekly/2023 - W33 - Aug.md",
+    "1 Captain's Log/2 Weekly/2023 - W31 - Aug.md",
+    "1 Captain's Log/2 Weekly/2023 - W32 - Aug.md",
+    "1 Captain's Log/2 Weekly/2023 - W51 - Dec.md",
+    "1 Captain's Log/2 Weekly/2023 - W40 - Oct.md",
+    "1 Captain's Log/2 Weekly/2023 - W41 - Oct.md",
+    "1 Captain's Log/2 Weekly/2023 - W39 - Sep.md",
+    "1 Captain's Log/2 Weekly/2023 - W46 - Nov.md",
+    "1 Captain's Log/2 Weekly/2023 - W45 - Nov.md",
     "1 Captain's Log/2 Weekly/2023 - W48 - Nov.md",
+    "1 Captain's Log/2 Weekly/2023 - W49 - Dec.md",
     "1 Captain's Log/1 Daily/2023-12-03 Sun.md",
     "1 Captain's Log/1 Daily/2023-12-04 Mon.md",
     "MAPBIOMAS LULC.md",
@@ -215,18 +226,6 @@
     "2 Research/dailyEcosystemServicesDecision2009.md",
     "3 Alexandria/Research/antonelliAmazoniaPrimarySource2018.md",
     "3 Alexandria/Research/dailyEcosystemServicesDecision2009.md",
-    "MAPBIOMAS Fire.md",
-    "Fire.md",
-    "Economics.md",
-    "Famine, Affluence and Morality.md",
-    "Philosophy.md",
-    "Post Growth Life After Capitalism.md",
-    "3 Floresta Aleatória/Landscapes and Human Health.md",
-    "Ecosystem Services.md",
-    "Disease and Health.md",
-    "Predicting Regrowth in the Amazon - Project.md",
-    "001 Workstation.md",
-    "200 Life Sciences.md",
     "Files/Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.pdf",
     "3 Alexandria/Research",
     "3 Alexandria",
