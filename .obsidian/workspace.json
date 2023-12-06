@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W35 - Aug.md",
+                "file": "Panamá - comunidades de Piedra y Piura.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -86,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W35 - Aug.md"
+                "file": "Panamá - comunidades de Piedra y Piura.md"
               }
             }
           },
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W35 - Aug.md",
+                "file": "Panamá - comunidades de Piedra y Piura.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/2 Weekly/2023 - W35 - Aug.md",
+                "file": "Panamá - comunidades de Piedra y Piura.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 492.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,8 +202,13 @@
   },
   "active": "7b9d5eb6b14cc20f",
   "lastOpenFiles": [
-    "Files/Screenshot 2023-09-05 170257.png",
+    "Ecosystem Services.md",
+    "Panamá - comunidades de Piedra y Piura.md",
+    "200 Life Sciences.md",
+    "Google Earth Engine.md",
     "1 Captain's Log/2 Weekly/2023 - W35 - Aug.md",
+    "Files/Screenshot 2023-09-05 192100.png",
+    "Files/Screenshot 2023-09-05 170257.png",
     "1 Captain's Log/2 Weekly/2023 - W34 - Aug.md",
     "1 Captain's Log/2 Weekly/2023 - W33 - Aug.md",
     "1 Captain's Log/2 Weekly/2023 - W31 - Aug.md",
@@ -223,9 +230,6 @@
     "1 Captain's Log/1 Daily/2023-12-02 Sat.md",
     "Templates/Research article.md",
     "2 Research/antonelliAmazoniaPrimarySource2018.md",
-    "2 Research/dailyEcosystemServicesDecision2009.md",
-    "3 Alexandria/Research/antonelliAmazoniaPrimarySource2018.md",
-    "3 Alexandria/Research/dailyEcosystemServicesDecision2009.md",
     "Files/Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.pdf",
     "3 Alexandria/Research",
     "3 Alexandria",
@@ -244,8 +248,6 @@
     "Files/Pasted Image 20231110105425_134.jpg",
     "Files/Pasted Image 20231110104222_291.jpg",
     "Files/Pasted Image 20231110104152_275.jpg",
-    "Files/Pasted Image 20231110103335_997.jpg",
-    "Files/Pasted Image 20231110103235_965.png",
     "Files/Carbon Tax-1.pdf",
     "Files/Carbon Tax.pdf",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Regrowth in Amazonia.canvas",
