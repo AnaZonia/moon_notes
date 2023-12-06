@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAPBIOMAS LULC.md",
+                "file": "1 Captain's Log/2 Weekly/2023 - W49 - Dec.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5,
-    "collapsed": true
+    "width": 492.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,10 +201,12 @@
   },
   "active": "3f75f00f7630cc73",
   "lastOpenFiles": [
-    "MAPBIOMAS LULC.md",
+    "1 Captain's Log/2 Weekly/2023 - W49 - Dec.md",
+    "1 Captain's Log/2 Weekly/2023 - W48 - Nov.md",
     "1 Captain's Log/1 Daily/2023-12-03 Sun.md",
-    "Templates/Captain's Log.md",
     "1 Captain's Log/1 Daily/2023-12-04 Mon.md",
+    "MAPBIOMAS LULC.md",
+    "Templates/Captain's Log.md",
     "1 Captain's Log/1 Daily/2023-12-05 Tue.md",
     "1 Captain's Log/1 Daily/2023-12-01 Fri.md",
     "1 Captain's Log/1 Daily/2023-12-02 Sat.md",
@@ -226,8 +227,6 @@
     "Predicting Regrowth in the Amazon - Project.md",
     "001 Workstation.md",
     "200 Life Sciences.md",
-    "Rolling ideas.md",
-    "3 Floresta Aleatória/Python.md",
     "Files/Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.pdf",
     "3 Alexandria/Research",
     "3 Alexandria",
