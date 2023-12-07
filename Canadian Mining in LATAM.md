@@ -1,6 +1,7 @@
 ---
 up:
   - "[[Climate Change]]"
+  - "[[Critical Ecology]]"
 stardate: Oct 2nd 2023
 update: Oct 2nd 2023
 type:
@@ -8,6 +9,9 @@ type:
 tags:
   - tribble
 ---
+[The “Canada Brand”: Violence and Canadian Mining Companies in Latin America - Justice & Corporate Accountability Project](https://justice-project.org/the-canada-brand-violence-and-canadian-mining-companies-in-latin-america/)
+
+
 # Story
 Educated professionals of the Global North have great power to help change the course of the climate crisis - and with this power, comes responsibility.
 

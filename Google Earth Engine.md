@@ -43,8 +43,9 @@ Every image is a feature, but not every feature is an image.
 - A lot of resources come in javascript
 - The js in the code editor is easy to learn
 - Visualization works better and faster
-- 
 
+
+[Coding Best Practices  |  Google Earth Engine  |  Google for Developers](https://developers.google.com/earth-engine/guides/best_practices)
 
 [Cloud-Based Remote Sensing with Google Earth Engine: Fundamentals and Applications](https://www.eefabook.org/go-to-the-book.html) Chapters 1-5
 	- [​Chapter Summary Videos (eefabook.org)](https://www.eefabook.org/videos.html)
@@ -54,11 +55,13 @@ Every image is a feature, but not every feature is an image.
 [Analyzing the Amazon Deforestation with ML and Google Earth – Part 1 | AI FOR GOOD DISCOVERY - YouTube](https://www.youtube.com/watch?v=C4IU21rjO3k)
 
 ## Python API
+[mod4\_1\_time\_series\_charts.ipynb - Colaboratory](https://colab.research.google.com/github/worldbank/OpenNightLights/blob/master/onl/tutorials/mod4_1_time_series_charts.ipynb#scrollTo=dBUTbuWMH7I6)
 ### geemap
 - [geemap](https://geemap.org/)
-- [A collection of 300+ examples for using Earth Engine and the geemap Python package](https://github.com/giswqs/earthengine-py-examples)
+- [GitHub - google/earthengine-community at 6801dd2d05d1cd6a44d8c86131accda657c253ce](https://github.com/google/earthengine-community/tree/6801dd2d05d1cd6a44d8c86131accda657c253ce)
 - [Earth Engine Python API](https://developers.google.com/earth-engine/tutorials/community/intro-to-python-api)
-
+- [GitHub - giswqs/earthengine-py-examples: A collection of 300+ examples for using Earth Engine and the geemap Python package](https://github.com/giswqs/earthengine-py-examples/tree/master)
+- [04 using basemaps - GEE Courses](https://courses.geemap.org/geemap_intro/04_using_basemaps/#introduction)
 ## rgee
 - [Using Google Earth Engine with R](https://www.css.cornell.edu/faculty/dgr2/_static/files/R_html/ex_rgee.html)
 - [Introduction to Google Earth Engine with R language - YouTube](https://www.youtube.com/watch?v=SHXuIpjU3YE)

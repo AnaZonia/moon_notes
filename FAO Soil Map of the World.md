@@ -10,3 +10,5 @@ Obtained from soil surveys, field observation. Physiography, vegetation, climate
 
 ![[FAO Soil Map of the World.png]]
 ![[FAO Soil Map of the World-1.png]]
+
+![](https://i.imgur.com/1iarI4H.png)

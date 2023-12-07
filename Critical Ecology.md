@@ -7,6 +7,7 @@ url: https://criticalecologylab.weebly.com/
 ---
 Led by Dr. Suzanne Pierre, it's an emerging field on the relationships between social effects (history, extractivism) on the environment. The idea is to connect social injustice to environmental injustice.
 - [[Developed Countries]]
+- [[Canadian Mining in LATAM]]
 
 ## Articles
 ```dataview
