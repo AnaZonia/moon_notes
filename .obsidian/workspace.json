@@ -11,8 +11,12 @@
             "id": "4146429193043eb9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1 Captain's Log/3 Monthly/2023-12.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-12-03 Sun.md"
+                "file": "1 Captain's Log/3 Monthly/2023-12.md"
               }
             }
           },
@@ -92,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-12-03 Sun.md",
+                "file": "1 Captain's Log/3 Monthly/2023-12.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -109,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-12-03 Sun.md",
+                "file": "1 Captain's Log/3 Monthly/2023-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +135,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "3dbac5c2f60b2e8e",
@@ -193,8 +198,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3f75f00f7630cc73",
+  "active": "4146429193043eb9",
   "lastOpenFiles": [
+    "2 Research/cunhaDirectEvidencePhosphorus2022.md",
+    "1 Captain's Log/3 Monthly/2023-12.md",
+    "2 Research/aragaoSpatialPatternsFire2007.md",
+    "Malaria.md",
+    "Disease and Health.md",
+    "Dengue.md",
+    "1 Captain's Log/1 Daily/2023-12-03 Sun.md",
     "REBRE - Rede Brasileira de Restauração Ecológica.md",
     "Google Earth Engine.md",
     "2 Research/albertHumanImpactsOutpace2023.md",
@@ -209,8 +221,6 @@
     "Rolling ideas.md",
     "300 Doing Science.md",
     "400 Interests.md",
-    "Dengue.md",
-    "Disease and Health.md",
     "Evapotranspiration.md",
     "FAO Soil Map of the World.md",
     "RESOLVE Ecoregions.md",
@@ -218,13 +228,8 @@
     "001 Workstation.md",
     "Agroforestry.md",
     "Nutrition from the forest.md",
-    "Malaria.md",
-    "1 Captain's Log/1 Daily/2023-12-03 Sun.md",
     "3 Floresta Aleatória/Data Visualization.md",
     "Aliança pela Restauração da Amazônia.md",
-    "003 People and Networks.md",
-    "Canadian Mining in LATAM.md",
-    "Critical Ecology.md",
     "Files/Screenshot 2023-09-05 192100.png",
     "Files/Screenshot 2023-09-05 170257.png",
     "Files/Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.pdf",
