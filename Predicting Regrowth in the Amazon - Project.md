@@ -32,3 +32,20 @@ Arguing for importance
 ## Methods
 Using GEDI and ICESAT with regrowth in amazon
 [[milenkovicAssessingAmazonRainforest2022a]]
+
+  
+- write methods/unite methods notes  
+What is all that will come into the model?  
+What can I get from talking to Catherine?  
+Running the model across the basin - main thing  
+Disease stuff - secondary  
+  
+- run analysis on small subset  
+CWD, last land use, number of fires  
+Run some stats on this data  
+  
+Everything else coming up:  
+- vapor pressure deficit  
+- evapotranspiration  
+- seasonality  
+-  

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/3 Monthly/2023-12.md",
+                "file": "Predicting Regrowth in the Amazon - Project.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/3 Monthly/2023-12.md"
+                "file": "Predicting Regrowth in the Amazon - Project.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/3 Monthly/2023-12.md",
+                "file": "Predicting Regrowth in the Amazon - Project.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/3 Monthly/2023-12.md",
+                "file": "Predicting Regrowth in the Amazon - Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,8 +200,9 @@
   },
   "active": "4146429193043eb9",
   "lastOpenFiles": [
-    "2 Research/cunhaDirectEvidencePhosphorus2022.md",
+    "001 Workstation.md",
     "1 Captain's Log/3 Monthly/2023-12.md",
+    "2 Research/cunhaDirectEvidencePhosphorus2022.md",
     "2 Research/aragaoSpatialPatternsFire2007.md",
     "Malaria.md",
     "Disease and Health.md",
@@ -225,7 +226,6 @@
     "FAO Soil Map of the World.md",
     "RESOLVE Ecoregions.md",
     "Incorporating Biodiversity - Project.md",
-    "001 Workstation.md",
     "Agroforestry.md",
     "Nutrition from the forest.md",
     "3 Floresta Aleatória/Data Visualization.md",
