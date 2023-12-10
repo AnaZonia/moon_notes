@@ -16,7 +16,7 @@
   },
   "monthly": {
     "format": "",
-    "template": "Templates/Captain's Log - Review.md",
+    "template": "",
     "folder": "1 Captain's Log/3 Monthly",
     "enabled": true
   },
@@ -28,6 +28,7 @@
   "yearly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "1 Captain's Log/3 Monthly",
+    "enabled": true
   }
 }
