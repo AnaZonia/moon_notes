@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-12-10 Sun.md",
+                "file": "1 Captain's Log/1 Daily/2023-12-11 Mon.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -79,7 +78,7 @@
       {
         "id": "6b3e5e477cb16920",
         "type": "tabs",
-        "dimension": 21.521997621878715,
+        "dimension": 40.49079754601227,
         "children": [
           {
             "id": "9f7f1373e05d036e",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-12-10 Sun.md"
+                "file": "1 Captain's Log/1 Daily/2023-12-11 Mon.md"
               }
             }
           },
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-12-10 Sun.md",
+                "file": "1 Captain's Log/1 Daily/2023-12-11 Mon.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/1 Daily/2023-12-10 Sun.md",
+                "file": "1 Captain's Log/1 Daily/2023-12-11 Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
       {
         "id": "3dbac5c2f60b2e8e",
         "type": "tabs",
-        "dimension": 78.47800237812127,
+        "dimension": 59.50920245398773,
         "children": [
           {
             "id": "f6a230dcc8184e2d",
@@ -182,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5,
-    "collapsed": true
+    "width": 406.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,14 +195,20 @@
       "digitalgarden:Digital Garden Publication Center": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-gallery:Gallery": false
     }
   },
   "active": "4146429193043eb9",
   "lastOpenFiles": [
-    "1 Captain's Log/1 Daily/2023-12-03 Sun.md",
-    "1 Captain's Log/3 Monthly/2024.md",
     "1 Captain's Log/1 Daily/2023-12-10 Sun.md",
+    "1 Captain's Log/1 Daily/2023-12-11 Mon.md",
+    "1 Captain's Log/1 Daily/2023-12-03 Sun.md",
+    "400 Interests.md",
+    "Outreach.md",
+    "Canadian Mining in LATAM.md",
+    "300 Doing Science.md",
+    "1 Captain's Log/3 Monthly/2024.md",
     "1 Captain's Log/3 Monthly/2023-12.md",
     "Monthly AET - USGS.md",
     "1 Captain's Log/1 Daily/2023-12-05 Tue.md",
@@ -216,7 +220,6 @@
     "Untitled.md",
     "001 Workstation.md",
     "History.md",
-    "400 Interests.md",
     "Vapor Pressure Deficit.md",
     "Evapotranspiration.md",
     "Vapor Pressure.md",
@@ -224,10 +227,6 @@
     "2 Research/aragaoSpatialPatternsFire2007.md",
     "Malaria.md",
     "Disease and Health.md",
-    "Dengue.md",
-    "REBRE - Rede Brasileira de Restauração Ecológica.md",
-    "Google Earth Engine.md",
-    "2 Research/albertHumanImpactsOutpace2023.md",
     "Files/albertHumanImpactsOutpace2023/albertHumanImpactsOutpace2023-7-x208-y386.jpg",
     "Files/albertHumanImpactsOutpace2023/Agent-Based Modelling-1.jpg",
     "Files/albertHumanImpactsOutpace2023/Agent-Based Modelling.jpg",
