@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Captain's Log/3 Monthly/2024.md",
+                "file": "1 Captain's Log/1 Daily/2023-12-10 Sun.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
       {
         "id": "6b3e5e477cb16920",
         "type": "tabs",
-        "dimension": 46.691176470588246,
+        "dimension": 21.521997621878715,
         "children": [
           {
             "id": "9f7f1373e05d036e",
@@ -87,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Captain's Log/3 Monthly/2024.md"
+                "file": "1 Captain's Log/1 Daily/2023-12-10 Sun.md"
               }
             }
           },
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Captain's Log/3 Monthly/2024.md",
+                "file": "1 Captain's Log/1 Daily/2023-12-10 Sun.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Captain's Log/3 Monthly/2024.md",
+                "file": "1 Captain's Log/1 Daily/2023-12-10 Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
       {
         "id": "3dbac5c2f60b2e8e",
         "type": "tabs",
-        "dimension": 53.308823529411754,
+        "dimension": 78.47800237812127,
         "children": [
           {
             "id": "f6a230dcc8184e2d",
@@ -182,7 +182,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 492.5
+    "width": 492.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,10 +202,11 @@
   },
   "active": "4146429193043eb9",
   "lastOpenFiles": [
+    "1 Captain's Log/1 Daily/2023-12-03 Sun.md",
+    "1 Captain's Log/3 Monthly/2024.md",
+    "1 Captain's Log/1 Daily/2023-12-10 Sun.md",
     "1 Captain's Log/3 Monthly/2023-12.md",
     "Monthly AET - USGS.md",
-    "1 Captain's Log/3 Monthly/2024.md",
-    "1 Captain's Log/1 Daily/2023-12-03 Sun.md",
     "1 Captain's Log/1 Daily/2023-12-05 Tue.md",
     "1 Captain's Log/1 Daily/2023-12-04 Mon.md",
     "1 Captain's Log/2 Weekly/2023 - W49 - Dec.md",
@@ -226,7 +228,6 @@
     "REBRE - Rede Brasileira de Restauração Ecológica.md",
     "Google Earth Engine.md",
     "2 Research/albertHumanImpactsOutpace2023.md",
-    "Agent-Based Modelling.md",
     "Files/albertHumanImpactsOutpace2023/albertHumanImpactsOutpace2023-7-x208-y386.jpg",
     "Files/albertHumanImpactsOutpace2023/Agent-Based Modelling-1.jpg",
     "Files/albertHumanImpactsOutpace2023/Agent-Based Modelling.jpg",
