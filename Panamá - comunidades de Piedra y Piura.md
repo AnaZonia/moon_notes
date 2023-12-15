@@ -3,6 +3,8 @@ up:
   - "[[Ecosystem Services]]"
 stardate: Dec 6th 2023
 update: Dec 6th 2023
+aliases:
+  - ENVR 451
 ---
 - 4 estudiantes de las universidades publicas de panama, 18 de mcgill.
 - Santa Fe es un valle del Río Santa Maria.
@@ -28,3 +30,23 @@ update: Dec 6th 2023
 	- que quiere decir transparencia?
 
 - es bueno que saquemos datos de allá.
+
+### Plan de Manejo Integral Comunitario
+- March 2nd - April 1st - Internship
+- Fundación Hector Gallegos coordena a los projectos.
+	- Eric Concepción (comunista), Jacinto Peña, Cerviliano Aguillar - veteranos
+- Cooperativa de Turismo - jóvenes de las comunidades que quieren desarollar el turismo local
+	- Odelvis, Ernan Aguillar
+- Otras cooperativas locales de los campesinos.
+*Jovana Shrestha* - Natural Resource Science, Environment. Field experience.
+*Bianca Romero G* - Peruana. Env Econ
+*Laura Symes* - Bio Math
+
+ 
+
+- Symposium - April 3rd in Tupper
+- Proyecto Integrado - April 4th -12th
+
+
+
+
