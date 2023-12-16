@@ -11,6 +11,6 @@ tags:
 - [[Disease and Health]]
 - [[Timber]]
 - [[Agroforestry]]
-- [[Panamá - comunidades de Piedra y Piura]]
+
 
 Look into Taylor Ricketts and Brian Robinson's research.

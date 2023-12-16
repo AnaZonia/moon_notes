@@ -9,7 +9,7 @@
 ## Other ongoing projects
 
 - [[RELAM talk]]
-
+- [[Panamá - comunidades de Piedra y Piura]]
 ## Articles on progress
 ```dataview
 TABLE WITHOUT ID link(file.link, file.name) AS "Title", up AS "Topic"

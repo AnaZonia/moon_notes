@@ -14,6 +14,7 @@ at-a-glance: "Updated [[FUN]] by introducing P dynamics"
  [[Costa Rica]] [[Nitrogen]] [[Phosphorus]] [[Biogeochemistry]]
 
 >[!summary] Summary
+>Phosphorus limitation reduces 
 
 >[!quote] Cited
 #### Authors:
@@ -71,11 +72,6 @@ Western Amazon has some of the highest leaf resorption rates in the world.
 
 there are deciduous tropical forests
 
-[Nutrient co-limitation of primary producer communities - PubMed](https://pubmed.ncbi.nlm.nih.gov/21749598/)
-
-[Modeling Global Carbon Costs of Plant Nitrogen and Phosphorus Acquisition - Braghiere - 2022 - Journal of Advances in Modeling Earth Systems - Wiley Online Library](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003204)
-
-[Nitrogen and phosphorus constrain the CO2 fertilization of global plant biomass | Nature Climate Change](https://www.nature.com/articles/s41558-019-0545-2)
 ## Conclusions
 
 ![](https://i.imgur.com/yBjbYxX.png)
