@@ -43,3 +43,38 @@ Height, canopy density and biomass are all interesting measures.
 [Geo for Good 2021 : Novel Forest Data & Applications Part 1: GEDI & Obiwan - YouTube](https://www.youtube.com/watch?v=PQwVDnOsqhQ&list=WL&index=12)
 
 ![[Pasted image 20230818220321.png]]
+
+
+## Statistical properties of hybrid estimators proposed for GEDI—NASA’s global ecosystem dynamics investigation - Patterson et al 2019
+
+
+The population parameter of interest is the average of the true AGBD over the N population elements (potential GEDI footprints), where N is the total number of population elements in a grid cell 
+
+There is a parametric model, g(x, α), of AGBD in Mg ha−1 , where x are characteristics of the GEDI waveform for the GEDI footprint, and α is a vector of parameters. 
+
+Performance of other lidar instruments suggests that canopy height and structure metrics derived from GEDI data will be strongly correlated with AGBD. 
+
+In this paper, we propose the use of hybrid inference (Fattorini 2012, Ståhlet al 2016) to estimate mean AGBD, with associated uncertainty, at the level of the GEDI grid cell while explicitly accounting for both field-to-lidar model error as well as sampling uncertainty. 
+
+a sample based estimate of mean AGBD within each grid cell. 
+
+Random sample of clustered observations. 
+
+Variance is estimated as a function of: (1) the number of clustered predicted footprint-level AGBD values and the variability among them, as well as (2) the uncertainty of the parameter estimates used in the footprint-level models. 
+
+Deciduous needleleaf 
+
+Deciduous broadleaf 
+
+Evergreen needleleaf
+
+Evergreen broadleaf (3441 plots) 
+
+Grasses, shrubs and woodlands 
+![[patterson2019.png]]
+
+![[patterson20192.png]]
+
+![[patterson20193.png]]
+
+

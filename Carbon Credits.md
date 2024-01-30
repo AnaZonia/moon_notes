@@ -4,7 +4,12 @@ up:
   - "[[Economics]]"
 stardate: Nov 25th 2023
 update: Nov 25th 2023
+aliases:
+  - carbon offset
 ---
+> If this is not a problem we'll have fixed in 30 years, we will be very screwed. Carbon offsets are supposed to hold things down for only a few years, but not solve the problem forever.
+> - Jeff Hall
+
 
 ## Reports
 ```dataview

@@ -13,21 +13,28 @@ at-a-glance: ""
 
 [[Biodiversity]], [[Regrowth]]
 >[!summary] Summary
+>Compared models, studies on hierarchical basis of succession and community assembly rules. 
+>
 
 >[!quote] Cited
 
 
 #### Authors:
 [[Jakovac, Catarina C.]], [[Junqueira, André B.]], [[Crouzeilles, Renato]], [[Peña‐Claros, Marielos]], [[Mesquita, Rita C. G.]], [[Bongers, Frans]]
-#### Notes:
+## Notes:
 
 
 [[Ecological filtering theory]]
 
 [[Shifting cultivation]]
 
+### Species available for succession depends on the landscape
 
-Compared models, studies on hierarchical basis of succession and community assembly rules. 
+
+
+### What happens at early stages remains for long after succession is done
+
+There is a need to incorporate intensity, extent, duration and frequency of land use, beyond type.
 
 Sites available for succession are defined by socioeconomical and biophysical rules. 
 

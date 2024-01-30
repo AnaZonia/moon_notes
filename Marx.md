@@ -6,8 +6,9 @@ update: Oct 6th 2023
 ---
 
 - [[Materialismo Histórico]]
-
-
+- [[Comunismo]]
+- [[Socialismo]]
+- [[Is Star Trek Communism]]
 ## Books
 ```dataview
 TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author"

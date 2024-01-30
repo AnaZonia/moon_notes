@@ -7,7 +7,7 @@ publisher: "Global Ecology and Biogeography"
 tags:
 url: https://onlinelibrary.wiley.com/doi/abs/10.1111/geb.12417 
 type: lit_note
-at-a-glance: ""
+at-a-glance: "There is a difference between organic and inorganic nitrogen runoff from anthropogenic and natural landscapes "
 
 --- 
 
@@ -16,12 +16,8 @@ authors: [[Gücker, Björn]], [[Silva, Ricky C. S.]], [[Graeber, Daniel]], [[Mon
 
 
 >[!summary] Summary
-> 
+> Data was collected from river N runoff across the southeast and compared cerrado, urban and agriculture inputs
 
-
-Dissolved nutrient exports from natural and human-impacted neotropical catchments
-
-Gucker, 2016
 
 Compare N and P runoff to water in untouched and disturbed land
 
@@ -31,7 +27,7 @@ Organic forms dominated in south/southeast brazil, but this varies a lot across 
 
 Inorg > org runoff tendencies across the neotropics are variable, and there is more org dominance in human affected ecosystems.
 
-inorg N export and concentrations appear to decrease with deforestation and transformation of pristine lands into cattle pasture, but to increase with subsequent crop production.
+==inorg N export and concentrations appear to decrease with deforestation and transformation of pristine lands into cattle pasture, but to increase with subsequent crop production.==
 
 A single case study on massive sugar cane produc- tion in south-eastern Brazil indicates that intensification ofagri- culture in the Neotropics may eventually lead to massive increases in and dominance of DIN exports (Table
 

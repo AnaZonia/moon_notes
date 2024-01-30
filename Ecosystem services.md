@@ -12,5 +12,9 @@ tags:
 - [[Timber]]
 - [[Agroforestry]]
 
-
-Look into Taylor Ricketts and Brian Robinson's research.
+```dataview
+TABLE WITHOUT ID link(file.link, aliases) AS "Title", first-author as "Author", at-a-glance
+FROM [[]] AND -outgoing([[]])
+WHERE contains(type, "lit_note")
+SORT first-author
+```

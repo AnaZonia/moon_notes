@@ -10,7 +10,6 @@ type: lit_note
 at-a-glance: ""
 
 --- 
-#tribble
 
 [[Biomass]], [[Regrowth]], [[Water Stress]]
 >[!summary] Summary

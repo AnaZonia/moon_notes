@@ -7,7 +7,7 @@ publisher: "Science"
 tags:
 url: https://www.science.org/doi/10.1126/science.348.6235.642-c 
 type: lit_note
-at-a-glance: "Secondary and logged forests are important for carbon mitigation"
+at-a-glance: "Small article overviewing how secondary and logged forests are important for carbon mitigation"
 
 --- 
 [[Amazonia]] [[Climate Change]] [[Regrowth]], [[Timber]]

@@ -10,7 +10,6 @@ type: lit_note
 at-a-glance: ""
 
 --- 
-#tribble
 
  [[Amazonia]]  [[Shifting cultivation|swidden-fallow]] [[Land Use]]
 >[!summary] Summary

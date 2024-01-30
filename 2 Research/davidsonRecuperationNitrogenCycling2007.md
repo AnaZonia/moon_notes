@@ -4,24 +4,44 @@ aliases: ["Recuperation of nitrogen cycling in Amazonian forests following agric
 year: 2007 
 first-author: Davidson, Eric A.
 publisher: "Nature" 
-tags:
+tags:[]
 url: https://www.nature.com/articles/nature05900 
 type: lit_note
-at-a-glance: ""
+at-a-glance: "Secondary tropical forests are N-limited, not P-limited"
 
 --- 
-#tribble
-[[Regrowth]], [[Nitrogen]], [[Phosphorus]]
+
+[[Regrowth]] [[Amazonia]] [[Nitrogen]] [[Phosphorus]] [[Biogeochemistry]]
+
 >[!summary] Summary
+>Similarly to what happens on primary succession, young forests are limited by N and as they age they become N-sufficient and are limited by P.
 
 >[!quote] Cited
-
-**Bibliography:** Davidson, Eric A., Cláudio J. Reis De Carvalho, Adelaine Michela Figueira, Françoise Yoko Ishida, Jean Pierre H. B. Ometto, Gabriela B. Nardoto, Renata Tuma Sabá, et al. ‘Recuperation of Nitrogen Cycling in Amazonian Forests Following Agricultural Abandonment’. _Nature_ 447, no. 7147 (June 2007): 995–98. [https://doi.org/10.1038/nature05900](https://doi.org/10.1038/nature05900). 
-
-[[Amazonia]] [[Biogeochemistry]]   
 #### Authors:
-[[Davidson, Eric A.]], [[De Carvalho, Cláudio J. Reis]], [[Figueira, Adelaine Michela]], [[Ishida, Françoise Yoko]], [[Ometto, Jean Pierre H. B.]], [[Nardoto, Gabriela B.]], [[Sabá, Renata Tuma]], [[Hayashi, Sanae N.]], [[Leal, Eliane C.]], [[Vieira, Ima C. G.|Vieira, Ima Célia G.]], [[Martinelli, Luiz A.]]
+[[Davidson, Eric A.]], [[De Carvalho, Cláudio J. Reis]], [[Figueira, Adelaine Michela]], [[Ishida, Françoise Yoko]], [[Ometto, Jean Pierre H. B.]], [[Nardoto, Gabriela B.]], [[Sabá, Renata Tuma]], [[Hayashi, Sanae N.]], [[Leal, Eliane C.]], [[Vieira, Ima Célia G.]], [[Martinelli, Luiz A.]]
+
 #### Notes:
+
+
+    
+> <span style="color: #F9E076">It is often assumed that P limitation also applies to young tropical forests, but nitrogen (N) losses during land-use change may alter the stoichiometric balance of nutrient cycling processes.</span>
+    
+
+    
+> <span style="color: #90EE90">Here we use forest age chronosequences to demonstrate that young successional forests growing after agricultural abandonment on highly weathered lowland tropical soils exhibit conservative N-cycling properties much like those of N-limited forests on younger soils in temperate latitudes</span>
+    
+
+    
+> <span style="color: #90EE90">As secondary succession progresses, N-cycling properties recover and the dominance of a conservative P cycle typical of mature lowland tropical forests re-emerges.</span>
+    
+
+    
+> <span style="color: #F9E076">the N:P ratios of fine litterfall increased with forest age</span>
+    
+
+    
+> <span style="color: #F9E076">The patterns of N and P cycling shown here for secondary succession parallel those previously demonstrated for primary succession.</span>
+    
 
 Early succ forests are N limited, must use deep soil N. Late succ becomes P limited 
 
@@ -36,6 +56,3 @@ Over time, there is a recuperation of the nitrogen cycling processes that had be
 Once more, argument that there must be use of N at soil depths to maintain the observed rates, it cannot all be fixation. 
 
 Used foliar, litterfall and soil NO3, NH4 as the data
-
-
-%% Import Date: 2023-10-01T15:34:46.871-04:00 %%

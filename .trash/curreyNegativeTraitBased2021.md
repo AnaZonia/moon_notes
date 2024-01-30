@@ -7,11 +7,12 @@ publisher: "Journal of Ecology"
 tags: [model, plots]
 url: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2745.13524 
 type: lit_note
-at-a-glance: ""
+at-a-glance: "Nitrogen fixers reduce biomass accumulation, and the magnitude of the effect depends on the density they are found."
 
 --- 
-#tribble
+
 [[Regrowth]], [[Nitrogen Fixation]], [[Biogeochemistry]], [[Biomass]]
+
 >[!summary] Summary
 
 >[!quote] Cited
@@ -19,6 +20,5 @@ at-a-glance: ""
 #### Authors:
 [[Currey, Bryce]], [[Oatham, Michael P.]], [[Brookshire, E. N. Jack]], [[Thrall, Peter]]
 #### Notes:
-  
-[[Effect of Nitrogen Fixers on Biomass Accumulation]]
+
 %% Import Date: 2023-10-01T17:44:44.522-04:00 %%

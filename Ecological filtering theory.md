@@ -6,4 +6,4 @@ update: Oct 7th 2023
 tags:
   - glossary
 ---
-a species can arrive at a site but cannot tolerate the abiotic conditions present there 
+a species can arrive at a site but may not tolerate the abiotic conditions present there. This means that there is a "filtering" on who is able to establish in an area during succession.

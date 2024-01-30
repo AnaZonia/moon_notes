@@ -19,6 +19,7 @@
 - [[Climate Change]]
 - [[Historical Ecology]]
 - [[Critical Ecology]]
+- [[Human Geography]]
 
 ## Textbooks
 

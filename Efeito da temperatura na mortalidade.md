@@ -5,4 +5,5 @@ stardate: Nov 25th 2023
 update: Nov 25th 2023
 ---
 
-[Árvores da Amazônia estão sendo ameaçadas pelo agravamento do aquecimento global - Brasil Amazônia Agora](https://brasilamazoniaagora.com.br/2023/arvores-da-amazonia-ameacadas/)
+Árvores em regiões mais secas são mais vulneráveis [[bennettSensitivitySouthAmerican2023]] mas toda a região está suscetível a mortalidade durante o El Niño [[doughtyTropicalForestsAre2023]]
+

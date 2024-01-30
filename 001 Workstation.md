@@ -1,10 +1,14 @@
-## PhD
+ ## PhD
 
 1. [[Predicting Regrowth in the Amazon - Project]]
 2. [[Predicting Regrowth in Central America - Project]]
 3. [[Incorporating Biodiversity - Project]]
 
 [[Conferences and Funding]]
+
+[[001 Ana Did Science Today]]
+
+[[Make It So]]
 
 ## Other ongoing projects
 

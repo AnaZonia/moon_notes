@@ -11,6 +11,10 @@ aliases:
 - [[What factors affect fruit production]]
 - [[Nutrition from the forest]]
 
+[Sociobioeconomia de Floresta em Pé: mais que preservação, uma solução econômica viável para desenvolvimento da Amazônia](https://theconversation.com/sociobioeconomia-de-floresta-em-pe-mais-que-preservacao-uma-solucao-economica-viavel-para-desenvolvimento-da-amazonia-220094)
+
+[Pathways from Deforestation to Restoration | NACLA](https://nacla.org/pathways-deforestation-restoration)
+
 ## Books
 ```dataview
 TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author"

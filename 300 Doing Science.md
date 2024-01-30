@@ -2,7 +2,7 @@
 stardate: Oct 20th 2023
 update: Oct 20th 2023
 ---
-- [[Work Habits]]
+
 -  [[Notetaking]]
 - [[Literature Review]]
 - [[Presenting Science]]

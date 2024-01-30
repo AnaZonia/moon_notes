@@ -101,3 +101,13 @@ Ash is the dominant species in temperate forests in europe, and due to a fungal 
 
 Redundancy in temperate forests may mean there is a reducing return to investment as diversity increases? Wondering if this could be a thing in tropical forests - consider how to incorporate this maybe in chapter 2?
 
+## projects
+
+- reforestation in azuero
+- bird-friendly coffee at STRI (article online)
+- marine aquaculture panasea
+- Ipeti carbon offsets
+- agua salud with jeff hall
+- william mahogany 1000 seedlings in the darien
+- andrew coats in gamboa
+- 

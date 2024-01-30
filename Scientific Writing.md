@@ -7,6 +7,7 @@ update: Nov 25th 2023
 
 - [[Writing Science]]
 
+[STeP Science Communication for Science Advice: How to write a Policy Brief - Part 1 (youtube.com)](https://www.youtube.com/watch?v=JroBF_cEccs)
 ### Quarto
 - [Making Pretty PDFs with Quarto | Nicola Rennie](https://nrennie.rbind.io/blog/making-pretty-pdf-quarto/)
 - [Tips for Custom Parameterized PDFs in Quarto | Meghan Hall](https://meghan.rbind.io/blog/quarto-pdfs/)

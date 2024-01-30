@@ -1,6 +1,7 @@
-[Quais leituras devo priorizar? – Sobrevivendo na Ciência (wordpress.com)](https://marcoarmello.wordpress.com/2012/10/25/leituras/)
-
-Would be interesting to use some of Ilya's stuff to find the best literature search pathway for me.
+## To experience a new field
+- Start with seminal papers
+- Understand major definitions and theories
+- Only then look into case-specific studies.
 
 Learn how to use [flowcharts to explore literature](https://effortlessacademic.com/identifying-research-gaps-and-questions-with-chatgpt-and-draw-io/)
 
@@ -22,6 +23,10 @@ Open knowledge maps
 
 [AI Chat for scientific PDFs | SciSpace (typeset.io)](https://typeset.io/?utm_source=twitter-post&utm_medium=organic-social&utm_campaign=citation-interlinking-launch)
 
-[Ilya Shabanov on X: "An academic mind map is like Google Maps for your notes. Effortlessly navigate big projects by seeing everything in one place. Discover 3 ways it benefits scholars: 👇 https://t.co/s2oJwr5I9e" / X (twitter.com)](https://twitter.com/Artifexx/status/1650777930107166720)
 
-[[The difference between a synthesis and a review]]
+```dataview
+TABLE WITHOUT ID link(file.link, aliases) AS "Title", first-author as "Author", at-a-glance
+FROM [[]] AND -outgoing([[]])
+WHERE contains(type, "lit_note")
+SORT first-author
+```

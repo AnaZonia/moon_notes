@@ -7,14 +7,14 @@ publisher: "Frontiers in Forests and Global Change"
 tags:[model, ]
 url: https://www.frontiersin.org/articles/10.3389/ffgc.2020.00043 
 type: lit_note
-at-a-glance: "Updated [[FUN]] by introducing P dynamics"
+at-a-glance: "Updated [[FUN]] by introducing P dynamics and showed lower carbon uptake"
 
 --- 
  
  [[Costa Rica]] [[Nitrogen]] [[Phosphorus]] [[Biogeochemistry]]
 
 >[!summary] Summary
->Phosphorus limitation reduces 
+> Estimates of growth under carbon fertilization decrease when phosphorus is taken into consideration, as it is a limiting nutrient.
 
 >[!quote] Cited
 #### Authors:
@@ -38,16 +38,13 @@ Almost all terrestrial plants are in symbiotic relationships with either arbuscu
 
 AM is dominant in the tropics, decomposition happens quickly, leafs are flimsier. It's best to be able to absorb things quickly.
 
-ECM is more efficient at low concentrations - it's more carbon-intensive, but uptakes more phosphorus. Makes enzyme to break organic molecules to release both N and P.
+Ectomycorrhizal fungi is more efficient at low concentrations - it's more carbon-intensive, but uptakes more phosphorus. Makes enzyme to break organic molecules to release both N and P.
 
 Occasionally ECM trees will cluster into stands in the tropics, but that happens much more often in the temperate areas.
-also makes it easier to find spores and mycelium
-mantle protects the root
+also makes it easier to find spores and mycelium mantle protects the root!
 
-In stands, there is sometimes relationships between  MANE micorrhizal associated nutrient economy
 
-jensen connon hypothesis species density dependencies. [[Biodiversity]]
-baby trees will regenerate away from mother trees because fitness decreases near its neighbors.
+
 
 Enzymes are made of C and N - so there is a N cost as well as C cost to P uptake
 

@@ -7,11 +7,8 @@ update: Nov 24th 2023
 
 CAMPO: Capoeira Model for Post-agricultural Regrowth
 
-CROPS: Capoeira-based Research on Post-cultivation Succession
-TropiCaPOEIRA
 
-Brainstorming titles and keywords
-Incorporando complexidad  e a um modelo de regereração de florestas neotropicais
+Incorporando complexidade a um modelo de regereração de florestas neotropicais
 Incorporating complexity to neotropical forest regrowth predictions
 
 - predictiveness as well as ecological insight.

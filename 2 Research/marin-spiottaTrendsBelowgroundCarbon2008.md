@@ -10,7 +10,7 @@ type: lit_note
 at-a-glance: ""
 
 --- 
-#tribble
+
 [[Regrowth]], [[Biomass]]
 
 >[!summary] Summary

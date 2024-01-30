@@ -5,11 +5,12 @@ stardate: Oct 8th 2023
 update: Oct 8th 2023
 tags: []
 ---
+
+
 ```dataview
-LIST
-FROM [[]]
-SORT file.ctime DESC
+TABLE WITHOUT ID link(file.link, aliases) AS "Title", first-author as "Author", at-a-glance
+FROM [[]] AND -outgoing([[]])
+WHERE contains(type, "lit_note")
+SORT first-author
 ```
 
-
-Mia's paper Marcellus 2023 would be good resource here.

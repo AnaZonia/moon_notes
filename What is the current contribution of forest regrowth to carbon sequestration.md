@@ -10,5 +10,6 @@ Would be interesting to look into the [[IPCC - Intergovernmental Panel on Climat
 
  Tropical and subtropical forests account for approximately 70% of the world's gross forest C sink [[panLargePersistentCarbon2011]]
 
+[Restoring natural forests is the best way to remove atmospheric carbon](https://www.nature.com/articles/d41586-019-01026-8)
 
 ![[What is the current contribution of forest regrowth to carbon sequestration.png]]

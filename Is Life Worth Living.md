@@ -9,5 +9,5 @@ My first thought is that nature is cruel and unfair. Like I studied in universit
 
 [Werner Herzog on the Vileness of the Amazon Jungle - YouTube](https://www.youtube.com/watch?v=dvbxh2rLcdo)
 
->[!quote] Werner Herzog #quote
+>[!8ijquote] Werner Herzog #quote
 > Nature here is vile and base. I wouldn't see anything erotical here. I would see fornication and asphyxiation and choking and fighting for survival and... growing and... just rotting away. Of course, there's a lot of misery. But it is the same misery that is all around us. The trees here are in misery, and the birds are in misery. I don't think they - they sing. They just screech in pain.

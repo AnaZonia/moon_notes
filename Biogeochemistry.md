@@ -7,6 +7,7 @@ update: Oct 8th 2023
 - [[Nitrogen]]
 - [[Phosphorus]]
 - [[Soil]]
+- [[Mycorrhizae]]
 - [[Earth System Models]]
 - [[Nutrient limitations to carbon capture]]
 - [[Leaf Economics Spectrum]]

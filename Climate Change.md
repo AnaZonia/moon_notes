@@ -19,6 +19,7 @@ update: Nov 9th 2023
 - [[Forest Dynamics]]
 - [[ENSO - El Niño-Southern Oscillation]]
 - [[Why was 2023 so much worse than others]]
+- [[Agriculture and Climate Change]]
 
 ## Books
 ```dataview

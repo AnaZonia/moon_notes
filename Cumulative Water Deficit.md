@@ -22,7 +22,7 @@ Calculation used on [[heinrichLargeCarbonSink2021]] with [[TerraClimate]] rainfa
 ET is fixed at 100mm/month.
 Most negative CWD obtained over a year, with monthly change being precipitation - evapotranspiration. What was last month's deficit + how much rained this month - how much we lost to ET this month.
 CWD = 0 when the soil is saturated with water.
-ET is fixed at 100mm/month.
+ET is fixed at 100mm/month. (total)
 
 ![](https://i.imgur.com/o4lVmM7.png)
 

@@ -8,7 +8,7 @@ update: Nov 25th 2023
 - [[Latin American History]]
 - [[European History]]
 - [[Iranian History]]
-
+[World History Encyclopedia](https://www.worldhistory.org/)
 
 
 ## Books

@@ -39,14 +39,14 @@ at-a-glance: "Model extent and growth of secondary forests in latin america"
 
  > <span style="color: #F9E076">The carbon sequestration potential revealed by our study is likely an underestimate of the actual potential, for several reasons. Belowground carbon stocks in soils and roots will add 25% or more to total carbon storage (25), but knowledge regarding determinants of successional dynamics of belowground carbon sequestration is insufficient to include in our projections (26). Our study area excludes montane areas of Latin America, where SF is regenerating spontaneously on abandoned farmland (5). Our estimates could be further improved using higherresolution spatial data, which arerapidlybecomingavailable(27), explicitly taking local landscape matrix conditions into account (6), accounting for belowground carbon dynamics (28), and incorporating effects of previous land use on biomass recovery (28, 29). Future projections using more recent baseline data will rely on newer spatial analyses of forest biomass and agricultural land use across Latin America when these become available.</span>
 
- 
 
  > <span style="color: #F9E076">projected their biomass accumulation for 40 years into the future, using an equation relating forest age to biomass</span>
+ 
+Used a Michaelis-Menten equation but a linear decomposition of the slope divided by biome
+
+![](https://i.imgur.com/BNyhTEp.png)
 
  
-
- > <span style="color: #F9E076">To obtain AGB (in megagrams per hectare) for each pixel in our study region, we used the Baccini et al.(15) map for the year 2008,</span>
-
- 
+![](https://i.imgur.com/k09SAOn.png)
 
 %% Import Date: 2023-10-01T14:28:23.050-04:00 %%

@@ -10,7 +10,6 @@ tags:
 
 [[Soil Carbon]]
 
-How are soil moisture datasets made?
 
 [OpenLandMap Soil Texture Class (USDA System)  |  Earth Engine Data Catalog  |  Google for Developers](https://developers.google.com/earth-engine/datasets/catalog/OpenLandMap_SOL_SOL_TEXTURE-CLASS_USDA-TT_M_v02#description)
 
@@ -19,3 +18,6 @@ How are soil moisture datasets made?
 [[FAO Soil Map of the World]]
 
 [Influence of soils and topography on Amazonian tree diversity: a landscape‐scale study - Laurance - 2010 - Journal of Vegetation Science - Wiley Online Library (mcgill.ca)](https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/full/10.1111/j.1654-1103.2009.01122.x)
+
+- Erosion can be a major resilience drain [[floresSoilErosionResilience2020]]
+- 
