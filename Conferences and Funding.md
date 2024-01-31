@@ -32,5 +32,7 @@ Sou doutoranda em Ecologia Quantitativa na Universidade McGill, no Canadá, co-o
 - [National Geographic Explorers](https://www.nationalgeographic.org/society/grants-and-investments/)
 - [IAI - Inter-American Institute for Global Change Research](https://www.iai.int/en/step) Step Fellowship
 - Fellowship AAAs science policy
+- STRI fellowship
+- https://www.agu.org/honors/voices-for-science
 ### Postdocs
 [Resilience and Sustainability Science Postdoctoral Fellowship | Office of Academic Appointments and Internships](https://fellowships.si.edu/Resilience)

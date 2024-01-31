@@ -1,10 +1,9 @@
 ---
 tags:
 ---
-## 29/01/2024, Tue
+## 29/01/2024, Tue - Project Day
 
-Anchoring with some sort of end goal is good.
-
+### Project possibilities
 - bird friendly coffee/smart reforestation (carbon)/fruit agroforestry (local diet diversification)
 	- things that farmers can optimize for, pros and cons of each
 	- do better farming for nature and for people
@@ -13,7 +12,53 @@ Anchoring with some sort of end goal is good.
 	- highlight the issues - what can be more expensive
 - this can be interesting for both government approaches and general communication
 
-Been wondering whether to go talk to Alexis again. It would be interesting because of his connection to both places, but at this point time is so restricted I should try to reduce expectations for each specific project and really focus on learning what is important for me in the long run. It would be cool to sit and talk to him again, but there's a ton more things going on, and I gotta prioritize.
+Been wondering whether to go talk to Alexis again. It would be interesting because of his connection to both places, but at this point time is so restricted I should try to reduce expectations for each specific project and really focus on learning what is important for me in the long run. It would be cool to sit and talk to him again, but there's a ton more things going on, and I gotta prioritize. También no sé qué fiable es por lo que dijo de Café Duran que no fue comprado por Colombia.
+
+### Empresa Panameña de Alimentos - Sustentabilidad
+
+Más grande corporación de alimentos en Panamá. Dueña de Café Durán. 80% of the market, and buy 50% of coffee of the country.
+
+Hubo queda de producción nacional. Él dijo algo sobre la producción no ser suficiente a la demanda nacional?
+
+Trabajan con el Banco Interamericano de Desarollo & FAO. Dijo de nuevo que hay un problema político, y las comunidades indígenas se pueden desarollar mejor si hay asistencia tecnica y material. Trabajan con la organización casa esperanza para prevenir el trabajo infantil, que niños de 14 años ya tienen que empezar a trabajar en comunidades indígenas.
+
+**Proyecto Escuela de Cultivo de Café** - Mejorar acceso a mercados, prácticas sostenibles. Hay alianza del ministerio de desarrollo, la ONU y la EPA a hacer este trabajo de recuperación de producción pos-covid.
+- Educación
+- Equipamiento
+- Acopo (storage)
+Se genera conocimiento con los grupos de productores (aprender haciendo - aprentissaje participativa) y se difunde este conocimiento hasta otros productores de café. Se también usan videos a capacitar jóvenes.
+
+El BDA (banco de desarrollo) ayuda con acceso a crédito.
+
+Ya hay un documento de buenas prácticas agrícolas!
+
+**Proyecto Granja Tulú Arriba Auto Sostenible** - Nutrición! Facilitan plantones y herramientas.
+[Comarcas fortalecen prácticas de producción de café](https://www.panamaamerica.com.pa/sociedad/comarcas-fortalecen-practicas-de-produccion-de-cafe-1215921)
+También hay necesidad de enseñanza financiera y de manejo de grandes fincas.
+
+**Organización de productores cafeteros** - Hay menos cooperativas que en Colombia. La hay tiene más que ver con la exportación. También hay un problema muy serio con hierarquia y imposición sobre los productores cafeteros locales, y con intermediarios que sacan mucho lucro.
+
+Plantar en tierra ya cansada y la necesidad de pousio (descanso inicial). Como passar por esse investimento inicial com comunidades mais pobres?
+
+Arábica es un café suave, tiene balances diferentes. Robusta es un café más fuerte. En Panamá, la gente prefiere una mezcla tradicional. Colombianos y europeos prefieren arabica, Brasil es lo más grande productor de robusta del mundo.
+
+La FAO does an inicial capital injection, and even after the first harvest, there is still not profit to make it back, so there needs to be a lot of inicial investment.
+
+Se llevan a productores de café a una finca modelo también a aprender los benefícios a la biodiversidad.
+
+> What Café Duran is doing with robusta could be useful reference for what can be done in Brazil with robusta agroforestry!
+
+En Ipetí hay también malas prácticas - la gente quita la rama entera del árbol y después saca el café, en vez de sacar la frutita directo del árbol.
+
+The question is whether or not this project is applicable at a large scale, and 
+
+### Butterfly thermoregulation
+
+Reflectance in butterfly wings is an adaptation for thermoregulation.
+
+Tropical species were expected to be more vulnerable to temperature change than temperate species, but they were observed to be actually better at thermoregulation. The species are larger in size and this could explain this result, rather than some physiological factor. I wonder whether this would change if the model took size in consideration.
+
+Butterfly wings are selected by predators and sexual selection, but also could be for temperature. For this, the temperature of dead vs live butterflies was measured (interesting method!) and also was expected that similar morphologies would explain thermoregulation better than similar phylogenetics. She sampled mimetic pairs across different clades of Heliconia. Turns out colors do affect temperature, but physiology and behavior do as well.
 
 ## 28/01/2024, Mon - Mont Totumas
 
@@ -140,7 +185,7 @@ OR
 ### Alexis
 Cafetero, trabaja con Durán. Tiene su cultivo pequeño en su casa.
 - Hay muchas **variedades de café**:  Caturra, caracolillo, mormon, magarojipi. Caracolí es robusta, más acido, y los otros son variedades de arabica, más suave. Las montañas son mejores a cultivar arabica, bajo sombra.
-	- Café Duran fue comprado por Colombia. Hay confederaciones de café (Café Balboa) que también trabajan con la gente. El café de diferentes partes de Panamá (Colón, Coclecito, Volcán/Boquete, Veraguas)
+	- Dijo que Café Duran fue comprado por Colombia (pero no parece verdad). Hay confederaciones de café (Café Balboa) que también trabajan con la gente. El café de diferentes partes de Panamá (Colón, Coclecito, Volcán/Boquete, Veraguas)
 	- Durán tiene finca propia pero también compra directo con la gente.
 - **Cultivo** - The water is a blessing and a curse. The main concern is the mold (Mycena citricolor) that grows on coffee when humidity is too high. With climate change, there is more rain, so there is also more need for fungicide.
 	- La broca del café (besouro Hypothenemus hampei) está siendo derrotado con una cepa mutante en qué el gusano le come a otros gusanos.
@@ -291,36 +336,44 @@ With an electrode, we detect fish in the river and catch them with a net. The id
 
 There is variation across the tone of the electric signal across fish, and it's a way to discern populations.
 - the populations in Gamboa, Darién, and Bocas are very different, and were isolated about 10 million years ago, with major geological changes with the rise of the istmus and the formation of the Andes and the Amazon basin.
+- There are multiple criteria to determine what is a new species, and these thresholds of genetic difference vary among biologists. Some people are "splitters" and others are "lumpers" in how they do taxonomy. Crossing studies to tell whether populations can successfully interbreed is the most foolproof method (everything else is just trying to test for potential of successful reproduction)
 
 ### Luis - Fungi
 
-Heterotrophs with a chitin cell walls, that excrete digestive enzymes and then absorb the digested material. The body is called hyphae, and many hyphae make a mycelium. 
+Heterotrophs with a chitin cell walls, that excrete digestive enzymes and then absorb the digested material. The body is called *hyphae*, and many hyphae make a *mycelium*.
+- **Ascomycota** - bag-shaped fruiting bodies
+- **Basidiomycota** - larger structures
 
-<mark>Marine fungi - what are they?? how does the nitrogen cycle in land compare with the cycle in the sea?</mark>
+**Mycologists** study fungi, slime molds and stramenophiles. It's super interesting how some of these living beings are a very weird in between plant-animal-fungus-protist-????
+- **Marine fungi** - what are they?? <mark> how does the nitrogen cycle in land compare with the cycle in the sea?</mark>
+- **Hyperparasites** - fungi that eat other fungi!
+- **Entomopatógenos** - parasite insects and spiders!
+
+There is a huge potential to study fungal taxonomy. A very small percentage of them is known, and the species can be identified through sequencing eDNA to look for the fungal "fingerprint" locus and then matching it to existing databases.
 
 It was exciting to hear about awesome research going on in Brazil, and to think of Brazil as a leader in Latin American science that can help establish that network.
+
+Coffee and cacao can have 200 species of fungi in one leaf. <mark>I'm still super interested in endophyte fungi and would love to learn more about fungi-plant symbiotic relationships.</mark> Seems like some of this fungi deter insects.
+
+**Biodiversity loss** - It's sad to realize how many fungus species we are also losing with deforestation, and how little of them we know. Eating them helps know them - people that historically consume mushrooms understand them best.
+	[[Agroforestry|Non-Timber Forest Product (NTFP)]] - Os cogumelos yanomami também crescem no Panamá, e são cultivados e consumidos. Eles crescem depois que a capoeira é abandonada depois da queima e cultivo da mandioca.
 
 ## 23/01/2024, Tue - Arduino and Tupper talk
 
 Arduino is coming together easier, and I appreciate having a concrete way to see the outcome of a script, rather than just doing data analysis.
 
 ### Geology
+The Amazon and the Andes are about 10 million years old. Like Amazonian wildlife colonized the tropics, temperate north american wildlife colonized South America temperate zones. The Andes were a path!
 
-The Amazon and the Andes are about 10 million years old
+I'm remembering the book I read as a kid that denied climate change, saying molten ice won't raise the sea level.
+
+The sea level today is only one among many in history, which was usually higher or lower.
+
+Deglaciations happen slowly since the high albedo of white snow reflects heat.
+
+Oceanic plates are thin, so they go under when they collide with continental. The caribbean plate, however, is thick, and the collision with the Pacific makes the volcanoes of Central America.
 
 ## 22/01/2024, Mon - Projects
-
-### Project ideas so far, and what to discuss with people
-
-
-### Essay 2 - Reflection - "Un pueblo sin piernas pero que camina"
-
-- What surprised you about the visit? Did anything challenge your beliefs?
-- Did the experiences of visiting reforestation plots, meeting project participants, and/or getting a small taste of how much work is involved in planting trees expand your perspective on this project? On reforestation and carbon offsets more broadly? If so, how? And if not, why do you think that might be the case?
-- In what ways did your ideas, opinions, values, and/or aspects of your personal history act as a lens or filter through which you experienced the trip?
-
-
-Por fin, en los dois países, todo depende de estruturas muy más grandes que nosotros. Hay mucha emphasis en lo que la gente puede y quiere hacer, pero al fin, las decisiones del gobierno local y de los países desarollados son cruciales a lo que se hace con cada cocobolo en Ipetí, o en Amazonas.
 
 ### Essay 3 - Positionality
 
@@ -350,10 +403,31 @@ Viviendo fuera de Brasil, también aprendi mucho sobre la cultura de otros país
 
 El sentimiento de exílio, el amor por la naturaleza y las ciências, y mi personalidad más me motivan. Yo vivo por la ciencia, vivo por mi trabajo, y por supuesto esto me puede cambiar la manera que investigo, con desventajas y ventajas. Así como las similaridades de las lenguas hacen que sea más difícil aprenderlas a la perfección, las similaridades de las realidades puede ocultar las diferencias más pequeñas. Pero también, las similaridades ayudan a empezar a comprender la lengua - estudiando poco, entiendo más español que otro extranjero, y también entiendo más de la cultura panameña por sus similaridades con la mía.
 
-## 21/01/2024, Sun - Ipetí
+## 20/01/2024, Sat : 21/01/2024, Sun - Piriatí & Ipetí
+
+### Essay 2
+
+*What surprised you about the visit? Did anything challenge your beliefs?*
+- I did not expect the people to be so focused on carbon as a major mode of subsistence. I think this can be concerning, as there is still the urgent need to regenerate the landscape in a way that it shelters biodiversity, and the need to provide better nourishment and financial stability for the people.
+
+*Did the experiences of visiting reforestation plots, meeting project participants, and/or getting a small taste of how much work is involved in planting trees expand your perspective on this project? On reforestation and carbon offsets more broadly? If so, how? And if not, why do you think that might be the case?*
+	I did not expect the forest plots to be that intensely managed, and the difficulties of active regeneration in such depleted soils. It made clear why active regrowth is so expensive, and it does not seem to me like something that should be the first line of action as far as reforestation goes.
+
+*In what ways did your ideas, opinions, values, and/or aspects of your personal history act as a lens or filter through which you experienced the trip?*
+	I am concerned about education and health coming from a well-educated and healthy background. I understand that the need to diversify a diet may not look as urgent to people that culturally are accustomed to an american-style diet, and that the possibility of higher education may not be as accessible to people that historically have relied on their land for a living. There is a delicate balance between the cultural aspect and needs of subsistence agriculture, but also the opportunity and need to diversify sources of income and support independence of the community in a changing world.
+
+En los dois países, todo depende de estruturas muy más grandes que nosotros. Hay mucha emphasis en lo que la gente puede y quiere hacer, pero al fin, las decisiones del gobierno local y de los países desarollados son cruciales a lo que se hace con cada cocobolo en Ipetí, o en Amazonas. We can hope and try very hard, and do our best to make sure the nature is protected and people are provided for, but in the end it all will come down to who is in power and what do they do with that power.
+
+A president required the Emberá to leave their original land because a dam would be built and flood the place. Out of the options given, they preferred to settle in Ipeti and Periatí. There was conflict with campesinos that were already in this area. Now, their ancestral land has not been flooded and is not inhabited by the Guna.
+
+I really think it would be very doable to execute a project with high rez Planet data on active reforestation plots going back to 2016.
+
+### Agroforestry
+There were some fruit trees like plantains, guayábana, y mandarina, as well as fiber palm that is used for artisanía. However, there was more emphasis on carbon and coffee as the source of livelihoods of people. There was still cattle pasture, and for the people a cow is insurance - at any moment it can be sold and they have some safety. Also, the difficulty of transport (not everyone has a car, and that's far away!) makes it hard for people to be financially independent and commercialize in their own terms.
 
 ### Carbon Offsets
 - Faltan técnicos que vayan a la tierra a ayudar a planear el proyecto.
+- The river helps, but the soil fertility is the main limiting factor. As they arrived on land that had been very used by cattle and mechanized rice, it was quite poor in nutrients. Up to 20 years fallow was needed to fully recover the land.
 - The separated monocultures will most likely become timber. <mark>I wonder how these active reforestation projects are carried out in other parts of Latin America and the Tropics.</mark>
 - In the end, this seems like a long-term investment for the peoples which is a better use of land than cattle farming, but it is not quite sheltering biodiversity. However, it has been unclear to them, and they seem to speak of it as a forest regeneration project.
 - The longevity of the project relies on many external factors, such as incentives to keep mature forests standing. Also, <mark>incentives for the kids to study so that they don't need to be desperate about making money to send their kids to school.</mark> This will also rely on local institutions and partnerships with schools and other capacitation opportunities for the Emberá.
@@ -369,10 +443,7 @@ They mentioned:
 - **Financial incentives to maintain standing trees**:  There can be pay from the local government, as well as foreign governments (the same northern European countries were mentioned)
 In the end, to maintain this forest will also depend on them **no longer relying so much on extractivist activities to make a basic living and maintain their relationship with the forest as a cultural one**, which goes through **education and youth empowerment**. There has been some talk about the lack of quality of Panamanian universities, and this strengthening of institutions is crucial for this to happen. I am an outcome of science outreach initiatives and science Olympiads, as well as good teachers in small universities, and I realize that my current privileged position as a scientist for my country has relied on politics, so that is also the case for these kids that often do want to grow to be scientists and lawyers. The few that managed to do so (like the Emberá lawyer that was mentioned, or Lady, a biologist herself) can make a difference. Unfortunately, all this relies on something much greater than our sphere, as it always does. **Maybe it is also the role of STRI and McGill to open doors for education for indigenous peoples, as has happened with Lady,** who started this by taking a field study course with Cat Potvin.
 
-
-
 ### Culture
-
 I am concerned about how much of that performance was more staged and touristy than a spontaneous thing. When asking a girl about where she was from, she mentioned she travels back and forth as "all her family works with tourism". So, how different would all this have been if Catherine Potvin was Catarina Pontes, and <mark>how is it going to change as Lady takes over the leadership of the carbon offset project? </mark> Lady mentioned she is more focused on the social aspect and Catherine has done more of the "brain work", so I wonder how that will change with her leadership.
 
 The kids also felt abandoned - "when are you coming back?"
@@ -383,14 +454,8 @@ The dogs were in bad shape. The people looked short, but reasonably healthy.
 
 There is also internalized racism within people from latin american origin on their own latinhood and the more indigenous parts of their own peoples.
  
-## 20/01/2024, Sat - Piriatí
-
-### Agroforestería y los Emberá
-
-
 ### Salud
-
-El centro de salud es muy bien puesto y bien cuidado. La gente allá parecia satisfecha, y los trabajadores son buenos
+El centro de salud es muy bien puesto y bien cuidado. La gente allá parecia satisfecha, y los trabajadores son buenos.
 
 ## 19/01/2024, Fri - pre-Ipetí
 
@@ -736,7 +801,7 @@ Corals seem understudied! I guess I was wrong to assume that the field is oversa
 
 Doing science in Latin America is reminding me of the possibilities I've missed out on by being in North America. I am truly grateful for the opportunities I've had, and I recognize my open doors are the result of lots of hard work by myself and many others and even more luck, but at the same time it is painful that to be this privileged, I had to leave Brazil, and that people like me became biologists in a place where the profession is undervalued, with a president who destroys all that has to do with conservation and science.
 
-## 14/01/2024, Sun - Seaweed Farming and rest
+## 14/01/2024, Sun - Seaweed Farming
 
 Note: the sky here is absolutely beautiful, and these nighttime seascapes would make stunning astrophotography.
 
@@ -911,6 +976,8 @@ Some species:
 **Photogrammetry** -> measuring trees (and also coral!) using photographs. Can be done with terrestrial or aerial photos.
 
 **Tree Core** -> basically one large screw that allows you to remove one pencil-sized cylinder from the whole radius of the tree to examine its rings without cutting it down.
+
+It is super easy to get lost in the forest.
 
 ### 50 hectare plot
 
