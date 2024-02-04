@@ -5,13 +5,50 @@ tags:
 
 **Diana** works on the effect of heating and salinity changes on the dominant coral species in the gulf of Panama and the bay of Chiriquí, where we are. Upwelling and winds 
 
-John studies food webs.
+**Jonathan Cybulski** studies food webs.
 O uso de isotopos em ecossistemas terrestres é mais complicado.
 Fitoplancton fazem [[Photosynthesis]] C3.
 
 Bayesian statistics can also be useful for a situation of many predictors - here he is using only all fixed priors at 1, but then uses MCMC to predict proportion of contribution of each prey item to an animal's diet.
 
 ***Really cool application*** - prove that birds are eating biofilm to prove that an area is worth preserving.
+
+Human-environment-climate interactions over thousands of years.
+
+> Nitrogen is the baseline of all food webs.
+
+Things become more enriched with nitrogen as they go up in trophic level (pee out light nitrogen and keep heavy isotopes)
+
+The planetary boundaries paper shows that the global nitrogen cycle has been changed for decades because of human waste and agriculture.
+
+Corals can assimilate almost any form of nutrients because of their symbiotic algae. This makes them resilient to live in nutrient poor waters (they can eat and get stuff from PS)
+
+Hong Kong has a lot of cool corals, but also a very high concentration of people, so a lot of nutrient input.
+
+It is possible to look at the history of coral reefs by taking a segment of the coral matrix, that can grow on top of each other for meters. This is a cool history of an ecosystem and climate!
+
+He could identify nitrogen from different sources (the polluted river as well as the ocean). The results showed that there is less flow from the river because there has been a decrease in rainfall over 7000 years.
+
+Massive coral cores grow like tree rings!
+
+To tell the history of an ecosystem, it's necessary to know how corals grow. The differences between the nitrogen levels of different species can be corrected for through modelling given what each species eats.
+
+He is doing very interesting applicable large scale ecology in coral reefs, looking at community composition and its change through time. He got to speak to the government about water quality, and the information is now used to restore reefs quite successfully! Since the stressor has been alleviated (it was only water quality)
+
+Climate change is a global issue, but in local level there are other stressors that can also help like fishing and pollution. That can also help protect the corals for the climate change issues that are coming.
+
+Well that's bad news for the shifting baseline case of climate change - the stressor won't really go away in that case.
+
+**Diet** - Most of the fish from Panama comes from the Pacific. - *What was the historical human diet?*
+Before this, gotta understand how did the climate baseline change over time.
+
+Each point is about 50-150 years because that's how long a coral lives??
+
+This is really cool - there are a lot of long term climatic changes over the last 7000 years which is interesting to keep in mind when looking at climate change!
+
+Also looked at archaeological changes - comparisons between trophic levels can be made through different aminoacids which show the baseline of Nitrogen or show the trophic level.
+
+
 
 
 ## 30/01/2024, Wed - Mountain

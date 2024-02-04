@@ -197,7 +197,7 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": true
     }
   },
   "active": "01b975004b101752",
