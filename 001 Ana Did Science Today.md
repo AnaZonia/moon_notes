@@ -1,8 +1,23 @@
 ---
 tags:
 ---
-## 30/01/2024, Wed - Mountain
+## 2/2/2024, Fri : 3/2/2024, Sat - Pixvae
 
+**Diana** works on the effect of heating and salinity changes on the dominant coral species in the gulf of Panama and the bay of Chiriquí, where we are. Upwelling and winds 
+
+John studies food webs.
+O uso de isotopos em ecossistemas terrestres é mais complicado.
+Fitoplancton fazem [[Photosynthesis]] C3.
+
+Bayesian statistics can also be useful for a situation of many predictors - here he is using only all fixed priors at 1, but then uses MCMC to predict proportion of contribution of each prey item to an animal's diet.
+
+***Really cool application*** - prove that birds are eating biofilm to prove that an area is worth preserving.
+
+
+## 30/01/2024, Wed - Mountain
+Eu não me sinto muito confortável nas montanhas, mas fui assim mesmo. Foram conversas interessantes com Mulget, o etíope que correu desde a Patagônia até aqui.
+
+Não sei se tenho vontade de repetir a experiência. Foi interessante, mas não foi tão bom a ponto de querer fazer de novo o sacrifício de subir. Eu tinha a sensação de que eu não sabia o que eu tava fazendo, e eu acabei saindo cheia de mordida de chigger (bicho de pé?), que aparentemente não é um problema na Costa Rica, mas é um problema no Panamá. 
 
 ## 29/01/2024, Tue - Project Day
 
