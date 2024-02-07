@@ -1,6 +1,13 @@
 ---
 tags:
 ---
+## Course conclusions
+
+[Home - CATIE](https://www.catie.ac.cr/)
+
+Ruth Bennett
+
+
 ## 2/2/2024, Fri : 3/2/2024, Sat - Pixvae
 
 - Also curious about tides (much higher in the Pacific than in the Atlantic). Are they the same at each longitude at the same time?
