@@ -3,11 +3,24 @@ tags:
 ---
 ## 2/2/2024, Fri : 3/2/2024, Sat - Pixvae
 
-**Diana** works on the effect of heating and salinity changes on the dominant coral species in the gulf of Panama and the bay of Chiriquí, where we are. Upwelling and winds 
+- Also curious about tides (much higher in the Pacific than in the Atlantic). Are they the same at each longitude at the same time?
+
+### The Pacific
+
+The reef is definitely healthier than the Caribbean one. Many sharks, turtles, dolphins, schooling fish and staghorn sea stars. The coral was layering on top of each other in a super interesting way, really looking like a forest canopy. <mark>I'm curious about shark movement and fishing pressures.</mark> Has there been a recovery in shark populations? I wonder how modelling can help point out helpful protected areas.
+
+### The talks
+
+**Diana** works on the effect of heating and salinity changes on the dominant coral species in the gulf of Panama and the bay of Chiriquí, where we are.
+Gotta communicate with her about meeting Sean and sharing bayesian material.
+
+*Upwelling and winds* - Because of the differences in Panamanian geography, the two bays have different temperatures and salinity levels due to rainfall. Corals are stressed with lower salinity (result of heavier rains) and higher temperatures, and their photosynthesis rates are lower.
+
+I wonder if modelling the future of corals like this we can inform policy like Jon did with Hong Kong.
 
 **Jonathan Cybulski** studies food webs.
-O uso de isotopos em ecossistemas terrestres é mais complicado.
-Fitoplancton fazem [[Photosynthesis]] C3.
+O uso de isotopos em ecossistemas terrestres é mais complicado - I wonder why?
+Fitoplancton fazem [[Photosynthesis]] C3 - would be cool to study nutrient fluxes in marine systems. How does it work without fungi? Jon mentioned marine systems have better documented nutrient data, and there's also a lot of large scale climatic and physical data, which would be awesome.
 
 Bayesian statistics can also be useful for a situation of many predictors - here he is using only all fixed priors at 1, but then uses MCMC to predict proportion of contribution of each prey item to an animal's diet.
 
@@ -49,12 +62,13 @@ This is really cool - there are a lot of long term climatic changes over the las
 Also looked at archaeological changes - comparisons between trophic levels can be made through different aminoacids which show the baseline of Nitrogen or show the trophic level.
 
 
-
-
 ## 30/01/2024, Wed - Mountain
-Eu não me sinto muito confortável nas montanhas, mas fui assim mesmo. Foram conversas interessantes com Mulget, o etíope que correu desde a Patagônia até aqui.
 
-Não sei se tenho vontade de repetir a experiência. Foi interessante, mas não foi tão bom a ponto de querer fazer de novo o sacrifício de subir. Eu tinha a sensação de que eu não sabia o que eu tava fazendo, e eu acabei saindo cheia de mordida de chigger (bicho de pé?), que aparentemente não é um problema na Costa Rica, mas é um problema no Panamá. 
+Eu não me sinto muito confortável nas montanhas, mas fui assim mesmo. Foram conversas interessantes com Mulget, o etíope que correu desde a Patagônia até aqui. Ele me mencionou que o café arabica vem das regiões montanhosas da Etiópia e o café robusta vem das áreas mais planas do Kenya.
+
+A vegetação do topo da montanha era interessantíssima, bem diferente do que se vê nas regiões mais baixas.
+
+Não sei se tenho vontade de repetir a experiência. Foi interessante, mas não foi tão bom a ponto de querer fazer de novo o sacrifício de subir. Eu tinha a sensação de que eu não sabia o que eu tava fazendo, e eu acabei saindo cheia de mordida de bicho, que aparentemente não é um problema na Costa Rica, mas é um problema no Panamá. Não sei onde mais isso existe.
 
 ## 29/01/2024, Tue - Project Day
 
@@ -1033,6 +1047,38 @@ Some species:
 **Tree Core** -> basically one large screw that allows you to remove one pencil-sized cylinder from the whole radius of the tree to examine its rings without cutting it down.
 
 It is super easy to get lost in the forest.
+
+It is interesting to observe the closeness of frugivores and how they are not very alarmed by humans. Quati follow monkeys as they go through the forest eating fruit. Both quati and monkey prefer an area of the forest that is dominated by one species of tree that is currently fruiting and a N fixer so prob full of protein (dipteryx).
+
+Many of the flowers are purple or pink, likely to attract hummingbirds. Bats like strong-smelling flowers. Fewer yellow flowers - <mark>what does flower color say about the pollinator community?</mark>
+
+### Bill Weislo
+
+**Why be social?**
+- Increase in productivity (biomass, not biodiversity)
+- Survivorship
+
+**Disadvantages**
+- Cheaters
+- + disease
+- + competition
+
+> Simpson says behavior leads to evolution. Meyer says evolution also leads to behavior change.
+
+**Bee facts**
+- Most are solitary
+- Basically just vegetarian wasps
+- One family can show multiple different lifestyles
+- A bee can be a queen, a worker, or solitary
+- Males are haploid, females are diploid, so a female can choose to have female offspring or not
+- Social females invest in females, solitary females invest in males
+- Dominant bees can control the amount and protein content of food given to the subordinate
+- True sociality is only found in hymneroptera - social spiders aren't as interesting.
+
+> Models can help point out the right direction but may not be realistic in and on themselves in studying the origin and characteristics of sociality. - Bill
+
+> Ants and bees are not automata. Animals have more thought that we give them credit for. - Bill
+
 
 ### 50 hectare plot
 
