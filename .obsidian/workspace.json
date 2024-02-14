@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "608515669e6e8e7e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing Feb 14th 2024.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 Ana Did Science Today.md"
+                "file": "Excalidraw/Drawing Feb 14th 2024.excalidraw.md"
               }
             }
           },
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 Ana Did Science Today.md",
+                "file": "Excalidraw/Drawing Feb 14th 2024.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 Ana Did Science Today.md",
+                "file": "Excalidraw/Drawing Feb 14th 2024.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,8 +146,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "b0192684aa3229ce",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
         "id": "3dbac5c2f60b2e8e",
@@ -183,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 368.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,16 +219,21 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "periodic-notes:Open today": true
+      "periodic-notes:Open today": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "01b975004b101752",
+  "active": "608515669e6e8e7e",
   "lastOpenFiles": [
+    "Files/Pasted Image 20240214131308_235.png",
+    "Excalidraw/Drawing Feb 14th 2024.excalidraw.md",
+    "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
+    "001 Ana Did Science Today.md",
+    "Make It So.md",
+    "Untitled.md",
     "001 Workstation.md",
     "Conferences and Funding.md",
-    "001 Ana Did Science Today.md",
     "Voices for Science Application.md",
-    "Make It So.md",
     "Nitrogen Fixation.md",
     "Botany.md",
     "Lianas.md",
@@ -226,9 +252,6 @@
     "1 Captain's Log/1 Daily/2024-01-15 Mon.md",
     "1 Captain's Log/1 Daily/2024-01-16 Tue.md",
     "1 Captain's Log/1 Daily/2024-01-11 Thu.md",
-    "Excalidraw/Drawing Jan 19th 2024.excalidraw.md",
-    "1 Captain's Log/1 Daily/2024-01-17 Wed.md",
-    "1 Captain's Log/1 Daily/2024-01-09 Tue.md",
     "Files/Screenshot 2023-09-05 155256.png",
     "Files/Screenshot 2023-09-05 192712.png",
     "Files/Screenshot 2023-11-06 104649.png",
@@ -248,8 +271,6 @@
     "2 Workstation/2 - Predicting Regrowth in Central America",
     "2 Workstation/1 - Predicting Regrowth in the Amazon",
     "2 Workstation",
-    "Files/Poster Making.png",
-    "Files/Modern Art.png",
     "Files/Carbon Tax-1.pdf",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Regrowth in Amazonia.canvas",
     "20 Python MOC.canvas",
