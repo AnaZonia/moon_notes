@@ -1,6 +1,19 @@
 ---
 tags:
 ---
+
+
+## 23/03/2024, Fri - Return to work
+
+### Priorities
+- Proj 3 & 4
+- Apresentação de Manaus
+- Github
+- Proj 5
+- Conferencias
+
+
+
 ## Course conclusions
 
 [Home - CATIE](https://www.catie.ac.cr/)

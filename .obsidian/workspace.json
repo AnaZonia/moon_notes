@@ -13,19 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Ana Did Science Today.md",
+                "file": "MAPBIOMAS.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "608515669e6e8e7e",
+            "id": "cc65aa053d01a6d9",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing Feb 14th 2024.excalidraw.md"
+                "file": "MAPBIOMAS LULC.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -80,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -98,7 +99,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing Feb 14th 2024.excalidraw.md"
+                "file": "MAPBIOMAS LULC.md"
               }
             }
           },
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing Feb 14th 2024.excalidraw.md",
+                "file": "MAPBIOMAS LULC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing Feb 14th 2024.excalidraw.md",
+                "file": "MAPBIOMAS LULC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       },
       {
         "id": "3dbac5c2f60b2e8e",
@@ -203,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,19 +219,29 @@
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "digitalgarden:Digital Garden Publication Center": false,
-      "periodic-notes:Open today": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "608515669e6e8e7e",
+  "active": "cc65aa053d01a6d9",
   "lastOpenFiles": [
-    "Files/Pasted Image 20240214131308_235.png",
-    "Excalidraw/Drawing Feb 14th 2024.excalidraw.md",
-    "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
-    "001 Ana Did Science Today.md",
+    "MAPBIOMAS.md",
+    "1 Captain's Log/2 Weekly/2024 - W01 - Jan.md",
+    "1 Captain's Log/1 Daily/2023-12-11 Mon.md",
+    "1 Captain's Log/2 Weekly/2023 - W51 - Dec.md",
     "Make It So.md",
-    "Untitled.md",
     "001 Workstation.md",
+    "002 Data Sources.md",
+    "003 People and Networks.md",
+    "300 Doing Science.md",
+    "400 Interests.md",
+    "History.md",
+    "Philosophy.md",
+    "001 Ana Did Science Today.md",
+    "Excalidraw/Drawing Feb 14th 2024.excalidraw.md",
+    "Files/Pasted Image 20240214131308_235.png",
+    "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
+    "Untitled.md",
     "Conferences and Funding.md",
     "Voices for Science Application.md",
     "Nitrogen Fixation.md",
@@ -243,15 +253,6 @@
     "Economics.md",
     "2 Research/sharmaComparisonInfluencesLandscape2016.md",
     "Carbon Tax.md",
-    "Climate Change.md",
-    "Carbon Credits.md",
-    "1 Captain's Log/1 Daily/2023-12-19 Tue.md",
-    "1 Captain's Log/1 Daily/2024-01-10 Wed.md",
-    "1 Captain's Log/1 Daily/2024-01-14 Sun.md",
-    "1 Captain's Log/1 Daily/2024-01-18 Thu.md",
-    "1 Captain's Log/1 Daily/2024-01-15 Mon.md",
-    "1 Captain's Log/1 Daily/2024-01-16 Tue.md",
-    "1 Captain's Log/1 Daily/2024-01-11 Thu.md",
     "Files/Screenshot 2023-09-05 155256.png",
     "Files/Screenshot 2023-09-05 192712.png",
     "Files/Screenshot 2023-11-06 104649.png",

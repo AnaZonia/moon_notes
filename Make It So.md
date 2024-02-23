@@ -11,12 +11,8 @@ look into flooded forest class
 
 - Register for STRI computer use
 - Pay STRI accommodation
-- buy tickets for carnaval
 - check flight miles
-- finish organizing memories and photos
-- marcar translado com o seu raimundo
 - taxes
-- ver programação do teatro de manaus
 - email berenguer
 
 
