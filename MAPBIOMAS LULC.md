@@ -37,3 +37,4 @@ Alertas de desmatamento validados em alta resolução (3m) desde 2019
 ![[MAPBIOMAS LULC-3.png]]
 ![[MAPBIOMAS LULC-4.png]]
 
+Longevidad: La producción de café sostenible es más amigable al suelo, así que la tierra se mantiene productiva por muchos años en comparación a la tierra cultivada bajo sol, que tiene una expectativa de veinte años.
