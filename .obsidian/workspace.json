@@ -100,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAPBIOMAS LULC.md"
+                "file": "Make It So.md"
               }
             }
           },
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAPBIOMAS LULC.md",
+                "file": "Make It So.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAPBIOMAS LULC.md",
+                "file": "Make It So.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,8 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -225,8 +224,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cc65aa053d01a6d9",
+  "active": "9b1ec93e1c5b7bf9",
   "lastOpenFiles": [
+    "MAPBIOMAS LULC.md",
     "MAPBIOMAS.md",
     "1 Captain's Log/2 Weekly/2024 - W01 - Jan.md",
     "1 Captain's Log/1 Daily/2023-12-11 Mon.md",
@@ -254,7 +254,6 @@
     "Ostrom Framework.md",
     "Economics.md",
     "2 Research/sharmaComparisonInfluencesLandscape2016.md",
-    "Carbon Tax.md",
     "Files/Screenshot 2023-09-05 155256.png",
     "Files/Screenshot 2023-09-05 192712.png",
     "Files/Screenshot 2023-11-06 104649.png",

@@ -1,4 +1,4 @@
-submit form to myprogress
+
 send emails
 [Detecting Changes in Sentinel-1 Imagery (Part 4)  |  Google Earth Engine  |  Google for Developers](https://developers.google.com/earth-engine/tutorials/community/detecting-changes-in-sentinel-1-imagery-pt-4)
 
