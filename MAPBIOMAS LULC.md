@@ -16,7 +16,7 @@ url: https://brasil.mapbiomas.org/en/visao-geral-da-metodologia/?cama_set_langua
 ## Brasil
 
 - Silvicultura
-- 
+
 ## Amazonia
 
 ## 10m

@@ -1,8 +1,8 @@
 ---
-up:
-  - "[[001 Workstation]]"
+up: "[[001 The Bridge]]"
 stardate: Aug 18th 2023
 update: Nov 24th 2023
+dg-publish: true
 ---
 
 CAMPO: Capoeira Model for Post-agricultural Regrowth

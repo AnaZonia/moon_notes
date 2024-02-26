@@ -3,9 +3,6 @@ up:
   - "[[Remote Sensing]]"
 stardate: Oct 7th 2023
 update: Oct 7th 2023
-share_link: https://moonline-notes.vercel.app/
-dg-publish: true
-dg-home: true
 ---
 Brian and Morgane's previous efforts using atmospherically corrected Landsat data did not work out. Training data was not useful across footprints - training worked well for one footprint at a time only. I believe these are the reasons:
 - Only Landsat's 9 bands were input into random forest. Mapbiomas seems to improve on this issue by ==using 90 features, and training the data for the whole country all at once, for each year==.

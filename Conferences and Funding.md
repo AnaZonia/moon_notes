@@ -1,8 +1,8 @@
 ---
-up:
-  - "[[001 Workstation]]"
+up: "[[001 The Bridge]]"
 stardate: Oct 13th 2023
 update: Nov 24th 2023
+dg-publish: true
 ---
 
 ### Conferences
@@ -12,7 +12,6 @@ update: Nov 24th 2023
 	- San Francisco in August
 - AGU - Due Early August (Washington in Dec)
 - [SBPC - encontro anual](https://www.liberalamazon.com/education/news/latin-americas-largest-scientific-event-to-discuss-amazon-reality-at-ufpa-in-belem)
-- CALACS - May 29-31
 
 I am a Brazilian PhD student in Canada with a background in Quantitative Biology. My research focuses on tropical forest regeneration on the Brazilian Amazon and Panama. I am interested in how statistical models can help explain the effects of previous land use and landscape plant biodiversity on the regeneration potential of abandoned land. Throughout my career, I'd like to apply statistical methods and remote sensing tools to plan sustainable land use in the Neotropics.
 

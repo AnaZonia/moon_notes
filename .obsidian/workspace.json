@@ -13,26 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAPBIOMAS.md",
+                "file": "003 People and Networks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "cc65aa053d01a6d9",
+            "id": "c138bc20cbbfea3b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAPBIOMAS LULC.md",
+                "file": "People.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b93043d759b6f4f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Predicting Regrowth in Central America - Project.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
-    "collapsed": true
+    "width": 239.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -92,7 +103,6 @@
       {
         "id": "6b3e5e477cb16920",
         "type": "tabs",
-        "dimension": 46.568627450980394,
         "children": [
           {
             "id": "9f7f1373e05d036e",
@@ -100,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Make It So.md"
+                "file": "Predicting Regrowth in Central America - Project.md"
               }
             }
           },
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Make It So.md",
+                "file": "Predicting Regrowth in Central America - Project.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Make It So.md",
+                "file": "Predicting Regrowth in Central America - Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,29 +152,13 @@
             }
           },
           {
-            "id": "6b7e998f1d3dc373",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "b0192684aa3229ce",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 4
-      },
-      {
-        "id": "3dbac5c2f60b2e8e",
-        "type": "tabs",
-        "dimension": 53.431372549019606,
-        "children": [
+          },
           {
             "id": "f6a230dcc8184e2d",
             "type": "leaf",
@@ -187,21 +181,8 @@
                 "useHierarchy": true
               }
             }
-          },
-          {
-            "id": "9b1ec93e1c5b7bf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Make It So.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,50 +200,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "digitalgarden:Digital Garden Publication Center": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "periodic-notes:Open today": false
+      "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "9b1ec93e1c5b7bf9",
+  "active": "b93043d759b6f4f4",
   "lastOpenFiles": [
+    "People.md",
+    "Predicting Regrowth in Central America - Project.md",
+    "moon.svg",
+    "Excalidraw/Predicting Regrowth in Central America - Project.svg",
+    "Excalidraw/moon.svg.crdownload",
+    "Predicting Regrowth in Central America - Project-1.svg",
+    "moon.svg.crdownload",
+    "Predicting Regrowth in Central America - Project.svg",
+    "001 The Bridge.md",
+    "Predicting Regrowth in the Amazon - Project.md",
+    "Conferences and Funding.md",
+    "Valle, Mariana.md",
+    "Make It So.md",
+    "001 Ana Did Science Today.md",
+    "Land Use.md",
+    "1 Captain's Log/1 Daily/2023-11-29 Wed.md",
+    "1 Captain's Log/1 Daily/2023-11-27 Mon.md",
+    "1 Captain's Log/1 Daily/2023-10-15 Sun.md",
+    "1 Captain's Log/2 Weekly/2023 - W31 - Aug.md",
+    "1 Captain's Log/1 Daily/2023-10-22 Sun.md",
+    "Sims, Carrie.md",
+    "1 Captain's Log/3 Monthly/2023-09.md",
+    "1 Captain's Log/3 Monthly/2024.md",
+    "1 Captain's Log/3 Monthly/2023-12.md",
+    "1 Captain's Log/1 Daily/2023-12-04 Mon.md",
+    "Moura, Rodrigo.md",
     "MAPBIOMAS LULC.md",
+    "003 People and Networks.md",
+    "Renata Muylaert.md",
+    "300 Doing Science.md",
     "MAPBIOMAS.md",
     "1 Captain's Log/2 Weekly/2024 - W01 - Jan.md",
-    "1 Captain's Log/1 Daily/2023-12-11 Mon.md",
-    "1 Captain's Log/2 Weekly/2023 - W51 - Dec.md",
-    "Make It So.md",
-    "001 Workstation.md",
-    "002 Data Sources.md",
-    "003 People and Networks.md",
-    "300 Doing Science.md",
-    "400 Interests.md",
-    "History.md",
-    "Philosophy.md",
-    "001 Ana Did Science Today.md",
-    "Excalidraw/Drawing Feb 14th 2024.excalidraw.md",
     "Files/Pasted Image 20240214131308_235.png",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
-    "Untitled.md",
-    "Conferences and Funding.md",
-    "Voices for Science Application.md",
-    "Nitrogen Fixation.md",
-    "Botany.md",
-    "Lianas.md",
-    "Photosynthesis.md",
-    "200 Life Sciences.md",
-    "Ostrom Framework.md",
-    "Economics.md",
-    "2 Research/sharmaComparisonInfluencesLandscape2016.md",
     "Files/Screenshot 2023-09-05 155256.png",
     "Files/Screenshot 2023-09-05 192712.png",
     "Files/Screenshot 2023-11-06 104649.png",
     "Files/albertHumanImpactsOutpace2023/albertHumanImpactsOutpace2023-7-x208-y386.jpg",
-    "Files/albertHumanImpactsOutpace2023/Agent-Based Modelling-1.jpg",
-    "Files/albertHumanImpactsOutpace2023/Agent-Based Modelling.jpg",
     "Files/albertHumanImpactsOutpace2023",
-    "Files/Screenshot 2023-09-05 192100.png",
-    "Files/Screenshot 2023-09-05 170257.png",
     "Files/Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.pdf",
     "3 Alexandria/Research",
     "3 Alexandria",
@@ -272,8 +254,6 @@
     "2 Workstation/3 - Incorporating Biodiversity",
     "2 Workstation/2 - Predicting Regrowth in Central America",
     "2 Workstation/1 - Predicting Regrowth in the Amazon",
-    "2 Workstation",
-    "Files/Carbon Tax-1.pdf",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Regrowth in Amazonia.canvas",
     "20 Python MOC.canvas",
     "2 Literature/Regrowth/Regrowth literature.canvas",

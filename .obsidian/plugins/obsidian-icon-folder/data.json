@@ -27,7 +27,6 @@
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "1 Captain's Log": "SiStartrek",
   "Templates/Research article.md": "LiLibrary",
   "Templates/Captain's Log.md": "SiStartrek",
   "Templates/Captain's Log - Review.md": "SiStartrek",
@@ -44,10 +43,10 @@
   "Templates/5 Remote Sensing Product.md": "TiSatellite",
   "002 Data Sources.md": "SiGoogleearthengine",
   "003 People and Networks.md": "LiHeartHandshake",
-  "001 Workstation.md": "TiProgress",
   "2 Research": "LiLibrary",
   "3 Floresta Aleatória": "TiChartHistogram",
   "3 Floresta Aleatória/Python.md": "TiBrandPython",
   "3 Floresta Aleatória/Statistics.md": "TiChartHistogram",
-  "3 Floresta Aleatória/R Stats.md": "SiR"
+  "3 Floresta Aleatória/R Stats.md": "SiR",
+  "001 The Bridge.md": "TiProgress"
 }

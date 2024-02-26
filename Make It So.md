@@ -1,19 +1,38 @@
+---
+dg-publish: true
+---
 
-send emails
-[Detecting Changes in Sentinel-1 Imagery (Part 4)  |  Google Earth Engine  |  Google for Developers](https://developers.google.com/earth-engine/tutorials/community/detecting-changes-in-sentinel-1-imagery-pt-4)
+## February 2024
+- [x] send emails ✅ 2024-02-25
+- [ ] finish Manaus presentation
 
-clear phone
-clear tablet notes (bayesian)
-Add notes from bell hooks to obsidian
+## March 2024
+- [ ] look into classification confidence by mapbiomas
+- [ ] look into flooded forest class
+- [ ] Register for STRI computer use
+- [ ] Pay STRI accommodation
+- [ ] taxes
+- [x] Port article ✅ 2024-02-25
+- [ ] Fellowship application
+- [ ] Final Project
+- [ ] Meet Javier
+- [ ] Meet Carrie
+- [ ] Meet Jeff
+- [ ] Meet Helene
+- [ ] [Detecting Changes in Sentinel-1 Imagery (Part 4)  |  Google Earth Engine  |  Google for Developers](https://developers.google.com/earth-engine/tutorials/community/detecting-changes-in-sentinel-1-imagery-pt-4)
 
-look into classification confidence by mapbiomas
-look into flooded forest class
 
-- Register for STRI computer use
-- Pay STRI accommodation
-- check flight miles
-- taxes
-- email berenguer
+## April 2024
+- [ ] clear tablet notes (bayesian)
+- [ ] Add notes from bell hooks to obsidian
+- [ ] Email Berenguer
+- [ ] check flight miles
+
+## May 2024
+- [ ] CALACS - May 29-31
+
+## August 2024
+- [ ] AGU abstract
 
 
 ECO_ID: 540, ECO_NAME: Maranhão Babaçu forests

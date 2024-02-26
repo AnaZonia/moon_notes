@@ -1,21 +1,15 @@
 ---
-tags:
+up:
+  - "[[001 The Bridge]]"
+dg-publish: true
 ---
 
 
-## 23/03/2024, Fri - Return to work
+## 23/03/2024, Fri : 25/03/2024 - Return to work
 
-### Priorities
-- Proj 3 & 4
-- Apresentação de Manaus
-- Github
-- Proj 5
-- Conferencias
+==Finished my part on projects 3 and 4.== Decided to wait to contact the activist, Gabriela, before publishing - turns out neither person writing it is a journalist or has the time to dedicate to a full piece on Panamanian ports, so it is responsible to be careful with what info we put out to the public. It is best if after that, if we do want to publish it, to focus on the environmental impacts part, and leave the political-economical parts (including much of what was talked about with Andrés) to be developed later, after consulting economists and reaching out to other sources. Also, this is a long term issue. Ports have been expanded since Neopanamax and will continue to be until 2040 as far as we can see, so it's a long battle to be fought.
 
-
-
-## Course conclusions
-
+## Course contacts and final reflections
 [Home - CATIE](https://www.catie.ac.cr/)
 
 Ruth Bennett
@@ -1113,4 +1107,18 @@ It was interesting to not only see the plot that I've read so much about, but se
 It was cool to work with Arduino for the first time, and have some of that feeling of curious play that the pressure of academia has beat out of me. I do have a lot that I want to learn, and a bunch of opportunities that would require me a whole year off to just study if I wanted to do everything, and I am incredibly curious, but way too overwhelmed to really just take my time, slow down, and play as I learn new things without the pressure of having a specific goal to be achieved.
 
 I'm realizing I would've enjoyed circuits and physics labs much better if they had been taught like this, and I'd be excited to try to customize things at home using an arduino.
+
+
+## Monthly Report
+### Research
+- got NLL working properly - finished the whole process of data, from initial cleaning to running the model.
+- learned about QGIS
+- got back into outreach
+- got into obsidian
+- applied to FRQNT
+### Self
+It's been a good month, without many drawbacks. Overall have felt much progress and improvement.
+
+For the coming month, would like to finish the whole chapter 1 methods, from data to model, reorganize all my notes, and get a workout routine started and going.
+
 
