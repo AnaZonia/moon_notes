@@ -4,7 +4,6 @@ up:
 dg-publish: true
 ---
 
-
 ## 23/03/2024, Fri : 25/03/2024 - Return to work
 
 ==Finished my part on projects 3 and 4.== Decided to wait to contact the activist, Gabriela, before publishing - turns out neither person writing it is a journalist or has the time to dedicate to a full piece on Panamanian ports, so it is responsible to be careful with what info we put out to the public. It is best if after that, if we do want to publish it, to focus on the environmental impacts part, and leave the political-economical parts (including much of what was talked about with Andrés) to be developed later, after consulting economists and reaching out to other sources. Also, this is a long term issue. Ports have been expanded since Neopanamax and will continue to be until 2040 as far as we can see, so it's a long battle to be fought.
@@ -457,6 +456,28 @@ The sea level today is only one among many in history, which was usually higher 
 Deglaciations happen slowly since the high albedo of white snow reflects heat.
 
 Oceanic plates are thin, so they go under when they collide with continental. The caribbean plate, however, is thick, and the collision with the Pacific makes the volcanoes of Central America.
+
+### Tupper talk
+
+May be interesting to study drought resistant individuals for reforestation.
+
+Met Yu-yun Chen, studying flowering and forest growth with ForestGeo in Southeast Asia (Malaysia? Originally from Taiwan, like the speaker). Was working with Helena Muller-Landau.
+
+- trees with more branches and basal area recover faster from disturbance  
+- seed traps showed few seeds for abundant species. One big reason is seed predation on the canopy. The seed traps exclude predators well.  
+- Taiwan is an interesting place to study isolated communities in mountains  
+- 17 years of seedling census, 20 years of plot age  
+- general linear mixed model  
+Compared survival and growth  
+- a high recruitment year had positive effect on survival  
+- demographic process model - survival, growth, and growth transition from seedling to sapling  
+- 47 years for 2m sapling? That's super slow  
+- damage to living trees as cost for the carbon budget  
+- 42% of biomass loss in the Forestgeo plots is due to damage to living trees (mainly in disturbed areas like Taiwan with the typhoons)  
+- high rainfall increases growth even in wet forests in Taiwan because of typhoon. Maybe loss of leaf area could allow light in and allow growth.  
+- frequency of disturbance is not as important as intensity of disturbance.  
+  
+
 
 ## 22/01/2024, Mon - Projects
 
@@ -1057,6 +1078,8 @@ Some species:
 - Ficus aurea
 - Jacaranda copaia
 - Dipteryx oleifera/panamensis
+
+Low wood density ficus aster can reduce tree width when it's dry because it loses water!
 
 **Photogrammetry** -> measuring trees (and also coral!) using photographs. Can be done with terrestrial or aerial photos.
 
