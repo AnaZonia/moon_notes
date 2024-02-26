@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 People and Networks.md",
+                "file": "001 Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Predicting Regrowth in Central America - Project.md",
+                "file": "002 Data Sources.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Predicting Regrowth in Central America - Project.md"
+                "file": "001 Ana Did Science Today.md"
               }
             }
           },
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predicting Regrowth in Central America - Project.md",
+                "file": "001 Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Predicting Regrowth in Central America - Project.md",
+                "file": "001 Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,17 +203,20 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "b93043d759b6f4f4",
+  "active": "01b975004b101752",
   "lastOpenFiles": [
-    "People.md",
+    "003 People and Networks.md",
+    "002 Data Sources.md",
+    "001 The Bridge.md",
+    "A good opening.md",
     "Predicting Regrowth in Central America - Project.md",
+    "People.md",
     "moon.svg",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/moon.svg.crdownload",
     "Predicting Regrowth in Central America - Project-1.svg",
     "moon.svg.crdownload",
     "Predicting Regrowth in Central America - Project.svg",
-    "001 The Bridge.md",
     "Predicting Regrowth in the Amazon - Project.md",
     "Conferences and Funding.md",
     "Valle, Mariana.md",
@@ -233,11 +235,8 @@
     "1 Captain's Log/1 Daily/2023-12-04 Mon.md",
     "Moura, Rodrigo.md",
     "MAPBIOMAS LULC.md",
-    "003 People and Networks.md",
     "Renata Muylaert.md",
     "300 Doing Science.md",
-    "MAPBIOMAS.md",
-    "1 Captain's Log/2 Weekly/2024 - W01 - Jan.md",
     "Files/Pasted Image 20240214131308_235.png",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
     "Files/Screenshot 2023-09-05 155256.png",
