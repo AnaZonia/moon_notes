@@ -205,7 +205,7 @@ We are also observing:
 
 ### Environmental factors
 **Microclimate** is a way bigger deal than I originally thought. In the mountains, they are reliant on the positions of the mountains and how that affects the mist that comes in the dry season, and also the breeze that is essential to prevent mold.
-- Because of this, it's hard to tease out the effects of climate change. Lower areas can have more issues with humidity (which matches what [[001 Ana Did Science Today#Alexis|Alexis]] said!) since here the clouds hold back a lot of the heavy rain. He has noticed more extreme weather events. I am concerned that it may be hard to explain differences in microclimate in the mountains, and that could make it hard to model regrowth in such a climatically patchy region. Another reason why <mark> my model probably won't work in the mountains...</mark>
+- Because of this, it's hard to tease out the effects of climate change. Lower areas can have more issues with humidity (which matches what [[Ana Did Science Today#Alexis|Alexis]] said!) since here the clouds hold back a lot of the heavy rain. He has noticed more extreme weather events. I am concerned that it may be hard to explain differences in microclimate in the mountains, and that could make it hard to model regrowth in such a climatically patchy region. Another reason why <mark> my model probably won't work in the mountains...</mark>
 
 **Loess** soil -  <mark>I would like to get to know more about soil types in here and in Ipetí </mark>
 

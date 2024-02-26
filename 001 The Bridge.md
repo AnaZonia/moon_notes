@@ -3,7 +3,7 @@ dg-publish: true
 dg-home: true
 ---
 ## PhD
-- [[001 Ana Did Science Today]]
+- [[Ana Did Science Today]]
 - [[Make It So]]
 - [[Conferences and Funding]]
 
