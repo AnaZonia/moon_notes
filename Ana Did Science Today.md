@@ -3,7 +3,7 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-
+[Sobre | Raquel Araujo](https://www.raquelaraujo.com/)
 ## 23/03/2024, Fri : 25/03/2024 - Return to work
 
 ==Finished my part on projects 3 and 4.== Decided to wait to contact the activist, Gabriela, before publishing - turns out neither person writing it is a journalist or has the time to dedicate to a full piece on Panamanian ports, so it is responsible to be careful with what info we put out to the public. It is best if after that, if we do want to publish it, to focus on the environmental impacts part, and leave the political-economical parts (including much of what was talked about with Andrés) to be developed later, after consulting economists and reaching out to other sources. Also, this is a long term issue. Ports have been expanded since Neopanamax and will continue to be until 2040 as far as we can see, so it's a long battle to be fought.
