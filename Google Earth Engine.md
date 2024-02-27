@@ -1,11 +1,11 @@
 ---
-up:
-  - "[[Remote Sensing]]"
+up: "[[Remote Sensing]]"
 type:
   - platform
 aliases:
   - gee
   - GEE
+dg-publish: true
 ---
 - Needed to use earthengine auhenticate --auth_mode=notebook to install. Thanks [SpatialThoughts!](https://courses.spatialthoughts.com/install-gee-python-api.html)
 - [community datasets](https://github.com/samapriya/awesome-gee-community-datasets)

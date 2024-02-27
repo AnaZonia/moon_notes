@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAPBIOMAS LULC.md",
+                "file": "Google Earth Engine.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Google Earth Engine.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Google Earth Engine.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Google Earth Engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,12 +199,12 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "01b975004b101752",
+  "active": "c138bc20cbbfea3b",
   "lastOpenFiles": [
     "MAPBIOMAS LULC.md",
+    "Ana Did Science Today.md",
     "001 The Bridge.md",
     "002 Data Sources.md",
-    "Ana Did Science Today.md",
     "Books.md",
     "003 People and Networks.md",
     "A good opening.md",
