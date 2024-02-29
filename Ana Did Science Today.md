@@ -3,6 +3,13 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+Email para Adalberto
+
+
+Questões para Hugo
+
+
+
 [Sobre | Raquel Araujo](https://www.raquelaraujo.com/)
 ## 23/03/2024, Fri : 25/03/2024 - Return to work
 

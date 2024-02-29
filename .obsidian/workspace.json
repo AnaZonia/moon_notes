@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Earth Engine.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 596.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,8 +199,9 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "c138bc20cbbfea3b",
+  "active": "01b975004b101752",
   "lastOpenFiles": [
+    "Google Earth Engine.md",
     "MAPBIOMAS LULC.md",
     "Ana Did Science Today.md",
     "001 The Bridge.md",
@@ -232,7 +233,6 @@
     "1 Captain's Log/3 Monthly/2023-12.md",
     "1 Captain's Log/1 Daily/2023-12-04 Mon.md",
     "Moura, Rodrigo.md",
-    "Renata Muylaert.md",
     "Files/Pasted Image 20240214131308_235.png",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
     "Files/Screenshot 2023-09-05 155256.png",
