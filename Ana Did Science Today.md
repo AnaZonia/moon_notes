@@ -7,8 +7,12 @@ Email para Adalberto
 
 
 Questões para Hugo
+- Enquanto me preparo para voltar ao Brasil, o que eu preciso ter em mente pra ser uma boa cientista aqui.
+- As colaborações no exterior - no momento eu considero um pos doutorado no Instituto Smithsonian, o que seria uma oportunidade interessante de talvez estabelecer parcerias com o Brasil.
 
+Acho que não vale a pena eu investir no momento em aprender persa. Já sei todas as línguas que eu queria saber, a única que eu ainda preciso mesmo aprender é libras. Até nheengatu não vale a pena aprender agora, já que não sei se realmente vou poder usar lá pra frente, e quais as línguas das pessoas que eu vou encontrar. Francês também, já sei o suficiente; saber mais pra que?
 
+Agora eu quero aprender história, arte, política, economia. E investir no meu corpo - exercícios físicos, dança, flexibilidade. Ler bons livros, comer bem, e dançar, e já tá bom demais. O resto, é a ecologia, o meu trabalho. Acho que é só isso que eu vou mesmo estudar daqui pra frente.
 
 [Sobre | Raquel Araujo](https://www.raquelaraujo.com/)
 ## 23/03/2024, Fri : 25/03/2024 - Return to work
