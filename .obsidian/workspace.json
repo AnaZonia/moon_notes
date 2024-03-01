@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "MAPBIOMAS LULC.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 239.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -201,8 +202,8 @@
   },
   "active": "01b975004b101752",
   "lastOpenFiles": [
-    "Google Earth Engine.md",
     "MAPBIOMAS LULC.md",
+    "Google Earth Engine.md",
     "Ana Did Science Today.md",
     "001 The Bridge.md",
     "002 Data Sources.md",

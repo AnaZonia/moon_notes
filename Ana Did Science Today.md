@@ -3,6 +3,9 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+- Planet - emailed Ruilan to ask for access.
+- Copa airlines flight change
+
 Email para Adalberto
 
 
