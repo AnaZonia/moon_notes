@@ -3,13 +3,25 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 26/02/2024 - 03/03/2024 - Trabalho de casa.
+
+**Modelagem de desmatamento** é uma área interessante também. Vi a palestra do [Carlos Souza Jr. ](https://geog.umd.edu/event/invited-guest-talk-31-carlos-souza-jr-preventing-deforestation-brazilian-amazon-geospatial) e tem artigos interessantes que eu já adicionei ao Zotero pra ler. [Imazon Case Study](https://centers.fuqua.duke.edu/yyyyyyyy/wp-content/uploads/sites/7/2020/11/FINAL-Scaling-Pathways-Imazon-Case-Study-5.11.17.pdf) em Paragominas também fala de estratégias com municipalidades pra evitar o desmatamento.
+
+**Debate do SBPC** -  Futuro da amazônia
+*Marina Hirota*
+- existe uma variação entre efeitos em regiões diferentes da Amazônia - as causas e consequências não são homogêneas
+*Bernardo Flores - Critical transitions in the Amazon forest system*
+3 anos de pesquisa com Catarina Jakovac, Carlos Nobre, Niklas Boers, Erika Berenguer, Luciana Gatti e Marina Hirota, entre outros: climatólogos, modeladores teóricos, paleoecólogos, modeladores de satélites, sociólogos. Sonho de princesa.
+bambu
+vismia
+- Quais condições estressam a floresta e seus limiares críticos?
+
+
 - Planet - emailed Ruilan to ask for access.
-- Copa airlines flight change
+- Copa airlines flight change is possible and free.
+- Many emails have been sent and answered! Planned almost all relevant meetings for Manaus and Panama.
 
-Email para Adalberto
-
-
-Questões para Hugo
+### Questões para Hugo
 - Enquanto me preparo para voltar ao Brasil, o que eu preciso ter em mente pra ser uma boa cientista aqui.
 - As colaborações no exterior - no momento eu considero um pos doutorado no Instituto Smithsonian, o que seria uma oportunidade interessante de talvez estabelecer parcerias com o Brasil.
 

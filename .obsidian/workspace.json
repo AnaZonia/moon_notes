@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0e177232028c4409",
+        "id": "676bdcf29179061d",
         "type": "tabs",
         "children": [
           {
-            "id": "c138bc20cbbfea3b",
+            "id": "e0124e18d9c93d74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MAPBIOMAS LULC.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5,
+    "width": 221.5,
     "collapsed": true
   },
   "right": {
@@ -86,9 +82,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Ana Did Science Today.md"
-              }
+              "state": {}
             }
           },
           {
@@ -97,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 596.5
+    "width": 614.4000000000001
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,12 +192,14 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "01b975004b101752",
+  "active": "e0124e18d9c93d74",
   "lastOpenFiles": [
+    "200 Life Sciences.md",
+    "Ana Did Science Today.md",
+    "Predicting Regrowth in the Amazon - Project.md",
+    "001 The Bridge.md",
     "MAPBIOMAS LULC.md",
     "Google Earth Engine.md",
-    "Ana Did Science Today.md",
-    "001 The Bridge.md",
     "002 Data Sources.md",
     "Books.md",
     "003 People and Networks.md",
@@ -218,7 +212,6 @@
     "Predicting Regrowth in Central America - Project-1.svg",
     "moon.svg.crdownload",
     "Predicting Regrowth in Central America - Project.svg",
-    "Predicting Regrowth in the Amazon - Project.md",
     "Conferences and Funding.md",
     "Valle, Mariana.md",
     "Make It So.md",
@@ -233,7 +226,6 @@
     "1 Captain's Log/3 Monthly/2024.md",
     "1 Captain's Log/3 Monthly/2023-12.md",
     "1 Captain's Log/1 Daily/2023-12-04 Mon.md",
-    "Moura, Rodrigo.md",
     "Files/Pasted Image 20240214131308_235.png",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
     "Files/Screenshot 2023-09-05 155256.png",
