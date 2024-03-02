@@ -12,9 +12,10 @@ dg-publish: true
 - existe uma variação entre efeitos em regiões diferentes da Amazônia - as causas e consequências não são homogêneas
 *Bernardo Flores - Critical transitions in the Amazon forest system*
 3 anos de pesquisa com Catarina Jakovac, Carlos Nobre, Niklas Boers, Erika Berenguer, Luciana Gatti e Marina Hirota, entre outros: climatólogos, modeladores teóricos, paleoecólogos, modeladores de satélites, sociólogos. Sonho de princesa.
-bambu
-vismia
-- Quais condições estressam a floresta e seus limiares críticos?
+
+Outras espécies importantes:
+- bambu
+- vismia
 
 duração da estaçào seca
 modelos com frequencia de secas
