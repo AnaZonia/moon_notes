@@ -11,8 +11,12 @@
             "id": "e0124e18d9c93d74",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Conferences and Funding.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -82,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ana Did Science Today.md"
+              }
             }
           },
           {
@@ -91,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,12 +199,13 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "e0124e18d9c93d74",
+  "active": "01b975004b101752",
   "lastOpenFiles": [
-    "200 Life Sciences.md",
-    "Ana Did Science Today.md",
-    "Predicting Regrowth in the Amazon - Project.md",
+    "Conferences and Funding.md",
     "001 The Bridge.md",
+    "Ana Did Science Today.md",
+    "200 Life Sciences.md",
+    "Predicting Regrowth in the Amazon - Project.md",
     "MAPBIOMAS LULC.md",
     "Google Earth Engine.md",
     "002 Data Sources.md",
@@ -212,7 +220,6 @@
     "Predicting Regrowth in Central America - Project-1.svg",
     "moon.svg.crdownload",
     "Predicting Regrowth in Central America - Project.svg",
-    "Conferences and Funding.md",
     "Valle, Mariana.md",
     "Make It So.md",
     "Land Use.md",
