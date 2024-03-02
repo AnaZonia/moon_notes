@@ -16,6 +16,8 @@ bambu
 vismia
 - Quais condições estressam a floresta e seus limiares críticos?
 
+duraçãq da estaçào seca
+modelos com frequencia de secas
 
 - Planet - emailed Ruilan to ask for access.
 - Copa airlines flight change is possible and free.
