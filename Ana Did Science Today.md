@@ -3,6 +3,64 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+## 08/03/2024 - 
+
+### Noemia Kazue Ishikawa
+- trabalha com cogumelos e povos indígenas amazônicos.
+Dr. Fidalgo e Dr. Prance são pioneiros na micologia, e Dr Prance na etnobotânica na Amazonia.
+Izonete - Litter Decomposition and Ectomycorrhizae in Amazonia
+
+A identificação desse fungo ajudou a promover a comercialização de cestaria indígena. O Marasmius sp. também é usado por aves para fazer ninhos (o fungo chama black horsehair em inglês).
+
+Novo projeto
+Diálogos científicos multiculturais sobre a sociobiodiversidade na Amazônia com potencial bioeconômico. 
+
+**Buscar depois:**
+- O livro dos cogumelos yanomami ganhou um premio Jabuti!
+- TEDx Amazonia
+- Ruby Vargas - Livro Cogumelos da Amazônia
+- Marasmius yanomami - espécie nova de cogumelos
+
+### Aretha Guimarães
+Florestas de areia branca da Amazônia
+
+**Ambientes não convencionais** - ocorrem de maneira pontual no Brasil. Solos serpentinos tem alta saturação natural de metais pesados, que podem impedir o crescimento de flora e funga.
+
+Estudou em Minas Gerais, no Morro das Almas, onde tem alta concentração de metais e ainda muita vegetação.
+
+Traços funcionais (functional traits) e nutrientes de folha são usados pra estudar o efeito desses metais na vegetação.
+
+**Florestas de areia branca** - ambientes com muita lixiviação, pobre em nutrientes. Ocorre em 3% da bacia, geralmente perto da bacia do Rio Negro. Altas taxas de endemismo, potencial de novas espécies.
+
+*Geotropismo negativo* - crescimento das raízes pra cima, não pro centro da terra.
+
+Macucu é uma espécie dominante nessas florestas e cresce muito. Não se entende como um solo pobre pode sustentar uma árvore gigante.
+
+**Projetos novos**
+*Ciclagem de nutrientes* - coleta de serrapilheira na seca e na cheia
+*Análise de nutrientes* foliares e de solo.
+Estrutura e composição da vegetação - LiDAR, DNA de solo.
+*Interação solo-planta* - composição de fungos e bactérias do solo, marcação de isótopos, traços funcionais.
+
+***Luciano Querido*** trabalha com modelagem de paisagem, uso de terra e padrões climáticos.
+
+Campinas/campinaranas.
+
+Floresta amazonica tem fonte de fósforo de outras fontes - "não se pode dizer que há limitação de fósforo na Amazônia."
+
+Soil grids e mapa da gabriela Zuquim com base em samambaias - panamazonia. tambem faz mapa pra fosforo.
+
+Queima de igapós do bernardo flores
+
+beyond climate control on species range figueiredo biogeography
+
+introducing a map of soil base cation concentration, an ecologically relevant GIS layer for Amazonian forests
+
+Modelo de numeros de espécies
+Composição de espécies - rana tomisto
+TDN baseado em parcelas no chão - riqueza e composição.
+
 ## 26/02/2024 - 03/03/2024 - Trabalho de casa
 
 **Modelagem de desmatamento** é uma área interessante também. Vi a palestra do [Carlos Souza Jr. ](https://geog.umd.edu/event/invited-guest-talk-31-carlos-souza-jr-preventing-deforestation-brazilian-amazon-geospatial) e tem artigos interessantes que eu já adicionei ao Zotero pra ler. [Imazon Case Study](https://centers.fuqua.duke.edu/yyyyyyyy/wp-content/uploads/sites/7/2020/11/FINAL-Scaling-Pathways-Imazon-Case-Study-5.11.17.pdf) em Paragominas também fala de estratégias com municipalidades pra evitar o desmatamento.

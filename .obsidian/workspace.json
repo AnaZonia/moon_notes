@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Conferences and Funding.md",
+                "file": "Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 614.4000000000001
+    "width": 614.4000000000001,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,15 +200,15 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "01b975004b101752",
+  "active": "e0124e18d9c93d74",
   "lastOpenFiles": [
-    "Conferences and Funding.md",
     "001 The Bridge.md",
+    "MAPBIOMAS LULC.md",
+    "Google Earth Engine.md",
+    "Conferences and Funding.md",
     "Ana Did Science Today.md",
     "200 Life Sciences.md",
     "Predicting Regrowth in the Amazon - Project.md",
-    "MAPBIOMAS LULC.md",
-    "Google Earth Engine.md",
     "002 Data Sources.md",
     "Books.md",
     "003 People and Networks.md",
