@@ -61,6 +61,28 @@ Modelo de numeros de espécies
 Composição de espécies - rana tomisto
 TDN baseado em parcelas no chão - riqueza e composição.
 
+
+Sean McMahon - trabalha com a Flavia.
+AmazonFACE, Quesada
+Adriana Esquivel Muelbert
+Gabriella Zuquim
+Andy Walker Oak Ridge
+Mamirauá - boas bolsas
+PPBio
+
+Hanna Tuomisto
+Bill Magnusson
+
+Jos Barlow vem e fica em Belém e na Inglaterra
+ForestPlots
+Oliver Philips - Erika
+Felipe França
+
+Hans ter Steege Hyperdominance amazonian tree flora
+
+lençol freatico
+
+
 ## 26/02/2024 - 03/03/2024 - Trabalho de casa
 
 **Modelagem de desmatamento** é uma área interessante também. Vi a palestra do [Carlos Souza Jr. ](https://geog.umd.edu/event/invited-guest-talk-31-carlos-souza-jr-preventing-deforestation-brazilian-amazon-geospatial) e tem artigos interessantes que eu já adicionei ao Zotero pra ler. [Imazon Case Study](https://centers.fuqua.duke.edu/yyyyyyyy/wp-content/uploads/sites/7/2020/11/FINAL-Scaling-Pathways-Imazon-Case-Study-5.11.17.pdf) em Paragominas também fala de estratégias com municipalidades pra evitar o desmatamento.
