@@ -3,8 +3,10 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 15/03/2024 - Panamá
 
-## 08/03/2024 - 
+
+## 08/03/2024 - INPA
 
 ### Noemia Kazue Ishikawa
 - trabalha com cogumelos e povos indígenas amazônicos.

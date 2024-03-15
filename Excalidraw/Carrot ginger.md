@@ -1,0 +1,10 @@
+- 1/2 cup Carrot
+- 3 4 inch piece Ginger, fresh
+- 1 Kale
+- 1 Red cabbage
+- 1 tbsp White onion
+- 1 tsp maple syrup
+- 2 tbsp rice vinegar
+- 1/2 tsp sesame oil
+- 2 tbsp water
+- 2 tbsp grapeseed or avocado oil
