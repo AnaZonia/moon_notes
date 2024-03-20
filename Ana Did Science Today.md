@@ -8,6 +8,13 @@ dg-publish: true
 
 You can use planet in google earth engine, but you need to know the code of the individual image you want. It seems really hard to use Planet without 
 
+[Global land cover and land use change 2000-2020 (earthengine.app)](https://glad.earthengine.app/view/glcluc-2000-2020#lon=-80.78402738386993;lat=30.34704254541722;zoom=4;)
+
+[Dynamic World V1  |  Earth Engine Data Catalog  |  Google for Developers](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1#colab-python)
+
+seems promising, but there's many gaps
+
+
 ## 08/03/2024 - INPA
 
 ### Noemia Kazue Ishikawa
