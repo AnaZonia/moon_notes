@@ -14,6 +14,23 @@ You can use planet in google earth engine, but you need to know the code of the 
 
 seems promising, but there's many gaps
 
+- 8 different teams
+- printing them out in different sizes (60x80cm)
+- 11x17 inches format (smaller to support as they walk)
+- 300 dpi for different sizes matters
+- satellite images - should they be on different colors?
+- hydrology
+- reference map - support general planning
+	- roads
+	- houses (open street maps)
+	- hillshade
+	- place names
+	- scale bar
+	- grid - finer, and subdivided (tick marks on the sides) do it in UTM
+
+
+[*Link f9f56ceb38ed9e911767c4014eeb536d - Earth Engine Code Editor (google.com)](https://code.earthengine.google.com/f9f56ceb38ed9e911767c4014eeb536d)
+
 
 ## 08/03/2024 - INPA
 
