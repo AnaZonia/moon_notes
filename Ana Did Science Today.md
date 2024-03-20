@@ -4,7 +4,9 @@ up:
 dg-publish: true
 ---
 ## 15/03/2024 - Panamá
+[GEE Integration: a Planet Developers Deep Dive](https://developers.planet.com/blog/2023/Feb/23/gee-integration-a-planet-developers-deep-dive/)
 
+You can use planet in google earth engine, but you need to know the code of the individual image you want. It seems really hard to use Planet without 
 
 ## 08/03/2024 - INPA
 

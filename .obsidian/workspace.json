@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -203,6 +202,8 @@
   },
   "active": "e0124e18d9c93d74",
   "lastOpenFiles": [
+    "Github.md",
+    "Ana Did Science Today.md",
     "Excalidraw/Drawing Mar 15th 2024.excalidraw.md",
     "Excalidraw/Legume Soup.md",
     "Excalidraw/Pumpkin Soup.md",
@@ -225,10 +226,8 @@
     "Excalidraw/Avocado sauce.md",
     "Excalidraw/Salads.md",
     "Excalidraw/Veggies.md",
-    "Ana Did Science Today.md",
     "001 The Bridge.md",
     "MAPBIOMAS LULC.md",
-    "Google Earth Engine.md",
     "moon.svg",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/moon.svg.crdownload",
