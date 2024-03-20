@@ -32,6 +32,60 @@ seems promising, but there's many gaps
 [*Link f9f56ceb38ed9e911767c4014eeb536d - Earth Engine Code Editor (google.com)](https://code.earthengine.google.com/f9f56ceb38ed9e911767c4014eeb536d)
 
 
+condit's papers with ben turner - fertility affects species composition, but not productivity
+
+geology maps are preferred - 
+
+lower middle of the amazon basin
+
+USDA soil classification system is different from FAO
+
+rainfall often overlaps with fertility in soils
+
+30x30 land use change for panama
+kendra walker
+
+Compare 2012 to 2020 carbon to estimate deforestation and regrowth 
+
+Christina Teixeira-Anderson
+geotrees
+stewart davis director of forestgeo
+
+tang secondary forest paper
+
+Harvard forest studies done for ecosystem services
+
+julia bardina paper - prob of forests being deforested
+
+dry forest data - allometric equations
+
+send brian's 6k species maps
+
+agua salud fertilization experiment paper
+
+ED2 to model secondary forest growth - veron-levy
+- nitrogen fixer identity matters. lai ha rao ecology letters
+
+n fixers don't fix much on secondary forests.
+
+Kasey cushman - airborne and satellite data with agua salud data
+
+In principal there was a law - but there was ever a government fund put into it? they applied but didn't get anything. heard it was going into strange places, 7-8 years ago. works with the ministry of environment and hope to benefit from it.
+
+carlos espinosa et forestry school at UTP.
+
+landowners can be illiterate or very wealthy. this incentives should not just go to the wealthy landowners.
+it's a lot easier for the wealthy to access carbon credits because of risk of losing land - the government law that if you dont have clear title, you can lose land to the government. titled land in panama is very limited - most ppl have derechos posesoriales.
+if you use the land, you have squatter rights. register forest reforestation with miambiente can help make a management plan and show you're "using" that land. this can make carbon payments and allow people to keep the land. plenty of question on who owns the mature forests - who gets carbon payments? but for secondary forests, that's better for people.
+
+information so people can fight for their rights. there's no funding for incentives, so he's looking for outside groups. idea was a payment from ppl in the global north. there's an enrichment experiment. catherine sinacore paper on nat comms on financial incentives.
+
+the private ppl take the risk - if the land burns or doesnt grow as fast, ppl still get 130 dol per hectare.
+
+jeff doesnt believe in panamanian government to distribute well the funding from abroad into farmers. could be web-based funds to transfer like etransfer to needy people in latam. remote sensing can tell if it's still forest there next year or not.
+
+area based payments in costa rica.
+
 ## 08/03/2024 - INPA
 
 ### Noemia Kazue Ishikawa
