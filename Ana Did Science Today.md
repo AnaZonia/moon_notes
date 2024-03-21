@@ -102,8 +102,6 @@ microbial biomass related with total soil carbon
 stoichiometric ratios in microbial biomass
 total carbon content - high nutrients
 
-natgeo programs in bocas del toro
-
 
 ## 08/03/2024 - INPA
 
