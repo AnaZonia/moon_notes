@@ -5,6 +5,13 @@ dg-publish: true
 ---
 ## 20/03/2024 - 
 
+Presupuesto - national budget
+15 million balboas
+were the funds assigned? what happened to those funds?
+budget needs to be approved by the congress - assembleia de panama (legislative branch)
+
+
+
 ## 15/03/2024 - Panamá
 [GEE Integration: a Planet Developers Deep Dive](https://developers.planet.com/blog/2023/Feb/23/gee-integration-a-planet-developers-deep-dive/)
 
@@ -18,17 +25,6 @@ seems promising, but there's many gaps
 
 - 8 different teams
 - printing them out in different sizes (60x80cm)
-- 11x17 inches format (smaller to support as they walk)
-- 300 dpi for different sizes matters
-- satellite images - should they be on different colors?
-- hydrology
-- reference map - support general planning
-	- roads
-	- houses (open street maps)
-	- hillshade
-	- place names
-	- scale bar
-	- grid - finer, and subdivided (tick marks on the sides) do it in UTM
 
 
 [*Link f9f56ceb38ed9e911767c4014eeb536d - Earth Engine Code Editor (google.com)](https://code.earthengine.google.com/f9f56ceb38ed9e911767c4014eeb536d)
@@ -87,6 +83,10 @@ the private ppl take the risk - if the land burns or doesnt grow as fast, ppl st
 jeff doesnt believe in panamanian government to distribute well the funding from abroad into farmers. could be web-based funds to transfer like etransfer to needy people in latam. remote sensing can tell if it's still forest there next year or not.
 
 area based payments in costa rica.
+
+funds also give tax exemptions to the finca. if you present a management plan, which may need to be updated every year - seems unfeasible for small land owners.
+
+does the law for what the payments should be done - area or height. there is a table that outlines how much you should be paid and for what.
 
 ## 08/03/2024 - INPA
 
