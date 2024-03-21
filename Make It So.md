@@ -2,25 +2,21 @@
 dg-publish: true
 ---
 
-## February 2024
-- [x] send emails ✅ 2024-02-25
-- [ ] finish Manaus presentation
-
 ## March 2024
 - [ ] look into classification confidence by mapbiomas
 - [ ] look into flooded forest class
-- [ ] Register for STRI computer use
-- [ ] Pay STRI accommodation
-- [ ] taxes
+- [x] Pay STRI accommodation ✅ 2024-03-20
+- [x] taxes ✅ 2024-03-20
 - [x] Port article ✅ 2024-02-25
 - [ ] Fellowship application
 - [ ] Final Project
 - [ ] Meet Javier
 - [ ] Meet Carrie
-- [ ] Meet Jeff
+- [x] Meet Jeff ✅ 2024-03-20
 - [ ] Meet Helene
-- [ ] [Detecting Changes in Sentinel-1 Imagery (Part 4)  |  Google Earth Engine  |  Google for Developers](https://developers.google.com/earth-engine/tutorials/community/detecting-changes-in-sentinel-1-imagery-pt-4)
-
+- [ ] Register for PANGEA working group
+- [Ecosystem Structure, Function, and Diversity Working Group (google.com)](https://docs.google.com/forms/d/e/1FAIpQLScodCILMG0ya1zfD-eEuL82LU0EQrGXD1aJ2Z2TbIMjikIX6A/viewform)
+- [PANGEA DC Workshop Registration (google.com)](https://docs.google.com/forms/d/e/1FAIpQLSfuhlTtJXziSHjSU6QcwSSWMQ3ct6e4WVHE5Fv73zDCu39nKQ/viewform)
 
 ## April 2024
 - [ ] clear tablet notes (bayesian)
@@ -34,6 +30,10 @@ dg-publish: true
 ## August 2024
 - [ ] AGU abstract
 
+
+## February 2024
+- [x] send emails ✅ 2024-02-25
+- [x] finish Manaus presentation ✅ 2024-03-20
 
 ECO_ID: 540, ECO_NAME: Maranhão Babaçu forests
 ECO_ID: 485, ECO_NAME: Northeast Brazil restingas

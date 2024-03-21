@@ -3,6 +3,8 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 20/03/2024 - 
+
 ## 15/03/2024 - Panamá
 [GEE Integration: a Planet Developers Deep Dive](https://developers.planet.com/blog/2023/Feb/23/gee-integration-a-planet-developers-deep-dive/)
 
