@@ -88,6 +88,23 @@ funds also give tax exemptions to the finca. if you present a management plan, w
 
 does the law for what the payments should be done - area or height. there is a table that outlines how much you should be paid and for what.
 
+stewart davies - forest geo soil maps
+daviess@si.edu
+secondary sites
+daisy dent - ecoazuero eth zurich (also interested in forest recovery may have sites on soil data)
+fortuna - jim darling
+darlingj@life.illinois.edu
+agua salud soil data
+
+pH indicator of a healthy microcommunity
+soil microbial community
+microbial biomass related with total soil carbon
+stoichiometric ratios in microbial biomass
+total carbon content - high nutrients
+
+natgeo programs in bocas del toro
+
+
 ## 08/03/2024 - INPA
 
 ### Noemia Kazue Ishikawa
