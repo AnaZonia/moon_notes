@@ -3,32 +3,30 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## 20/03/2024 - 
+## 23/03/2024 - Overview
 
-Presupuesto - national budget
-15 million balboas
-were the funds assigned? what happened to those funds?
-budget needs to be approved by the congress - assembleia de panama (legislative branch)
+### Soil data
+#### Meeting with Jeff Hall
 
+
+### Collaborators
+- Lab da Jakovac
+- INPA
+- 
 
 
 ## 15/03/2024 - Panamá
-[GEE Integration: a Planet Developers Deep Dive](https://developers.planet.com/blog/2023/Feb/23/gee-integration-a-planet-developers-deep-dive/)
 
+### Mapping for TAship
 You can use planet in google earth engine, but you need to know the code of the individual image you want. It seems really hard to use Planet without 
 
 [Global land cover and land use change 2000-2020 (earthengine.app)](https://glad.earthengine.app/view/glcluc-2000-2020#lon=-80.78402738386993;lat=30.34704254541722;zoom=4;)
 
 [Dynamic World V1  |  Earth Engine Data Catalog  |  Google for Developers](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1#colab-python)
 
-seems promising, but there's many gaps
-
-- 8 different teams
-- printing them out in different sizes (60x80cm)
-
+Dynamic World seems promising, but there's many gaps (bad cloud cover)
 
 [*Link f9f56ceb38ed9e911767c4014eeb536d - Earth Engine Code Editor (google.com)](https://code.earthengine.google.com/f9f56ceb38ed9e911767c4014eeb536d)
-
 
 condit's papers with ben turner - fertility affects species composition, but not productivity
 

@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "9aca5f348d3fd3d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48ff3f9799b7fe3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ana Did Science Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -181,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 614.4000000000001
+    "width": 614.4000000000001,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +218,7 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "01b975004b101752",
+  "active": "48ff3f9799b7fe3a",
   "lastOpenFiles": [
     "Make It So.md",
     "Ana Did Science Today.md",
