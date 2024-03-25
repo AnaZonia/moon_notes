@@ -4,11 +4,13 @@ stardate: Aug 18th 2023
 update: Nov 24th 2023
 dg-publish: true
 ---
+- [ ] look into classification confidence by mapbiomas
+- [ ] look into flooded forest class
 
 CAMPO: Capoeira Model for Post-agricultural Regrowth
 
 
-Incorporando complexidade a um modelo de regereração de florestas neotropicais
+Incorporando complexidade a um modelo de regeneração de florestas neotropicais
 Incorporating complexity to neotropical forest regrowth predictions
 
 - predictiveness as well as ecological insight.
@@ -36,7 +38,6 @@ Arguing for importance
 ## Methods
 Using GEDI and ICESAT with regrowth in amazon
 [[milenkovicAssessingAmazonRainforest2022a]]
-
   
 - write methods/unite methods notes  
 What is all that will come into the model?  
@@ -52,4 +53,7 @@ Everything else coming up:
 - vapor pressure deficit  
 - evapotranspiration  
 - seasonality  
--  
+[[Ecoregions]]
+
+### Potential correlations
+- Rainfall and soil fertility (Jeff Hall)

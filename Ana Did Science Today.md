@@ -3,16 +3,26 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 25/03/2024 - Organizing and writing
+
+
+[[Project/Research Proposal]] 
+
 ## 23/03/2024 - Overview
 
 ### Soil data
 #### Meeting with Jeff Hall
-
+- In general, geology-based soil maps are preferred.
+- Ben Turner/Condit paper - [Pervasive phosphorus limitation of tree species but not communities in tropical forests | Nature](https://www.nature.com/articles/nature25789)
+- Attention to soil map classification systems. USDA system is different from FAO, and there are 
+- Agua Salud is quite phosphorus poor - lower middle of the Amazon basin.
+- [Kendra Walker at UCSB](https://emlab.ucsb.edu/index.php/about/our-team/kendra-walker) has done a 30x30 land use change map for Panama.
+- rainfall often overlaps with fertility in soils
 
 ### Collaborators
 - Lab da Jakovac
 - INPA
-- 
+
 
 
 ## 15/03/2024 - Panamá
@@ -28,18 +38,7 @@ Dynamic World seems promising, but there's many gaps (bad cloud cover)
 
 [*Link f9f56ceb38ed9e911767c4014eeb536d - Earth Engine Code Editor (google.com)](https://code.earthengine.google.com/f9f56ceb38ed9e911767c4014eeb536d)
 
-condit's papers with ben turner - fertility affects species composition, but not productivity
 
-geology maps are preferred - 
-
-lower middle of the amazon basin
-
-USDA soil classification system is different from FAO
-
-rainfall often overlaps with fertility in soils
-
-30x30 land use change for panama
-kendra walker
 
 Compare 2012 to 2020 carbon to estimate deforestation and regrowth 
 
