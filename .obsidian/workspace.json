@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "0df4056a619b547e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3763e9935daa0d17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ana Did Science Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,9 +221,12 @@
   },
   "active": "01b9c35e47537ff0",
   "lastOpenFiles": [
-    "200 Life Sciences.md",
+    "Why was 2023 so much worse than others.md",
     "Climate Change.md",
     "Ana Did Science Today.md",
+    "Files/Ana Did Science Today.pdf",
+    "001 The Bridge.md",
+    "200 Life Sciences.md",
     "Biodiversity.md",
     "Biodiversity.canvas",
     "How is biodiversity studied through remote sensing.md",
@@ -216,7 +237,6 @@
     "How does communication work between trees.md",
     "How do mature forests keep on sequestering carbon after they've reached peak community.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "001 The Bridge.md",
     "Amazonia.md",
     "Tropical Forest Ecology.md",
     "Mata Atlântica.md",
@@ -232,7 +252,6 @@
     "Evolution.md",
     "Evolution of Eusociality.md",
     "003 People and Networks.md",
-    "2 Research/phelpsDoesREDDThreaten2010.md",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Background Flowchart.canvas",
     "Project",
@@ -254,7 +273,6 @@
     "3 Alexandria",
     "Biodiversity",
     "2 Workstation/3 - Incorporating Biodiversity",
-    "2 Workstation/2 - Predicting Regrowth in Central America",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Regrowth in Amazonia.canvas",
     "20 Python MOC.canvas",
     "2 Literature/Regrowth/Regrowth literature.canvas",

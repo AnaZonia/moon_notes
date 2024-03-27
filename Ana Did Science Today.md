@@ -7,6 +7,10 @@ dg-publish: true
 
 [[STRI Short-Term Fellowship Proposal]] 
 
+A história do pai da Cristina, jornalista da Costa Rica cobrindo a invasão do Panamá.
+
+![[Ana Did Science Today.pdf]]
+
 ### Soil data
 #### Meeting [[Agudo, Dayana]] and [[Nottingham, Andrew]]
 
