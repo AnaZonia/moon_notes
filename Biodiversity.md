@@ -7,13 +7,11 @@ update: Sep 30th 2023
 
 [[Biodiversity.canvas]]
 
-- [[How is biodiversity studied through remote sensing]]
 - [[Why do the tropics have higher biodiversity]]
 - [[Biodiversity - Biomass Relationship]]
 - [[Biodiversity exchange in the tropics]]
 - [[How is biodiversity loss happening]]
-
-
+- [[Niche Theory]]
 
 
 ## Talks

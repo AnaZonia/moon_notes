@@ -13,3 +13,5 @@ url: https://www.planet.com/
 
 
 Some of Planet's data goes back to 2009.
+
+You can use planet in google earth engine, but you need to know the code of the individual image you want. It seems really hard to use Planet without downloading individual images from the website.

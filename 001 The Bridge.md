@@ -8,9 +8,9 @@ dg-home: true
 - [[Conferences and Funding]]
 
 ## PhD projects
-1. [[Predicting Regrowth in the Amazon - Project]]
-2. [[Predicting Regrowth in Central America - Project]]
-3. [[Incorporating Biodiversity - Project]]
+1. [[Chapter 1 - Predicting Regrowth in the Amazon]]
+2. [[Chapter 2 - Predicting Regrowth in Panama]]
+3. [[Chapter 3 - Incorporating Biodiversity]]
 
 ## Other ongoing projects
 - [[RELAM talk]]

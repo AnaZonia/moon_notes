@@ -8,7 +8,7 @@
     "authors": "multitext",
     "type": "multitext",
     "stardate": "text",
-    "up": "text",
+    "up": "multitext",
     "mission": "multitext",
     "dg-publish": "checkbox",
     "dg-home": "checkbox",

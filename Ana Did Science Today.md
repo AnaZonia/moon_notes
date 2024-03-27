@@ -3,102 +3,43 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## 25/03/2024 - Organizing and writing
+## 25/03/2024 : 29/03/2024 - Organizing and writing
 
-
-[[Project/Research Proposal]] 
-
-## 23/03/2024 - Overview
+[[STRI Short-Term Fellowship Proposal]] 
 
 ### Soil data
-#### Meeting with Jeff Hall
+#### Meeting [[Agudo, Dayana]] and [[Nottingham, Andrew]]
+
+- pH is an indicator of a healthy soil microbial community
+- microbial biomass related with total soil carbon
+- stoichiometric ratios in microbial biomass could be interesting to look into, and that data seems to be available for ForestGEO.
+- Total soil carbon content relates to high nutrients
+
+Recommended contacting [[Dent, Daisy]] and [[Dalling, Jim]] for soil maps.
+
+#### Meeting with [[Hall, Jefferson S.]]
 - In general, geology-based soil maps are preferred.
-- Ben Turner/Condit paper - [Pervasive phosphorus limitation of tree species but not communities in tropical forests | Nature](https://www.nature.com/articles/nature25789)
 - Attention to soil map classification systems. USDA system is different from FAO, and there are 
 - Agua Salud is quite phosphorus poor - lower middle of the Amazon basin.
-- [Kendra Walker at UCSB](https://emlab.ucsb.edu/index.php/about/our-team/kendra-walker) has done a 30x30 land use change map for Panama.
 - rainfall often overlaps with fertility in soils
+- We can compare 2012 to 2020 carbon to estimate deforestation and regrowth 
+- nitrogen fixer identity matters. lai ha rao ecology letters paper
+- Agua Salud has good allometric equations for dry forests.
+#### Useful contacts
+- [Kendra Walker at UCSB](https://emlab.ucsb.edu/index.php/about/our-team/kendra-walker) has done a 30x30 land use change map for Panama.
+- [[Teixeira-Anderson, Kristina]] works with GeoTrees
+- [[Davies, Stuart]] can give ForestGEO data, which would be very useful (everyone said that!)
+- Kasey cushman - airborne and satellite data with agua salud data
+- [‪Katherine Sinacore‬](https://scholar.google.com/citations?user=6fq4FOEAAAAJ&hl=en) is a previous postdoc
 
-### Collaborators
-- Lab da Jakovac
-- INPA
-
-
-
-## 15/03/2024 - Panamá
+#### Reading
+- Ben Turner/Condit paper - [Pervasive phosphorus limitation of tree species but not communities in tropical forests | Nature](https://www.nature.com/articles/nature25789)
+- 2023 article on patches that are more likely to persist as secondary forest [Landscape context importance for predicting forest transition success in central Panama | Landscape Ecology (springer.com)](https://link.springer.com/article/10.1007/s10980-023-01694-y)
+- [[Tropical carbon sink accelerated by symbiotic dinitrogen fixation]] - Levy-Varon
+- [Feedback loops drive ecological succession: towards a unified conceptual framework](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.13051)
 
 ### Mapping for TAship
-You can use planet in google earth engine, but you need to know the code of the individual image you want. It seems really hard to use Planet without 
-
-[Global land cover and land use change 2000-2020 (earthengine.app)](https://glad.earthengine.app/view/glcluc-2000-2020#lon=-80.78402738386993;lat=30.34704254541722;zoom=4;)
-
-[Dynamic World V1  |  Earth Engine Data Catalog  |  Google for Developers](https://developers.google.com/earth-engine/datasets/catalog/GOOGLE_DYNAMICWORLD_V1#colab-python)
-
-Dynamic World seems promising, but there's many gaps (bad cloud cover)
-
-[*Link f9f56ceb38ed9e911767c4014eeb536d - Earth Engine Code Editor (google.com)](https://code.earthengine.google.com/f9f56ceb38ed9e911767c4014eeb536d)
-
-
-
-Compare 2012 to 2020 carbon to estimate deforestation and regrowth 
-
-Christina Teixeira-Anderson
-geotrees
-stewart davis director of forestgeo
-
-tang secondary forest paper
-
-Harvard forest studies done for ecosystem services
-
-julia bardina paper - prob of forests being deforested
-
-dry forest data - allometric equations
-
-send brian's 6k species maps
-
-agua salud fertilization experiment paper
-
-ED2 to model secondary forest growth - veron-levy
-- nitrogen fixer identity matters. lai ha rao ecology letters
-
-n fixers don't fix much on secondary forests.
-
-Kasey cushman - airborne and satellite data with agua salud data
-
-In principal there was a law - but there was ever a government fund put into it? they applied but didn't get anything. heard it was going into strange places, 7-8 years ago. works with the ministry of environment and hope to benefit from it.
-
-carlos espinosa et forestry school at UTP.
-
-landowners can be illiterate or very wealthy. this incentives should not just go to the wealthy landowners.
-it's a lot easier for the wealthy to access carbon credits because of risk of losing land - the government law that if you dont have clear title, you can lose land to the government. titled land in panama is very limited - most ppl have derechos posesoriales.
-if you use the land, you have squatter rights. register forest reforestation with miambiente can help make a management plan and show you're "using" that land. this can make carbon payments and allow people to keep the land. plenty of question on who owns the mature forests - who gets carbon payments? but for secondary forests, that's better for people.
-
-information so people can fight for their rights. there's no funding for incentives, so he's looking for outside groups. idea was a payment from ppl in the global north. there's an enrichment experiment. catherine sinacore paper on nat comms on financial incentives.
-
-the private ppl take the risk - if the land burns or doesnt grow as fast, ppl still get 130 dol per hectare.
-
-jeff doesnt believe in panamanian government to distribute well the funding from abroad into farmers. could be web-based funds to transfer like etransfer to needy people in latam. remote sensing can tell if it's still forest there next year or not.
-
-area based payments in costa rica.
-
-funds also give tax exemptions to the finca. if you present a management plan, which may need to be updated every year - seems unfeasible for small land owners.
-
-does the law for what the payments should be done - area or height. there is a table that outlines how much you should be paid and for what.
-
-stewart davies - forest geo soil maps
-daviess@si.edu
-secondary sites
-daisy dent - ecoazuero eth zurich (also interested in forest recovery may have sites on soil data)
-fortuna - jim darling
-darlingj@life.illinois.edu
-agua salud soil data
-
-pH indicator of a healthy microcommunity
-soil microbial community
-microbial biomass related with total soil carbon
-stoichiometric ratios in microbial biomass
-total carbon content - high nutrients
-
+- [[README for Piura code]]
 
 ## 08/03/2024 - INPA
 
@@ -118,36 +59,14 @@ Diálogos científicos multiculturais sobre a sociobiodiversidade na Amazônia c
 - Ruby Vargas - Livro Cogumelos da Amazônia
 - Marasmius yanomami - espécie nova de cogumelos
 
-### Aretha Guimarães
-Florestas de areia branca da Amazônia
+### Resultado das conversas com [[Costa, Flávia R. C.]] e [[Guimarães, Aretha]]
 
-**Ambientes não convencionais** - ocorrem de maneira pontual no Brasil. Solos serpentinos tem alta saturação natural de metais pesados, que podem impedir o crescimento de flora e funga.
-
-Estudou em Minas Gerais, no Morro das Almas, onde tem alta concentração de metais e ainda muita vegetação.
-
-Traços funcionais (functional traits) e nutrientes de folha são usados pra estudar o efeito desses metais na vegetação.
-
-**Florestas de areia branca** - ambientes com muita lixiviação, pobre em nutrientes. Ocorre em 3% da bacia, geralmente perto da bacia do Rio Negro. Altas taxas de endemismo, potencial de novas espécies.
-
-*Geotropismo negativo* - crescimento das raízes pra cima, não pro centro da terra.
-
-Macucu é uma espécie dominante nessas florestas e cresce muito. Não se entende como um solo pobre pode sustentar uma árvore gigante.
-
-**Projetos novos**
-*Ciclagem de nutrientes* - coleta de serrapilheira na seca e na cheia
-*Análise de nutrientes* foliares e de solo.
-Estrutura e composição da vegetação - LiDAR, DNA de solo.
-*Interação solo-planta* - composição de fungos e bactérias do solo, marcação de isótopos, traços funcionais.
-
-***Luciano Querido*** trabalha com modelagem de paisagem, uso de terra e padrões climáticos.
-
-Campinas/campinaranas.
-
-Floresta amazonica tem fonte de fósforo de outras fontes - "não se pode dizer que há limitação de fósforo na Amazônia."
+> Floresta amazônica tem fonte de fósforo de outras fontes - "não se pode dizer que há limitação de fósforo na Amazônia."
 
 Soil grids e mapa da gabriela Zuquim com base em samambaias - panamazonia. tambem faz mapa pra fosforo.
+[Journal of Biogeography | Wiley Online Library](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jbi.13104)
 
-Queima de igapós do bernardo flores
+Queima de igapós do [[Flores, Bernardo M.]]
 
 beyond climate control on species range figueiredo biogeography
 
@@ -157,18 +76,15 @@ Modelo de numeros de espécies
 Composição de espécies - rana tomisto
 TDN baseado em parcelas no chão - riqueza e composição.
 
-
-Sean McMahon - trabalha com a Flavia.
+#### Relevant people
+- [[McMahon, Sean]] - do STRI, trabalha com a Flavia.
 AmazonFACE, Quesada
 Adriana Esquivel Muelbert
-Gabriella Zuquim
 Andy Walker Oak Ridge
 Mamirauá - boas bolsas
 PPBio
-
 Hanna Tuomisto
 Bill Magnusson
-
 Jos Barlow vem e fica em Belém e na Inglaterra
 ForestPlots
 Oliver Philips - Erika
@@ -176,7 +92,8 @@ Felipe França
 
 Hans ter Steege Hyperdominance amazonian tree flora
 
-lençol freatico
+duração da estaçào seca
+modelos com frequencia de secas
 
 
 ## 26/02/2024 - 03/03/2024 - Trabalho de casa
@@ -187,14 +104,8 @@ lençol freatico
 *Marina Hirota*
 - existe uma variação entre efeitos em regiões diferentes da Amazônia - as causas e consequências não são homogêneas
 *Bernardo Flores - Critical transitions in the Amazon forest system*
+[[Critical Transitions in the Amazon Forest System]]
 3 anos de pesquisa com Catarina Jakovac, Carlos Nobre, Niklas Boers, Erika Berenguer, Luciana Gatti e Marina Hirota, entre outros: climatólogos, modeladores teóricos, paleoecólogos, modeladores de satélites, sociólogos. Sonho de princesa.
-
-Outras espécies importantes:
-- bambu
-- vismia
-
-duração da estaçào seca
-modelos com frequencia de secas
 
 - Planet - emailed Ruilan to ask for access.
 - Copa airlines flight change is possible and free.
@@ -208,17 +119,9 @@ Acho que não vale a pena eu investir no momento em aprender persa. Já sei toda
 
 Agora eu quero aprender história, arte, política, economia. E investir no meu corpo - exercícios físicos, dança, flexibilidade. Ler bons livros, comer bem, e dançar, e já tá bom demais. O resto, é a ecologia, o meu trabalho. Acho que é só isso que eu vou mesmo estudar daqui pra frente.
 
-[Sobre | Raquel Araujo](https://www.raquelaraujo.com/)
 ## 23/03/2024, Fri : 25/03/2024 - Return to work
 
 ==Finished my part on projects 3 and 4.== Decided to wait to contact the activist, Gabriela, before publishing - turns out neither person writing it is a journalist or has the time to dedicate to a full piece on Panamanian ports, so it is responsible to be careful with what info we put out to the public. It is best if after that, if we do want to publish it, to focus on the environmental impacts part, and leave the political-economical parts (including much of what was talked about with Andrés) to be developed later, after consulting economists and reaching out to other sources. Also, this is a long term issue. Ports have been expanded since Neopanamax and will continue to be until 2040 as far as we can see, so it's a long battle to be fought.
-
-
-
-## Course contacts and final reflections
-[Home - CATIE](https://www.catie.ac.cr/)
-
-Ruth Bennett
 
 
 ## 2/2/2024, Fri : 3/2/2024, Sat - Pixvae

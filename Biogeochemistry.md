@@ -4,6 +4,8 @@ up:
 stardate: Sep 9th 2023
 update: Oct 8th 2023
 ---
+[[Biogeochemistry.canvas|Biogeochemistry]]
+
 - [[Nitrogen]]
 - [[Phosphorus]]
 - [[Soil]]
@@ -11,11 +13,8 @@ update: Oct 8th 2023
 - [[Earth System Models]]
 - [[Nutrient limitations to carbon capture]]
 - [[Leaf Economics Spectrum]]
-- [[Desert Biogeochemistry]]
 - [[Gaia Hypothesis]]
 - [[Eddy Covariance]]
-
-
 
 
 ## People

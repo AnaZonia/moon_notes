@@ -13,8 +13,6 @@ at-a-glance: ""
 
 {% for t in tags %}{% if t.tag not in ['review', 'meta_analysis', 'number_one', 'model', 'synthesis', 'thesis', 'data/plots'] %}[[{{t.tag}}]]{% endif %}{% if not loop.last %} {% endif %}{% endfor %}
 
->[!summary] Summary
-
 >[!quote] Cited
 #### Authors:
 {% for t in creators %}[[{{t.lastName}}, {{t.firstName}}]]{% if not loop.last %}, {% endif %}{% endfor %}

@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b3bf1fa2f0862768",
+        "id": "985789be4a59a906",
         "type": "tabs",
         "children": [
           {
-            "id": "01b975004b101752",
+            "id": "01b9c35e47537ff0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Predicting Regrowth in the Amazon - Project.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9aca5f348d3fd3d0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "48ff3f9799b7fe3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Climate Change.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +78,7 @@
       {
         "id": "6b3e5e477cb16920",
         "type": "tabs",
-        "dimension": 47.05882352941176,
+        "dimension": 47.058823529411754,
         "children": [
           {
             "id": "9f7f1373e05d036e",
@@ -104,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Predicting Regrowth in the Amazon - Project.md"
+                "file": "Climate Change.md"
               }
             }
           },
@@ -114,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Predicting Regrowth in the Amazon - Project.md",
+                "file": "Climate Change.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Predicting Regrowth in the Amazon - Project.md",
+                "file": "Climate Change.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,12 +158,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "a01b41a4b678df08",
         "type": "tabs",
-        "dimension": 52.94117647058824,
+        "dimension": 52.941176470588246,
         "children": [
           {
             "id": "e0124e18d9c93d74",
@@ -218,35 +201,41 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "01b975004b101752",
+  "active": "01b9c35e47537ff0",
   "lastOpenFiles": [
-    "Ecoregions.md",
-    "Predicting Regrowth in the Amazon - Project.md",
-    "Make It So.md",
-    "001 The Bridge.md",
+    "200 Life Sciences.md",
+    "Climate Change.md",
     "Ana Did Science Today.md",
-    "Project/Research Proposal.md",
+    "Biodiversity.md",
+    "Biodiversity.canvas",
+    "How is biodiversity studied through remote sensing.md",
+    "Niche Theory.md",
+    "Botany.md",
+    "Botany.canvas",
+    "Untitled.md",
+    "How does communication work between trees.md",
+    "How do mature forests keep on sequestering carbon after they've reached peak community.md",
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "001 The Bridge.md",
+    "Amazonia.md",
+    "Tropical Forest Ecology.md",
+    "Mata Atlântica.md",
+    "Cerrado.md",
+    "Pantanal.md",
+    "Tropical Dry Forests.md",
+    "Biogeochemistry.md",
+    "Phosphorus.md",
+    "Biogeochemistry.canvas",
+    "Biogeochemistry-1.canvas",
+    "Nitrogen.md",
+    "Desert Biogeochemistry.md",
+    "Evolution.md",
+    "Evolution of Eusociality.md",
+    "003 People and Networks.md",
+    "2 Research/phelpsDoesREDDThreaten2010.md",
+    "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+    "Background Flowchart.canvas",
     "Project",
-    "Github.md",
-    "Excalidraw/Drawing Mar 15th 2024.excalidraw.md",
-    "Excalidraw/Legume Soup.md",
-    "Excalidraw/Pumpkin Soup.md",
-    "Excalidraw/Protein mug cakes.md",
-    "Excalidraw/Mashed Potatoes.md",
-    "Excalidraw/Lentil meat.md",
-    "Excalidraw/Protein Waffles.md",
-    "Excalidraw/Broccoli Soup.md",
-    "Excalidraw/Sundried Tomato Pesto.md",
-    "Excalidraw/Sweet Potato.md",
-    "Excalidraw/Fall Spices.md",
-    "Excalidraw/Air fried tofu.md",
-    "Excalidraw/Chickpea omelet.md",
-    "Excalidraw/broccoli.md",
-    "Excalidraw/Tofu ricotta.md",
-    "Excalidraw/Carrot ginger.md",
-    "Excalidraw/Vegan cheese.md",
-    "Excalidraw/chia seed jam.md",
-    "Excalidraw/Vegan mayo.md",
     "moon.svg",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/moon.svg.crdownload",
@@ -263,8 +252,6 @@
     "Files/Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.pdf",
     "3 Alexandria/Research",
     "3 Alexandria",
-    "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
-    "Biodiversity.canvas",
     "Biodiversity",
     "2 Workstation/3 - Incorporating Biodiversity",
     "2 Workstation/2 - Predicting Regrowth in Central America",

@@ -1,13 +1,10 @@
 ---
-up:
-  - "[[Marine]]"
+up: "[[Tropical Forest Ecology]]"
 url: 
 type:
   - researcher
 aliases: 
 at-a-glance: 
 location:
-  - STRI
+  - Panamá
 ---
-simsca@si.edu
-+507 65509613

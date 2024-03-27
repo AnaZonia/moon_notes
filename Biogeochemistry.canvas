@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"d8aa9337fbaae3c6","type":"text","text":"","x":-1400,"y":-460,"width":825,"height":940,"color":"5"},
+		{"id":"55dcb46414c1b856","type":"text","text":"Floresta amazônica tem fonte de fósforo de outras fontes - \"não se pode dizer que há limitação de fósforo na Amazônia.\"","x":-1327,"y":-405,"width":340,"height":260},
+		{"id":"31ce521a9dd7d8f4","type":"text","text":"sahara sands - [[Phosphorus]], molybdenum, iron","x":-920,"y":-370,"width":250,"height":190},
+		{"id":"4ee0cd74efb99716","type":"text","text":"Fósforo na Amazonia","x":-1192,"y":-600,"width":397,"height":80},
+		{"id":"44a9b5700012b42d","x":-280,"y":160,"width":600,"height":160,"type":"file","file":"2 Research/vitousekNitrogenLimitationLand1991.md"}
+	],
+	"edges":[]
+}

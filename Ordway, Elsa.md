@@ -5,7 +5,7 @@ url: https://www.ioes.ucla.edu/person/elsa-ordway/
 type:
   - researcher
 aliases: 
-at-a-glance: 
+at-a-glance: PANGEA member
 location:
   - "[[CBI - Congo Basin Institute]]"
   - UCLA

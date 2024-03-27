@@ -8,7 +8,3 @@ update: Nov 9th 2023
 - [[Amazonia]]
 - [[Cerrado]]
 - [[Mata Atlântica]]
-- [[Caatinga]]
-- [[Pantanal]]
-- [[Tropical Dry Forests]]
-
