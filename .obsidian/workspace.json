@@ -6,46 +6,20 @@
       {
         "id": "985789be4a59a906",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "01b9c35e47537ff0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Climate Change.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0df4056a619b547e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3763e9935daa0d17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ana Did Science Today.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dc4808ce831d211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Research/floresCriticalTransitionsAmazon2024.md",
-                "mode": "source",
-                "source": false
+                "file": "Incentives to Forest Growth.canvas",
+                "viewState": {
+                  "x": 73.50076820640551,
+                  "y": 259.12872664567226,
+                  "zoom": -1.25
+                }
               }
             }
           }
@@ -116,7 +90,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Incentives to Forest Growth.canvas"
               }
             }
           },
@@ -126,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Incentives to Forest Growth.canvas",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -143,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Incentives to Forest Growth.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a01b41a4b678df08",
@@ -212,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 614.4000000000001,
+    "width": 295.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -231,38 +205,40 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "3763e9935daa0d17",
+  "active": "01b9c35e47537ff0",
   "lastOpenFiles": [
-    "Hirota, Marina.md",
-    "2 Research/floresCriticalTransitionsAmazon2024.md",
-    "Ana Did Science Today.md",
+    "2 Research/phelpsDoesREDDThreaten2010.md",
+    "Incentives to Forest Growth.canvas",
     "Climate Change.md",
-    "001 The Bridge.md",
-    "Quesada, Carlos.md",
-    "2 Research/zuquimIntroducingMapSoil2023.md",
-    "2 Research/Quesada, C. A..md",
-    "2 Research/figueiredoClimateControlSpecies2018.md",
-    "Why was 2023 so much worse than others.md",
-    "Files/Ana Did Science Today.pdf",
+    "250 Conservation.md",
+    "Amazon Conservation.md",
+    "NTFP in Amazonia - RELAM.md",
+    "Agroforestry.md",
+    "Ecosystem Services.md",
+    "Amazon Deforestation and Climate Change - Interview.md",
+    "Foreign investments in deforestation.md",
     "200 Life Sciences.md",
+    "Predictive Ecology.md",
+    "Macroecology.md",
     "Biodiversity.md",
-    "Biodiversity.canvas",
-    "How is biodiversity studied through remote sensing.md",
-    "Niche Theory.md",
-    "Botany.md",
-    "Botany.canvas",
-    "Untitled.md",
-    "How does communication work between trees.md",
-    "How do mature forests keep on sequestering carbon after they've reached peak community.md",
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "Amazonia.md",
     "Tropical Forest Ecology.md",
-    "Mata Atlântica.md",
-    "Cerrado.md",
-    "Pantanal.md",
-    "Tropical Dry Forests.md",
-    "Biogeochemistry.md",
+    "Amazonia.md",
+    "The Tipping Point.md",
+    "The Changing Carbon Balance in Amazonia.md",
+    "Standing Firm.md",
+    "Science in Latin America.md",
+    "Aumentando a Visibilidade da Ciência Latino-Americana.md",
+    "001 The Bridge.md",
+    "Critical Ecology.md",
+    "300 Doing Science.md",
+    "Scientific Writing.md",
+    "Should scientists include their race, gender, or other personal details in papers.md",
+    "A Amazônia e o território intelectual brasileiro.md",
     "Biogeochemistry.canvas",
+    "Phosphorus.canvas",
+    "Files/Ana Did Science Today.pdf",
+    "Biodiversity.canvas",
+    "Botany.canvas",
     "Biogeochemistry-1.canvas",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Background Flowchart.canvas",
@@ -286,8 +262,6 @@
     "Biodiversity",
     "2 Workstation/3 - Incorporating Biodiversity",
     "2 Workstation/1 - Predicting Regrowth in the Amazon/Regrowth in Amazonia.canvas",
-    "20 Python MOC.canvas",
-    "2 Literature/Regrowth/Regrowth literature.canvas",
-    "2 Literature/Biogeochemistry/Biogeochemistry.canvas"
+    "20 Python MOC.canvas"
   ]
 }

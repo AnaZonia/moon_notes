@@ -3,7 +3,8 @@ up:
   - "[[Tropical Forest Ecology]]"
 stardate: Aug 22nd 2023
 update: Oct 7th 2023
-tags: []
+tags: 
+dg-publish: true
 ---
 ### Amazonian Landscape
 - [[Climate Patterns in the Amazon]]
@@ -13,10 +14,7 @@ tags: []
 - [[Fogo na Amazonia]]
 - [[História da Amazônia]]
 - [[Amazonian Indigenous Peoples]]
-
-### Conservation
 - [[The Tipping Point]]
-- [[Cost of protecting the Amazon]]
 - [[The Changing Carbon Balance in Amazonia]]
 
 ### Quotable facts on the Amazon

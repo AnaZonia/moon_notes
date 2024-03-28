@@ -7,10 +7,14 @@ aliases:
   - serviços ecossistêmicos
 tags:
   - glossary
+dg-publish: true
 ---
+> [!note] 
+
 - [[Disease and Health]]
 - [[Timber]]
 - [[Agroforestry]]
+
 
 ```dataview
 TABLE WITHOUT ID link(file.link, aliases) AS "Title", first-author as "Author", at-a-glance

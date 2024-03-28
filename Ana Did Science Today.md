@@ -42,8 +42,7 @@ Recommended contacting [[Dent, Daisy]] and [[Dalling, Jim]] for soil maps.
 - [[Tropical carbon sink accelerated by symbiotic dinitrogen fixation]] - Levy-Varon
 - [Feedback loops drive ecological succession: towards a unified conceptual framework](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.13051)
 
-### Mapping for TAship
-- [[README for Piura code]]
+I did a lot of mapping for the TAship as well - that took a few days.
 
 ## 08/03/2024 - INPA
 
@@ -67,20 +66,13 @@ Diálogos científicos multiculturais sobre a sociobiodiversidade na Amazônia c
 
 > Floresta amazônica tem fonte de fósforo de outras fontes - "não se pode dizer que há limitação de fósforo na Amazônia."
 
-
-
-Queima de igapós do [[Flores, Bernardo M.]]
-
-
-Modelo de numeros de espécies
-Composição de espécies
-TDN baseado em parcelas no chão - riqueza e composição.
-
-duração e frequencia das estações secas é importante.
+- Existem modelos de biodiversidade botânica pra Amazônia - Numeros de espécies e composição de espécies, baseado em dados de campo.
+- duração e frequencia das estações secas é importante.
 
 #### Relevant reading
 - [[figueiredoClimateControlSpecies2018]] - Soil grids e mapa da [[Zuquim, Gabriela]] com base em samambaias para panamazonia.
 - [[zuquimIntroducingMapSoil2023]]
+- [[floresFireDisturbanceAmazonian2014]]
 
 #### Relevant people
 - [[McMahon, Sean]] - do STRI, trabalha com a Flavia.
@@ -101,11 +93,7 @@ duração e frequencia das estações secas é importante.
 
 **Modelagem de desmatamento** é uma área interessante também. Vi a palestra do [Carlos Souza Jr. ](https://geog.umd.edu/event/invited-guest-talk-31-carlos-souza-jr-preventing-deforestation-brazilian-amazon-geospatial) e tem artigos interessantes que eu já adicionei ao Zotero pra ler. [Imazon Case Study](https://centers.fuqua.duke.edu/yyyyyyyy/wp-content/uploads/sites/7/2020/11/FINAL-Scaling-Pathways-Imazon-Case-Study-5.11.17.pdf) em Paragominas também fala de estratégias com municipalidades pra evitar o desmatamento.
 
-**Debate do SBPC** -  [O Futuro da Amazônia](https://www.youtube.com/watch?v=cLIyIlNXN2I)
-[[Hirota, Marina]]
-- existe uma variação entre efeitos em regiões diferentes da Amazônia - as causas e consequências não são homogêneas
-
-[[floresCriticalTransitionsAmazon2024]]
+[[Debate da SBPC - O Futuro da Amazônia]]
 
 - Planet - emailed Ruilan to ask for access.
 - Copa airlines flight change is possible and free.

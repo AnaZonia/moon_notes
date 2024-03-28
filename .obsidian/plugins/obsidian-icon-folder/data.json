@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiLeaf",
       "SiGoogleearthengine",
       "TiChartHistogram",
       "LiPenTool",
-      "TiProgress",
-      "SiStartrek"
+      "TiProgress"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -48,5 +48,6 @@
   "3 Floresta Aleatória/Python.md": "TiBrandPython",
   "3 Floresta Aleatória/Statistics.md": "TiChartHistogram",
   "3 Floresta Aleatória/R Stats.md": "SiR",
-  "001 The Bridge.md": "TiProgress"
+  "001 The Bridge.md": "TiProgress",
+  "250 Conservation.md": "LiLeaf"
 }

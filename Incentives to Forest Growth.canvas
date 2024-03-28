@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"cf2b701baa27c9a8","x":-51,"y":229,"width":250,"height":60,"type":"text","text":""},
+		{"id":"f902a8416e9ea840","type":"file","file":"REDD+.md","x":-480,"y":-440,"width":400,"height":400},
+		{"id":"94cf45e491e86854","x":-440,"y":120,"width":400,"height":400,"type":"file","file":"2 Research/phelpsDoesREDDThreaten2010.md"}
+	],
+	"edges":[]
+}

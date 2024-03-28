@@ -8,7 +8,7 @@ aliases:
   - carbon offset
 ---
 > If this is not a problem we'll have fixed in 30 years, we will be very screwed. Carbon offsets are supposed to hold things down for only a few years, but not solve the problem forever.
-> - Jeff Hall
+> - [[Hall, Jefferson S.]]
 
 
 ## Reports

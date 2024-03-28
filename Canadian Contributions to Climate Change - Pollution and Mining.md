@@ -1,15 +1,33 @@
 ---
 up:
   - "[[Climate Change]]"
-  - "[[Critical Ecology]]"
 stardate: Oct 2nd 2023
 update: Oct 2nd 2023
 type:
   - scicomm_article
 tags:
   - tribble
+dg-publish: true
 ---
 [The “Canada Brand”: Violence and Canadian Mining Companies in Latin America - Justice & Corporate Accountability Project](https://justice-project.org/the-canada-brand-violence-and-canadian-mining-companies-in-latin-america/)
+
+
+Senator Rosa Galvez (Peruvian-Canadian) gave a talk on how Canada is very far behind on its climate goals.
+
+Canada emits much more per capita and it's not just because of the cold, as other cold nations don't have the same emissions.
+
+![](https://i.imgur.com/sP7S0d1.png)
+
+
+[Mineradoras canadenses souberam de extinção de reserva na Amazônia 5 meses antes do anúncio oficial - BBC News Brasil](https://www.bbc.com/portuguese/brasil-41033211)
+
+[Mineradora do Canadá é acusada de coagir indígenas para explorar potássio na Amazônia - Portal North News (jornalnorthnews.com)](https://jornalnorthnews.com/noticia/2994/mineradora-do-canada-e-acusada-de-coagir-indigenas-para-explorar-potassio-na-amazonia)
+
+[Centenas manifestam-se pelo quarto dia contra mina de cobre no Panamá - Correio da Manhã Canadá (correiodamanhacanada.com)](https://www.correiodamanhacanada.com/centenas-manifestam-se-pelo-quarto-dia-contra-mina-de-cobre-no-panama/)
+
+
+![](https://i.imgur.com/h4lFBWj.png)
+
 
 
 # Story

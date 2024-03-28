@@ -2,7 +2,7 @@
 up:
   - "[[Amazonia]]"
   - "[[Indigenous Peoples]]"
-  - "[[Critical Ecology]]"
+  - "[[Climate Change]]"
 authors:
   - David Salisbury
 type:

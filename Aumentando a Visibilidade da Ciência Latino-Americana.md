@@ -1,6 +1,5 @@
 ---
 up:
-  - "[[Critical Ecology]]"
   - "[[Science in Latin America]]"
 authors:
   - Humberto Basilio

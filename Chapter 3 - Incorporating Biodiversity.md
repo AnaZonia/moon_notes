@@ -2,6 +2,7 @@
 up: "[[001 The Bridge]]"
 stardate: Oct 2nd 2023
 update: Mar 26th 2024
+dg-publish: true
 ---
 ## To-do
 

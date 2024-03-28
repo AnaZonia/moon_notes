@@ -6,6 +6,7 @@ dg-home: true
 - [[Ana Did Science Today]]
 - [[Make It So]]
 - [[Conferences and Funding]]
+- [[Rolling Ideas]]
 
 ## PhD projects
 1. [[Chapter 1 - Predicting Regrowth in the Amazon]]
@@ -13,8 +14,8 @@ dg-home: true
 3. [[Chapter 3 - Incorporating Biodiversity]]
 
 ## Other ongoing projects
-- [[RELAM talk]]
-- [[Panamá - comunidades de Piedra y Piura]]
+- [[NTFP in Amazonia - RELAM]]
+- [[Incentives to Forest Growth.canvas|Incentives to Forest Growth - NEO]]
 
 ## Article ideas
 ```dataview

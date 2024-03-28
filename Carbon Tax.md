@@ -20,7 +20,7 @@ The ultimate goal is for ==emissions to be reduced at the lowest possible econom
 ## Supporting arguments:
 - It can fund the transition to a cleaner economy
 ## Counterarguments:
-- 
+
 
 [Chris Ragan's AMA](https://www.reddit.com/r/IAmA/comments/8abg83/iama_economist_chris_ragan_of_mcgill_university/)
 

@@ -1,7 +1,6 @@
 ---
 dg-publish: true
 ---
-
 - [[Evolution]]
 - [[Biogeochemistry]]
 - [[Theoretical Ecology]]
@@ -13,13 +12,6 @@ dg-publish: true
 - [[Community Ecology]]
 - [[Biodiversity]]
 - [[Macroecology]]
-
-### Social Aspects and Applications
-- [[Ecosystem Services]]
-- [[Climate Change]]
-- [[Historical Ecology]]
-- [[Critical Ecology]]
-- [[Human Geography]]
 
 ## Textbooks
 

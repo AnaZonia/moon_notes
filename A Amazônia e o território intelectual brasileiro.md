@@ -1,6 +1,5 @@
 ---
 up:
-  - "[[Critical Ecology]]"
   - "[[Amazonia]]"
 authors:
   - Wendell Andrade
