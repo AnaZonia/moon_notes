@@ -6,7 +6,7 @@
       {
         "id": "985789be4a59a906",
         "type": "tabs",
-        "dimension": 99.99999999999999,
+        "dimension": 50,
         "children": [
           {
             "id": "01b9c35e47537ff0",
@@ -16,10 +16,29 @@
               "state": {
                 "file": "Incentives to Forest Growth.canvas",
                 "viewState": {
-                  "x": 73.50076820640551,
-                  "y": 259.12872664567226,
-                  "zoom": -1.25
+                  "x": 142.11169948475333,
+                  "y": 237.0091562872317,
+                  "zoom": -0.8333333333333333
                 }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3186a3a364bb539a",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "2cfe1d6143c2fe10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "REDD+.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -73,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 221.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -90,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Incentives to Forest Growth.canvas"
+                "file": "REDD+.md"
               }
             }
           },
@@ -100,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Incentives to Forest Growth.canvas",
+                "file": "REDD+.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Incentives to Forest Growth.canvas",
+                "file": "REDD+.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,9 +225,10 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "01b9c35e47537ff0",
+  "active": "2cfe1d6143c2fe10",
   "lastOpenFiles": [
     "2 Research/phelpsDoesREDDThreaten2010.md",
+    "REDD+.md",
     "Incentives to Forest Growth.canvas",
     "Climate Change.md",
     "250 Conservation.md",
@@ -233,7 +254,6 @@
     "300 Doing Science.md",
     "Scientific Writing.md",
     "Should scientists include their race, gender, or other personal details in papers.md",
-    "A Amazônia e o território intelectual brasileiro.md",
     "Biogeochemistry.canvas",
     "Phosphorus.canvas",
     "Files/Ana Did Science Today.pdf",

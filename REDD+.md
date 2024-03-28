@@ -22,3 +22,4 @@ Was established as part of the [[Paris Agreement]].
 ![](https://i.imgur.com/x6QpgZX.png)
 Figure from [[phelpsDoesREDDThreaten2010]]
 
+The [Forest Carbon Partnership Facility](https://www.forestcarbonpartnership.org/) provides "Readiness Funds" to REDD+ - comes from a partnership of governments, companies and donors.
