@@ -4,7 +4,9 @@ up:
 url: https://scholar.google.com.br/citations?user=a_5RcnwAAAAJ&hl=pt-BR
 type:
   - researcher
-aliases: 
+aliases:
+  - Quesada, C.
+  - Quesada, C. A.
 at-a-glance: 
 location:
   - INPA

@@ -36,6 +36,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8dc4808ce831d211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Research/floresCriticalTransitionsAmazon2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -104,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Climate Change.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Climate Change.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Climate Change.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,13 +231,19 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "01b9c35e47537ff0",
+  "active": "3763e9935daa0d17",
   "lastOpenFiles": [
-    "Why was 2023 so much worse than others.md",
-    "Climate Change.md",
+    "Hirota, Marina.md",
+    "2 Research/floresCriticalTransitionsAmazon2024.md",
     "Ana Did Science Today.md",
-    "Files/Ana Did Science Today.pdf",
+    "Climate Change.md",
     "001 The Bridge.md",
+    "Quesada, Carlos.md",
+    "2 Research/zuquimIntroducingMapSoil2023.md",
+    "2 Research/Quesada, C. A..md",
+    "2 Research/figueiredoClimateControlSpecies2018.md",
+    "Why was 2023 so much worse than others.md",
+    "Files/Ana Did Science Today.pdf",
     "200 Life Sciences.md",
     "Biodiversity.md",
     "Biodiversity.canvas",
@@ -244,14 +262,8 @@
     "Pantanal.md",
     "Tropical Dry Forests.md",
     "Biogeochemistry.md",
-    "Phosphorus.md",
     "Biogeochemistry.canvas",
     "Biogeochemistry-1.canvas",
-    "Nitrogen.md",
-    "Desert Biogeochemistry.md",
-    "Evolution.md",
-    "Evolution of Eusociality.md",
-    "003 People and Networks.md",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Background Flowchart.canvas",
     "Project",

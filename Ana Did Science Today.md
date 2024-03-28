@@ -67,49 +67,45 @@ Diálogos científicos multiculturais sobre a sociobiodiversidade na Amazônia c
 
 > Floresta amazônica tem fonte de fósforo de outras fontes - "não se pode dizer que há limitação de fósforo na Amazônia."
 
-Soil grids e mapa da gabriela Zuquim com base em samambaias - panamazonia. tambem faz mapa pra fosforo.
-[Journal of Biogeography | Wiley Online Library](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jbi.13104)
+
 
 Queima de igapós do [[Flores, Bernardo M.]]
 
-beyond climate control on species range figueiredo biogeography
-
-introducing a map of soil base cation concentration, an ecologically relevant GIS layer for Amazonian forests
 
 Modelo de numeros de espécies
-Composição de espécies - rana tomisto
+Composição de espécies
 TDN baseado em parcelas no chão - riqueza e composição.
+
+duração e frequencia das estações secas é importante.
+
+#### Relevant reading
+- [[figueiredoClimateControlSpecies2018]] - Soil grids e mapa da [[Zuquim, Gabriela]] com base em samambaias para panamazonia.
+- [[zuquimIntroducingMapSoil2023]]
 
 #### Relevant people
 - [[McMahon, Sean]] - do STRI, trabalha com a Flavia.
-AmazonFACE, Quesada
-Adriana Esquivel Muelbert
-Andy Walker Oak Ridge
-Mamirauá - boas bolsas
-PPBio
-Hanna Tuomisto
-Bill Magnusson
-Jos Barlow vem e fica em Belém e na Inglaterra
-ForestPlots
-Oliver Philips - Erika
-Felipe França
-
-Hans ter Steege Hyperdominance amazonian tree flora
-
-duração da estaçào seca
-modelos com frequencia de secas
-
+- [[Quesada, Carlos]] - coordinates AmazonFACE.
+- Adriana Esquivel Muelbert
+- Andy Walker Oak Ridge
+- Mamirauá - boas bolsas pra quem quer morar em Tefé
+- PPBio
+- [[Tuomisto, Hanna]] (fez um modelo de distribuição de espécies pra Amazonia)
+- [[Magnusson, William E.]]
+- [[Barlow, Jos]] (vem e fica em Belém e na Inglaterra)
+- ForestPlots
+- Oliver Philips - trabalha com a Erika
+- Felipe França
+- Hans ter Steege (author of Hyperdominance in amazonian tree flora)
 
 ## 26/02/2024 - 03/03/2024 - Trabalho de casa
 
 **Modelagem de desmatamento** é uma área interessante também. Vi a palestra do [Carlos Souza Jr. ](https://geog.umd.edu/event/invited-guest-talk-31-carlos-souza-jr-preventing-deforestation-brazilian-amazon-geospatial) e tem artigos interessantes que eu já adicionei ao Zotero pra ler. [Imazon Case Study](https://centers.fuqua.duke.edu/yyyyyyyy/wp-content/uploads/sites/7/2020/11/FINAL-Scaling-Pathways-Imazon-Case-Study-5.11.17.pdf) em Paragominas também fala de estratégias com municipalidades pra evitar o desmatamento.
 
-**Debate do SBPC** -  Futuro da amazônia
-*Marina Hirota*
+**Debate do SBPC** -  [O Futuro da Amazônia](https://www.youtube.com/watch?v=cLIyIlNXN2I)
+[[Hirota, Marina]]
 - existe uma variação entre efeitos em regiões diferentes da Amazônia - as causas e consequências não são homogêneas
-*Bernardo Flores - Critical transitions in the Amazon forest system*
-[[Critical Transitions in the Amazon Forest System]]
-3 anos de pesquisa com Catarina Jakovac, Carlos Nobre, Niklas Boers, Erika Berenguer, Luciana Gatti e Marina Hirota, entre outros: climatólogos, modeladores teóricos, paleoecólogos, modeladores de satélites, sociólogos. Sonho de princesa.
+
+[[floresCriticalTransitionsAmazon2024]]
 
 - Planet - emailed Ruilan to ask for access.
 - Copa airlines flight change is possible and free.
