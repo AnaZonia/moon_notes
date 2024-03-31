@@ -4,31 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "985789be4a59a906",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
-          {
-            "id": "01b9c35e47537ff0",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Incentives to Forest Growth.canvas",
-                "viewState": {
-                  "x": 142.11169948475333,
-                  "y": 237.0091562872317,
-                  "zoom": -0.8333333333333333
-                }
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "3186a3a364bb539a",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "2cfe1d6143c2fe10",
@@ -92,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5,
-    "collapsed": true
+    "width": 221.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -206,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5,
+    "width": 554.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -227,8 +203,13 @@
   },
   "active": "2cfe1d6143c2fe10",
   "lastOpenFiles": [
-    "2 Research/phelpsDoesREDDThreaten2010.md",
+    "Terrer, Cesar.md",
+    "Make It So.md",
+    "001 The Bridge.md",
+    "César Terrer.md",
+    "Conferences and Funding.md",
     "REDD+.md",
+    "2 Research/phelpsDoesREDDThreaten2010.md",
     "Incentives to Forest Growth.canvas",
     "Climate Change.md",
     "250 Conservation.md",
@@ -249,11 +230,6 @@
     "Standing Firm.md",
     "Science in Latin America.md",
     "Aumentando a Visibilidade da Ciência Latino-Americana.md",
-    "001 The Bridge.md",
-    "Critical Ecology.md",
-    "300 Doing Science.md",
-    "Scientific Writing.md",
-    "Should scientists include their race, gender, or other personal details in papers.md",
     "Biogeochemistry.canvas",
     "Phosphorus.canvas",
     "Files/Ana Did Science Today.pdf",

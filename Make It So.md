@@ -9,9 +9,11 @@ dg-publish: true
 - [Ecosystem Structure, Function, and Diversity Working Group (google.com)](https://docs.google.com/forms/d/e/1FAIpQLScodCILMG0ya1zfD-eEuL82LU0EQrGXD1aJ2Z2TbIMjikIX6A/viewform)
 - [PANGEA DC Workshop Registration (google.com)](https://docs.google.com/forms/d/e/1FAIpQLSfuhlTtJXziSHjSU6QcwSSWMQ3ct6e4WVHE5Fv73zDCu39nKQ/viewform)
 - [ ] [[README for Piura code]]
+- [ ] [2024 COHERENT-C/CLASSIC workshop  decide whether to attend](https://cccma.gitlab.io/classic_pages/info/2024workshop/)
 
 ### Emails/contact
 - [ ] Jeff the email with Brian's 6k species paper and the STRI proposal, and ask about Julia Bardina's paper on probability of deforestation
+- [ ] Helene
 - [ ] Erika Berenguer
 - [ ] [[Dent, Daisy]]
 - [ ] [[Davies, Stuart]]
