@@ -1,13 +1,20 @@
 {
 	"nodes":[
-		{"id":"d8aa9337fbaae3c6","type":"text","text":"","x":-1400,"y":-460,"width":825,"height":940,"color":"5"},
-		{"id":"55dcb46414c1b856","type":"text","text":"Floresta amazônica tem fonte de fósforo de outras fontes - \"não se pode dizer que há limitação de fósforo na Amazônia.\"","x":-1327,"y":-405,"width":340,"height":260},
-		{"id":"31ce521a9dd7d8f4","type":"text","text":"sahara sands - [[Phosphorus]], molybdenum, iron","x":-920,"y":-370,"width":250,"height":190},
-		{"id":"4ee0cd74efb99716","type":"text","text":"Fósforo na Amazonia","x":-1192,"y":-600,"width":397,"height":80},
-		{"id":"44a9b5700012b42d","type":"file","file":"2 Research/vitousekNitrogenLimitationLand1991.md","x":-280,"y":160,"width":600,"height":160},
-		{"id":"ca2320e536f250aa","type":"text","text":"Phosphorus as a Limiting Nutrient","x":-155,"y":-560,"width":475,"height":60},
-		{"id":"8f2a8c9120a852fe","type":"file","file":"2 Research/allenModelingCarbonCost2020a.md","x":-440,"y":-420,"width":760,"height":400},
-		{"id":"070ddc5b63b6dc30","x":440,"y":-762,"width":1081,"height":784,"type":"text","text":"## Nutrients as limiting to carbon capture\n\n- Phosphorus and Nitrogen are both limiting and need to be taken into consideration. Mature forests can't keep on growing forever\n\n[[allenModelingCarbonCost2020a]]\n[[cunhaDirectEvidencePhosphorus2022]]\n\n[[davidsonNITROGENPHOSPHORUSLIMITATION2004]] showed an increase in secondary forest growth with N and N+P treatments in Brazil, but no increase with P-only treatments (across 1999-2001). This is supported by [[davidsonRecuperationNitrogenCycling2007]] that shows young forests to be N limited, unlike mature tropical forests."}
+		{"id":"eb7a0a85cfec28a2","type":"group","x":-1347,"y":-1520,"width":1592,"height":2280,"label":"Phosphorus"},
+		{"id":"55dcb46414c1b856","type":"text","text":"Floresta amazônica tem fonte de fósforo de outras fontes - \"não se pode dizer que há limitação de fósforo na Amazônia.\"","x":-1327,"y":-405,"width":407,"height":278},
+		{"id":"d802aebc9b005f2f","type":"text","text":"Evidence of P limitation","x":-872,"y":-730,"width":345,"height":65,"color":"4"},
+		{"id":"e2ea078adc450a50","type":"file","file":"2 Research/Cunha 2022 - Direct evidence for phosphorus limitation on Amazon forest productivity.md","x":-1099,"y":-1360,"width":800,"height":400},
+		{"id":"31ce521a9dd7d8f4","type":"text","text":"sahara sands - [[Phosphorus]], molybdenum, iron","x":-824,"y":-370,"width":250,"height":190},
+		{"id":"126795df7f9aa78f","type":"text","text":"No evidence of P limitation","x":-103,"y":-180,"width":372,"height":105,"color":"1"},
+		{"id":"44a9b5700012b42d","type":"file","file":"2 Research/vitousekNitrogenLimitationLand1991.md","x":861,"y":120,"width":600,"height":480},
+		{"id":"8ae08198dba3ebd2","type":"file","file":"2 Research/davidsonNitrogenPhosphorusLimitation2004.md","x":-420,"y":240,"width":1020,"height":400},
+		{"id":"e885197e9ec2198b","type":"file","file":"2 Research/davidsonRecuperationNitrogenCycling2007.md","x":-347,"y":920,"width":875,"height":240},
+		{"id":"8f2a8c9120a852fe","type":"file","file":"2 Research/Allen 2020 - Modeling the Carbon Cost of Plant Nitrogen and Phosphorus Uptake Across Temperate and Tropical Forests.md","x":-160,"y":-943,"width":760,"height":492}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"9623b5ff7bdde464","fromNode":"8ae08198dba3ebd2","fromSide":"bottom","toNode":"e885197e9ec2198b","toSide":"top","label":"supported by"},
+		{"id":"2bed72192f75c1ab","fromNode":"126795df7f9aa78f","fromSide":"bottom","toNode":"8ae08198dba3ebd2","toSide":"top"},
+		{"id":"8794c7507144809f","fromNode":"d802aebc9b005f2f","fromSide":"right","toNode":"8f2a8c9120a852fe","toSide":"left"},
+		{"id":"4e738b62996d2cb1","fromNode":"d802aebc9b005f2f","fromSide":"top","toNode":"e2ea078adc450a50","toSide":"bottom"}
+	]
 }

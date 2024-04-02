@@ -3,13 +3,9 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## 25/03/2024 : 29/03/2024 - Organizing and writing
+## 25/03/2024 : 07/04/2024 - Organizing and writing
 
-[[STRI Short-Term Fellowship Proposal]] 
-
-A história do pai da Cristina, jornalista da Costa Rica cobrindo a invasão do Panamá.
-
-![[Ana Did Science Today.pdf]]
+- [[STRI Short-Term Fellowship Proposal]] 
 
 ### Soil data
 #### Meeting [[Agudo, Dayana]] and [[Nottingham, Andrew]]
@@ -71,7 +67,7 @@ Diálogos científicos multiculturais sobre a sociobiodiversidade na Amazônia c
 
 #### Relevant reading
 - [[figueiredoClimateControlSpecies2018]] - Soil grids e mapa da [[Zuquim, Gabriela]] com base em samambaias para panamazonia.
-- [[zuquimIntroducingMapSoil2023]]
+- [[Zuquim 2023 - Introducing a map of soil base cation concentration, an ecologically relevant GIS-layer for Amazonian forests]]
 - [[floresFireDisturbanceAmazonian2014]]
 
 #### Relevant people
@@ -111,6 +107,13 @@ Agora eu quero aprender história, arte, política, economia. E investir no meu 
 
 ==Finished my part on projects 3 and 4.== Decided to wait to contact the activist, Gabriela, before publishing - turns out neither person writing it is a journalist or has the time to dedicate to a full piece on Panamanian ports, so it is responsible to be careful with what info we put out to the public. It is best if after that, if we do want to publish it, to focus on the environmental impacts part, and leave the political-economical parts (including much of what was talked about with Andrés) to be developed later, after consulting economists and reaching out to other sources. Also, this is a long term issue. Ports have been expanded since Neopanamax and will continue to be until 2040 as far as we can see, so it's a long battle to be fought.
 
+
+![](https://i.imgur.com/gLgPQSi.jpeg)
+![](https://i.imgur.com/rNbpCjg.jpeg)
+
+[[Prensa Neotropical - Puertos de Panamá.pdf]]
+
+[[Ana Did Science Today.pdf|A história do pai da Cristina]], jornalista da Costa Rica cobrindo a invasão do Panamá.
 
 ## 2/2/2024, Fri : 3/2/2024, Sat - Pixvae
 

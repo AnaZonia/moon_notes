@@ -15,7 +15,7 @@ dg-home: true
 
 ## Other ongoing projects
 - [[NTFP in Amazonia - RELAM]]
-- [[Incentives to Forest Growth.canvas|Incentives to Forest Growth - NEO]]
+- [[Climate Change.canvas|Incentives to Forest Growth - NEO]]
 
 ## Article ideas
 ```dataview

@@ -9,9 +9,13 @@ dg-publish: true
 
 ### Communities and Ecosystems
 - [[Tropical Forest Ecology]]
-- [[Community Ecology]]
 - [[Biodiversity]]
+
+- [[Community Ecology]]
 - [[Macroecology]]
+- [[Connectivity]]
+- [[Ecosystem Functioning]]
+- [[Invasion Ecology]]
 
 ## Textbooks
 

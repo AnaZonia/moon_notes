@@ -4,9 +4,8 @@ up:
 stardate: Oct 31st 2023
 update: Oct 31st 2023
 ---
-[[Why is it so hard to reduce GHGs]]
-### Definition
-- Anyone who emits greenhouse gases pays a tax for their emissions - households and companies alike.
+> Anyone who emits greenhouse gases pays a tax for their emissions - households and companies alike.
+
 - Companies will cut their emissions down up to where:
 ![](https://i.imgur.com/HkmIuVA.png)
 - An alternative to 1) implementing a fixed amount of reduced emissions or 2) implement specific technologies
@@ -19,6 +18,8 @@ The ultimate goal is for ==emissions to be reduced at the lowest possible econom
 
 ## Supporting arguments:
 - It can fund the transition to a cleaner economy
+- [[Why is it so hard to reduce GHGs]]
+
 ## Counterarguments:
 
 

@@ -14,7 +14,7 @@
   "exportFormats": [
     {
       "name": "Import Paper",
-      "outputPathTemplate": "2 Research/{{citekey}}.md",
+      "outputPathTemplate": "2 Research/{{creators[0].lastName}} {{date | format(\"YYYY\")}} - {{title}}.md",
       "imageOutputPathTemplate": "Files/{{citekey}}/",
       "imageBaseNameTemplate": "{{citekey}}",
       "templatePath": "Templates/Research article.md"

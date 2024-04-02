@@ -4,6 +4,7 @@ up:
 stardate: Sep 12th 2023
 update: Nov 9th 2023
 ---
+- [[Climate Change.canvas|Canvas]]
 
 ## Policy and Economics
 - [[Carbon Tax]]
@@ -12,13 +13,11 @@ update: Nov 9th 2023
 - [[Títulos Verdes]]
 - [[Debt-for-climate swaps]]
 - [[Green New Deal]]
-- [[Incentives to Forest Growth.canvas|Incentives to Forest Growth - NEO]]
 - [[Canadian Contributions to Climate Change - Pollution and Mining]]
 
 ## Science
 - [[Non-CO2 Greenhouse gases]]
 - [[ENSO - El Niño-Southern Oscillation]]
-
 
 
 ## Books

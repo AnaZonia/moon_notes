@@ -6,16 +6,54 @@
       {
         "id": "3186a3a364bb539a",
         "type": "tabs",
+        "dimension": 50.61919504643962,
         "children": [
           {
-            "id": "2cfe1d6143c2fe10",
+            "id": "387c932874f70e52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REDD+.md",
+                "file": "Nitrogen.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1e65e77a5309162e",
+        "type": "tabs",
+        "dimension": 49.38080495356037,
+        "children": [
+          {
+            "id": "b2901dff6f05e9e8",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Biogeochemistry.canvas",
+                "viewState": {
+                  "x": 83.71630410987629,
+                  "y": -433.6106081459804,
+                  "zoom": -1.5875
+                }
+              }
+            }
+          },
+          {
+            "id": "661f5cf89e19f7e4",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Tropical Forest Ecology.canvas",
+                "viewState": {
+                  "x": 164.77288804148566,
+                  "y": -1429.866891973391,
+                  "zoom": -1.491666666666666
+                }
               }
             }
           }
@@ -48,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tragedy",
+                "query": "activists",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 221.5
+    "width": 200
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -86,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REDD+.md"
+                "file": "Nitrogen.md"
               }
             }
           },
@@ -96,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REDD+.md",
+                "file": "Nitrogen.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -113,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REDD+.md",
+                "file": "Nitrogen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +196,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a01b41a4b678df08",
@@ -201,36 +238,40 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "2cfe1d6143c2fe10",
+  "active": "387c932874f70e52",
   "lastOpenFiles": [
-    "Terrer, Cesar.md",
-    "Make It So.md",
-    "001 The Bridge.md",
-    "César Terrer.md",
-    "Conferences and Funding.md",
-    "REDD+.md",
-    "2 Research/phelpsDoesREDDThreaten2010.md",
-    "Incentives to Forest Growth.canvas",
-    "Climate Change.md",
-    "250 Conservation.md",
-    "Amazon Conservation.md",
-    "NTFP in Amazonia - RELAM.md",
-    "Agroforestry.md",
-    "Ecosystem Services.md",
-    "Amazon Deforestation and Climate Change - Interview.md",
-    "Foreign investments in deforestation.md",
+    "2 Research/mengeQuestionThatLaunched2014.md",
+    "Nitrogen.md",
+    "Biogeochemistry.md",
     "200 Life Sciences.md",
-    "Predictive Ecology.md",
-    "Macroecology.md",
-    "Biodiversity.md",
     "Tropical Forest Ecology.md",
     "Amazonia.md",
-    "The Tipping Point.md",
-    "The Changing Carbon Balance in Amazonia.md",
-    "Standing Firm.md",
-    "Science in Latin America.md",
-    "Aumentando a Visibilidade da Ciência Latino-Americana.md",
+    "Regrowth.md",
+    "2 Research/Zuquim 2023 - Introducing a map of soil base cation concentration, an ecologically relevant GIS-layer for Amazonian forests.md",
+    "2 Research/Untitled.md",
     "Biogeochemistry.canvas",
+    "2 Research/Allen 2020 - Modeling the Carbon Cost of Plant Nitrogen and Phosphorus Uptake Across Temperate and Tropical Forests.md",
+    "2 Research/Cunha 2022 - Direct evidence for phosphorus limitation on Amazon forest productivity.md",
+    "2 Research/Cook-Patton 2020 - Mapping carbon accumulation potential from global natural forest regrowth.md",
+    "2 Research/Chazdon 2016 - Carbon sequestration potential of second-growth forest regeneration in the Latin American tropics.md",
+    "2 Research/Bongers 2015- The Potential of Secondary Forests.md",
+    "2 Research/Bennett 2023 - Sensitivity of South American tropical forests to an extreme climate anomaly.md",
+    "2 Research/Adams;2004;Biodiversity Conservation and the Eradication of Poverty.md",
+    "2 Research/Adams 2004_Biodiversity Conservation and the Eradication of Poverty.md",
+    "2 Research/Adams 2004 - Biodiversity Conservation and the Eradication of Poverty.md",
+    "Tropical Forest Ecology.canvas",
+    "Templates/Research article.md",
+    "How is biodiversity loss happening.md",
+    "Biodiversity.md",
+    "2 Research/doughtyTropicalForestsAre2023.md",
+    "2 Research/davidsonNitrogenPhosphorusLimitation2004.md",
+    "Is active reforestation more efficient than passive.md",
+    "2 Research/heinrichLargeCarbonSink2021.md",
+    "Modelling Regrowth.md",
+    "Climate Change.canvas",
+    "Files/Prensa Neotropical - Puertos de Panamá.pdf",
+    "Files/Ana Did Science Today-1.pdf",
+    "Files/REDD+.pdf",
     "Phosphorus.canvas",
     "Files/Ana Did Science Today.pdf",
     "Biodiversity.canvas",
@@ -254,10 +295,6 @@
     "Files/albertHumanImpactsOutpace2023",
     "Files/Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.pdf",
     "3 Alexandria/Research",
-    "3 Alexandria",
-    "Biodiversity",
-    "2 Workstation/3 - Incorporating Biodiversity",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Regrowth in Amazonia.canvas",
-    "20 Python MOC.canvas"
+    "2 Workstation/1 - Predicting Regrowth in the Amazon/Regrowth in Amazonia.canvas"
   ]
 }

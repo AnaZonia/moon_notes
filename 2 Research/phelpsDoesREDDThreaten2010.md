@@ -1,5 +1,4 @@
-  
----
+  ---
 aliases: ["Does REDD+ Threaten to Recentralize Forest Governance?"] 
 year: 2010 
 first-author: Phelps, Jacob
@@ -7,7 +6,7 @@ publisher: "Science"
 tags:[]
 url: https://www.science.org/doi/10.1126/science.1187774 
 type: lit_note
-at-a-glance: "locals have been making decisions over forest management, but REDD+ is centralizing management under the government"
+at-a-glance: "locals have been making decisions over forest management, but REDD+ is centralizing management under the government" ^a50521
 
 --- 
 

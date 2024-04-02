@@ -1,4 +1,4 @@
-  
+
 ---
 aliases: ["{{title}}"] 
 year: {{date | format("YYYY")}} 
@@ -7,7 +7,6 @@ publisher: "{{publicationTitle}}"
 tags:[{% for t in tags %}{% if t.tag in ['review', 'meta_analysis', 'number_one', 'model', 'synthesis', 'thesis', 'data/plots'] %}{{ t.tag }}, {% endif %}{% if not loop.last %}{% endif %}{% endfor %}]
 url: {{url}} 
 type: lit_note
-at-a-glance: ""
 
 --- 
 

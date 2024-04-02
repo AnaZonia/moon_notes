@@ -1,4 +1,7 @@
   
+>[!summary] Summary
+>Temperature, dryness and canopy temperature were measured with remote sensing.
+
 ---
 aliases: ["Tropical forests are approaching critical temperature thresholds"] 
 year: 2023 
@@ -12,9 +15,6 @@ at-a-glance: "Tropical forests can withstand up to 4 degrees before dying off"
 --- 
 
 [[Climate Change]]
-
->[!summary] Summary
->Temperature, dryness and canopy temperature were measured with remote sensing.
 
 >[!quote] Cited
 #### Authors:

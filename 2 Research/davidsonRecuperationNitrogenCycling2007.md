@@ -7,7 +7,7 @@ publisher: "Nature"
 tags:[]
 url: https://www.nature.com/articles/nature05900 
 type: lit_note
-at-a-glance: "Secondary tropical forests are N-limited, not P-limited"
+at-a-glance: "Secondary tropical forests are N-limited, not P-limited, unlike mature forests"
 
 --- 
 

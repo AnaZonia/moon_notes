@@ -12,3 +12,4 @@ aliases:
 
 [[Berenguer, Erika]] does not support active reforestation as it may not support biodiversity conservation and the provision of ecosystem services.
 
+Nobre estimates that, in addition to stopping deforestation, some 700,000 square kilometers in the southern Amazon would need restoration to ensure that a death spiral isn’t triggered. More than half of that area would naturally regenerate if left alone for nearby jungle to reclaim it, according to his rough calculations.

@@ -1,6 +1,5 @@
-  
 ---
-aliases: ["NITROGEN AND PHOSPHORUS LIMITATION OF BIOMASS GROWTH IN A TROPICAL SECONDARY FOREST"] 
+aliases: ["Nitrogen and Phosphorus Limitation of Biomass Growth in a Tropical Secondary Forest"] 
 year: 2004 
 first-author: Davidson, Eric A.
 publisher: "Ecological Applications" 
@@ -14,7 +13,7 @@ at-a-glance: "2 year fertilization study in the Amazon showed N limitation but n
 [[Regrowth]] [[Fire]] [[Amazonia]] [[Nitrogen]] [[Phosphorus]]
 
 >[!summary] Summary
->showed an increase with N and N+P treatments in Brazil, but no increase with P-only treatments (across 1999-2001)
+>  increase in secondary forest growth with N and N+P treatments in Brazil, but no increase with P-only treatments (across 1999-2001). 
 
 >[!quote] Cited
 #### Authors:

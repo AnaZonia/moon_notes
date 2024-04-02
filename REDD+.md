@@ -11,24 +11,25 @@ location:
   - "[[UN]]"
 at-a-glance: UN agreement for reducing emissions from deforestation in developing countries
 ---
-Warsow Pact - What each country needs to have implemented
-Reducing Emissions from Deforestation and forest Degradation
-
-REDD+ is reforestation and 
-
-UNREDD is implementation of the first stages, which ran out in 2020.
-
-A payment for ecosystem services scheme 
-
-Not to be confused with the [Green Climate Fund](https://www.greenclimate.fund/), which is a source of funding from the UN for climate change in general.
-
-Was established as part of the [[Paris Agreement]] in 2015.
-
-> It's a method for incentive and planning of forest conservation and regeneration by developing countries, based on incentives by developed countries.
+> [!note] Reducing Emissions from Deforestation and forest Degradation
+> It's a method for incentive and planning of forest conservation and regeneration by developing countries, based on incentives by developed countries. In short, **a payment for ecosystem services scheme**. 
 
 
-![](https://i.imgur.com/x6QpgZX.png)
+**1992 - United Nations Framework Convention on Climate Change (UNFCCC)** - Started in the 1992 Rio Convention, like the UN Convention on Biological Diversity and the Convention to Combat Desertification. Went into effect in 1994.
 
-Figure from [[phelpsDoesREDDThreaten2010]]
+**1997 - Protocolo de Kyoto** - Entrou em vigor em 2005. Começou as exigências que países membros de UNFCCC diminuam emissões. *Started REDD.*
 
-The [Forest Carbon Partnership Facility](https://www.forestcarbonpartnership.org/) provides "Readiness Funds" to REDD+ - comes from a partnership of governments, companies and donors.
+**2007 - UN-REDD** - A partnership between the FAO, the UN Environment Programme (UNEP) and UN Development Programme (UNDP) to help developing countries reach the goals needed so they can take part in REDD+. *There was funding by UN-REDD for countries to implement the first stages of the REDD+ framework - that money ran out by 2020.*
+
+**2008 - REDD+** - REDD was updated to include the conservation of existing forests.
+
+**2013 - Warsow International Mechanism for Loss and Damage (WIM)** - First step to address how to compensate developing countries for losses related to climate change. Established what each country needs to have implemented to receive benefits.
+
+**2015 - Paris Agreement** - Legally binding international treaty to keep temperature increases below 1.5 degrees.
+
+## Funding
+- The [Forest Carbon Partnership Facility](https://www.forestcarbonpartnership.org/) provides "Readiness Funds" to REDD+ - comes from a partnership of governments, companies and donors.
+- The [Green Climate Fund](https://www.greenclimate.fund/), which is a source of funding from the UN for climate change in general
+- The World Bank
+
+![[REDD+.pdf]]

@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"be88798abbe0bbe4","type":"file","file":"Carbon Credits.md","x":-3760,"y":-140,"width":1014,"height":460},
+		{"id":"de5ca195f80c26a5","type":"text","text":"Alternatives","x":-3378,"y":500,"width":250,"height":60},
+		{"id":"4421a0bc14be02ad","type":"file","file":"Carbon Tax.md","x":-5154,"y":240,"width":1280,"height":840},
+		{"id":"f902a8416e9ea840","type":"file","file":"REDD+.md","x":-2564,"y":-120,"width":852,"height":420},
+		{"id":"83904d16b71f0237","type":"file","file":"Carbon credits are worthless for rainforests.md","x":-2451,"y":-960,"width":626,"height":480},
+		{"id":"aca8a51bd80e916b","type":"file","file":"AXA fund to invest $49 million in Brazil reforestation projects.md","x":-2494,"y":-1880,"width":712,"height":520},
+		{"id":"23f5d7e19cd482f1","type":"text","text":"Concerns","x":-1600,"y":60,"width":250,"height":60},
+		{"id":"0db647a15c6b4d3e","type":"text","text":"Carbon credits can viabilize regrowth","x":-3442,"y":-440,"width":378,"height":100},
+		{"id":"17be744d519c4209","type":"text","text":"## Maintenance of forests in the long term\n\n- From what was seen in Ipeti, they were planting [[Ana Did Science Today#Ipeti Report|mostly monocultures]] which seemed to have the intention of being logged afterwards. [[Hall, Jefferson S.]]'s argument that we need to sequester as much as possible ASAP is true, but also we need forests that can harbor [[Biodiversity]].\n- In [[sinacoreMixedSuccessCarbon2023]], it's mentioned we need long-term payments based on area. [[REDD+]], however, would do one-time large-sum payments as mentioned [here)](https://news.mongabay.com/2014/09/redd-versus-indigenous-people-why-a-tribe-in-panama-rejected-pay-for-their-carbon-rich-forests/) that the Panamanian government would pay US$12 million for Guna forests to remain standing.\n\n\n\n\n\n\n\n\n\n\n\n","x":-1600,"y":-920,"width":640,"height":750},
+		{"id":"8051df18225270bd","type":"text","text":"> If this is not a problem we'll have fixed in 30 years, we will be very screwed. Carbon offsets are supposed to hold things down for only a few years, but not solve the problem forever.\n> - [[Hall, Jefferson S.]]\n\n","x":-1727,"y":-1360,"width":895,"height":266},
+		{"id":"06b6155837352ed5","type":"file","file":"Mid-sized NGOs are essential for reforestation.md","x":-1535,"y":400,"width":680,"height":440},
+		{"id":"6022f0af407eebc7","type":"file","file":"2 Research/phelpsDoesREDDThreaten2010.md","x":-1487,"y":1040,"width":585,"height":400},
+		{"id":"d805fd22601337bc","type":"file","file":"Debt-for-climate swaps.md","x":-2672,"y":500,"width":680,"height":400},
+		{"id":"4005412672d654d5","type":"file","file":"Títulos Verdes.md","x":-3626,"y":900,"width":746,"height":520},
+		{"id":"d519ed3b077ffc41","type":"file","file":"2 Research/sinacoreMixedSuccessCarbon2023.md","x":-3431,"y":-860,"width":867,"height":280},
+		{"id":"90241e0d334caa01","type":"file","file":"Replanting the Amazon could slow global warming. Here’s why it’s hard.md","x":-4118,"y":-1060,"width":488,"height":400}
+	],
+	"edges":[
+		{"id":"70a8d9987a34570b","fromNode":"17be744d519c4209","fromSide":"top","toNode":"8051df18225270bd","toSide":"bottom"},
+		{"id":"7f950518b010bac9","fromNode":"de5ca195f80c26a5","fromSide":"bottom","toNode":"4421a0bc14be02ad","toSide":"right"},
+		{"id":"75610456063f159f","fromNode":"be88798abbe0bbe4","fromSide":"right","toNode":"f902a8416e9ea840","toSide":"left"},
+		{"id":"1dfc1738eae230af","fromNode":"de5ca195f80c26a5","fromSide":"bottom","toNode":"4005412672d654d5","toSide":"top"},
+		{"id":"343331b9ac6fee0a","fromNode":"be88798abbe0bbe4","fromSide":"bottom","toNode":"de5ca195f80c26a5","toSide":"top"},
+		{"id":"6067765e6a8538d3","fromNode":"de5ca195f80c26a5","fromSide":"bottom","toNode":"d805fd22601337bc","toSide":"left"},
+		{"id":"091950e001772105","fromNode":"f902a8416e9ea840","fromSide":"top","toNode":"83904d16b71f0237","toSide":"bottom"},
+		{"id":"320c0c192638067e","fromNode":"83904d16b71f0237","fromSide":"top","toNode":"aca8a51bd80e916b","toSide":"bottom","label":"Wonder how will that be done?"},
+		{"id":"b444bff9bbe4125c","fromNode":"0db647a15c6b4d3e","fromSide":"top","toNode":"d519ed3b077ffc41","toSide":"bottom"},
+		{"id":"823035d64fd25207","fromNode":"06b6155837352ed5","fromSide":"bottom","toNode":"6022f0af407eebc7","toSide":"top"},
+		{"id":"530479fe1de2a2d6","fromNode":"be88798abbe0bbe4","fromSide":"top","toNode":"0db647a15c6b4d3e","toSide":"bottom"},
+		{"id":"62f01fef105bea1b","fromNode":"0db647a15c6b4d3e","fromSide":"top","toNode":"90241e0d334caa01","toSide":"bottom"},
+		{"id":"68fac74f0058367f","fromNode":"be88798abbe0bbe4","fromSide":"top","toNode":"83904d16b71f0237","toSide":"bottom","label":"...or they can be awful"},
+		{"id":"c130b5e9a98bc58f","fromNode":"f902a8416e9ea840","fromSide":"right","toNode":"23f5d7e19cd482f1","toSide":"left"},
+		{"id":"fe5bbf80f29de7d6","fromNode":"23f5d7e19cd482f1","fromSide":"right","toNode":"17be744d519c4209","toSide":"bottom"},
+		{"id":"435244740782a4ce","fromNode":"23f5d7e19cd482f1","fromSide":"right","toNode":"06b6155837352ed5","toSide":"top","label":"Scale of action"}
+	]
+}

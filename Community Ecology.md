@@ -4,10 +4,7 @@ up:
 stardate: Oct 22nd 2023
 update: Nov 24th 2023
 ---
-- [[Connectivity]]
-- [[Forest Dynamics]]
-- [[Ecosystem Functioning]]
-- [[Invasion Ecology]]
+
 
 [The merging of community ecology and phylogenetic biology - Cavender‐Bares - 2009 - Ecology Letters - Wiley Online Library (mcgill.ca)](https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/full/10.1111/j.1461-0248.2009.01314.x)
 

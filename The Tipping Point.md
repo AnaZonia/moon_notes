@@ -8,6 +8,8 @@ update: Nov 25th 2023
 ## Resources
 [The Amazon might not have a 'tipping point.' But it's still in trouble](https://www.sciencenews.org/article/amazon-tipping-trouble-climate-cerrado)
 
+[The Amazon’s Little Tipping Points: Nearing a point of no return? (reuters.com)](https://www.reuters.com/investigates/special-report/climate-un-amazon-tipping-point/)
+
 [Ecological tipping points could occur much sooner than expected, study finds | Environment | The Guardian](https://www.theguardian.com/environment/2023/jun/22/ecological-tipping-points-could-occur-much-sooner-than-expected-study-finds)
 
 [South American monsoon heading towards ‘tipping point’ likely to cause Amazon dieback | Amazon rainforest | The Guardian](https://www.theguardian.com/environment/2023/oct/04/south-american-monsoon-heading-towards-tipping-point-likely-to-cause-amazon-dieback?CMP=share_btn_tw)

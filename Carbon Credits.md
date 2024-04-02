@@ -7,9 +7,11 @@ update: Nov 25th 2023
 aliases:
   - carbon offset
 ---
-> If this is not a problem we'll have fixed in 30 years, we will be very screwed. Carbon offsets are supposed to hold things down for only a few years, but not solve the problem forever.
-> - [[Hall, Jefferson S.]]
+> Governments and companies can invest in emission reduction, and trade credits among themselves.
 
+- Cálculos de créditos de carbono foram inicialmente feitos pela [[UN]] e hoje são certificados por empresas de verificação.
+
+- [Artigo de opinião](https://www.migalhas.com.br/depeso/317537/credito-de-carbono--dinheiro-verde) de Hélio Gurgel, advogado ambientalista em Recife, menciona que *a adesão ainda é pequena mas o Brasil ocupa terceira posição mundial* em países que mais participam do mercado de créditos de carbono.
 
 ## Reports
 ```dataview
@@ -18,14 +20,3 @@ FROM [[]]
 WHERE contains(type, "report")
 SORT authors ASC
 ```
-## Articles
-```dataview
-TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author", tags as "Tribble?"
-FROM [[]]
-WHERE contains(type, "article") AND !contains(type, "scicomm_article")
-SORT authors ASC
-```
-
-## Resources
-- [Rainforest carbon credit schemes misleading and ineffective, finds report | Carbon offsetting | The Guardian](https://www.theguardian.com/environment/2023/sep/15/rainforest-carbon-credit-schemes-misleading-and-ineffective-finds-report?CMP=share_btn_tw)
-- [Artigo de opinião](https://www.migalhas.com.br/depeso/317537/credito-de-carbono--dinheiro-verde) de Hélio Gurgel, advogado ambientalista em Recife.
