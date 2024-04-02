@@ -11,7 +11,7 @@ update: Apr 1st 2024
 
 - [[Replanting the Amazon could slow global warming. Here’s why it’s hard]] presents successful NGOs in Brazil.
 
-- [[phelpsDoesREDDThreaten2010|Does REDD+ Threaten to Recentralize Forest Governance?]] mentions how REDD+ can end up centralizing decision-making in the government, while the most efficient way of planning regrowth is with local leaderships.
+- [[Phelps 2010 - Does REDD+ Threaten to Recentralize Forest Governance|Does REDD+ Threaten to Recentralize Forest Governance?]] mentions how REDD+ can end up centralizing decision-making in the government, while the most efficient way of planning regrowth is with local leaderships.
 
 - [Indigenous peoples in Panama rejected REDD+](https://news.mongabay.com/2014/09/redd-versus-indigenous-people-why-a-tribe-in-panama-rejected-pay-for-their-carbon-rich-forests/)
 	- maintain sovereignty over their forests ([[REDD+]] was negotiated with the Panamanian government, without including the Guna). They were afraid of getting their land taken.

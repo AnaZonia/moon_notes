@@ -19,6 +19,10 @@ update: Nov 9th 2023
 - [[Non-CO2 Greenhouse gases]]
 - [[ENSO - El Niño-Southern Oscillation]]
 
+> [!quote] Quotable facts
+> - Brazil's CO2 emissions have dropped more than any other country over the past 20 years
+> - Brazil has laws in place to protect the forest - they just need to be better enforced. [[Replanting the Amazon could slow global warming. Here’s why it’s hard]]
+> 
 
 ## Books
 ```dataview

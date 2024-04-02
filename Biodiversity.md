@@ -5,7 +5,7 @@ stardate: Sep 30th 2023
 update: Sep 30th 2023
 ---
 
-[[Biodiversity.canvas]]
+[[Biodiversity-1.canvas]]
 
 - [[Why do the tropics have higher biodiversity]]
 - [[Biodiversity - Biomass Relationship]]

@@ -10,8 +10,7 @@ dg-publish: true
 ### Communities and Ecosystems
 - [[Tropical Forest Ecology]]
 - [[Biodiversity]]
-
-- [[Community Ecology]]
+- [[Community Ecology.canvas|Community Ecology]]
 - [[Macroecology]]
 - [[Connectivity]]
 - [[Ecosystem Functioning]]

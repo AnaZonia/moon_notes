@@ -12,5 +12,5 @@ Arguing for importance
 - The Amazon contains 50% of the forested area in the world
 - Costa Rica has 6% of the world's biodiversity
 
-[[jakovacRoleLandUse2021|The role of land‐use history in driving successional pathways and its implications for the restoration of tropical forests]]
+[[Jakovac 2021 - The role of land‐use history in driving successional pathways and its implications for the restoration of tropical forests|The role of land‐use history in driving successional pathways and its implications for the restoration of tropical forests]]
 

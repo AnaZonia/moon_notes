@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"8d58e0b58e462991","type":"file","file":"Biodiversity - Biomass Relationship.md","x":-480,"y":-40,"width":400,"height":400},
-		{"id":"2de4e2fcc19ce504","type":"file","file":"2 Research/poorterBiodiversityClimateDetermine2017.md","x":-960,"y":-600,"width":400,"height":400},
-		{"id":"8bffac5e2f37939d","x":-1210,"y":40,"width":250,"height":60,"type":"text","text":"How can biodiversity be measured through remote sensing\n"}
-	],
-	"edges":[]
-}

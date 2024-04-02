@@ -2,9 +2,6 @@
 >[!summary] Summary
 > Be VERY CRITICAL of yours and others’ work, and keep an eye on whether a review is biased, and make it reproducible.
 
-
->[!quote] Cited
-
 ## Authors:
 [[Haddaway, Neal R.]], [[Bethel, Alison]], [[Dicks, Lynn V.]], [[Koricheva, Julia]], [[Macura, Biljana]], [[Petrokofsky, Gillian]], [[Pullin, Andrew S.]], [[Savilaakso, Sini]], [[Stewart, Gavin B.]]
 ## Notes:

@@ -13,7 +13,7 @@ dg-publish: true
 
 ### Emails/contact
 - [ ] Jeff the email with Brian's 6k species paper and the STRI proposal, and ask about Julia Bardina's paper on probability of deforestation
-- [ ] Helene
+- [ ] Kendra Walker - Land use map
 - [ ] Erika Berenguer
 - [ ] [[Dent, Daisy]]
 - [ ] [[Davies, Stuart]]

@@ -692,7 +692,7 @@ The Emberá settle near rivers. In Ipetí there are other indigenous, and there 
 
 There is a gradual transition away from subsistance agriculture.
 
-It is interesting to compare Piriatí and Ipetí and what we are told in both villages, as they are both Emberá but with different landscapes - [[sharmaComparisonInfluencesLandscape2016]]
+It is interesting to compare Piriatí and Ipetí and what we are told in both villages, as they are both Emberá but with different landscapes - [[Sharma 2016 - A comparison of influences on the landscape of two social-ecological systems]]
 
 As it usually is, the Ipetí land is a visible green area among a very modified landscape. *What an awesome place to ask about change in diets with forest change!*
 

@@ -6,67 +6,59 @@
       {
         "id": "3186a3a364bb539a",
         "type": "tabs",
-        "dimension": 50.61919504643962,
         "children": [
           {
-            "id": "387c932874f70e52",
+            "id": "c0d0a1e7b4a67b27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Research article.md",
+                "file": "2 Research/Sinacore 2023 - Mixed success for carbon payments and subsidies in support of forest restoration in the neotropics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "51ceb9025eec0907",
+            "id": "17e59a11236c7ef5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Research/Harris 2021 - Global maps of twenty-first century forest carbon fluxes.md",
+                "file": "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22332f4b8feafdeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/STRI Short-Term Fellowship Proposal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
-        "id": "1e65e77a5309162e",
+        "id": "14f1fb8b7d0c3ed2",
         "type": "tabs",
-        "dimension": 49.38080495356037,
         "children": [
           {
-            "id": "b2901dff6f05e9e8",
+            "id": "6df0760df4e92086",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Biogeochemistry.canvas",
-                "viewState": {
-                  "x": -185.44765346841453,
-                  "y": -204.32447335745854,
-                  "zoom": -1.5458333333333338
-                }
-              }
-            }
-          },
-          {
-            "id": "661f5cf89e19f7e4",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Tropical Forest Ecology.canvas",
-                "viewState": {
-                  "x": 164.77288804148566,
-                  "y": -1429.866891973391,
-                  "zoom": -1.491666666666666
-                }
+                "file": "Ana Did Science Today.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -99,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "activists",
+                "query": "hansen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,11 +108,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -137,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Research/Harris 2021 - Global maps of twenty-first century forest carbon fluxes.md"
+                "file": "Make It So.md"
               }
             }
           },
@@ -147,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Research/Harris 2021 - Global maps of twenty-first century forest carbon fluxes.md",
+                "file": "Make It So.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -164,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Research/Harris 2021 - Global maps of twenty-first century forest carbon fluxes.md",
+                "file": "Make It So.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,47 +245,48 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "51ceb9025eec0907",
+  "active": "e0124e18d9c93d74",
   "lastOpenFiles": [
-    "2 Research/Haddaway 2020 - Eight problems with literature reviews and how to fix them.md",
-    "2 Research/Gucker 2016 - Dissolved nutrient exports from natural and human-impacted Neotropical catchments.md",
-    "2 Research/Grassi 2017 - The key role of forests in meeting climate targets requires science for credible mitigation.md",
-    "2 Research/Flores 2024 - Critical transitions in the Amazon forest system.md",
-    "2 Research/Flores 2020 - Soil erosion as a resilience drain in disturbed tropical forests.md",
-    "2 Research/Flores 2014 - Fire disturbance in Amazonian blackwater floodplain forests.md",
-    "2 Research/Figueiredo 2018 - Beyond climate control on species range - The importance of soil data to predict distribution of Amazonian plant species.md",
-    "2 Research/Doughty 2023 - Tropical forests are approaching critical temperature thresholds.md",
-    "2 Research/Davidson 2007 - Recuperation of nitrogen cycling in Amazonian forests following agricultural abandonment.md",
-    "2 Research/Allen 2020 - Modeling the Carbon Cost of Plant Nitrogen and Phosphorus Uptake Across Temperate and Tropical Forests.md",
-    "2 Research/Bennett 2023 - Sensitivity of South American tropical forests to an extreme climate anomaly.md",
-    "2 Research/Bongers 2015 - The Potential of Secondary Forests.md",
-    "2 Research/Chazdon 2016 - Carbon sequestration potential of second-growth forest regeneration in the Latin American tropics.md",
-    "2 Research/Cook-Patton 2020 - Mapping carbon accumulation potential from global natural forest regrowth.md",
-    "2 Research/Cunha 2022 - Direct evidence for phosphorus limitation on Amazon forest productivity.md",
-    "2 Research/Davidson 2004 - Nitrogen and Phosphorus Limitation of Biomass Growth in a Tropical Secondary Forest.md",
-    "Templates/Research article.md",
-    "Templates/Research Article - Legacy.md",
-    "Nitrogen.md",
-    "2 Research/mengeQuestionThatLaunched2014.md",
-    "Biogeochemistry.md",
-    "200 Life Sciences.md",
-    "Tropical Forest Ecology.md",
-    "Amazonia.md",
-    "Regrowth.md",
-    "2 Research/Zuquim 2023 - Introducing a map of soil base cation concentration, an ecologically relevant GIS-layer for Amazonian forests.md",
-    "Biogeochemistry.canvas",
-    "Tropical Forest Ecology.canvas",
+    "Ana Did Science Today.md",
+    "Project/STRI Short-Term Fellowship Proposal.md",
+    "Bryophytes.md",
+    "2 Research/Sinacore 2023 - Mixed success for carbon payments and subsidies in support of forest restoration in the neotropics.md",
+    "2 Research/Walker 2021 - Effect of land tenure on forest cover and the paradox of private titling in Panama.md",
+    "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
+    "002 Data Sources.md",
+    "Hansen 2013 - Global Forest Change.md",
+    "2 Research/Harris 2021 - Global maps of twenty-first century forest carbon fluxes.md",
+    "Saatchi.md",
+    "Botany.md",
+    "Harris 2021.md",
+    "Regrowth.canvas",
+    "2 Research/Heinrich 2023 - The carbon sink of secondary and degraded humid tropical forests.md",
+    "2 Research/Regrowth.md",
+    "2 Research/Untitled.md",
+    "Chapter 2 - Predicting Regrowth in Panama.md",
+    "001 The Bridge.md",
+    "2 Research/Wong 2020 - Biological Nitrogen Fixation Does Not Replace Nitrogen Losses After Forest Fires in the Southeastern Amazon.md",
+    "Phosphorus.canvas",
+    "Nitrogen.canvas",
+    "2 Research/Wieder 2015 - Effects of model structural uncertainty on carbon cycle projections - biological nitrogen fixation as a case study.md",
+    "2 Research/Vitousek 1991 - Nitrogen limitation on land and in the sea - How can it occur.md",
+    "2 Research/Verbesselt 2016 - Remotely sensed resilience of tropical forests.md",
+    "2 Research/Turner 2018 - Pervasive phosphorus limitation of tree species but not communities in tropical forests.md",
+    "2 Research/Sharma 2016 - A comparison of influences on the landscape of two social-ecological systems.md",
     "Climate Change.canvas",
+    "Ostrom Framework.md",
+    "2 Research/Ruiz-Jaen 2011 - Can we predict carbon stocks in tropical ecosystems from tree diversity - Comparing species and functional diversity in a plantation and a natural forest.md",
+    "2 Research/Rozendaal 2015 - Demographic drivers of tree biomass change during secondary succession in northeastern Costa Rica.md",
+    "Climate Change and Tropical Forests.canvas",
+    "Biodiversity-1.canvas",
+    "Community Ecology.canvas",
+    "Fire Effects on Tropical Forests.canvas",
+    "Climate Change Impacts on Tropical Forests.canvas",
     "Files/Prensa Neotropical - Puertos de Panamá.pdf",
     "Files/Ana Did Science Today-1.pdf",
     "Files/REDD+.pdf",
-    "Phosphorus.canvas",
     "Files/Ana Did Science Today.pdf",
-    "Biodiversity.canvas",
     "Botany.canvas",
-    "Biogeochemistry-1.canvas",
-    "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
-    "Background Flowchart.canvas",
     "Project",
     "moon.svg",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
@@ -307,7 +302,6 @@
     "Files/albertHumanImpactsOutpace2023/albertHumanImpactsOutpace2023-7-x208-y386.jpg",
     "Files/albertHumanImpactsOutpace2023",
     "Files/Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.pdf",
-    "3 Alexandria/Research",
-    "2 Workstation/1 - Predicting Regrowth in the Amazon/Regrowth in Amazonia.canvas"
+    "3 Alexandria/Research"
   ]
 }

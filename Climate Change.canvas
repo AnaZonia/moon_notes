@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"86c497e58b64b32b","type":"file","file":"Bolsa Defeso Florestal.md","x":-2710,"y":1178,"width":400,"height":400},
 		{"id":"be88798abbe0bbe4","type":"file","file":"Carbon Credits.md","x":-3760,"y":-140,"width":1014,"height":460},
 		{"id":"de5ca195f80c26a5","type":"text","text":"Alternatives","x":-3378,"y":500,"width":250,"height":60},
 		{"id":"4421a0bc14be02ad","type":"file","file":"Carbon Tax.md","x":-5154,"y":240,"width":1280,"height":840},
@@ -8,14 +9,19 @@
 		{"id":"aca8a51bd80e916b","type":"file","file":"AXA fund to invest $49 million in Brazil reforestation projects.md","x":-2494,"y":-1880,"width":712,"height":520},
 		{"id":"23f5d7e19cd482f1","type":"text","text":"Concerns","x":-1600,"y":60,"width":250,"height":60},
 		{"id":"0db647a15c6b4d3e","type":"text","text":"Carbon credits can viabilize regrowth","x":-3442,"y":-440,"width":378,"height":100},
-		{"id":"17be744d519c4209","type":"text","text":"## Maintenance of forests in the long term\n\n- From what was seen in Ipeti, they were planting [[Ana Did Science Today#Ipeti Report|mostly monocultures]] which seemed to have the intention of being logged afterwards. [[Hall, Jefferson S.]]'s argument that we need to sequester as much as possible ASAP is true, but also we need forests that can harbor [[Biodiversity]].\n- In [[sinacoreMixedSuccessCarbon2023]], it's mentioned we need long-term payments based on area. [[REDD+]], however, would do one-time large-sum payments as mentioned [here)](https://news.mongabay.com/2014/09/redd-versus-indigenous-people-why-a-tribe-in-panama-rejected-pay-for-their-carbon-rich-forests/) that the Panamanian government would pay US$12 million for Guna forests to remain standing.\n\n\n\n\n\n\n\n\n\n\n\n","x":-1600,"y":-920,"width":640,"height":750},
+		{"id":"17be744d519c4209","type":"text","text":"## Maintenance of forests in the long term\n\n- From what was seen in Ipeti, they were planting [[Ana Did Science Today#Ipeti Report|mostly monocultures]] which seemed to have the intention of being logged afterwards. [[Hall, Jefferson S.]]'s argument that we need to sequester as much as possible ASAP is true, but also we need forests that can harbor [[Biodiversity]].\n- In [[Sinacore 2023 - Mixed success for carbon payments and subsidies in support of forest restoration in the neotropics]], it's mentioned we need long-term payments based on area. [[REDD+]], however, would do one-time large-sum payments as mentioned [here)](https://news.mongabay.com/2014/09/redd-versus-indigenous-people-why-a-tribe-in-panama-rejected-pay-for-their-carbon-rich-forests/) that the Panamanian government would pay US$12 million for Guna forests to remain standing.\n\n\n\n\n\n\n\n\n\n\n\n","x":-1600,"y":-920,"width":640,"height":750},
 		{"id":"8051df18225270bd","type":"text","text":"> If this is not a problem we'll have fixed in 30 years, we will be very screwed. Carbon offsets are supposed to hold things down for only a few years, but not solve the problem forever.\n> - [[Hall, Jefferson S.]]\n\n","x":-1727,"y":-1360,"width":895,"height":266},
 		{"id":"06b6155837352ed5","type":"file","file":"Mid-sized NGOs are essential for reforestation.md","x":-1535,"y":400,"width":680,"height":440},
-		{"id":"6022f0af407eebc7","type":"file","file":"2 Research/phelpsDoesREDDThreaten2010.md","x":-1487,"y":1040,"width":585,"height":400},
+		{"id":"6022f0af407eebc7","type":"file","file":"2 Research/Phelps 2010 - Does REDD+ Threaten to Recentralize Forest Governance.md","x":-1487,"y":1040,"width":585,"height":400},
 		{"id":"d805fd22601337bc","type":"file","file":"Debt-for-climate swaps.md","x":-2672,"y":500,"width":680,"height":400},
 		{"id":"4005412672d654d5","type":"file","file":"Títulos Verdes.md","x":-3626,"y":900,"width":746,"height":520},
-		{"id":"d519ed3b077ffc41","type":"file","file":"2 Research/sinacoreMixedSuccessCarbon2023.md","x":-3431,"y":-860,"width":867,"height":280},
-		{"id":"90241e0d334caa01","type":"file","file":"Replanting the Amazon could slow global warming. Here’s why it’s hard.md","x":-4118,"y":-1060,"width":488,"height":400}
+		{"id":"90241e0d334caa01","type":"file","file":"Replanting the Amazon could slow global warming. Here’s why it’s hard.md","x":-4118,"y":-1060,"width":488,"height":400},
+		{"id":"f2c45c824fff3144","type":"file","file":"Conservation is not enough - we need to restore the Amazon forest.md","x":-3464,"y":-1880,"width":400,"height":400},
+		{"id":"0c318cf8cf200e9c","type":"file","file":"Monetizar a restauração florestal limita o papel da regeneração natural na Amazônia.md","x":-2946,"y":-2280,"width":546,"height":400},
+		{"id":"dcd45826b491e0e0","type":"file","file":"Virando o jogo - do desmatamento à restauração em larga escala na Amazônia.md","x":-3760,"y":-2480,"width":400,"height":400},
+		{"id":"d519ed3b077ffc41","type":"file","file":"2 Research/Sinacore 2023 - Mixed success for carbon payments and subsidies in support of forest restoration in the neotropics.md","x":-3431,"y":-1060,"width":867,"height":380},
+		{"id":"795d568f40653d7e","type":"file","file":"Is active reforestation more efficient than passive.md","x":-1600,"y":-2080,"width":1010,"height":560},
+		{"id":"0b88f90a20299b86","x":-480,"y":420,"width":680,"height":400,"type":"file","file":"2 Research/Sharma 2016 - A comparison of influences on the landscape of two social-ecological systems.md"}
 	],
 	"edges":[
 		{"id":"70a8d9987a34570b","fromNode":"17be744d519c4209","fromSide":"top","toNode":"8051df18225270bd","toSide":"bottom"},
@@ -33,6 +39,8 @@
 		{"id":"68fac74f0058367f","fromNode":"be88798abbe0bbe4","fromSide":"top","toNode":"83904d16b71f0237","toSide":"bottom","label":"...or they can be awful"},
 		{"id":"c130b5e9a98bc58f","fromNode":"f902a8416e9ea840","fromSide":"right","toNode":"23f5d7e19cd482f1","toSide":"left"},
 		{"id":"fe5bbf80f29de7d6","fromNode":"23f5d7e19cd482f1","fromSide":"right","toNode":"17be744d519c4209","toSide":"bottom"},
-		{"id":"435244740782a4ce","fromNode":"23f5d7e19cd482f1","fromSide":"right","toNode":"06b6155837352ed5","toSide":"top","label":"Scale of action"}
+		{"id":"435244740782a4ce","fromNode":"23f5d7e19cd482f1","fromSide":"right","toNode":"06b6155837352ed5","toSide":"top","label":"Scale of action"},
+		{"id":"11d553c16246ff61","fromNode":"de5ca195f80c26a5","fromSide":"bottom","toNode":"86c497e58b64b32b","toSide":"top"},
+		{"id":"1de429d77dc2fcb5","fromNode":"06b6155837352ed5","fromSide":"right","toNode":"0b88f90a20299b86","toSide":"left"}
 	]
 }

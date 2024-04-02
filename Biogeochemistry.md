@@ -4,10 +4,8 @@ up:
 stardate: Sep 9th 2023
 update: Oct 8th 2023
 ---
-[[Biogeochemistry.canvas|Biogeochemistry]]
-
-- [[Nitrogen]]
-- [[Phosphorus]]
+- [[Phosphorus.canvas|Phosphorus]]
+- [[Nitrogen.canvas|Nitrogen]]
 - [[Soil]]
 - [[Mycorrhizae]]
 - [[Earth System Models]]
