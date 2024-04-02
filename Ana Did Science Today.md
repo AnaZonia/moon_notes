@@ -66,9 +66,9 @@ Diálogos científicos multiculturais sobre a sociobiodiversidade na Amazônia c
 - duração e frequencia das estações secas é importante.
 
 #### Relevant reading
-- [[figueiredoClimateControlSpecies2018]] - Soil grids e mapa da [[Zuquim, Gabriela]] com base em samambaias para panamazonia.
+- [[Figueiredo 2018 - Beyond climate control on species range - The importance of soil data to predict distribution of Amazonian plant species]] - Soil grids e mapa da [[Zuquim, Gabriela]] com base em samambaias para panamazonia.
 - [[Zuquim 2023 - Introducing a map of soil base cation concentration, an ecologically relevant GIS-layer for Amazonian forests]]
-- [[floresFireDisturbanceAmazonian2014]]
+- [[Flores 2014 - Fire disturbance in Amazonian blackwater floodplain forests]]
 
 #### Relevant people
 - [[McMahon, Sean]] - do STRI, trabalha com a Flavia.

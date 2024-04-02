@@ -14,13 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nitrogen.md",
+                "file": "Templates/Research article.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51ceb9025eec0907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Research/Harris 2021 - Global maps of twenty-first century forest carbon fluxes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1e65e77a5309162e",
@@ -35,9 +48,9 @@
               "state": {
                 "file": "Biogeochemistry.canvas",
                 "viewState": {
-                  "x": 83.71630410987629,
-                  "y": -433.6106081459804,
-                  "zoom": -1.5875
+                  "x": -185.44765346841453,
+                  "y": -204.32447335745854,
+                  "zoom": -1.5458333333333338
                 }
               }
             }
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nitrogen.md"
+                "file": "2 Research/Harris 2021 - Global maps of twenty-first century forest carbon fluxes.md"
               }
             }
           },
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nitrogen.md",
+                "file": "2 Research/Harris 2021 - Global maps of twenty-first century forest carbon fluxes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nitrogen.md",
+                "file": "2 Research/Harris 2021 - Global maps of twenty-first century forest carbon fluxes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,43 +244,43 @@
       "workspaces:Manage workspace layouts": false,
       "cmdr:Open current tab in new window": false,
       "obsidian-gallery:Gallery": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "digitalgarden:Digital Garden Publication Center": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "digitalgarden:Digital Garden Publication Center": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "387c932874f70e52",
+  "active": "51ceb9025eec0907",
   "lastOpenFiles": [
-    "2 Research/mengeQuestionThatLaunched2014.md",
+    "2 Research/Haddaway 2020 - Eight problems with literature reviews and how to fix them.md",
+    "2 Research/Gucker 2016 - Dissolved nutrient exports from natural and human-impacted Neotropical catchments.md",
+    "2 Research/Grassi 2017 - The key role of forests in meeting climate targets requires science for credible mitigation.md",
+    "2 Research/Flores 2024 - Critical transitions in the Amazon forest system.md",
+    "2 Research/Flores 2020 - Soil erosion as a resilience drain in disturbed tropical forests.md",
+    "2 Research/Flores 2014 - Fire disturbance in Amazonian blackwater floodplain forests.md",
+    "2 Research/Figueiredo 2018 - Beyond climate control on species range - The importance of soil data to predict distribution of Amazonian plant species.md",
+    "2 Research/Doughty 2023 - Tropical forests are approaching critical temperature thresholds.md",
+    "2 Research/Davidson 2007 - Recuperation of nitrogen cycling in Amazonian forests following agricultural abandonment.md",
+    "2 Research/Allen 2020 - Modeling the Carbon Cost of Plant Nitrogen and Phosphorus Uptake Across Temperate and Tropical Forests.md",
+    "2 Research/Bennett 2023 - Sensitivity of South American tropical forests to an extreme climate anomaly.md",
+    "2 Research/Bongers 2015 - The Potential of Secondary Forests.md",
+    "2 Research/Chazdon 2016 - Carbon sequestration potential of second-growth forest regeneration in the Latin American tropics.md",
+    "2 Research/Cook-Patton 2020 - Mapping carbon accumulation potential from global natural forest regrowth.md",
+    "2 Research/Cunha 2022 - Direct evidence for phosphorus limitation on Amazon forest productivity.md",
+    "2 Research/Davidson 2004 - Nitrogen and Phosphorus Limitation of Biomass Growth in a Tropical Secondary Forest.md",
+    "Templates/Research article.md",
+    "Templates/Research Article - Legacy.md",
     "Nitrogen.md",
+    "2 Research/mengeQuestionThatLaunched2014.md",
     "Biogeochemistry.md",
     "200 Life Sciences.md",
     "Tropical Forest Ecology.md",
     "Amazonia.md",
     "Regrowth.md",
     "2 Research/Zuquim 2023 - Introducing a map of soil base cation concentration, an ecologically relevant GIS-layer for Amazonian forests.md",
-    "2 Research/Untitled.md",
     "Biogeochemistry.canvas",
-    "2 Research/Allen 2020 - Modeling the Carbon Cost of Plant Nitrogen and Phosphorus Uptake Across Temperate and Tropical Forests.md",
-    "2 Research/Cunha 2022 - Direct evidence for phosphorus limitation on Amazon forest productivity.md",
-    "2 Research/Cook-Patton 2020 - Mapping carbon accumulation potential from global natural forest regrowth.md",
-    "2 Research/Chazdon 2016 - Carbon sequestration potential of second-growth forest regeneration in the Latin American tropics.md",
-    "2 Research/Bongers 2015- The Potential of Secondary Forests.md",
-    "2 Research/Bennett 2023 - Sensitivity of South American tropical forests to an extreme climate anomaly.md",
-    "2 Research/Adams;2004;Biodiversity Conservation and the Eradication of Poverty.md",
-    "2 Research/Adams 2004_Biodiversity Conservation and the Eradication of Poverty.md",
-    "2 Research/Adams 2004 - Biodiversity Conservation and the Eradication of Poverty.md",
     "Tropical Forest Ecology.canvas",
-    "Templates/Research article.md",
-    "How is biodiversity loss happening.md",
-    "Biodiversity.md",
-    "2 Research/doughtyTropicalForestsAre2023.md",
-    "2 Research/davidsonNitrogenPhosphorusLimitation2004.md",
-    "Is active reforestation more efficient than passive.md",
-    "2 Research/heinrichLargeCarbonSink2021.md",
-    "Modelling Regrowth.md",
     "Climate Change.canvas",
     "Files/Prensa Neotropical - Puertos de Panamá.pdf",
     "Files/Ana Did Science Today-1.pdf",

@@ -1,17 +1,3 @@
-  
----
-aliases: ["Mapping carbon accumulation potential from global natural forest regrowth"] 
-year: 2020 
-first-author: Cook-Patton, Susan C.
-publisher: "Nature" 
-tags: [model, plots, ]
-url: https://www.nature.com/articles/s41586-020-2686-x 
-type: lit_note
-at-a-glance: "Modelled carbon accumulation for the world with a large network of plots - predictions of potential C accumulation were lower than the IPCC reported"
-
---- 
-
-[[Regrowth]], [[Biomass]]
 
 >[!summary] Summary
 >Based on plot data across different biomes, it shows predictions for the whole world based on 66 environmental predictors.
@@ -19,9 +5,9 @@ at-a-glance: "Modelled carbon accumulation for the world with a large network of
 >[!quote] Cited
 >The effects of land use (pasture, shifting, long-term cropping, fire) were significant across biomes, but indistinguishable within biomes. The classification however is quite coarse and there is a lot of unexplained variability.
 
-#### Authors:
+## Authors:
 [[Cook-Patton, Susan C.]], [[Leavitt, Sara M.]], [[Gibbs, David]], [[Harris, Nancy L.]], [[Lister, Kristine]], [[Anderson-Teixeira, Kristina J.]], [[Briggs, Russell D.]], [[Chazdon, Robin L.]], [[Crowther, Thomas W.]], [[Ellis, Peter W.]], [[Griscom, Heather P.]], [[Herrmann, Valentine]], [[Holl, Karen D.]], [[Houghton, Richard A.]], [[Larrosa, Cecilia]], [[Lomax, Guy]], [[Lucas, Richard]], [[Madsen, Palle]], [[Malhi, Yadvinder]], [[Paquette, Alain]], [[Parker, John D.]], [[Paul, Keryn]], [[Routh, Devin]], [[Roxburgh, Stephen]], [[Saatchi, Sassan]], [[Van Den Hoogen, Johan]], [[Walker, Wayne S.]], [[Wheeler, Charlotte E.]], [[Wood, Stephen A.]], [[Xu, Liang]], [[Griscom, Bronson W.]]
-#### Notes:
+## Notes:
  
 > <span style="color: #90EE90">here we compile 13,112 georeferenced measurements of carbon accumulation.</span> 
 

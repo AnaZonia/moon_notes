@@ -15,5 +15,5 @@ tags:
 
 - existe uma variação entre efeitos em regiões diferentes da Amazônia - as causas e consequências não são homogêneas
 
-[[floresCriticalTransitionsAmazon2024]]
+[[Flores 2024 - Critical transitions in the Amazon forest system]]
 

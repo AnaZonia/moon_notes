@@ -2,15 +2,15 @@
 	"nodes":[
 		{"id":"a0c1bd8aa115b252","type":"file","file":"2 Research/Bennett 2023 - Sensitivity of South American tropical forests to an extreme climate anomaly.md","x":-320,"y":-470,"width":780,"height":360},
 		{"id":"a9a179d230251a96","x":-180,"y":-1320,"width":460,"height":90,"color":"4","type":"text","text":"Importance of Secondary Forests"},
-		{"id":"80774ee37a41dde5","type":"file","file":"2 Research/Bongers 2015- The Potential of Secondary Forests.md","x":-340,"y":-2000,"width":780,"height":400},
+		{"id":"80774ee37a41dde5","type":"file","file":"2 Research/Bongers 2015 - The Potential of Secondary Forests.md","x":-340,"y":-2000,"width":780,"height":400},
 		{"id":"e66adffc79cd889a","x":595,"y":-2000,"width":930,"height":400,"type":"file","file":"2 Research/Cook-Patton 2020 - Mapping carbon accumulation potential from global natural forest regrowth.md"},
 		{"id":"1855bbe5340f56fd","x":900,"y":-1230,"width":320,"height":110,"color":"4","type":"text","text":"Regrowth models"},
 		{"id":"107322b5c224b80c","x":1525,"y":-1375,"width":880,"height":400,"type":"file","file":"2 Research/Chazdon 2016 - Carbon sequestration potential of second-growth forest regeneration in the Latin American tropics.md"},
 		{"id":"7bcf7ca119d5bef0","x":1620,"y":-1920,"width":620,"height":240,"type":"file","file":"2 Research/heinrichLargeCarbonSink2021.md"},
 		{"id":"b457d9b70d24d45a","x":-840,"y":-390,"width":382,"height":100,"color":"3","type":"text","text":"Do tropical or temperate forests grow faster?"},
 		{"id":"7bf5cda43e6142c3","type":"text","text":"\nWhere the soil nutrients are poor, trees grow more slowly. Tropical forests have lower nutrients, but more sunshine and water, which makes them grow faster than temperate forests\n","x":-1360,"y":-180,"width":765,"height":140},
-		{"id":"68247be99ce4c7ad","x":-240,"y":-1060,"width":800,"height":400,"type":"file","file":"2 Research/doughtyTropicalForestsAre2023.md"},
-		{"id":"06bd2369d8a021c5","type":"file","file":"2 Research/harrisGlobalMapsTwentyfirst2021.md","x":-1400,"y":-1320,"width":720,"height":520}
+		{"id":"68247be99ce4c7ad","x":-240,"y":-1060,"width":800,"height":400,"type":"file","file":"2 Research/Doughty 2023 - Tropical forests are approaching critical temperature thresholds.md"},
+		{"id":"06bd2369d8a021c5","type":"file","file":"2 Research/Harris 2021 - Global maps of twenty-first century forest carbon fluxes.md","x":-1400,"y":-1320,"width":720,"height":520}
 	],
 	"edges":[
 		{"id":"6ce33f7460c7b7de","fromNode":"a9a179d230251a96","fromSide":"top","toNode":"80774ee37a41dde5","toSide":"bottom","label":"20x more CO2 uptake than mature"},

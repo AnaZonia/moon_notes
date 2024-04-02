@@ -7,8 +7,8 @@
 		{"id":"31ce521a9dd7d8f4","type":"text","text":"sahara sands - [[Phosphorus]], molybdenum, iron","x":-824,"y":-370,"width":250,"height":190},
 		{"id":"126795df7f9aa78f","type":"text","text":"No evidence of P limitation","x":-103,"y":-180,"width":372,"height":105,"color":"1"},
 		{"id":"44a9b5700012b42d","type":"file","file":"2 Research/vitousekNitrogenLimitationLand1991.md","x":861,"y":120,"width":600,"height":480},
-		{"id":"8ae08198dba3ebd2","type":"file","file":"2 Research/davidsonNitrogenPhosphorusLimitation2004.md","x":-420,"y":240,"width":1020,"height":400},
-		{"id":"e885197e9ec2198b","type":"file","file":"2 Research/davidsonRecuperationNitrogenCycling2007.md","x":-347,"y":920,"width":875,"height":240},
+		{"id":"8ae08198dba3ebd2","type":"file","file":"2 Research/Davidson 2004 - Nitrogen and Phosphorus Limitation of Biomass Growth in a Tropical Secondary Forest.md","x":-420,"y":240,"width":1020,"height":400},
+		{"id":"e885197e9ec2198b","type":"file","file":"2 Research/Davidson 2007 - Recuperation of nitrogen cycling in Amazonian forests following agricultural abandonment.md","x":-347,"y":920,"width":875,"height":240},
 		{"id":"8f2a8c9120a852fe","type":"file","file":"2 Research/Allen 2020 - Modeling the Carbon Cost of Plant Nitrogen and Phosphorus Uptake Across Temperate and Tropical Forests.md","x":-160,"y":-943,"width":760,"height":492}
 	],
 	"edges":[

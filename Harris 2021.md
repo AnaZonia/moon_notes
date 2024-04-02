@@ -10,7 +10,7 @@ resolution: 30m
 time_range: "2000"
 url: https://data.globalforestwatch.org/datasets/aboveground-live-woody-biomass-density/explore?location=-11.401386%2C-84.902199%2C2.61
 ---
-Data from [[harrisGlobalMapsTwentyfirst2021]]
+Data from [[Harris 2021 - Global maps of twenty-first century forest carbon fluxes]]
 
 Global Forest Watch Biomass data.
 

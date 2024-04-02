@@ -19,5 +19,5 @@ tags:
 
 [Influence of soils and topography on Amazonian tree diversity: a landscape‐scale study - Laurance - 2010 - Journal of Vegetation Science - Wiley Online Library (mcgill.ca)](https://onlinelibrary-wiley-com.proxy3.library.mcgill.ca/doi/full/10.1111/j.1654-1103.2009.01122.x)
 
-- Erosion can be a major resilience drain [[floresSoilErosionResilience2020]]
+- Erosion can be a major resilience drain [[Flores 2020 - Soil erosion as a resilience drain in disturbed tropical forests]]
 - 

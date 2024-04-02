@@ -25,7 +25,8 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "iconsInLinksEnabled": true
   },
   "Templates/Research article.md": "LiLibrary",
   "Templates/Captain's Log.md": "SiStartrek",
