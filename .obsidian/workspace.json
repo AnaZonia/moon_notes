@@ -32,37 +32,22 @@
             }
           },
           {
-            "id": "22332f4b8feafdeb",
+            "id": "fe309a9f3afa2d36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Project/STRI Short-Term Fellowship Proposal.md",
-                "mode": "source",
-                "source": false
+                "file": "Climate Change.canvas",
+                "viewState": {
+                  "x": -2477,
+                  "y": -451,
+                  "zoom": -3.4904819458532628
+                }
               }
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "14f1fb8b7d0c3ed2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6df0760df4e92086",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ana Did Science Today.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +76,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hansen",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,13 +93,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -131,7 +114,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Make It So.md"
+                "file": "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md"
               }
             }
           },
@@ -141,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Make It So.md",
+                "file": "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Make It So.md",
+                "file": "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,14 +228,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e0124e18d9c93d74",
+  "active": "17e59a11236c7ef5",
   "lastOpenFiles": [
-    "Ana Did Science Today.md",
-    "Project/STRI Short-Term Fellowship Proposal.md",
-    "Bryophytes.md",
+    "Climate Change.canvas",
+    "Tropical Forest Ecology.md",
+    "200 Life Sciences.md",
     "2 Research/Sinacore 2023 - Mixed success for carbon payments and subsidies in support of forest restoration in the neotropics.md",
-    "2 Research/Walker 2021 - Effect of land tenure on forest cover and the paradox of private titling in Panama.md",
     "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
+    "Project/STRI Short-Term Fellowship Proposal.md",
+    "Utilitarismo.md",
+    "Philosophy.md",
+    "Ana Did Science Today.md",
+    "Make It So.md",
+    "Bryophytes.md",
+    "2 Research/Walker 2021 - Effect of land tenure on forest cover and the paradox of private titling in Panama.md",
     "002 Data Sources.md",
     "Hansen 2013 - Global Forest Change.md",
     "2 Research/Harris 2021 - Global maps of twenty-first century forest carbon fluxes.md",
@@ -270,13 +259,6 @@
     "Nitrogen.canvas",
     "2 Research/Wieder 2015 - Effects of model structural uncertainty on carbon cycle projections - biological nitrogen fixation as a case study.md",
     "2 Research/Vitousek 1991 - Nitrogen limitation on land and in the sea - How can it occur.md",
-    "2 Research/Verbesselt 2016 - Remotely sensed resilience of tropical forests.md",
-    "2 Research/Turner 2018 - Pervasive phosphorus limitation of tree species but not communities in tropical forests.md",
-    "2 Research/Sharma 2016 - A comparison of influences on the landscape of two social-ecological systems.md",
-    "Climate Change.canvas",
-    "Ostrom Framework.md",
-    "2 Research/Ruiz-Jaen 2011 - Can we predict carbon stocks in tropical ecosystems from tree diversity - Comparing species and functional diversity in a plantation and a natural forest.md",
-    "2 Research/Rozendaal 2015 - Demographic drivers of tree biomass change during secondary succession in northeastern Costa Rica.md",
     "Climate Change and Tropical Forests.canvas",
     "Biodiversity-1.canvas",
     "Community Ecology.canvas",

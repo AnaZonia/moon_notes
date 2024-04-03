@@ -7,6 +7,12 @@ dg-publish: true
 
 - [[STRI Short-Term Fellowship Proposal]] 
 
+### Encuentro con Jimena Pitty
+After I spoke to her at the [[Ana Did Science Today#Science communication|NEO course]], it becomes more clear that I can work with science communication if I want. Along with Jeff Hall, she is preparing an Agua Salud exhibit at Culebra for children. Also, she is working with a Brazilian PhD student that has a background in biotechnology and is transitioning to education.
+Thinking of the essays I'd like to be writing, she mentioned how it would be interesting to look into:
+- how to communicate with farmers
+- writing simple, eye-catching text like the STRI magazine does
+
 ### Soil data
 #### Meeting [[Agudo, Dayana]] and [[Nottingham, Andrew]]
 

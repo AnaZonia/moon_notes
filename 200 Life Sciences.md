@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-- [[Evolution]]
+ - [[Evolution]]
 - [[Biogeochemistry]]
 - [[Theoretical Ecology]]
 - [[Predictive Ecology]]
