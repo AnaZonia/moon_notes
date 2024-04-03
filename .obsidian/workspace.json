@@ -6,6 +6,7 @@
       {
         "id": "3186a3a364bb539a",
         "type": "tabs",
+        "dimension": 23.9010989010989,
         "children": [
           {
             "id": "c0d0a1e7b4a67b27",
@@ -64,14 +65,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "People.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b0a5178abbea1f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jimena Pitty.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
+      },
+      {
+        "id": "49a8c06f01377a2a",
+        "type": "tabs",
+        "dimension": 76.0989010989011,
+        "children": [
+          {
+            "id": "db107b9295ec695e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ana Did Science Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +153,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -233,8 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 433.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,14 +284,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9f7f1373e05d036e",
+  "active": "db107b9295ec695e",
   "lastOpenFiles": [
+    "100 A Floresta Aleatória.md",
+    "Ana Did Science Today.md",
+    "Jimena Pitty.md",
+    "People.md",
+    "003 People and Networks.md",
+    "Templates/4 People and networks.md",
     "001 The Bridge.md",
     "Templates/Captain's Log.md",
     "Templates/Captain's Log - Review.md",
     "Templates/5 Remote Sensing Product.md",
     "Templates/Glossary.md",
-    "Templates/4 People and networks.md",
     "Templates/3 Data Source.md",
     "Templates/2 New Scroll.md",
     "Templates/1 Cadet.md",
@@ -275,11 +312,6 @@
     "Ecological filtering theory.md",
     "400 Interests.md",
     "002 Data Sources.md",
-    "Disease and Health.md",
-    "Dengue.md",
-    "Malaria.md",
-    "Agroforestry.md",
-    "Timber.md",
     "Climate Change.canvas",
     "Regrowth.canvas",
     "Phosphorus.canvas",

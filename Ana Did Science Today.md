@@ -5,6 +5,50 @@ dg-publish: true
 ---
 ## 25/03/2024 : 07/04/2024 - Organizing and writing
 
+**Olivia Milloway**
+- communicating with 13 year old - that is when most people stop taking science classes.
+	- also useful for interdisciplinary communication
+- personal journal entries - forces you out of 3rd person objective voice. Building a blog would be cool.
+- Building a professional website would be cool. It can have a news/stories page.
+	- Species feature/naturalist diary - talk about special tree species/groups. Reminds me of "um pé de que?"
+		- plantas alimenticias não típicas
+		- non timber forest products
+
+Contact Jeff Hall about communicating with rural communities through Agua Salud. Ask for his community engagement material.
+Daniel at Toucan NGO
+
+Guido Beguido - also protested against the mines.
+
+Send her an intro.
+
+Futuro NGO
+
+- university of boston communication forum
+- open notebook organization
+- Scicomm bites newsletter
+
+contact jimena to send her the articles
+
+oxygen isn't the reason we need forests.
+explain how the greenhouse effect works
+poor soil in the amazon - what makes soil good vs poor and why we need agroforestry.
+
+interview scientists to add quotes to articles
+think of how to make scientists human and approachable and believable.
+- Erika Berenguer and fires in the Amazon?
+- Erika Berenguer and boyfriends??
+
+It becomes impossible to have children in a scientist job - scientists dont have a firm job until very late in their career.
+
+foreigners that come do science in Brazil
+- write your own personal environmental story
+	- and a 300-word bio version
+	- write for labmates 
+
+Send stuff to Mongabay! English, Spanish and Portuguese?
+
+**AAAS mass media fellowship** - place people in US institutions for summer media internships. Must be an American citizen, but a lot of the alumni would be cool inspiration.
+
 - [[STRI Short-Term Fellowship Proposal]] 
 
 ### Encuentro con Jimena Pitty
