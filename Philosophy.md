@@ -24,10 +24,10 @@ aliases:
 
 ## Campos Filosóficos
 - [[Estoicismo]]
+- [[Epicureanismo]]
 - [[Utilitarismo]]
 - [[Filosofia da Ciência]]
 - [[Gender Studies]]
-
 
 ## Glossary
 - [[Epistemology]]
@@ -38,6 +38,4 @@ aliases:
 - [[Is Life Worth Living]]
 - [[Why is it bad to speak badly of others]]
 - [[Is happiness the end goal?]]
-- [[Was Nazi Germany capitalist?]]
 - [[Famine, Affluence and Morality]]
-- 

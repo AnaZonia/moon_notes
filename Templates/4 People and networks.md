@@ -1,8 +1,9 @@
 ---
 up: 
 url: 
-type: []
+type: 
 aliases: 
 at-a-glance: 
-location:
+location: 
+dg-publish: true
 ---

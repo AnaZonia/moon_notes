@@ -1,5 +1,6 @@
 {
 	"nodes":[
+		{"id":"de96e0be0556b6fa","x":-680,"y":-680,"width":400,"height":400,"type":"file","file":"How Costa Rica did so well.md"},
 		{"id":"86c497e58b64b32b","type":"file","file":"Bolsa Defeso Florestal.md","x":-2710,"y":1178,"width":400,"height":400},
 		{"id":"be88798abbe0bbe4","type":"file","file":"Carbon Credits.md","x":-3760,"y":-140,"width":1014,"height":460},
 		{"id":"de5ca195f80c26a5","type":"text","text":"Alternatives","x":-3378,"y":500,"width":250,"height":60},
@@ -21,7 +22,7 @@
 		{"id":"dcd45826b491e0e0","type":"file","file":"Virando o jogo - do desmatamento à restauração em larga escala na Amazônia.md","x":-3760,"y":-2480,"width":400,"height":400},
 		{"id":"d519ed3b077ffc41","type":"file","file":"2 Research/Sinacore 2023 - Mixed success for carbon payments and subsidies in support of forest restoration in the neotropics.md","x":-3431,"y":-1060,"width":867,"height":380},
 		{"id":"795d568f40653d7e","type":"file","file":"Is active reforestation more efficient than passive.md","x":-1600,"y":-2080,"width":1010,"height":560},
-		{"id":"0b88f90a20299b86","x":-480,"y":420,"width":680,"height":400,"type":"file","file":"2 Research/Sharma 2016 - A comparison of influences on the landscape of two social-ecological systems.md"}
+		{"id":"0b88f90a20299b86","type":"file","file":"2 Research/Sharma 2016 - A comparison of influences on the landscape of two social-ecological systems.md","x":-480,"y":420,"width":680,"height":400}
 	],
 	"edges":[
 		{"id":"70a8d9987a34570b","fromNode":"17be744d519c4209","fromSide":"top","toNode":"8051df18225270bd","toSide":"bottom"},

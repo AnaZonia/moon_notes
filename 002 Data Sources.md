@@ -61,3 +61,4 @@ SORT file.name ASC
 - [SINIA (Sistema Nacional de Información Ambiental) - Panama](https://www.sinia.gob.pa/index.php/cobertura-boscosa/ano-2019/a-nivel-nacional)
 - [FAO Forest Inventory](https://microdata.fao.org/index.php/catalog/Forestry/?page=1&sort_by=popularity&sort_order=desc&ps=15&repo=Forestry)
 - [[SiBBr - Sistema de Informação sobre a Biodiversidade Brasileira]]
+- [SUS -AlertaDengue](https://github.com/AlertaDengue/PySUS)

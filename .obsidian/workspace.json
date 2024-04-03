@@ -39,15 +39,39 @@
               "state": {
                 "file": "Climate Change.canvas",
                 "viewState": {
-                  "x": -2477,
-                  "y": -451,
-                  "zoom": -3.4904819458532628
+                  "x": -499.1291956228393,
+                  "y": -515.8551358154232,
+                  "zoom": -0.3708333333333333
                 }
+              }
+            }
+          },
+          {
+            "id": "64e1be9eab7c4f67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How Costa Rica did so well.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d40939958f7b3ead",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ana Did Science Today.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -76,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#glossary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -124,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 554.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -228,37 +252,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "17e59a11236c7ef5",
+  "active": "9f7f1373e05d036e",
   "lastOpenFiles": [
-    "Climate Change.canvas",
-    "Tropical Forest Ecology.md",
-    "200 Life Sciences.md",
-    "2 Research/Sinacore 2023 - Mixed success for carbon payments and subsidies in support of forest restoration in the neotropics.md",
-    "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
-    "Project/STRI Short-Term Fellowship Proposal.md",
-    "Utilitarismo.md",
-    "Philosophy.md",
-    "Ana Did Science Today.md",
-    "Make It So.md",
-    "Bryophytes.md",
-    "2 Research/Walker 2021 - Effect of land tenure on forest cover and the paradox of private titling in Panama.md",
-    "002 Data Sources.md",
-    "Hansen 2013 - Global Forest Change.md",
-    "2 Research/Harris 2021 - Global maps of twenty-first century forest carbon fluxes.md",
-    "Saatchi.md",
-    "Botany.md",
-    "Harris 2021.md",
-    "Regrowth.canvas",
-    "2 Research/Heinrich 2023 - The carbon sink of secondary and degraded humid tropical forests.md",
-    "2 Research/Regrowth.md",
-    "2 Research/Untitled.md",
-    "Chapter 2 - Predicting Regrowth in Panama.md",
     "001 The Bridge.md",
-    "2 Research/Wong 2020 - Biological Nitrogen Fixation Does Not Replace Nitrogen Losses After Forest Fires in the Southeastern Amazon.md",
+    "Templates/Captain's Log.md",
+    "Templates/Captain's Log - Review.md",
+    "Templates/5 Remote Sensing Product.md",
+    "Templates/Glossary.md",
+    "Templates/4 People and networks.md",
+    "Templates/3 Data Source.md",
+    "Templates/2 New Scroll.md",
+    "Templates/1 Cadet.md",
+    "Tropical Montane Forest.md",
+    "Tree Demography.md",
+    "Tepui.md",
+    "Predictive Ecology.md",
+    "Net ecosystem production.md",
+    "Ethnobiology.md",
+    "Macroecology.md",
+    "Ecosystem Services.md",
+    "Ecosystem Functioning.md",
+    "Ecological filtering theory.md",
+    "400 Interests.md",
+    "002 Data Sources.md",
+    "Disease and Health.md",
+    "Dengue.md",
+    "Malaria.md",
+    "Agroforestry.md",
+    "Timber.md",
+    "Climate Change.canvas",
+    "Regrowth.canvas",
     "Phosphorus.canvas",
     "Nitrogen.canvas",
-    "2 Research/Wieder 2015 - Effects of model structural uncertainty on carbon cycle projections - biological nitrogen fixation as a case study.md",
-    "2 Research/Vitousek 1991 - Nitrogen limitation on land and in the sea - How can it occur.md",
     "Climate Change and Tropical Forests.canvas",
     "Biodiversity-1.canvas",
     "Community Ecology.canvas",

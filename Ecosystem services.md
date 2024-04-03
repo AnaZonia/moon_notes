@@ -5,14 +5,12 @@ stardate: Sep 23rd 2023
 update: Oct 8th 2023
 aliases:
   - serviços ecossistêmicos
-tags:
-  - glossary
+tags: []
 dg-publish: true
 ---
 > [!note] 
 
 - [[Disease and Health]]
-- [[Timber]]
 - [[Agroforestry]]
 
 

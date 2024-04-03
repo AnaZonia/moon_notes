@@ -3,8 +3,6 @@ up:
   - "[[Tropical Forest Ecology]]"
 stardate: Sep 23rd 2023
 update: Oct 8th 2023
-tags:
-  - glossary
 ---
 
 

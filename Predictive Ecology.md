@@ -4,8 +4,6 @@ up:
 stardate: Oct 22nd 2023
 update: Nov 24th 2023
 dg-publish: true
-tags:
-  - glossary
 ---
 
 [2023 Predictive Ecology Conference GRC](https://www.grc.org/predictive-ecology-conference/2023/)
