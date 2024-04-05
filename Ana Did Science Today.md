@@ -5,8 +5,12 @@ dg-publish: true
 ---
 ## 25/03/2024 : 07/04/2024 - Organizing and writing
 
-text nico
-text daniel y guido
+
+[Panama Vegetation Cover Time Series 1990 - Overview (arcgis.com)](https://www.arcgis.com/home/item.html?id=2cab2f6ba33342c49273b4c1758b312d)
+
+[Capturing ephemeral forest dynamics with hybrid time-series and composite mapping in the Republic of Panama - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0303243419306221)
+
+[About The Challenge | Bonchallenge (bonnchallenge.org)](https://www.bonnchallenge.org/about)
 
 **Olivia Milloway**
 - communicating with 13 year old - that is when most people stop taking science classes.
@@ -20,7 +24,7 @@ text daniel y guido
 Contact Jeff Hall about communicating with rural communities through Agua Salud. Ask for his community engagement material.
 Daniel at Toucan NGO
 
-Guido Beguido - also protested against the mines.
+Guido Beguido from [[Adopta Bosque]] also protested against the mines.
 
 Send her an intro.
 

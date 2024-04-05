@@ -7,6 +7,7 @@ dg-home: true
 - [[Make It So]]
 - [[Conferences and Funding]]
 - [[Rolling Ideas]]
+- [[Personal Statements]]
 
 ## PhD projects
 1. [[Chapter 1 - Predicting Regrowth in the Amazon]]

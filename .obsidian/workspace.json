@@ -6,7 +6,7 @@
       {
         "id": "3186a3a364bb539a",
         "type": "tabs",
-        "dimension": 23.9010989010989,
+        "dimension": 49.95278564683664,
         "children": [
           {
             "id": "c0d0a1e7b4a67b27",
@@ -31,65 +31,14 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "fe309a9f3afa2d36",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Climate Change.canvas",
-                "viewState": {
-                  "x": -499.1291956228393,
-                  "y": -515.8551358154232,
-                  "zoom": -0.3708333333333333
-                }
-              }
-            }
-          },
-          {
-            "id": "64e1be9eab7c4f67",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How Costa Rica did so well.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d40939958f7b3ead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b0a5178abbea1f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Jimena Pitty.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "49a8c06f01377a2a",
         "type": "tabs",
-        "dimension": 76.0989010989011,
+        "dimension": 50.04721435316336,
         "children": [
           {
             "id": "db107b9295ec695e",
@@ -286,13 +235,17 @@
   },
   "active": "db107b9295ec695e",
   "lastOpenFiles": [
-    "100 A Floresta Aleatória.md",
+    "Adopta Bosque.md",
     "Ana Did Science Today.md",
     "Jimena Pitty.md",
+    "Make It So.md",
+    "Personal Statements.md",
+    "001 The Bridge.md",
+    "Conferences and Funding.md",
+    "100 A Floresta Aleatória.md",
     "People.md",
     "003 People and Networks.md",
     "Templates/4 People and networks.md",
-    "001 The Bridge.md",
     "Templates/Captain's Log.md",
     "Templates/Captain's Log - Review.md",
     "Templates/5 Remote Sensing Product.md",
@@ -308,10 +261,6 @@
     "Ethnobiology.md",
     "Macroecology.md",
     "Ecosystem Services.md",
-    "Ecosystem Functioning.md",
-    "Ecological filtering theory.md",
-    "400 Interests.md",
-    "002 Data Sources.md",
     "Climate Change.canvas",
     "Regrowth.canvas",
     "Phosphorus.canvas",
