@@ -5,6 +5,9 @@ dg-publish: true
 ---
 ## 25/03/2024 : 07/04/2024 - Organizing and writing
 
+text nico
+text daniel y guido
+
 **Olivia Milloway**
 - communicating with 13 year old - that is when most people stop taking science classes.
 	- also useful for interdisciplinary communication
