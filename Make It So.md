@@ -25,7 +25,7 @@ dg-publish: true
 - [ ] Mariana Vasconcellos
 - [ ] Mariana Vale
 - [ ] Rodrigo Tardin
-- [ ] Contatos do tio serginho
+- [ ] Contatos do tio serginho elizabeth goltz
 - [ ] cara da silvicultura de Yale
 
 ## May 2024
