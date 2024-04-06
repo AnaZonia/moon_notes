@@ -11,6 +11,13 @@ update: Mar 26th 2024
 >	- need to build long-term land use map for Panama
 >- Introduce how the model could be built for Panama
 >- Mention Agua Salud and Jeff Hall's expertise as assistance for the model to be built.
+>Modelos de regeneração  
+  
+Um modelo para o Panamá com validação em dados de Agua Salud, e sob a supervisão de Jeff Hall  
+  
+Seria bom explorar potenciais aplicações do modelo com base no que já foi feito antes no lab do Jeff, e usar os dados de regeneração pra comparar com os resultados do modelo.  
+  
+O objetivo é fazer o modelo de regeneração a grande escala mais completo até então. Água Salud é um experimento único no mundo em florestas secundárias e permite comparação dos dados de satélite com as melhores medições.b
 
 
 ## 1500 word statement

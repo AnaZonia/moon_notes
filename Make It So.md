@@ -25,6 +25,8 @@ dg-publish: true
 - [ ] Mariana Vasconcellos
 - [ ] Mariana Vale
 - [ ] Rodrigo Tardin
+- [ ] Contatos do tio serginho
+- [ ] cara da silvicultura de Yale
 
 ## May 2024
 - [ ] CALACS - May 29-31

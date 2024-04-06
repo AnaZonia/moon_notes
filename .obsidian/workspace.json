@@ -4,41 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "3186a3a364bb539a",
-        "type": "tabs",
-        "dimension": 49.95278564683664,
-        "children": [
-          {
-            "id": "c0d0a1e7b4a67b27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Research/Sinacore 2023 - Mixed success for carbon payments and subsidies in support of forest restoration in the neotropics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17e59a11236c7ef5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "49a8c06f01377a2a",
         "type": "tabs",
-        "dimension": 50.04721435316336,
         "children": [
           {
             "id": "db107b9295ec695e",
@@ -46,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Project/STRI Short-Term Fellowship Proposal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "320ac781aee08cc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36133a72c66c9711",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/STRI Short-Term Fellowship Proposal.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Project/STRI Short-Term Fellowship Proposal.md"
               }
             }
           },
@@ -130,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Project/STRI Short-Term Fellowship Proposal.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Project/STRI Short-Term Fellowship Proposal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,7 +200,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 433.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,12 +219,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db107b9295ec695e",
+  "active": "36133a72c66c9711",
   "lastOpenFiles": [
-    "Adopta Bosque.md",
     "Ana Did Science Today.md",
-    "Jimena Pitty.md",
     "Make It So.md",
+    "Adopta Bosque.md",
+    "Jimena Pitty.md",
     "Personal Statements.md",
     "001 The Bridge.md",
     "Conferences and Funding.md",
