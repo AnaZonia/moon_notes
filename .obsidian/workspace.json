@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8429bacc32aafb2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ana Did Science Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/STRI Short-Term Fellowship Proposal.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/STRI Short-Term Fellowship Proposal.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/STRI Short-Term Fellowship Proposal.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,10 +214,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db107b9295ec695e",
+  "active": "8429bacc32aafb2d",
   "lastOpenFiles": [
-    "Make It So.md",
     "Project/STRI Short-Term Fellowship Proposal.md",
+    "Make It So.md",
     "Ana Did Science Today.md",
     "Adopta Bosque.md",
     "Jimena Pitty.md",
