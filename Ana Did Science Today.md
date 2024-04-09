@@ -3,6 +3,10 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 09/04/2024
+
+[[PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation]]
+
 ## 25/03/2024 : 07/04/2024 - Organizing and writing
 
 [Panama Vegetation Cover Time Series 1990 - Overview (arcgis.com)](https://www.arcgis.com/home/item.html?id=2cab2f6ba33342c49273b4c1758b312d)

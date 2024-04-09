@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 The Bridge.md",
+                "file": "PANGEA April Workshop.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LBA - Large Scale Biosphere-Atmosphere Experiment.md"
+                "file": "PANGEA April Workshop.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
+                "file": "PANGEA April Workshop.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
+                "file": "PANGEA April Workshop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,15 +225,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "160b99c0a3debec1",
+  "active": "8429bacc32aafb2d",
   "lastOpenFiles": [
+    "A pillar of the climate-smart agriculture movement is on shaky ground.md",
+    "PANGEA April Workshop.md",
+    "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
+    "Ana Did Science Today.md",
     "001 The Bridge.md",
+    "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
     "Excalidraw/Árvore genealógica.md",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
     "Excalidraw/Receitas.md",
     "Excalidraw/Drawing Jan 19th 2024.excalidraw.md",
     "400 Interests.md",
-    "Ana Did Science Today.md",
     "Project/STRI Short-Term Fellowship Proposal.md",
     "Make It So.md",
     "Adopta Bosque.md",
@@ -250,9 +254,6 @@
     "Templates/Glossary.md",
     "Templates/3 Data Source.md",
     "Templates/2 New Scroll.md",
-    "Templates/1 Cadet.md",
-    "Tropical Montane Forest.md",
-    "Tree Demography.md",
     "Climate Change.canvas",
     "Regrowth.canvas",
     "Phosphorus.canvas",
