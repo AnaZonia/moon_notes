@@ -5,6 +5,9 @@ dg-publish: true
 ---
 ## 09/04/2024
 
+### Meeting with Brian
+- Interesting parts of Chapter 2 - Looking into the effects of nutrient addition with Jorge
+
 [[PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation]]
 
 ## 25/03/2024 : 07/04/2024 - Organizing and writing

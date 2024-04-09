@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "462b1310ffb69d36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ana Did Science Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PANGEA April Workshop.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PANGEA April Workshop.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PANGEA April Workshop.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,14 +237,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8429bacc32aafb2d",
+  "active": "462b1310ffb69d36",
   "lastOpenFiles": [
-    "A pillar of the climate-smart agriculture movement is on shaky ground.md",
+    "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
     "PANGEA April Workshop.md",
+    "A pillar of the climate-smart agriculture movement is on shaky ground.md",
     "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
     "Ana Did Science Today.md",
     "001 The Bridge.md",
-    "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
     "Excalidraw/Árvore genealógica.md",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
     "Excalidraw/Receitas.md",
