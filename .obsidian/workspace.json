@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "001 The Bridge.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "160b99c0a3debec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 252.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -100,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "LBA - Large Scale Biosphere-Atmosphere Experiment.md"
               }
             }
           },
@@ -110,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,15 +225,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8429bacc32aafb2d",
+  "active": "160b99c0a3debec1",
   "lastOpenFiles": [
+    "001 The Bridge.md",
+    "Excalidraw/Árvore genealógica.md",
+    "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
+    "Excalidraw/Receitas.md",
+    "Excalidraw/Drawing Jan 19th 2024.excalidraw.md",
+    "400 Interests.md",
+    "Ana Did Science Today.md",
     "Project/STRI Short-Term Fellowship Proposal.md",
     "Make It So.md",
-    "Ana Did Science Today.md",
     "Adopta Bosque.md",
     "Jimena Pitty.md",
     "Personal Statements.md",
-    "001 The Bridge.md",
     "Conferences and Funding.md",
     "100 A Floresta Aleatória.md",
     "People.md",
@@ -237,11 +253,6 @@
     "Templates/1 Cadet.md",
     "Tropical Montane Forest.md",
     "Tree Demography.md",
-    "Tepui.md",
-    "Predictive Ecology.md",
-    "Net ecosystem production.md",
-    "Ethnobiology.md",
-    "Macroecology.md",
     "Climate Change.canvas",
     "Regrowth.canvas",
     "Phosphorus.canvas",
@@ -264,7 +275,6 @@
     "moon.svg.crdownload",
     "Predicting Regrowth in Central America - Project.svg",
     "Files/Pasted Image 20240214131308_235.png",
-    "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
     "Files/Screenshot 2023-09-05 155256.png",
     "Files/Screenshot 2023-09-05 192712.png",
     "Files/Screenshot 2023-11-06 104649.png",
