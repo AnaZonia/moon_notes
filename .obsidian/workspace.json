@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/STRI Short-Term Fellowship Proposal.md",
+                "file": "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -239,18 +240,19 @@
   },
   "active": "462b1310ffb69d36",
   "lastOpenFiles": [
+    "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
+    "Project/STRI Short-Term Fellowship Proposal.md",
+    "Ana Did Science Today.md",
     "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
     "PANGEA April Workshop.md",
     "A pillar of the climate-smart agriculture movement is on shaky ground.md",
     "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
-    "Ana Did Science Today.md",
     "001 The Bridge.md",
     "Excalidraw/Árvore genealógica.md",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
     "Excalidraw/Receitas.md",
     "Excalidraw/Drawing Jan 19th 2024.excalidraw.md",
     "400 Interests.md",
-    "Project/STRI Short-Term Fellowship Proposal.md",
     "Make It So.md",
     "Adopta Bosque.md",
     "Jimena Pitty.md",
@@ -265,7 +267,6 @@
     "Templates/5 Remote Sensing Product.md",
     "Templates/Glossary.md",
     "Templates/3 Data Source.md",
-    "Templates/2 New Scroll.md",
     "Climate Change.canvas",
     "Regrowth.canvas",
     "Phosphorus.canvas",
