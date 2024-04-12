@@ -3,6 +3,9 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 12/04/2024
+
+
 ## 09/04/2024
 
 ### Meeting with Brian
