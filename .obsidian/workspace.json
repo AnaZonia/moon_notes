@@ -42,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "462b1310ffb69d36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ana Did Science Today.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Make It So.md"
               }
             }
           },
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Make It So.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Make It So.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +191,7 @@
         "dimension": 52.941176470588246,
         "children": [
           {
-            "id": "e0124e18d9c93d74",
+            "id": "462b1310ffb69d36",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -219,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5,
-    "collapsed": true
+    "width": 641.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,19 +227,20 @@
   "active": "462b1310ffb69d36",
   "lastOpenFiles": [
     "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
-    "Project/STRI Short-Term Fellowship Proposal.md",
+    "Dent, Daisy.md",
+    "Make It So.md",
+    "001 The Bridge.md",
     "Ana Did Science Today.md",
+    "Project/STRI Short-Term Fellowship Proposal.md",
     "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
     "PANGEA April Workshop.md",
     "A pillar of the climate-smart agriculture movement is on shaky ground.md",
     "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
-    "001 The Bridge.md",
     "Excalidraw/Árvore genealógica.md",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
     "Excalidraw/Receitas.md",
     "Excalidraw/Drawing Jan 19th 2024.excalidraw.md",
     "400 Interests.md",
-    "Make It So.md",
     "Adopta Bosque.md",
     "Jimena Pitty.md",
     "Personal Statements.md",
@@ -266,7 +253,6 @@
     "Templates/Captain's Log - Review.md",
     "Templates/5 Remote Sensing Product.md",
     "Templates/Glossary.md",
-    "Templates/3 Data Source.md",
     "Climate Change.canvas",
     "Regrowth.canvas",
     "Phosphorus.canvas",

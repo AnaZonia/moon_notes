@@ -13,27 +13,19 @@ dg-publish: true
 - [ ] Adopta Bosque Panamá - 21 de abril, textear a Guido sobre la ley 69
 
 ### Emails/contact
-- [ ] Jeff the email with Brian's 6k species paper and the STRI proposal, and ask about Julia Bardina's paper on probability of deforestation
-- [ ] Kendra Walker - Land use map
+- [ ] 
 - [ ] Erika Berenguer
 - [ ] [[Dent, Daisy]]
 - [ ] [[Davies, Stuart]]
 - [ ] Kendra Walker
-- [ ] INPA collaborators
-- [ ] Collaborator at Jakovac (André Giles)
-- [ ] Marina Hirota
-- [ ] Mariana Vasconcellos
-- [ ] Mariana Vale
-- [ ] Rodrigo Tardin
-- [ ] Contatos do tio serginho elizabeth goltz
 - [ ] cara da silvicultura de Yale
+- [ ] Kendra Walker - Land use map
 
 ## May 2024
 - [ ] CALACS - May 29-31
 
 ## August 2024
 - [ ] AGU abstract
-
 
 ## February 2024
 - [x] send emails ✅ 2024-02-25
