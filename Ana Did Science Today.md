@@ -7,6 +7,10 @@ dg-publish: true
 - [Oliver Coomes](https://www.mcgill.ca/geography/people-0/coomes) does interesting research in the geography department.
 - 
 
+Planta pioneira tem semente transmitida por animais  
+Formigas pra aeração do solo  
+Dormência física  
+Dormência hídrica
 
 
 ## 09/04/2024
@@ -18,12 +22,6 @@ dg-publish: true
 [[PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation]]
 
 ## 25/03/2024 : 07/04/2024 - Organizing and writing
-
-[Panama Vegetation Cover Time Series 1990 - Overview (arcgis.com)](https://www.arcgis.com/home/item.html?id=2cab2f6ba33342c49273b4c1758b312d)
-
-[Capturing ephemeral forest dynamics with hybrid time-series and composite mapping in the Republic of Panama - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0303243419306221)
-
-[About The Challenge | Bonchallenge (bonnchallenge.org)](https://www.bonnchallenge.org/about)
 
 **Olivia Milloway**
 - communicating with 13 year old - that is when most people stop taking science classes.

@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,10 +198,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3924a4d1dc5f86b",
+  "active": "462b1310ffb69d36",
   "lastOpenFiles": [
+    "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
     "Ana Did Science Today.md",
     "001 The Bridge.md",
+    "People.md",
+    "Books.md",
+    "300 Doing Science.md",
+    "400 Interests.md",
+    "Amazonia.md",
+    "Amazon Conservation.md",
+    "250 Conservation.md",
+    "Conferences and Funding.md",
     "Chapter 2 - Predicting Regrowth in Panama.md",
     "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
     "Excalidraw/1 - Receitas.md",
@@ -220,16 +228,8 @@
     "Dent, Daisy.md",
     "Project/STRI Short-Term Fellowship Proposal.md",
     "A pillar of the climate-smart agriculture movement is on shaky ground.md",
-    "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
     "Excalidraw/Árvore genealógica.md",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
-    "Excalidraw/Drawing Jan 19th 2024.excalidraw.md",
-    "400 Interests.md",
-    "Adopta Bosque.md",
-    "Jimena Pitty.md",
-    "Personal Statements.md",
-    "Conferences and Funding.md",
-    "100 A Floresta Aleatória.md",
     "Regrowth.canvas",
     "Phosphorus.canvas",
     "Climate Change and Tropical Forests.canvas",
