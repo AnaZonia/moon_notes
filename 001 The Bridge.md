@@ -4,7 +4,6 @@ dg-home: true
 ---
 ## PhD
 - [[Ana Did Science Today]]
-- [[Make It So]]
 - [[Conferences and Funding]]
 - [[Rolling Ideas]]
 - [[Personal Statements]]
@@ -16,7 +15,7 @@ dg-home: true
 
 ## Other ongoing projects
 - [[NTFP in Amazonia - RELAM]]
-- [[Climate Change.canvas|Incentives to Forest Growth - NEO]]
+- [[Climate Change.canvas|Incentives to Forest Growth - Panama]]
 
 ## Article ideas
 ```dataview

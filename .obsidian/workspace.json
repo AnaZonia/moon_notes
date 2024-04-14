@@ -8,42 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db107b9295ec695e",
+            "id": "462b1310ffb69d36",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
+                "file": "Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8429bacc32aafb2d",
+            "id": "e3924a4d1dc5f86b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PANGEA April Workshop.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "160b99c0a3debec1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
+                "file": "People.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -103,7 +91,6 @@
       {
         "id": "6b3e5e477cb16920",
         "type": "tabs",
-        "dimension": 47.058823529411754,
         "children": [
           {
             "id": "9f7f1373e05d036e",
@@ -111,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Make It So.md"
+                "file": "People.md"
               }
             }
           },
@@ -121,25 +108,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Make It So.md",
+                "file": "People.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d3843f2c54ffd7a0",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Make It So.md",
-                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -186,19 +161,18 @@
         ]
       },
       {
-        "id": "a01b41a4b678df08",
+        "id": "f068f42a2a1ada76",
         "type": "tabs",
-        "dimension": 52.941176470588246,
         "children": [
           {
-            "id": "462b1310ffb69d36",
+            "id": "d3843f2c54ffd7a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "outgoing-link",
               "state": {
-                "file": "Make It So.md",
-                "mode": "source",
-                "source": false
+                "file": "People.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -206,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 641.5
+    "width": 265.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,21 +199,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "462b1310ffb69d36",
+  "active": "e3924a4d1dc5f86b",
   "lastOpenFiles": [
-    "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
-    "Dent, Daisy.md",
-    "Make It So.md",
-    "001 The Bridge.md",
     "Ana Did Science Today.md",
-    "Project/STRI Short-Term Fellowship Proposal.md",
+    "001 The Bridge.md",
+    "Chapter 2 - Predicting Regrowth in Panama.md",
     "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
+    "Excalidraw/1 - Receitas.md",
+    "Nitrogen.canvas",
+    "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
+    "2 Research/Nitrogen.md",
+    "Climate Change.canvas",
+    "Make It So.md",
+    "Excalidraw/Nitrogen Cycle Sept 27th 2023.excalidraw.md",
+    "Excalidraw/Predicting Regrowth in Central America - Project.svg",
+    "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
+    "Excalidraw/Broccoli Soup.md",
     "PANGEA April Workshop.md",
+    "deep work.md",
+    "Dent, Daisy.md",
+    "Project/STRI Short-Term Fellowship Proposal.md",
     "A pillar of the climate-smart agriculture movement is on shaky ground.md",
     "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
     "Excalidraw/Árvore genealógica.md",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
-    "Excalidraw/Receitas.md",
     "Excalidraw/Drawing Jan 19th 2024.excalidraw.md",
     "400 Interests.md",
     "Adopta Bosque.md",
@@ -246,17 +230,8 @@
     "Personal Statements.md",
     "Conferences and Funding.md",
     "100 A Floresta Aleatória.md",
-    "People.md",
-    "003 People and Networks.md",
-    "Templates/4 People and networks.md",
-    "Templates/Captain's Log.md",
-    "Templates/Captain's Log - Review.md",
-    "Templates/5 Remote Sensing Product.md",
-    "Templates/Glossary.md",
-    "Climate Change.canvas",
     "Regrowth.canvas",
     "Phosphorus.canvas",
-    "Nitrogen.canvas",
     "Climate Change and Tropical Forests.canvas",
     "Biodiversity-1.canvas",
     "Community Ecology.canvas",
@@ -269,7 +244,6 @@
     "Botany.canvas",
     "Project",
     "moon.svg",
-    "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/moon.svg.crdownload",
     "Predicting Regrowth in Central America - Project-1.svg",
     "moon.svg.crdownload",

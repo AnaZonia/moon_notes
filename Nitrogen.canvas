@@ -1,10 +1,11 @@
 {
 	"nodes":[
-		{"id":"cd4a3f6e918ad0c1","x":-680,"y":760,"width":400,"height":400,"type":"file","file":"2 Research/Wong 2020 - Biological Nitrogen Fixation Does Not Replace Nitrogen Losses After Forest Fires in the Southeastern Amazon.md"},
+		{"id":"6977d672b0845bf1","x":-1360,"y":-160,"width":400,"height":400,"type":"file","file":"Excalidraw/Nitrogen Cycle Sept 27th 2023.excalidraw.md"},
+		{"id":"cd4a3f6e918ad0c1","type":"file","file":"2 Research/Wong 2020 - Biological Nitrogen Fixation Does Not Replace Nitrogen Losses After Forest Fires in the Southeastern Amazon.md","x":-680,"y":760,"width":400,"height":400},
 		{"id":"5882759e08d0ab54","type":"file","file":"2 Research/Vitousek 1991 - Nitrogen limitation on land and in the sea - How can it occur.md","x":-720,"y":-360,"width":400,"height":400},
 		{"id":"dac38c318ee28210","type":"file","file":"2 Research/Gucker 2016 - Dissolved nutrient exports from natural and human-impacted Neotropical catchments.md","x":-200,"y":40,"width":680,"height":520},
 		{"id":"98be88f0852bb33f","type":"file","file":"2 Research/Menge 2014 - The Question That Launched My Career.md","x":-680,"y":160,"width":400,"height":400},
-		{"id":"08856c6273163547","x":-60,"y":-560,"width":400,"height":400,"type":"file","file":"2 Research/Wieder 2015 - Effects of model structural uncertainty on carbon cycle projections - biological nitrogen fixation as a case study.md"}
+		{"id":"08856c6273163547","type":"file","file":"2 Research/Wieder 2015 - Effects of model structural uncertainty on carbon cycle projections - biological nitrogen fixation as a case study.md","x":-60,"y":-560,"width":400,"height":400}
 	],
 	"edges":[]
 }
