@@ -12,7 +12,6 @@ Formigas pra aeração do solo
 Dormência física  
 Dormência hídrica
 
-
 ## 09/04/2024
 
 ### Meeting with Brian
