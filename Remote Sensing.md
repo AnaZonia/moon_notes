@@ -1,3 +1,10 @@
+---
+up:
+  - "[[001 The Bridge]]"
+stardate: Sep 16th 2023
+update: Nov 25th 2023
+dg-publish: true
+---
 ## Active Sensors
 - [[LiDAR]] and [[SAR]] are active remote sensing systems that allow the detection of [[Biomass]].
 - *Scatterometers* use radar to measure backscatter due to ocean wind and direction.

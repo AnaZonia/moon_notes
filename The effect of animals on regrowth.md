@@ -11,3 +11,7 @@ update: Nov 24th 2023
 [Elephant's appetite coaxes forests into storing more carbon](https://www.anthropocenemagazine.org/2023/01/the-voracious-appetite-of-forest-elephants-can-coax-forests-into-storing-more-carbon/)
 
 [Out of control herbivores are derailing restoration projects](https://www.anthropocenemagazine.org/2023/11/out-of-control-herbivores-are-derailing-restoration-projects-around-the-globe/)
+
+Ants help aerate the soil
+Pioneer species are mostly fertilized by animals/have their seeds carried?
+

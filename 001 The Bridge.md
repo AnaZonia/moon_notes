@@ -13,6 +13,10 @@ dg-home: true
 2. [[Chapter 2 - Predicting Regrowth in Panama]]
 3. [[Chapter 3 - Incorporating Biodiversity]]
 
+## Index
+- [[100 A Floresta Aleatória]]
+
+
 ## Other ongoing projects
 - [[NTFP in Amazonia - RELAM]]
 - [[Climate Change.canvas|Incentives to Forest Growth - Panama]]

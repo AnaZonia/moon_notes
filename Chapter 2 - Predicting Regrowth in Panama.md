@@ -10,7 +10,8 @@ dg-publish: true
 - [ ] Kendra Walker
 - [ ] cara da silvicultura de Yale
 - [ ] Kendra Walker - Land use map
-
+- [ ] Elizabeth Goltz
+- [ ] Jeff Hall (the email with Brian's 6k species paper and the STRI proposal)
 
 ## Writing
 - [[STRI Short-Term Fellowship Proposal]]

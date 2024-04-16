@@ -20,19 +20,18 @@
             }
           },
           {
-            "id": "02edb6fe6ab8893d",
+            "id": "01cde74c8d69a31c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
+                "file": "People.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LBA - Large Scale Biosphere-Atmosphere Experiment.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -124,14 +123,6 @@
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "b0192684aa3229ce",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
               "state": {}
             }
           },
@@ -170,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,25 +183,33 @@
       "workspaces:Manage workspace layouts": false,
       "cmdr:Open current tab in new window": false,
       "obsidian-gallery:Gallery": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "digitalgarden:Digital Garden Publication Center": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "02edb6fe6ab8893d",
+  "active": "e3924a4d1dc5f86b",
   "lastOpenFiles": [
+    "People.md",
     "Ana Did Science Today.md",
+    "Regrowth.canvas",
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "Regrowth.md",
     "001 The Bridge.md",
+    "Chapter 2 - Predicting Regrowth in Panama.md",
+    "Project/STRI Short-Term Fellowship Proposal.md",
+    "Land Use.md",
+    "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
     "100 A Floresta Aleatória.md",
+    "003 People and Networks.md",
+    "002 Data Sources.md",
+    "Remote Sensing.md",
     "Excalidraw/Protein mug cakes.md",
     "Excalidraw/Protein Waffles.md",
     "Excalidraw/Nitrogen Cycle Sept 27th 2023.excalidraw.md",
     "Excalidraw/Obsidian.md",
     "Excalidraw/1 - Receitas.md",
-    "002 Data Sources.md",
-    "People.md",
     "Excalidraw/Árvore genealógica.md",
     "Climate Change.canvas",
     "Climate Change.md",
@@ -219,19 +218,9 @@
     "300 Doing Science.md",
     "400 Interests.md",
     "Amazonia.md",
-    "Amazon Conservation.md",
-    "250 Conservation.md",
-    "Conferences and Funding.md",
-    "Chapter 2 - Predicting Regrowth in Panama.md",
-    "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
     "Nitrogen.canvas",
-    "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
-    "2 Research/Nitrogen.md",
-    "Make It So.md",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
-    "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
-    "Regrowth.canvas",
     "Phosphorus.canvas",
     "Climate Change and Tropical Forests.canvas",
     "Biodiversity-1.canvas",

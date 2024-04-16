@@ -3,14 +3,20 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 16/04/2024
+
+### Meeting with Jorge
+Jorge is making a map of nitrogen addition in Panama by interviewing farmers. This should make a map of nitrogen usage by district, watershed, and land usage. Would be an interesting way to check if there are significant differences in ways that farmers fertilize the same crops depending on the part of the country they're in.
+
+Jorge also needs history of mangrove change for a few parts of the country, especially this one:
+
+![](https://i.imgur.com/zfWYkm8.jpeg)
+
+So there's good room for collaboration as we work on things that are useful to each other. Keep Jorge posted on the progress of chapter 2!
+
 ## 12/04/2024
 - [Oliver Coomes](https://www.mcgill.ca/geography/people-0/coomes) does interesting research in the geography department.
-- 
 
-Planta pioneira tem semente transmitida por animais  
-Formigas pra aeração do solo  
-Dormência física  
-Dormência hídrica
 
 ## 09/04/2024
 

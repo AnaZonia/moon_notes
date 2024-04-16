@@ -1,3 +1,9 @@
+---
+up: 
+stardate: Oct 2nd 2023
+update: Nov 24th 2023
+dg-publish: true
+---
 
 ## Research Networks
 ```dataview

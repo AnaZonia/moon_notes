@@ -1,3 +1,9 @@
+---
+up: 
+stardate: Sep 29th 2023
+update: Apr 3rd 2024
+dg-publish: true
+---
 ## Land Use and Land Cover
 ```dataview
 TABLE WITHOUT ID link(file.link, file.name) AS "Title", mission AS "Mission", time_range AS "Time Range", type as "Type"

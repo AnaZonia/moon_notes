@@ -4,9 +4,13 @@ stardate: Aug 18th 2023
 update: Nov 24th 2023
 dg-publish: true
 ---
-### To do
+## To do
 - [ ] look into classification confidence by mapbiomas
 - [ ] look into flooded forest class
+
+### Email
+- [ ] INPA collaborators
+- [ ] Jakovac postdoc
 
 ### Writing
 - [[Background Writing]]
