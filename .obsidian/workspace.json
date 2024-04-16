@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Excalidraw/Protein mug cakes.md",
+                "file": "Ana Did Science Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02edb6fe6ab8893d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Protein mug cakes.md"
+                "file": "LBA - Large Scale Biosphere-Atmosphere Experiment.md"
               }
             }
           },
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Protein mug cakes.md",
+                "file": "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Protein mug cakes.md",
+                "file": "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,20 +199,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3924a4d1dc5f86b",
+  "active": "02edb6fe6ab8893d",
   "lastOpenFiles": [
-    "Excalidraw/Protein Waffles.md",
+    "Ana Did Science Today.md",
+    "001 The Bridge.md",
+    "100 A Floresta Aleatória.md",
     "Excalidraw/Protein mug cakes.md",
+    "Excalidraw/Protein Waffles.md",
     "Excalidraw/Nitrogen Cycle Sept 27th 2023.excalidraw.md",
     "Excalidraw/Obsidian.md",
     "Excalidraw/1 - Receitas.md",
-    "001 The Bridge.md",
     "002 Data Sources.md",
     "People.md",
     "Excalidraw/Árvore genealógica.md",
     "Climate Change.canvas",
     "Climate Change.md",
-    "Ana Did Science Today.md",
     "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
     "Books.md",
     "300 Doing Science.md",
@@ -216,7 +230,6 @@
     "Make It So.md",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
-    "Excalidraw/Broccoli Soup.md",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
     "Regrowth.canvas",
     "Phosphorus.canvas",
