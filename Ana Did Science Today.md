@@ -16,7 +16,7 @@ So there's good room for collaboration as we work on things that are useful to e
 
 ## 12/04/2024
 - [Oliver Coomes](https://www.mcgill.ca/geography/people-0/coomes) does interesting research in the geography department.
-
+ 
 
 ## 09/04/2024
 
