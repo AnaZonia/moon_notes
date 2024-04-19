@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Excalidraw/Fall Spices.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Excalidraw/Fall Spices.md"
               }
             }
           },
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Excalidraw/Fall Spices.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Excalidraw/Fall Spices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,8 +204,10 @@
   },
   "active": "e3924a4d1dc5f86b",
   "lastOpenFiles": [
-    "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
     "Ana Did Science Today.md",
+    "Excalidraw/Avocado sauce.md",
+    "Excalidraw/1 - Receitas.md",
+    "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
     "Hall, Jefferson S..md",
     "Climate Change.canvas",
     "Climate Change.md",
@@ -228,11 +229,9 @@
     "Excalidraw/Protein Waffles.md",
     "Excalidraw/Nitrogen Cycle Sept 27th 2023.excalidraw.md",
     "Excalidraw/Obsidian.md",
-    "Excalidraw/1 - Receitas.md",
     "Excalidraw/Árvore genealógica.md",
     "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
     "Books.md",
-    "300 Doing Science.md",
     "Nitrogen.canvas",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
