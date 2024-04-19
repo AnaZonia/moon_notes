@@ -3,6 +3,39 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 18/04/2024 - Planning upcoming coding
+Github hasn't been updated in a while. I remember I had some issues exporting the data from google earth engine, because I thought I needed to export tables right away.
+I finally ended up exporting images to google earth engine, and found that to be way easier, faster, and more replicable. For a second I exported tiles of layers, but I now find that exporting individual layers is best (they all need to be in Landsat projection anyways).
+I already know how to get the table from the data:
+- create feature collection of 10000 randomly selected pixels for each region
+- extract data for each one of them separately as a CSV
+- merge all feature selections and run model there.
+README needs to be fixed.
+So the goal is to do all this tomorrow and write summary next week to send to collaborators.
+
+Another thing I was working on was removing isolated pixels that could be misclassified - keeping only pixels with at least some amount of neighbors.
+
+### Meeting
+**Evapotranspiration/Climatic variables**
+- Adding historical ET - Asking Catherine could be a good idea. Also, schedule a meeting with Fiona the following week to talk about the climatic variables and the soil map.
+
+**Chapter 2**
+- Jorge also has access to data from the department of agriculture of Panama with 1000 sampled points across Panama of soil nutrients - probably collected around agricultural systems. That could also be interesting for us to use for the nutrient map of Panama.
+
+**Tree plantations**
+If we're expanding to Cerrado and Atlantica, there are more tree plantations to consider.
+- How does MAPBIOMAS classify tree plantations?
+- Do we need other maps of tree plantations?
+
+**Weekly Goals**
+- Finish the CSV files
+- Run the model with the integration of climatic variables
+- Compare medians with total values. Consider last land use type, as well as all other variables.
+
+**Next goals**
+- Finish README and make code nice and reproducible for the collaborators to read next week
+- Look in detail into MAPBIOMAS classification quality and which land use types does it do worse in. Also a nice preparation for when we reach out to other people working in land use classification. (Elizabeth, Jorge, Jeff Hall and Kendra)
+
 ## 16/04/2024
 
 ### Meeting with Jorge
@@ -17,7 +50,6 @@ So there's good room for collaboration as we work on things that are useful to e
 ## 12/04/2024
 - [Oliver Coomes](https://www.mcgill.ca/geography/people-0/coomes) does interesting research in the geography department.
  
-
 ## 09/04/2024
 
 ### Meeting with Brian

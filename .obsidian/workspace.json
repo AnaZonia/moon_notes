@@ -35,19 +35,15 @@
             "id": "ec48a95f076b6cb4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Regrowth.canvas",
-                "viewState": {
-                  "x": 1354.3464073064563,
-                  "y": -249.42871793103376,
-                  "zoom": -1.3124999999999993
-                }
+                "file": "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Regrowth.canvas"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -124,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Regrowth.canvas",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +162,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f068f42a2a1ada76",
@@ -178,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Regrowth.canvas",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,11 +202,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ec48a95f076b6cb4",
+  "active": "e3924a4d1dc5f86b",
   "lastOpenFiles": [
-    "2 Research/Simões 2024 - Green deserts, but not always - A global synthesis of native woody species regeneration under tropical tree monocultures.md",
-    "Regrowth.canvas",
+    "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
     "Ana Did Science Today.md",
+    "Hall, Jefferson S..md",
+    "Climate Change.canvas",
+    "Climate Change.md",
+    "Regrowth.canvas",
+    "2 Research/Simões 2024 - Green deserts, but not always - A global synthesis of native woody species regeneration under tropical tree monocultures.md",
     "People.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Regrowth.md",
@@ -229,12 +229,9 @@
     "Excalidraw/Obsidian.md",
     "Excalidraw/1 - Receitas.md",
     "Excalidraw/Árvore genealógica.md",
-    "Climate Change.canvas",
-    "Climate Change.md",
     "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
     "Books.md",
     "300 Doing Science.md",
-    "400 Interests.md",
     "Nitrogen.canvas",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
