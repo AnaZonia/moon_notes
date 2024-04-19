@@ -5,11 +5,22 @@ dg-publish: true
 ---
 ## 19/04/2024 - Finishing coding
 
-Some time this morning was spent cleaning, and then a bit more once arriving in lab so I chose to track my time with clockify.
-It seems ideal to use google calendar to schedule activities and tasks and clockify to track work tasks. By keeping google calendar open, I know to plan the tasks and can pause and initiate them easily on clockify as I go.
+Some time this morning was spent cleaning, and then a bit more once arriving in lab so I chose how to track my time.
 
+I like the simplicity of having google calendar open and editing it throughout the day, and having a look at my tasks as the day goes.
 
+Looking at the code, a lot is already done. I managed to focus quite well for the first hour, and am still going. I'm thinking of how to keep track of things that I'd like to work on in the future while still prioritizing the task at hand.
 
+I think google tasks may not be the best way to plan work tasks, although it does help keep me on track with what I have to do.
+
+Chapter 1
+- Get model running. For this, I need to have the CSV files exported and merged properly. The first one is now exporting and I just need to wait for that to finish and see how that goes.
+In the meantime, it would be nice to look into:
+- How the secondary forests look in comparison with a background - that can be done by clipping to an area of interest
+- Mature forest biomass and fragmentation
+- Organizing the code
+
+Realized the masking needs to happen before the sampling and exporting.
 ## 18/04/2024 - Planning upcoming coding
 Github hasn't been updated in a while. I remember I had some issues exporting the data from google earth engine, because I thought I needed to export tables right away.
 I finally ended up exporting images to google earth engine, and found that to be way easier, faster, and more replicable. For a second I exported tiles of layers, but I now find that exporting individual layers is best (they all need to be in Landsat projection anyways).
