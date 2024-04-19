@@ -3,6 +3,13 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 19/04/2024 - Finishing coding
+
+Some time this morning was spent cleaning, and then a bit more once arriving in lab so I chose to track my time with clockify.
+It seems ideal to use google calendar to schedule activities and tasks and clockify to track work tasks. By keeping google calendar open, I know to plan the tasks and can pause and initiate them easily on clockify as I go.
+
+
+
 ## 18/04/2024 - Planning upcoming coding
 Github hasn't been updated in a while. I remember I had some issues exporting the data from google earth engine, because I thought I needed to export tables right away.
 I finally ended up exporting images to google earth engine, and found that to be way easier, faster, and more replicable. For a second I exported tiles of layers, but I now find that exporting individual layers is best (they all need to be in Landsat projection anyways).
