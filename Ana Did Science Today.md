@@ -21,6 +21,10 @@ In the meantime, it would be nice to look into:
 - Organizing the code
 
 Realized the masking needs to happen before the sampling and exporting.
+
+Today, I got some work done, but it was still hard to get started. I think I'm still settling into the new way of things being.
+
+The best way to get this to work well is to have interesting/useful podcasts going so I'm less easily distracted or tempted by running off-track.
 ## 18/04/2024 - Planning upcoming coding
 Github hasn't been updated in a while. I remember I had some issues exporting the data from google earth engine, because I thought I needed to export tables right away.
 I finally ended up exporting images to google earth engine, and found that to be way easier, faster, and more replicable. For a second I exported tiles of layers, but I now find that exporting individual layers is best (they all need to be in Landsat projection anyways).
