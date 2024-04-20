@@ -9,6 +9,12 @@ Stratified points won't export for the whole country at once. - I wonder if feat
 
 sampleRegions will sample over NAs so you end up with less points than what was wanted. so stratifiedSample really is the best way to do this. I think stratifiedSample wasn't working because it was being run with ecoregions as a feature collection, which was then projected to image - importing ecoregions as image made everything much faster.
 
+Exports are going well. Now trying to export CSV for the whole country.
+
+Now the question is that there are few points with non-pasture history. I will try to sample specifically those to run the analysis with them.
+
+Also, I am adding last observed land use type and mature biomass which hadn't been exported properly before as images to the cloud.
+
 ## 19/04/2024, Fri - Chapter 1
 
 Some time this morning was spent cleaning, and then a bit more once arriving in lab so I chose how to track my time.
