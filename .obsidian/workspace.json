@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e3924a4d1dc5f86b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Excalidraw/Fall Spices.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "01cde74c8d69a31c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "People.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ec48a95f076b6cb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Fall Spices.md"
+                "file": "People.md"
               }
             }
           },
@@ -119,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Fall Spices.md",
+                "file": "People.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Fall Spices.md",
+                "file": "People.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,18 +178,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3924a4d1dc5f86b",
+  "active": "01cde74c8d69a31c",
   "lastOpenFiles": [
+    "The Will to Change.md",
+    "On the Brevity of Life.md",
+    "Estoicismo.md",
+    "Philosophy.md",
+    "The Second Sex.md",
+    "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
+    "bell hooks.md",
+    "People.md",
+    "Excalidraw/Fall Spices.md",
     "Ana Did Science Today.md",
     "Excalidraw/Avocado sauce.md",
     "Excalidraw/1 - Receitas.md",
-    "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
     "Hall, Jefferson S..md",
     "Climate Change.canvas",
     "Climate Change.md",
     "Regrowth.canvas",
     "2 Research/Simões 2024 - Green deserts, but not always - A global synthesis of native woody species regeneration under tropical tree monocultures.md",
-    "People.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Regrowth.md",
     "001 The Bridge.md",
@@ -225,13 +208,6 @@
     "003 People and Networks.md",
     "002 Data Sources.md",
     "Remote Sensing.md",
-    "Excalidraw/Protein mug cakes.md",
-    "Excalidraw/Protein Waffles.md",
-    "Excalidraw/Nitrogen Cycle Sept 27th 2023.excalidraw.md",
-    "Excalidraw/Obsidian.md",
-    "Excalidraw/Árvore genealógica.md",
-    "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
-    "Books.md",
     "Nitrogen.canvas",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
