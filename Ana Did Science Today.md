@@ -3,7 +3,11 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## 19/04/2024 - Finishing coding
+## 20/04/2024, Sat - Chapter 1
+
+Stratified points won't export for the whole country at once. - I wonder if feature collections take more time, or is it the sampling process that takes too much computational power?
+
+## 19/04/2024, Fri - Chapter 1
 
 Some time this morning was spent cleaning, and then a bit more once arriving in lab so I chose how to track my time.
 

@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "069035d31e4ac492",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ana Did Science Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d46de98cdece711d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ecoregions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -85,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People.md"
+                "file": "Ecoregions.md"
               }
             }
           },
@@ -95,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People.md",
+                "file": "Ecoregions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,8 +163,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f068f42a2a1ada76",
@@ -150,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People.md",
+                "file": "Ecoregions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,8 +203,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01cde74c8d69a31c",
+  "active": "d46de98cdece711d",
   "lastOpenFiles": [
+    "Methods Writing.md",
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "001 The Bridge.md",
+    "Ana Did Science Today.md",
+    "People.md",
     "The Will to Change.md",
     "On the Brevity of Life.md",
     "Estoicismo.md",
@@ -187,9 +217,7 @@
     "The Second Sex.md",
     "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
     "bell hooks.md",
-    "People.md",
     "Excalidraw/Fall Spices.md",
-    "Ana Did Science Today.md",
     "Excalidraw/Avocado sauce.md",
     "Excalidraw/1 - Receitas.md",
     "Hall, Jefferson S..md",
@@ -197,9 +225,7 @@
     "Climate Change.md",
     "Regrowth.canvas",
     "2 Research/Simões 2024 - Green deserts, but not always - A global synthesis of native woody species regeneration under tropical tree monocultures.md",
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Regrowth.md",
-    "001 The Bridge.md",
     "Chapter 2 - Predicting Regrowth in Panama.md",
     "Project/STRI Short-Term Fellowship Proposal.md",
     "Land Use.md",
@@ -207,7 +233,6 @@
     "100 A Floresta Aleatória.md",
     "003 People and Networks.md",
     "002 Data Sources.md",
-    "Remote Sensing.md",
     "Nitrogen.canvas",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
