@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ecoregions.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ecoregions.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ecoregions.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,8 +203,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d46de98cdece711d",
+  "active": "069035d31e4ac492",
   "lastOpenFiles": [
+    "Ecoregions.md",
     "Methods Writing.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "001 The Bridge.md",
@@ -232,7 +233,6 @@
     "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
     "100 A Floresta Aleatória.md",
     "003 People and Networks.md",
-    "002 Data Sources.md",
     "Nitrogen.canvas",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",

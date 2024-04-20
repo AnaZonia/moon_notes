@@ -7,6 +7,8 @@ dg-publish: true
 
 Stratified points won't export for the whole country at once. - I wonder if feature collections take more time, or is it the sampling process that takes too much computational power?
 
+sampleRegions will sample over NAs so you end up with less points than what was wanted. so stratifiedSample really is the best way to do this. I think stratifiedSample wasn't working because it was being run with ecoregions as a feature collection, which was then projected to image - importing ecoregions as image made everything much faster.
+
 ## 19/04/2024, Fri - Chapter 1
 
 Some time this morning was spent cleaning, and then a bit more once arriving in lab so I chose how to track my time.
