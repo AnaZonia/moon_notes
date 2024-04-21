@@ -15,6 +15,7 @@ Now the question is that there are few points with non-pasture history. I will t
 
 Also, I am adding last observed land use type and mature biomass which hadn't been exported properly before as images to the cloud.
 
+fallow has a different resolution - recalculate it.
 ## 19/04/2024, Fri - Chapter 1
 
 Some time this morning was spent cleaning, and then a bit more once arriving in lab so I chose how to track my time.
