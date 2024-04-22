@@ -3,17 +3,19 @@ up:
   - "[[Notetaking]]"
 stardate: Sep 28th 2023
 update: Oct 7th 2023
+dg-publish: true
 ---
+## Obsidian basics
+[Obsidian Forum](https://forum.obsidian.md/)
+
+There's also a lot on youtube!
+[Nick Milo](https://www.youtube.com/watch?v=QgbLb6QCK88&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd)
+[Visual note templates](https://www.youtube.com/watch?v=zmgqMZi6QL8)
+[Excalidraw](https://www.youtube.com/watch?v=vlC1-iBvIfo&list=PL6mqgtMZ4NP1o3urKVf0j-s6sjP7yPE1R)
 
 ## Excalidraw
 - exporting a region of the drawing as a group will allow updates to go smoothly on the note it's inserted in!
 [[Excalidraw/Obsidian|Obsidian]] - my guide on the tool to the BGSA meeting, 2023
-
-## Tasks
-
-due before in one week
-group by filename (if in different files)
-hide backlink or short mode
 
 ## Calendar
 [Calendar Cheatsheet](https://github.com/liamcain/obsidian-calendar-plugin/blob/master/README.md)
@@ -63,6 +65,7 @@ hide backlink or short mode
 
 ## Zotero tag import snippet
 {% if tags.length > 0 -%}{% for t in tags -%}#{% if t.tag == "secondary" %}source/secondary{% if not loop.last %}{% endif %}{% elif t.tag == "primary" %}source/primary{% if not loop.last %}{% endif %}{% elif "-project" in t.tag %}project/{{t.tag | lower | replace(" ", "-") | replace("-project", "")}}{% else %}subject/{{t.tag | lower | replace(" ", "-")}}{% endif %}{% if not loop.last %} {% endif %}{%- endfor %}{%- endif %}
+
 ## Transform tags into links
 cd to your vault folder and execute the following command:
 

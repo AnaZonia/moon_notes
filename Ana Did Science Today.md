@@ -3,6 +3,32 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 23/04/2024 - Department Day
+### Obsidian workshop
+- What is Zotero
+- What is Obsidian
+- Advantages of Obsidian
+	- Internal Links
+	- Excalidraw
+	- Canvas
+	- Github
+	- Digital Garden
+	- Graph view
+- How to link things?
+	- Better Bibtex
+	- Zotero for Obsidian
+	- Pandoc
+	- Templater
+[[Obsidian]]
+
+## 22/04/2024 - Chapter 1
+
+- Hamiltonian Monte Carlo could be helpful to fit my model without getting stuck on local minima and having to do small adjustments with a weird functional form - I guess?
+	- Asking Andrew about this would be awesome!
+- Fiona is interested in what we have going for the Panama forest incentives document. It could be a good idea to work on it to make it publishable and useful and add it to the portfolio.
+
+Sampling points - direct sampling isn't working to increase the projection of the higher resolution data (which I could just resample like I did for biomass, but maybe that's still unnecessary)
+
 ## 20/04/2024, Sat - Chapter 1
 
 Stratified points won't export for the whole country at once. - I wonder if feature collections take more time, or is it the sampling process that takes too much computational power?

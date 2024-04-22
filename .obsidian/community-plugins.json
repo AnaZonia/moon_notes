@@ -28,5 +28,7 @@
   "obsidian-imgur-plugin",
   "digitalgarden",
   "obsidian-gallery",
-  "better-word-count"
+  "better-word-count",
+  "obsidian-pandoc-reference-list",
+  "obsidian-pandoc"
 ]
