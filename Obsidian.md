@@ -7,11 +7,14 @@ dg-publish: true
 ---
 ## Obsidian basics
 [Obsidian Forum](https://forum.obsidian.md/)
-
+ 
 There's also a lot on youtube!
 [Nick Milo](https://www.youtube.com/watch?v=QgbLb6QCK88&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd)
 [Visual note templates](https://www.youtube.com/watch?v=zmgqMZi6QL8)
 [Excalidraw](https://www.youtube.com/watch?v=vlC1-iBvIfo&list=PL6mqgtMZ4NP1o3urKVf0j-s6sjP7yPE1R)
+
+
+[Digital Garden](https://dg-docs.ole.dev/)
 
 ## Excalidraw
 - exporting a region of the drawing as a group will allow updates to go smoothly on the note it's inserted in!
