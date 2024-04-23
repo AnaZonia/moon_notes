@@ -5,29 +5,41 @@ stardate: Sep 28th 2023
 update: Oct 7th 2023
 dg-publish: true
 ---
-## Obsidian basics
-[Obsidian Forum](https://forum.obsidian.md/)
- 
-There's also a lot on youtube!
-[Nick Milo](https://www.youtube.com/watch?v=QgbLb6QCK88&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd)
-[Visual note templates](https://www.youtube.com/watch?v=zmgqMZi6QL8)
-[Excalidraw](https://www.youtube.com/watch?v=vlC1-iBvIfo&list=PL6mqgtMZ4NP1o3urKVf0j-s6sjP7yPE1R)
+![[Excalidraw/Obsidian|Obsidian]] - my Excalidraw guide on the tool to the BGSA meeting, 2023
 
+![](https://i.imgur.com/lyNDIxT.png)
 
-[Digital Garden](https://dg-docs.ole.dev/)
+## Where to learn more about Obsidian?
+### If you have questions:
+- [Obsidian Forum](https://forum.obsidian.md/)
+- [r/ObsidianMD](https://www.reddit.com/r/ObsidianMD/)
+- [Obsidian Help](https://help.obsidian.md/Home)
+^note that obsidian sync and publish are paid services - alternatives are [Syncthing](https://syncthing.net/) and the Digital Garden plugin (listed below)
+- or email me! ana.avila@mail.mcgill.ca - if there's enough people trying to get started with Obsidian, we can start a little support group to share resources
 
-## Excalidraw
-- exporting a region of the drawing as a group will allow updates to go smoothly on the note it's inserted in!
-[[Excalidraw/Obsidian|Obsidian]] - my guide on the tool to the BGSA meeting, 2023
+### Youtube tutorials
+- [Nick Milo](https://www.youtube.com/watch?v=QgbLb6QCK88&list=PL3NaIVgSlAVLHty1-NuvPa9V0b0UwbzBd)
+- [Visual note templates](https://www.youtube.com/watch?v=zmgqMZi6QL8)
+- [Excalidraw](https://www.youtube.com/watch?v=vlC1-iBvIfo&list=PL6mqgtMZ4NP1o3urKVf0j-s6sjP7yPE1R)
+- [Eleanor Konik - YouTube](https://www.youtube.com/@eleanorkonik4704)
+- [Pandoc for Word and references](https://www.youtube.com/watch?v=yYZiO6CVtj8)
 
-## Calendar
-[Calendar Cheatsheet](https://github.com/liamcain/obsidian-calendar-plugin/blob/master/README.md)
+### Other creators
+- [kepano (@kepano)](https://twitter.com/kepano)
+- [Ilya Shabanov (@Artifexx)](https://twitter.com/Artifexx)
+	- [The Effortless Academic | Ilya Shabanov | Substack](https://ilyashabanov.substack.com/)
+^no need to buy courses or templates - I've just looked around for general ideas!
+### Other main community plugins
+- [Digital Garden](https://dg-docs.ole.dev/)
+- [elias-sundqvist/obsidian-annotator: A plugin for reading and annotating PDFs and EPUBs in obsidian. (github.com)](https://github.com/elias-sundqvist/obsidian-annotator)
+- [obsidian-tasks-group/obsidian-tasks: Task management for the Obsidian knowledge base. (github.com)](https://github.com/obsidian-tasks-group/obsidian-tasks)
+- [Calendar Cheatsheet](https://github.com/liamcain/obsidian-calendar-plugin/blob/master/README.md)
+- [Introduction - Templater (silentvoid13.github.io)](https://silentvoid13.github.io/Templater/)
+- [Dataview in Obsidian: A Beginner's Guide - Obsidian Rocks](https://obsidian.rocks/dataview-in-obsidian-a-beginners-guide/)
+- [Dataview Cheatsheet](https://github.com/seburbandev/obsidian-dataview-cheatsheet)
+- [Dataview Query Builder](https://s-blu.github.io/basic-dataview-query-builder/)
 
-## Templater
-[Introduction - Templater (silentvoid13.github.io)](https://silentvoid13.github.io/Templater/)
-
-## Callouts
-
+## Callouts Cheatsheet
 [Callouts Cheatsheet](https://help.obsidian.md/Editing+and+formatting/Callouts)
 
 > [!abstract]
@@ -56,13 +68,7 @@ There's also a lot on youtube!
 
 > [!quote]
 
-## Dataview
-
-[Dataview Cheatsheet](https://github.com/seburbandev/obsidian-dataview-cheatsheet)
-[Dataview Query Builder](https://s-blu.github.io/basic-dataview-query-builder/)
-
-
-## Checkbox
+## Tasks Cheatsheet
 
 ![[Obsidian Menu.png]]![[Obsidian Menu-1.png]]
 

@@ -3,6 +3,7 @@ up:
   - "[[300 Doing Science]]"
 stardate: Aug 23rd 2023
 update: Nov 16th 2023
+dg-publish: true
 ---
 [Lessons from Sherlock Holmes: Cultivate What You Know to Optimize How You Decide - Scientific American Blog Network](https://blogs.scientificamerican.com/guest-blog/lessons-from-sherlock-holmes-cultivate-what-you-know-to-optimize-how-you-decide/)
 
@@ -23,11 +24,5 @@ How to Take Smart Notes - Sonke Ahrens is a book that summarizes the Zettelkaste
 
 ## Where to learn [[Obsidian]]?
 
-Linking your Thinking - Nick Milo
-[Zsolt's Visual Personal Knowledge Management - YouTube](https://www.youtube.com/@VisualPKM)
-[Eleanor Konik - YouTube](https://www.youtube.com/@eleanorkonik4704)
-[kepano (@kepano)](https://twitter.com/kepano)
-[Ilya Shabanov (@Artifexx)](https://twitter.com/Artifexx)
-[The Effortless Academic | Ilya Shabanov | Substack](https://ilyashabanov.substack.com/)
 
 [Anki](http://augmentingcognition.com/ltm.html) is a flashcard system that helps memorize specific things. Could be useful for language learning, or terminology. For now I don't feel an immediate need to add it as a task, but if in the future I want to do anything with it, there's a way to link it to Obsidian.

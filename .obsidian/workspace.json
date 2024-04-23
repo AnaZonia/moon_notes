@@ -8,52 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "01cde74c8d69a31c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d46de98cdece711d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ecoregions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "082a84f16f05eacb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Obsidian.md"
-              }
-            }
-          },
-          {
-            "id": "7a9b76b94835f325",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Research/Cook-Patton 2020 - Mapping carbon accumulation potential from global natural forest regrowth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "905206aeb2d28e59",
             "type": "leaf",
             "state": {
@@ -66,19 +20,41 @@
             }
           },
           {
-            "id": "0219a808a85c7865",
+            "id": "097fc83282509c4e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "50ca781ff9117428",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "People.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "989c1f7b6ca90944",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 The Bridge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -144,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md"
+                "file": "001 The Bridge.md"
               }
             }
           },
@@ -154,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
+                "file": "001 The Bridge.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -208,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
+                "file": "001 The Bridge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,8 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,35 +211,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "905206aeb2d28e59",
+  "active": "989c1f7b6ca90944",
   "lastOpenFiles": [
+    "People.md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
+    "Powers, Jennifer S..md",
     "Ana Did Science Today.md",
+    "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
     "Obsidian.md",
+    "Climate Change.canvas",
+    "3 Floresta Aleatória/001 Introdução à Estatística.md",
+    "2 Research/Cook-Patton 2020 - Mapping carbon accumulation potential from global natural forest regrowth.md",
+    "Carbon credits are worthless for rainforests.md",
+    "2 Research/Sinacore 2023 - Mixed success for carbon payments and subsidies in support of forest restoration in the neotropics.md",
+    "Untitled.md",
     "Excalidraw/Obsidian.md",
+    "Notetaking.md",
+    "300 Doing Science.md",
     "001 The Bridge.md",
+    "Ecoregions.md",
     "100 A Floresta Aleatória.md",
     "3 Floresta Aleatória/Statistics.md",
-    "Ecoregions.md",
-    "People.md",
     "Hall, Jefferson S..md",
-    "Climate Change.canvas",
-    "2 Research/Cook-Patton 2020 - Mapping carbon accumulation potential from global natural forest regrowth.md",
     "Templates/Research article.md",
     "2 Research/Doughty 2023 - Tropical forests are approaching critical temperature thresholds.md",
-    "Powers, Jennifer S..md",
     "2 Research/Chazdon 2016 - Carbon sequestration potential of second-growth forest regeneration in the Latin American tropics.md",
     "200 Life Sciences.md",
     "Methods Writing.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "The Will to Change.md",
-    "On the Brevity of Life.md",
-    "Estoicismo.md",
-    "Philosophy.md",
-    "The Second Sex.md",
-    "2 Research/Bardino 2023 - Landscape context importance for predicting forest transition success in central Panama.md",
-    "bell hooks.md",
-    "Excalidraw/Fall Spices.md",
-    "Excalidraw/Avocado sauce.md",
     "Regrowth.canvas",
     "Nitrogen.canvas",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
