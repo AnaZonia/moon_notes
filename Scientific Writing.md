@@ -28,3 +28,16 @@ update: Nov 25th 2023
 - [Paperpal - Manuscript checker](https://edit.paperpal.com/documents/de11a755-7810-4717-b3a6-98b3de4351f4)
 - [QuillBot AI - Paraphraser](https://quillbot.com/)
 - [Hemingway Editor](https://hemingwayapp.com/)
+
+### Pixar method
+Once upon a time, there was a big forest that had been cut down and burned to give space for agriculture.
+
+Every day, farms were abandoned so new baby forests could grow on the empty land, but it was hard to predict how quickly they would grow back.
+
+Then one day, we decided to learn how the ways in which the land was burned and cropped would change the way the forest grows.
+
+Because of that we could consider how the quality of the soil can affect regrowing forests
+
+And because of that we can make better predictions of how these forests will grow
+
+Until finally we can better plan where reforestation efforts should be implemented to bring the forest back faster

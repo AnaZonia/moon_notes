@@ -5,6 +5,8 @@ stardate: Sep 28th 2023
 update: Oct 7th 2023
 dg-publish: true
 ---
+[Download - Obsidian](https://obsidian.md/download)
+
 [[Excalidraw/Obsidian|Obsidian]] - my Excalidraw guide on the tool to the BGSA meeting, 2023
 
 ## Where to learn more about Obsidian?

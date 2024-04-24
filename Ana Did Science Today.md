@@ -3,6 +3,19 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 24/04/2024, Wed - Chapter 1
+
+
+
+### Journal club - Carbon offsets in Panama
+
+Incentives for forest conservation and regrowth - a document we can do with Cristina, talk to Guido, and hopefully get it published in Panama.
+- Should we do an infographic?
+
+[[Shinbrot 2022 - Natural and financial impacts of payments for forest carbon offset - A 14 year-long case study in an indigenous community in Panama]]
+
+
+
 ## 23/04/2024 - Department Day
 ### Obsidian workshop
 - What is Obsidian

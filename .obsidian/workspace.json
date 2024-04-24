@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "49a8c06f01377a2a",
+        "id": "6b98dff2316dae99",
         "type": "tabs",
         "children": [
           {
-            "id": "6b34a5ef3d281328",
+            "id": "d44a3b8b2cbc2868",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edcede5c563f02f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Floresta Aleatória/013 Modelos de Markov.md",
+                "file": "Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -108,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,12 +179,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6b34a5ef3d281328",
+  "active": "d44a3b8b2cbc2868",
   "lastOpenFiles": [
+    "2 Research/Shinbrot 2022 - Natural and financial impacts of payments for forest carbon offset - A 14 year-long case study in an indigenous community in Panama.md",
+    "Regrowth.canvas",
+    "Ana Did Science Today.md",
+    "Scientific Writing.md",
+    "Obsidian.md",
+    "Writing Science.md",
+    "Personal Statements.md",
+    "001 The Bridge.md",
     "3 Floresta Aleatória/013 Modelos de Markov.md",
     "3 Floresta Aleatória/Statistics.md",
     "100 A Floresta Aleatória.md",
-    "001 The Bridge.md",
     "2 Research/Flores 2020 - Soil erosion as a resilience drain in disturbed tropical forests.md",
     "2 Research/Barlow 2020 - Clarifying Amazonia's burning crisis.md",
     "2 Research/Cook-Patton 2020 - Mapping carbon accumulation potential from global natural forest regrowth.md",
@@ -206,8 +201,6 @@
     "Biodiversity/Biodiversity - Biomass Relationship.md",
     "Climate Change.canvas",
     "Climate Change.md",
-    "Obsidian.md",
-    "Ana Did Science Today.md",
     "500 Alexandria.md",
     "Books.md",
     "Chazdon, Robin L..md",
@@ -215,12 +208,6 @@
     "People.md",
     "REDD+.md",
     "Excalidraw/Obsidian.md",
-    "002 Data Sources.md",
-    "200 Life Sciences.md",
-    "003 People and Networks.md",
-    "250 Conservation.md",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
-    "Regrowth.canvas",
     "Nitrogen.canvas",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
