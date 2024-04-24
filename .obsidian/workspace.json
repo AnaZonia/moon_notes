@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "905206aeb2d28e59",
+            "id": "6b34a5ef3d281328",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,41 +20,18 @@
             }
           },
           {
-            "id": "097fc83282509c4e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "50ca781ff9117428",
+            "id": "edcede5c563f02f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "989c1f7b6ca90944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 The Bridge.md",
+                "file": "3 Floresta Aleatória/013 Modelos de Markov.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -120,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 The Bridge.md"
+                "file": "Obsidian.md"
               }
             }
           },
@@ -130,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 The Bridge.md",
+                "file": "Obsidian.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -172,7 +150,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "f068f42a2a1ada76",
@@ -184,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 The Bridge.md",
+                "file": "Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,35 +191,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "989c1f7b6ca90944",
+  "active": "6b34a5ef3d281328",
   "lastOpenFiles": [
-    "People.md",
-    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
-    "Powers, Jennifer S..md",
-    "Ana Did Science Today.md",
-    "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
-    "Obsidian.md",
-    "Climate Change.canvas",
-    "3 Floresta Aleatória/001 Introdução à Estatística.md",
-    "2 Research/Cook-Patton 2020 - Mapping carbon accumulation potential from global natural forest regrowth.md",
-    "Carbon credits are worthless for rainforests.md",
-    "2 Research/Sinacore 2023 - Mixed success for carbon payments and subsidies in support of forest restoration in the neotropics.md",
-    "Untitled.md",
-    "Excalidraw/Obsidian.md",
-    "Notetaking.md",
-    "300 Doing Science.md",
-    "001 The Bridge.md",
-    "Ecoregions.md",
-    "100 A Floresta Aleatória.md",
+    "3 Floresta Aleatória/013 Modelos de Markov.md",
     "3 Floresta Aleatória/Statistics.md",
-    "Hall, Jefferson S..md",
+    "100 A Floresta Aleatória.md",
+    "001 The Bridge.md",
+    "2 Research/Flores 2020 - Soil erosion as a resilience drain in disturbed tropical forests.md",
+    "2 Research/Barlow 2020 - Clarifying Amazonia's burning crisis.md",
+    "2 Research/Cook-Patton 2020 - Mapping carbon accumulation potential from global natural forest regrowth.md",
+    "Templates/Research Article - Legacy.md",
     "Templates/Research article.md",
-    "2 Research/Doughty 2023 - Tropical forests are approaching critical temperature thresholds.md",
-    "2 Research/Chazdon 2016 - Carbon sequestration potential of second-growth forest regeneration in the Latin American tropics.md",
+    "Biodiversity.md",
+    "Biodiversity/Biodiversity - Biomass Relationship.md",
+    "Climate Change.canvas",
+    "Climate Change.md",
+    "Obsidian.md",
+    "Ana Did Science Today.md",
+    "500 Alexandria.md",
+    "Books.md",
+    "Chazdon, Robin L..md",
+    "Regrowth.md",
+    "People.md",
+    "REDD+.md",
+    "Excalidraw/Obsidian.md",
+    "002 Data Sources.md",
     "200 Life Sciences.md",
-    "Methods Writing.md",
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "The Will to Change.md",
+    "003 People and Networks.md",
+    "250 Conservation.md",
+    "Excalidraw/Scripts/Downloaded/Expand rectangles horizontally keep text centered.md",
     "Regrowth.canvas",
     "Nitrogen.canvas",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",

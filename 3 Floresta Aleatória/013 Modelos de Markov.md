@@ -1,7 +1,7 @@
 
 [[Continuous Time Markov Chain (CTMC)]]
 
-Modelos de Markov são uma maneira de entender como eventos ou estados mudam ao longo do tempo em um processo sequencial. Pense nisso como se estivéssemos acompanhando um personagem que caminha em uma série de quartos, e cada quarto representa um estado possível em que esse personagem pode estar. A ideia-chave é que o estado atual depende apenas do estado imediatamente anterior.
+Modelos de Markov são uma maneira de entender como eventos ou estados mudam ao longo do tempo em um processo sequencial. Pense nisso como se estivéssemos acompanhando um personagem que caminha em uma série de quartos, e cada quarto representa um estado possível em que esse personagem pode estar. ==A ideia-chave é que o estado atual depende apenas do estado imediatamente anterior.==
 
 Imagine que o personagem comece em um quarto e, a cada instante, ele se move para outro quarto, mas o quarto seguinte depende apenas do quarto em que ele estava antes. Se o personagem estiver no quarto A, ele pode ir para o quarto B com uma certa probabilidade e para o quarto C com outra probabilidade. E se ele estiver no quarto B, as probabilidades de ir para o quarto A, C ou qualquer outro quarto são baseadas somente no quarto B.
 
@@ -21,3 +21,7 @@ Tanto os Modelos de Markov quanto a Inferência Bayesiana são conceitos importa
 **Inferência Bayesiana:** A Inferência Bayesiana é um método estatístico que se baseia no Teorema de Bayes para atualizar as crenças sobre um evento ou parâmetro à medida que mais informações ou dados são obtidos. Ela envolve a atribuição de probabilidades às hipóteses e a atualização dessas probabilidades à medida que mais dados são analisados. A abordagem bayesiana é flexível e permite que informações prévias (conhecimento a priori) sejam incorporadas às análises, tornando-se uma abordagem poderosa para tomar decisões estatísticas e fazer inferências.
 
 Em termos de relação, a Inferência Bayesiana pode ser aplicada em vários contextos, incluindo Modelos de Markov. Por exemplo, quando se analisam Modelos de Markov ocultos, onde os estados não podem ser diretamente observados, a Inferência Bayesiana pode ser usada para estimar a sequência de estados com base nos dados observados. Portanto, a Inferência Bayesiana pode ser uma ferramenta útil para analisar e fazer inferências em problemas relacionados a Modelos de Markov e outros processos sequenciais.
+
+## Monte Carlo Hamiltoniano
+
+Uma técnica de otimização de parâmetros de uma função baseado em leis de dinâmica hamiltoniana. A amostragem é feita baseada em uma densidade $p(\theta)$ de uma posterior Bayesiana $p(\theta|y)$ com parâmetros $\theta$ and data $y$.

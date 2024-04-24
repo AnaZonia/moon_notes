@@ -5,6 +5,7 @@
 >[!quote] Cited
 >The effects of land use (pasture, shifting, long-term cropping, fire) were significant across biomes, but indistinguishable within biomes. The classification however is quite coarse and there is a lot of unexplained variability.
 
+[[Amazonia]]
 ## Authors:
 [[Cook-Patton, Susan C.]], [[Leavitt, Sara M.]], [[Gibbs, David]], [[Harris, Nancy L.]], [[Lister, Kristine]], [[Anderson-Teixeira, Kristina J.]], [[Briggs, Russell D.]], [[Chazdon, Robin L.]], [[Crowther, Thomas W.]], [[Ellis, Peter W.]], [[Griscom, Heather P.]], [[Herrmann, Valentine]], [[Holl, Karen D.]], [[Houghton, Richard A.]], [[Larrosa, Cecilia]], [[Lomax, Guy]], [[Lucas, Richard]], [[Madsen, Palle]], [[Malhi, Yadvinder]], [[Paquette, Alain]], [[Parker, John D.]], [[Paul, Keryn]], [[Routh, Devin]], [[Roxburgh, Stephen]], [[Saatchi, Sassan]], [[Van Den Hoogen, Johan]], [[Walker, Wayne S.]], [[Wheeler, Charlotte E.]], [[Wood, Stephen A.]], [[Xu, Liang]], [[Griscom, Bronson W.]]
 ## Notes:

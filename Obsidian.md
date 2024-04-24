@@ -5,16 +5,14 @@ stardate: Sep 28th 2023
 update: Oct 7th 2023
 dg-publish: true
 ---
-![[Excalidraw/Obsidian|Obsidian]] - my Excalidraw guide on the tool to the BGSA meeting, 2023
-
-![](https://i.imgur.com/lyNDIxT.png)
+[[Excalidraw/Obsidian|Obsidian]] - my Excalidraw guide on the tool to the BGSA meeting, 2023
 
 ## Where to learn more about Obsidian?
 ### If you have questions:
 - [Obsidian Forum](https://forum.obsidian.md/)
 - [r/ObsidianMD](https://www.reddit.com/r/ObsidianMD/)
 - [Obsidian Help](https://help.obsidian.md/Home)
-^note that obsidian sync and publish are paid services - alternatives are [Syncthing](https://syncthing.net/) and the Digital Garden plugin (listed below)
+^note that obsidian sync and publish are paid services - alternatives are [Syncthing](https://syncthing.net/) and the Digital Garden plugin (listed below). Syncthing hasn't worked very well for me, and I don't really need to use Obsidian in other devices, but it's an option for many people.
 - or email me! ana.avila@mail.mcgill.ca - if there's enough people trying to get started with Obsidian, we can start a little support group to share resources
 
 ### Youtube tutorials
@@ -72,7 +70,9 @@ dg-publish: true
 
 ![[Obsidian Menu.png]]![[Obsidian Menu-1.png]]
 
-## Zotero tag import snippet
+## Zotero tag import snippets
+[[Research Article - Legacy]]
+
 {% if tags.length > 0 -%}{% for t in tags -%}#{% if t.tag == "secondary" %}source/secondary{% if not loop.last %}{% endif %}{% elif t.tag == "primary" %}source/primary{% if not loop.last %}{% endif %}{% elif "-project" in t.tag %}project/{{t.tag | lower | replace(" ", "-") | replace("-project", "")}}{% else %}subject/{{t.tag | lower | replace(" ", "-")}}{% endif %}{% if not loop.last %} {% endif %}{%- endfor %}{%- endif %}
 
 ## Transform tags into links

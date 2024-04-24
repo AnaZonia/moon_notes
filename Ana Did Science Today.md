@@ -5,7 +5,6 @@ dg-publish: true
 ---
 ## 23/04/2024 - Department Day
 ### Obsidian workshop
-- What is Zotero
 - What is Obsidian
 - Advantages of Obsidian
 	- Internal Links
@@ -14,6 +13,7 @@ dg-publish: true
 	- Github
 	- Digital Garden
 	- Graph view
+- What is Zotero
 - How to link things?
 	- Better Bibtex
 	- Zotero for Obsidian
