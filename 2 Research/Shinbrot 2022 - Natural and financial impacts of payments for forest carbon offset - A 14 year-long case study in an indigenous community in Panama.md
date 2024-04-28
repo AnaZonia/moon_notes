@@ -1,9 +1,10 @@
->[!summary]
+>[!summary] The project of 
+>There is argument that this 
 
 >[!quote] Cited
 ## Authors:
 [[Shinbrot, Xoco A.]], [[Holmes, Ignacia]], [[Gauthier, Madeleine]], [[Tschakert, Petra]], [[Wilkins, Zoë]], [[Baragón, Lydia]], [[Opúa, Berta]], [[Potvin, Catherine]]
-
+ 
 ## Notes:
 
 STRI and McGill invested in carbon offsets in Ipetí. About half of the money was spent on avoided deforestation.

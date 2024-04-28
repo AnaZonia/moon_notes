@@ -2,8 +2,7 @@
 	- area-based payments for ecosystem services funded by fossil fuel taxes
 - societal respect for nature
 - ecotourism
-
-
+ 
 Government payments for ecosystem services - average 64 dollars per hectare, much less than 130 proposed by jeff hall
 
 FONAFIFO - forest fund.

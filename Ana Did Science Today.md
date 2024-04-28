@@ -5,7 +5,21 @@ dg-publish: true
 ---
 ## 24/04/2024, Wed - Chapter 1
 
+Considering options to export feature collection to google earth engine.
 
+Having issues because of the projection of the climate data. Trying to reproject.
+
+When tried to stratifiedSample 1000 points per ecoregion first and then use reduceRegions:
+
+LU_sum_sampled = LU_sum.reduceRegions(stratified, ee.Reducer.first(), scale = 30, crs = proj.crs())
+
+That ran out of memory - too many pixels at too high a resolution. Ideally, stratifiedsample will be done directly on the image with all bands added.
+
+Since that's generating "Error: Projection error: Unable to transform features into projection", that means the large resolution images must be reprojected first.
+
+Adding biomass and mature forest biomass.
+
+The code works well when it's sampled with categorical variables first, but export breaks when I try to sample with the higher resolution given (landsat). That's fine for now, but I'm going to double check what the consequences are.
 
 ### Journal club - Carbon offsets in Panama
 
@@ -14,7 +28,7 @@ Incentives for forest conservation and regrowth - a document we can do with Cris
 
 [[Shinbrot 2022 - Natural and financial impacts of payments for forest carbon offset - A 14 year-long case study in an indigenous community in Panama]]
 
-
+[SoilGrids1km — Global Soil Information Based on Automated Mapping | PLOS ONE](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0105992)
 
 ## 23/04/2024 - Department Day
 ### Obsidian workshop
@@ -218,6 +232,13 @@ Recommended contacting [[Dent, Daisy]] and [[Dalling, Jim]] for soil maps.
 - [Feedback loops drive ecological succession: towards a unified conceptual framework](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.13051)
 
 I did a lot of mapping for the TAship as well - that took a few days.
+
+### Marine lab - Sean Connely
+He mentioned what I am interested in is Systematic Conservation Planning - using quantitative methods to inform policy. More applicable research than pure science.
+- Hugh Possingham
+- Mic McCarthy
+- Paul Armsworth
+- NimBios Institute - University of Tennessee
 
 ## 08/03/2024 - INPA
 
