@@ -6,21 +6,9 @@ dg-publish: true
 ## 29/04/2024, Mon - Chapter 1
 After meeting with Brian, the priorities seem to be to finish organizing the code and writing the summary of the project to send out.
 
-
-restrict to only the last 5 years of history
-
 sensoring - you haven't observed everything, but you can make inferrences from what you have not observed.
 
-see if you can linearize - take logs of things
-run it for only 15 year old forests
-
-mask for what was mature in 1985
-
-extrapolate some of the predictors to go further into the past
-
-compare wih other results pred vs obs
-
-
+- Final goal is to compare the predictions with other results, plotting predicted versus observed.
 
 ## 24/04/2024, Wed - Chapter 1
 

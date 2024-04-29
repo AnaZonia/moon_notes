@@ -41,11 +41,6 @@ SORT type ASC
 ```
 
 ## Climate
-- [[Evapotranspiration]]
-- [[Vapor Pressure]]
-- [[Latent Heat Flux]]
-- [[Cumulative Water Deficit]]
-- [[Leaf Area Index]]
 
 ```dataview
 TABLE WITHOUT ID link(file.link, file.name) AS "Title", time_range AS "Time Range", type as "Type"

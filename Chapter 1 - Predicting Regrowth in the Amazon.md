@@ -28,10 +28,14 @@ dg-publish: true
 - fragmentation ([[Ma 2023 - Global forest fragmentation change from 2000 to 2020]])
 
 ### Climatic (yearly)
+[[002 Data Sources#Climate|Climate Data Sources]]
 - seasonality index
 - mean annual precipitation
 - [[Evapotranspiration]]
-
+- [[Vapor Pressure]]
+- [[Latent Heat Flux]]
+- [[Cumulative Water Deficit]]
+- [[Leaf Area Index]]
 
 ### Model
 
@@ -66,6 +70,8 @@ LU = \beta_{F} F * e^{\beta_{F_\tau} \tau_{f}}
 + \beta_{\text{LU}_n} LU_n * e^{\beta_{\text{LUn}_\tau} \tau_{n}}
 $$
 
+#### Log-transform
+Linearize the model
 
 ### Optimizers
 - Hamiltonian Monte Carlo
@@ -78,6 +84,9 @@ $$
  
 
 ## Questions
+### Error is related to biomass
+- Older forests have less reliable biomass data - no way around it. What does that mean for us?
+
 ### Correlated variables
 - Dry areas burn more often
 - Pastureland may also be burned more frequently
@@ -85,6 +94,9 @@ $$
 
 ### Older forests have less history to learn from than young forests
 - Restrict to only the last 5 years before regrowth. That would miss 
+- Run it only for 15 year old forests
+- Mask off to include only what was mature in 1985
+- Use 
 
 ### Forest composition changes after burning
  - do the SAR biomass models capture the differences in forest biomass before and after fires? are they built with young forests taken into consideration?

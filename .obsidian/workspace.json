@@ -6,7 +6,7 @@
       {
         "id": "6b98dff2316dae99",
         "type": "tabs",
-        "dimension": 31.968810916179336,
+        "dimension": 62.96296296296296,
         "children": [
           {
             "id": "d44a3b8b2cbc2868",
@@ -37,7 +37,7 @@
       {
         "id": "9bf23359b1901403",
         "type": "tabs",
-        "dimension": 68.03118908382066,
+        "dimension": 37.03703703703704,
         "children": [
           {
             "id": "452408b6d929bc45",
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Floresta Aleatória/002 Distribuições de Amostragem e Estimação.md",
+                "file": "002 Data Sources.md",
                 "mode": "source",
                 "source": false
               }
@@ -224,6 +224,8 @@
   "lastOpenFiles": [
     "Ana Did Science Today.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "002 Data Sources.md",
+    "Templates/3 Data Source.md",
     "3 Floresta Aleatória/002 Distribuições de Amostragem e Estimação.md",
     "3 Floresta Aleatória/Statistics.md",
     "100 A Floresta Aleatória.md",
@@ -248,8 +250,6 @@
     "2 Research/Barlow 2020 - Clarifying Amazonia's burning crisis.md",
     "2 Research/Cook-Patton 2020 - Mapping carbon accumulation potential from global natural forest regrowth.md",
     "Templates/Research Article - Legacy.md",
-    "Templates/Research article.md",
-    "Biodiversity.md",
     "Climate Change.canvas",
     "Nitrogen.canvas",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
