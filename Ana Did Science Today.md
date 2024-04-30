@@ -3,6 +3,9 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 30/04/2024, Tue - Chapter 1
+
+
 ## 29/04/2024, Mon - Chapter 1
 After meeting with Brian, the priorities seem to be to finish organizing the code and writing the summary of the project to send out.
 

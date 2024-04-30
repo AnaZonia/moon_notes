@@ -6,7 +6,7 @@
       {
         "id": "6b98dff2316dae99",
         "type": "tabs",
-        "dimension": 62.96296296296296,
+        "dimension": 47.758284600389864,
         "children": [
           {
             "id": "d44a3b8b2cbc2868",
@@ -37,7 +37,7 @@
       {
         "id": "9bf23359b1901403",
         "type": "tabs",
-        "dimension": 37.03703703703704,
+        "dimension": 52.241715399610136,
         "children": [
           {
             "id": "452408b6d929bc45",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,10 +220,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "452408b6d929bc45",
+  "active": "d44a3b8b2cbc2868",
   "lastOpenFiles": [
-    "Ana Did Science Today.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "Ana Did Science Today.md",
     "002 Data Sources.md",
     "Templates/3 Data Source.md",
     "3 Floresta Aleatória/002 Distribuições de Amostragem e Estimação.md",
