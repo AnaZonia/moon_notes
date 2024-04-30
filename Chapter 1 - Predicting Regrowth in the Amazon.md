@@ -77,11 +77,12 @@ Linearize the model
 - Hamiltonian Monte Carlo
 	- Can be hard to use discrete values of parameters. Values from HMC can be input into optim
 	- [PyStan](https://pystan.readthedocs.io/en/latest/)
+- MCMC
+- Generalized
 - [Simulated Annealing](https://machinelearningmastery.com/simulated-annealing-from-scratch-in-python/)
 	- [optim_sa](https://search.r-project.org/CRAN/refmans/optimization/html/optim_sa.html)
 	- [anneal](https://search.r-project.org/CRAN/refmans/likelihood/html/anneal.html)
 	- [from scratch](https://jmsallan.netlify.app/blog/coding-simulated-annealing-in-r/)
- 
 
 ## Questions
 ### Error is related to biomass
@@ -91,18 +92,15 @@ Linearize the model
 - Dry areas burn more often
 - Pastureland may also be burned more frequently
 
+### Distribution of errors
+The standard deviation tending towards the upper end may mean the errors are not normally distributed. Checking the distribution of errors would help.
 
 ### Older forests have less history to learn from than young forests
 - Restrict to only the last 5 years before regrowth. That would miss 
-- Run it only for 15 year old forests
+- Run it only for forests up to 15 years old
 - Mask off to include only what was mature in 1985
-- Use 
-
-### Forest composition changes after burning
- - do the SAR biomass models capture the differences in forest biomass before and after fires? are they built with young forests taken into consideration?
-	- Quem trabalha com imagens de satélite, vai olhar uma floresta como a que estamos e verá uma floresta toda verde. A imagem que a gente chama de saturada, sem clareiras. Então, dá pra pensar que é uma floresta que já se recuperou. Mas quando estamos aqui embaixo, no chão, vemos que não é bem assim. Pode estar cheio de clareiras, o dossel é baixinho, tem pouca diversidade. Pode parecer verde, mas é uma floresta completamente diferente da que existe aqui antes
-	- [Pesquisadora dedica a vida a entender a dinâmica do fogo na Amazônia - ((o))eco](https://oeco.org.br/reportagens/pesquisadora-dedica-a-vida-a-entender-a-dinamica-do-fogo-na-amazonia/)
 1. Total biomass, different growth rates. Would that be redundant with rainfall seasonality?
+
 ### MAPBIOMAS classification confidence per forest class
 
 - [ ] look into flooded forest class

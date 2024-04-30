@@ -55,11 +55,14 @@
             "id": "471be9803cc859dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "002 Data Sources.md",
-                "mode": "source",
-                "source": false
+                "file": "Climate Change.canvas",
+                "viewState": {
+                  "x": -1223.3261598609638,
+                  "y": -362.1441871068517,
+                  "zoom": -2.4905998468914476
+                }
               }
             }
           }
@@ -129,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md"
               }
             }
           },
@@ -139,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -193,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,10 +223,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d44a3b8b2cbc2868",
+  "active": "452408b6d929bc45",
   "lastOpenFiles": [
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "Climate Change.canvas",
+    "Rolling ideas.md",
+    "001 The Bridge.md",
     "Ana Did Science Today.md",
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "Carbon credits are worthless for rainforests.md",
     "002 Data Sources.md",
     "Templates/3 Data Source.md",
     "3 Floresta Aleatória/002 Distribuições de Amostragem e Estimação.md",
@@ -234,7 +241,6 @@
     "2 Research/Ma 2023 - Global forest fragmentation change from 2000 to 2020.md",
     "Background Flowchart.canvas",
     "Background Writing.md",
-    "001 The Bridge.md",
     "3 Floresta Aleatória/012 Inferência Bayesiana.md",
     "2 Research/Strassburg 2020 - Global priority areas for ecosystem restoration.md",
     "2 Research/Shinbrot 2022 - Natural and financial impacts of payments for forest carbon offset - A 14 year-long case study in an indigenous community in Panama.md",
@@ -247,10 +253,6 @@
     "Personal Statements.md",
     "3 Floresta Aleatória/013 Modelos de Markov.md",
     "2 Research/Flores 2020 - Soil erosion as a resilience drain in disturbed tropical forests.md",
-    "2 Research/Barlow 2020 - Clarifying Amazonia's burning crisis.md",
-    "2 Research/Cook-Patton 2020 - Mapping carbon accumulation potential from global natural forest regrowth.md",
-    "Templates/Research Article - Legacy.md",
-    "Climate Change.canvas",
     "Nitrogen.canvas",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
