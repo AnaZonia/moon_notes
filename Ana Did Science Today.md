@@ -15,15 +15,8 @@ So, the goal for this week is to:
 4. Mask only forests that were mature in 1985 and that were up to 15 years old. Test run for different configurations.
 
 ### Journal Club
-- Ask Fiona about wall art, Katie for string and wax melter.
-
-- string lights
-- string
-- backpack
-- rain jacket
-- wax melter
-
-
+- Ask Fiona about wall art
+- [[Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests]]
 
 ## 29/04/2024, Mon - Chapter 1
 After meeting with Brian, the priorities seem to be to finish organizing the code and writing the summary of the project to send out.

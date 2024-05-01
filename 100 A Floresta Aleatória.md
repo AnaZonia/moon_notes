@@ -3,8 +3,9 @@ stardate: Oct 15th 2023
 update: Oct 15th 2023
 dg-publish: true
 ---
-## Statistics
+## Mathematics
 - [[Statistics]]
+- [[Meta Analysis]]
 
 ## Programming
 - [[Python]]

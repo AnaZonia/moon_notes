@@ -9,3 +9,10 @@
 The data comes from [[Forest restoration - a global dataset for biodiversity and vegetation structure]]
 
 The references of this paper are a gold mine!
+
+- trees that are usually selected for reforestation are selected with basis on their ability to survive as seedlings, ease of transportation, and quick growth early on.
+
+### Methods
+[[Meta Analysis#Standardized mean effect size]]
+
+Because they had more than one datapoint per site, and different number of datapoints considering passive vs active reforestation, they sampled one value from one site, repeatedly, for 1000 times, and then considered the  
