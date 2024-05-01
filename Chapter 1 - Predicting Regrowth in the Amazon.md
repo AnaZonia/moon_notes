@@ -78,7 +78,7 @@ Linearize the model
 	- Can be hard to use discrete values of parameters. Values from HMC can be input into optim
 	- [PyStan](https://pystan.readthedocs.io/en/latest/)
 - MCMC
-- Generalized
+- [Generalized differential evolution](https://ieeexplore.ieee.org/document/8167916)
 - [Simulated Annealing](https://machinelearningmastery.com/simulated-annealing-from-scratch-in-python/)
 	- [optim_sa](https://search.r-project.org/CRAN/refmans/optimization/html/optim_sa.html)
 	- [anneal](https://search.r-project.org/CRAN/refmans/likelihood/html/anneal.html)
