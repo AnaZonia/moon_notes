@@ -4,7 +4,7 @@ up:
 stardate: Sep 29th 2023
 update: Nov 9th 2023
 ---
-- [[Regrowth.canvas|Regrowth]]
+- [[Regrowth]]
 - [[Climate Change and Tropical Forests.canvas|Carbon Balance of Tropical Forests]]
 
 >[!quote] Quotable facts

@@ -6,7 +6,6 @@
       {
         "id": "6b98dff2316dae99",
         "type": "tabs",
-        "dimension": 47.758284600389864,
         "children": [
           {
             "id": "d44a3b8b2cbc2868",
@@ -15,6 +14,42 @@
               "type": "markdown",
               "state": {
                 "file": "Ana Did Science Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "650411db2e3481d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d910c9ade04a0dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Research/Forest restoration - a global dataset for biodiversity and vegetation structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "452408b6d929bc45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,41 +67,8 @@
               }
             }
           }
-        ]
-      },
-      {
-        "id": "9bf23359b1901403",
-        "type": "tabs",
-        "dimension": 52.241715399610136,
-        "children": [
-          {
-            "id": "452408b6d929bc45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "471be9803cc859dd",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Climate Change.canvas",
-                "viewState": {
-                  "x": -1223.3261598609638,
-                  "y": -362.1441871068517,
-                  "zoom": -2.4905998468914476
-                }
-              }
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md"
+                "file": "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md"
               }
             }
           },
@@ -142,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -196,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,22 +225,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "452408b6d929bc45",
+  "active": "650411db2e3481d2",
   "lastOpenFiles": [
-    "Ana Did Science Today.md",
+    "2 Research/Forest restoration - a global dataset for biodiversity and vegetation structure.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "2 Research/Ma 2023 - Global forest fragmentation change from 2000 to 2020.md",
+    "Regrowth.md",
+    "2 Research/Crouzeilles, Renato.md",
+    "Ana Did Science Today.md",
+    "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md",
+    "3 Floresta Aleatória/003 Bootstrapping e Inferência Não Paramétrica.md",
+    "002 Data Sources.md",
+    "Tropical Forest Ecology.md",
+    "Regrowth.canvas",
+    "200 Life Sciences.md",
     "Climate Change.canvas",
     "Rolling ideas.md",
     "001 The Bridge.md",
     "Carbon credits are worthless for rainforests.md",
-    "002 Data Sources.md",
     "Templates/3 Data Source.md",
     "3 Floresta Aleatória/002 Distribuições de Amostragem e Estimação.md",
     "3 Floresta Aleatória/Statistics.md",
     "100 A Floresta Aleatória.md",
     "Evapotranspiration.md",
     "Biogeochemistry.md",
-    "2 Research/Ma 2023 - Global forest fragmentation change from 2000 to 2020.md",
     "Background Flowchart.canvas",
     "Background Writing.md",
     "3 Floresta Aleatória/012 Inferência Bayesiana.md",
@@ -246,13 +256,6 @@
     "2 Research/Shinbrot 2022 - Natural and financial impacts of payments for forest carbon offset - A 14 year-long case study in an indigenous community in Panama.md",
     "How Costa Rica did so well.md",
     "Costa Rica.md",
-    "Regrowth.canvas",
-    "Scientific Writing.md",
-    "Obsidian.md",
-    "Writing Science.md",
-    "Personal Statements.md",
-    "3 Floresta Aleatória/013 Modelos de Markov.md",
-    "2 Research/Flores 2020 - Soil erosion as a resilience drain in disturbed tropical forests.md",
     "Nitrogen.canvas",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",

@@ -3,7 +3,26 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## 30/04/2024, Tue - Chapter 1
+## 01/05/2024, Tue - Chapter 1
+After the weekly meeting:
+- Andrew's idea to use Bayesian to infer what happened to old growth forests has happened to new growth would infer that the trends we observe for young forests are the same for old growth. We do not, however, know if burn rates were the same before 1985 as they were after.
+- Therefore, the best way forward is to constrain history ranges. That could be 5 years up to 15 years of age, and see when the benefits start to diminish.
+
+So, the goal for this week is to:
+1. Finish writing the summary of options and send out the code, as well as the methods, to collaborators. Ask for advice, potentially to schedule meetings, to ask about the functional form and the optimizers.
+2. Study bayesian so I can ask Andrew on monday about optimizers and how they work. Ask direct questions to him about the methods in general.
+3. Finish implementing the hyperparameter tuner with Hossein
+4. Mask only forests that were mature in 1985 and that were up to 15 years old. Test run for different configurations.
+
+### Journal Club
+- Ask Fiona about wall art, Katie for string and wax melter.
+
+- string lights
+- string
+- backpack
+- rain jacket
+- wax melter
+
 
 
 ## 29/04/2024, Mon - Chapter 1
