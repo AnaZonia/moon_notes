@@ -26,6 +26,9 @@ dg-publish: true
 - indigenous areas
 - ecoregions
 - fragmentation ([[Ma 2023 - Global forest fragmentation change from 2000 to 2020]])
+	- predictability varies with surrounding forest cover [[Crouzeilles 2016 - Which landscape size best predicts the influence of forest cover on restoration success A global meta-analysis on the scale of effect]]
+- surrounding forest biomass (mature forest cover)
+	- mean forest biomass per ecoregion
 
 ### Climatic (yearly)
 [[002 Data Sources#Climate|Climate Data Sources]]
@@ -86,11 +89,12 @@ Linearize the model
 
 ## Questions
 ### Error is related to biomass
-- Older forests have less reliable biomass data - no way around it. What does that mean for us?
+- Older forests have less reliable biomass data - how can we correct for heteroskedasticity?
 
 ### Correlated variables
 - Dry areas burn more often
 - Pastureland may also be burned more frequently
+- How can I analyse correlations?
 
 ### Distribution of errors
 The standard deviation tending towards the upper end may mean the errors are not normally distributed. Checking the distribution of errors would help.
