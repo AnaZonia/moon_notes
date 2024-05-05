@@ -3,6 +3,14 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 05/05/2024, Sun - Chapter 1
+
+Since tomorrow I am meeting Andrew, today I need to take a quick refresher on bayesian to be able to keep a conversation going with him.
+
+Exporting the image with the 30x30 resolution works before sampling for the points needed. Also, having it as image is best since masking and other operations can be done easily and quickly.
+
+I'm realizing there is a lot I want to do regarding the project planning (reading the papers and all) but for now I should really just finish the code and the README. The coming year 
+
 ## 01/05/2024, Tue - Chapter 1
 After the weekly meeting:
 - Andrew's idea to use Bayesian to infer what happened to old growth forests has happened to new growth would infer that the trends we observe for young forests are the same for old growth. We do not, however, know if burn rates were the same before 1985 as they were after.

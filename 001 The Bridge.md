@@ -22,7 +22,6 @@ dg-home: true
 - [[500 Alexandria]]
 
 ## Other ongoing projects
-- [[NTFP in Amazonia - RELAM]]
 - [[Climate Change.canvas|Incentives to Forest Growth - Panama]]
 
 ## Article ideas

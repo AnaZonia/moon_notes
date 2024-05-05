@@ -20,42 +20,31 @@
             }
           },
           {
-            "id": "5cde245dea6a0320",
+            "id": "8f2e30ca6219b350",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Research/Zuquim 2023 - Introducing a map of soil base cation concentration, an ecologically relevant GIS-layer for Amazonian forests.md",
+                "file": "Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "58e32a8e6d545b28",
+            "id": "2242acc59cc855ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Research/Crouzeilles 2016 - Which landscape size best predicts the influence of forest cover on restoration success A global meta-analysis on the scale of effect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be2449075bd6bf41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Research/Ma 2023 - Global forest fragmentation change from 2000 to 2020.md",
+                "file": "001 The Bridge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -122,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md"
+                "file": "001 The Bridge.md"
               }
             }
           },
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "001 The Bridge.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "001 The Bridge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,15 +202,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "452408b6d929bc45",
+  "active": "2242acc59cc855ad",
   "lastOpenFiles": [
-    "2 Research/Zuquim 2023 - Introducing a map of soil base cation concentration, an ecologically relevant GIS-layer for Amazonian forests.md",
+    "NTFP in Amazonia - RELAM.md",
+    "001 The Bridge.md",
+    "Ana Did Science Today.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "Chapter 2 - Predicting Regrowth in Panama.md",
+    "2 Research/Zuquim 2023 - Introducing a map of soil base cation concentration, an ecologically relevant GIS-layer for Amazonian forests.md",
+    "2 Research/Ma 2023 - Global forest fragmentation change from 2000 to 2020.md",
     "2 Research/Strassburg 2020 - Global priority areas for ecosystem restoration.md",
     "2 Research/Crouzeilles 2016 - Which landscape size best predicts the influence of forest cover on restoration success A global meta-analysis on the scale of effect.md",
-    "2 Research/Ma 2023 - Global forest fragmentation change from 2000 to 2020.md",
     "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md",
-    "Ana Did Science Today.md",
     "2 Research/Forest restoration - a global dataset for biodiversity and vegetation structure.md",
     "Meta Analysis.md",
     "100 A Floresta Aleatória.md",
@@ -235,7 +226,6 @@
     "200 Life Sciences.md",
     "Climate Change.canvas",
     "Rolling ideas.md",
-    "001 The Bridge.md",
     "Carbon credits are worthless for rainforests.md",
     "Templates/3 Data Source.md",
     "3 Floresta Aleatória/002 Distribuições de Amostragem e Estimação.md",
@@ -243,8 +233,6 @@
     "Evapotranspiration.md",
     "Biogeochemistry.md",
     "Background Flowchart.canvas",
-    "Background Writing.md",
-    "3 Floresta Aleatória/012 Inferência Bayesiana.md",
     "Nitrogen.canvas",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
