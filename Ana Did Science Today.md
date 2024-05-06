@@ -3,13 +3,11 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## 05/05/2024, Sun - Chapter 1
+## 06/05/2024, Mon - Chapter 1
 
-Since tomorrow I am meeting Andrew, today I need to take a quick refresher on bayesian to be able to keep a conversation going with him.
+I'm realizing that there is no need to export all data all over again if I am restricting the "ages" vector - I can just export ages again, and rename it accordingly, and mask the unified image once it's time to export. Also, I can just export the unified image once and it'll be good - the other predictors can be added gradually.
 
-Exporting the image with the 30x30 resolution works before sampling for the points needed. Also, having it as image is best since masking and other operations can be done easily and quickly.
-
-I'm realizing there is a lot I want to do regarding the project planning (reading the papers and all) but for now I should really just finish the code and the README. The coming year 
+Also could be interesting to verify what is the minimum age that is helpful to the model - should I add one year old forests? what about two, or three year olds?
 
 Has there been an increase in fire in the past?
 
@@ -22,6 +20,23 @@ Reparametrizing the model -
 
 Start from the smallest scale that makes sense with stan (constant parameters) just to get the syntax working
 Simulate data and run it with stan afterwards.
+
+[brms: An R Package for Bayesian Multilevel Models using Stan (r-project.org)](https://cran.r-project.org/web/packages/brms/vignettes/brms_overview.pdf)
+
+[Estimating Non-Linear Models with brms (r-project.org)](https://cran.r-project.org/web/packages/brms/vignettes/brms_nonlinear.html)
+[Andrew MacDonald - Simple nonlinear growth (aammd.github.io)](https://aammd.github.io/posts/2022-11-21-growth-curve-known-age/)
+
+[Andrew MacDonald - Discrete-time population growth in Stan (aammd.github.io)](https://aammd.github.io/posts/2023-11-15-ives03-ts/)
+
+[Censored Variables and Censored Regression (ssicentral.com)](https://ssicentral.com/wp-content/uploads/2021/04/lis_censor.pdf)
+
+## 05/05/2024, Sun - Chapter 1
+
+Since tomorrow I am meeting Andrew, today I need to take a quick refresher on bayesian to be able to keep a conversation going with him.
+
+Exporting the image with the 30x30 resolution works before sampling for the points needed. Also, having it as image is best since masking and other operations can be done easily and quickly.
+
+I'm realizing there is a lot I want to do regarding the project planning (reading the papers and all) but for now I should really just finish the code and the README.
 
 ## 01/05/2024, Tue - Chapter 1
 After the weekly meeting:

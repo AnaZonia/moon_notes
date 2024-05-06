@@ -105,6 +105,9 @@ The standard deviation tending towards the upper end may mean the errors are not
 - Mask off to include only what was mature in 1985
 1. Total biomass, different growth rates. Would that be redundant with rainfall seasonality?
 
+### Time since burn
+Still unsure how to include this in the dataframe, since there are different amounts of burn events - for a patch that burned 5 times, or one that burned once, how do I incorporate that? should I make up to 33 columns - one with age for fire 1, other with age for fire 2, and so on?
+
 ### MAPBIOMAS classification confidence per forest class
 
 - [ ] look into flooded forest class
