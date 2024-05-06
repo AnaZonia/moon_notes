@@ -11,6 +11,18 @@ Exporting the image with the 30x30 resolution works before sampling for the poin
 
 I'm realizing there is a lot I want to do regarding the project planning (reading the papers and all) but for now I should really just finish the code and the README. The coming year 
 
+Has there been an increase in fire in the past?
+
+Truncation - camera that is not triggered by small animals
+
+Accessibility - 
+Missing data can be another parameter - another unknown value
+
+Reparametrizing the model - 
+
+Start from the smallest scale that makes sense with stan (constant parameters) just to get the syntax working
+Simulate data and run it with stan afterwards.
+
 ## 01/05/2024, Tue - Chapter 1
 After the weekly meeting:
 - Andrew's idea to use Bayesian to infer what happened to old growth forests has happened to new growth would infer that the trends we observe for young forests are the same for old growth. We do not, however, know if burn rates were the same before 1985 as they were after.

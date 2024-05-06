@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stri f",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conferences and Funding.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Conferences and Funding.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conferences and Funding.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,14 +203,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa4b3fde43a02b69",
+  "active": "8f2e30ca6219b350",
   "lastOpenFiles": [
-    "STRI Short-Term Fellowship Proposal.md",
-    "Conferences and Funding.md",
-    "001 The Bridge.md",
-    "Ana Did Science Today.md",
-    "NTFP in Amazonia - RELAM.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "Ana Did Science Today.md",
+    "Conferences and Funding.md",
+    "STRI Short-Term Fellowship Proposal.md",
+    "001 The Bridge.md",
+    "NTFP in Amazonia - RELAM.md",
     "Chapter 2 - Predicting Regrowth in Panama.md",
     "2 Research/Zuquim 2023 - Introducing a map of soil base cation concentration, an ecologically relevant GIS-layer for Amazonian forests.md",
     "2 Research/Ma 2023 - Global forest fragmentation change from 2000 to 2020.md",
