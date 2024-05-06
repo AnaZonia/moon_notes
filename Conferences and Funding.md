@@ -24,7 +24,7 @@ dg-publish: true
 - [National Geographic Explorers](https://www.nationalgeographic.org/society/grants-and-investments/)
 - [IAI - Inter-American Institute for Global Change Research](https://www.iai.int/en/step) Step Fellowship
 - Fellowship AAAs science policy
-- STRI fellowship
+- [[STRI Short-Term Fellowship Proposal]]
 - https://www.agu.org/honors/voices-for-science
 
 #### Travel Awards

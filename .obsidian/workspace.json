@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 The Bridge.md",
+                "file": "Conferences and Funding.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stri f",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 The Bridge.md"
+                "file": "Conferences and Funding.md"
               }
             }
           },
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 The Bridge.md",
+                "file": "Conferences and Funding.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 The Bridge.md",
+                "file": "Conferences and Funding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,11 +203,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2242acc59cc855ad",
+  "active": "fa4b3fde43a02b69",
   "lastOpenFiles": [
-    "NTFP in Amazonia - RELAM.md",
+    "STRI Short-Term Fellowship Proposal.md",
+    "Conferences and Funding.md",
     "001 The Bridge.md",
     "Ana Did Science Today.md",
+    "NTFP in Amazonia - RELAM.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Chapter 2 - Predicting Regrowth in Panama.md",
     "2 Research/Zuquim 2023 - Introducing a map of soil base cation concentration, an ecologically relevant GIS-layer for Amazonian forests.md",
@@ -230,8 +233,6 @@
     "Templates/3 Data Source.md",
     "3 Floresta Aleatória/002 Distribuições de Amostragem e Estimação.md",
     "3 Floresta Aleatória/Statistics.md",
-    "Evapotranspiration.md",
-    "Biogeochemistry.md",
     "Background Flowchart.canvas",
     "Nitrogen.canvas",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
