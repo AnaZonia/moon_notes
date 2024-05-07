@@ -23,6 +23,7 @@ dg-home: true
 
 ## Other ongoing projects
 - [[Climate Change.canvas|Incentives to Forest Growth - Panama]]
+- [[Bureaucracy]]
 
 ## Article ideas
 ```dataview

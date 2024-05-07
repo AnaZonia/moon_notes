@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Bureaucracy.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Bureaucracy.md"
               }
             }
           },
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Bureaucracy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Bureaucracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,11 +218,13 @@
   },
   "active": "f6af19fd320ae02c",
   "lastOpenFiles": [
+    "001 The Bridge.md",
+    "Bureaucracy.md",
+    "500 Alexandria.md",
+    "Ana Did Science Today.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Github.md",
     "Conferences and Funding.md",
-    "Ana Did Science Today.md",
-    "001 The Bridge.md",
     "MAPBIOMAS LULC.md",
     "MAPBIOMAS.md",
     "STRI Short-Term Fellowship Proposal.md",
@@ -244,8 +246,6 @@
     "Regrowth.canvas",
     "200 Life Sciences.md",
     "Climate Change.canvas",
-    "Rolling ideas.md",
-    "Carbon credits are worthless for rainforests.md",
     "Background Flowchart.canvas",
     "Nitrogen.canvas",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
