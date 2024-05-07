@@ -3,6 +3,26 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 07/05/2024, Tue - Chapter 1
+
+sensitivity analysis - 5, 10, 15
+
+test collinearity - if there are relationships, there will be ridges between two axes.
+
+Correlation matrix - 
+
+Multicollinearity - correlation structures may not be found easily
+
+GAMs will but assume they are smoothing
+
+variance inflation factors - check
+
+compare incorporating age and number of fires - remove each individual term type 3 sum of squares
+
+adding one by one could be interesting
+
+use as starting point the fit of the last round - can only improve from the previous finding.
+
 ## 06/05/2024, Mon - Chapter 1
 
 I'm realizing that there is no need to export all data all over again if I am restricting the "ages" vector - I can just export ages again, and rename it accordingly, and mask the unified image once it's time to export. Also, I can just export the unified image once and it'll be good - the other predictors can be added gradually.
