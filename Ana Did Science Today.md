@@ -3,8 +3,13 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 09/05/2024, Chapter 1
+
 ## 08/05/2024, Chapter 1
 Mas hoje eu preciso focar em terminar de vez os códigos de processamento e análise de dados.
+
+Restricting to forested areas in 1985 does not avoid the possibility that these forests are "fallow", meaning they were already disturbed before 1985.
+The only alternative I can envision is maybe what was done by Jeff Hall's postdoc, in which she defined forest age stratification with landsat. I am unsure whether this would be doable for 1985.
 
 ### Goals for next week
 - Read over [[PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation|PANGEA]] Ecosystem Structure, Function, and Diversity Working Group conclusions and make my points. Would be interesting to do this with Katie.
