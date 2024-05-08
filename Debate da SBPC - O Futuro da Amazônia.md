@@ -17,3 +17,10 @@ tags:
 
 [[Flores 2024 - Critical transitions in the Amazon forest system]]
 
+
+![](https://i.imgur.com/y22cEQJ.png)
+![](https://i.imgur.com/GmB8HkM.png)
+![](https://i.imgur.com/AxayFCV.png)
+![](https://i.imgur.com/CcIZ9RV.png)
+![](https://i.imgur.com/vnVgk7D.png)
+![](https://i.imgur.com/mamcxmF.png)

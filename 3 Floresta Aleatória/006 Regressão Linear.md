@@ -18,6 +18,11 @@
 
 Os coeficientes.
 [Pearson Correlation Coefficient (r) | Guide & Examples (scribbr.com)](https://www.scribbr.com/statistics/pearson-correlation-coefficient/)
+
+[[Mínimos Quadrados]]
+
+[[Variáveis Censuradas e Truncadas]]
+
 # Mínimos Quadrados Não Lineares
 
 **Mínimos Quadrados Não Lineares (NLS):**
@@ -45,3 +50,6 @@ O \(R^2\) múltiplo (ou \(R^2\) de múltipla regressão) é usado quando se ajus
 O \(R^2\) ajustado, por outro lado, corrige o \(R^2\) múltiplo para o número de variáveis independentes no modelo e o tamanho da amostra. O \(R^2\) múltiplo tende a aumentar quando mais variáveis independentes são adicionadas ao modelo, mesmo que essas variáveis não sejam realmente relevantes. O \(R^2\) ajustado penaliza modelos com muitas variáveis independentes que não contribuem significativamente para a explicação da variabilidade da variável dependente. Ele é uma medida mais conservadora que ajuda a evitar a inclusão excessiva de variáveis independentes irrelevantes.
 
 Portanto, enquanto o \(R^2\) múltiplo enfoca a proporção de variabilidade explicada pelas variáveis independentes, o \(R^2\) ajustado fornece uma medida mais realista e ajustada do ajuste do modelo, levando em consideração a complexidade do modelo e o tamanho da amostra.
+
+
+[[Correlação e Colinearidade]]

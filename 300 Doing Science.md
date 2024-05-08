@@ -11,7 +11,7 @@ dg-publish: true
 - [[Presenting Science]]
 - [[Debates and Discourse]]
 - [[Scientific Writing]]
-- [[Outreach]]
+- [[Science Journalism]]
 
 ## Academia
 - [[Should scientists include their race, gender, or other personal details in papers]]

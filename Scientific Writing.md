@@ -29,15 +29,50 @@ update: Nov 25th 2023
 - [QuillBot AI - Paraphraser](https://quillbot.com/)
 - [Hemingway Editor](https://hemingwayapp.com/)
 
-### Pixar method
-Once upon a time, there was a big forest that had been cut down and burned to give space for agriculture.
+[Tip Sheet for Newcomers to Science Writing - The Open Notebook](https://www.theopennotebook.com/2021/04/13/a-getting-started-guide-for-newcomers-to-science-writing-2/?utm_source=The%20Open%20Notebook&utm_campaign=d06649e26b-AUTOMATION__4&utm_medium=email&utm_term=0_94b4f65b87-d06649e26b-568794870)
 
-Every day, farms were abandoned so new baby forests could grow on the empty land, but it was hard to predict how quickly they would grow back.
+[Olivia Milloway (olivia-milloway.info)](https://olivia-milloway.info/)
+[Virginia Schutte, Science Media Specialist | Storyteller, Consultant, Trainer](https://www.virginiaschutte.com/)
+- Free website help for minorities
+Jimena Pitty
 
-Then one day, we decided to learn how the ways in which the land was burned and cropped would change the way the forest grows.
+**Olivia Milloway's tips**
+- Think of communicating with a 13 year old - that is when most people stop taking science classes.
+	- also useful for interdisciplinary communication!
+- Write personal journal entries - forces you out of 3rd person objective voice. Could work in a blog format.
+- Build a professional website. It can have a news/stories page.
+	- Species feature/naturalist diary - talk about special tree species/groups. Reminds me of "um pé de que?"
+		- plantas alimenticias não típicas
+		- non timber forest products
 
-Because of that we could consider how the quality of the soil can affect regrowing forests
+Helpful people:
+Contact Jeff Hall about communicating with rural communities through Agua Salud. Ask for his community engagement material.
+Daniel at Toucan NGO
 
-And because of that we can make better predictions of how these forests will grow
+Guido Beguido from [[Adopta Bosque]] also protested against the mines.
 
-Until finally we can better plan where reforestation efforts should be implemented to bring the forest back faster
+Futuro NGO
+
+- university of boston communication forum
+- open notebook organization
+- Scicomm bites newsletter
+
+oxygen isn't the reason we need forests.
+explain how the greenhouse effect works
+poor soil in the amazon - what makes soil good vs poor and why we need agroforestry.
+
+interview scientists to add quotes to articles
+think of how to make scientists human and approachable and believable.
+- Erika Berenguer and fires in the Amazon?
+- Erika Berenguer and boyfriends??
+
+It becomes impossible to have children in a scientist job - scientists dont have a firm job until very late in their career.
+
+foreigners that come do science in Brazil
+- write your own personal environmental story
+	- and a 300-word bio version
+	- write for labmates 
+
+Send stuff to Mongabay! English, Spanish and Portuguese?
+
+[[Pixar Method]]

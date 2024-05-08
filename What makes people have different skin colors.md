@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Outreach]]"
+  - "[[Science Journalism]]"
   - "[[Evolution]]"
 type:
   - scicomm_article

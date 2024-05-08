@@ -1,3 +1,10 @@
+---
+up:
+  - "[[300 Doing Science]]"
+stardate: Oct 31st 2023
+update: May 8th 2024
+dg-publish: true
+---
 ## Visualization
 
 >[!note] What is in your control on your hierarchy?

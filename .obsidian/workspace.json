@@ -13,50 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8f2e30ca6219b350",
+            "id": "dee3e60ce99db842",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAPBIOMAS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6af19fd320ae02c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bureaucracy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2242acc59cc855ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Github.md",
+                "file": "3 Floresta Aleatória/012 Inferência Bayesiana.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -124,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bureaucracy.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -134,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bureaucracy.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -188,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bureaucracy.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,35 +190,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6af19fd320ae02c",
+  "active": "452408b6d929bc45",
   "lastOpenFiles": [
-    "001 The Bridge.md",
-    "Bureaucracy.md",
-    "500 Alexandria.md",
-    "Ana Did Science Today.md",
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "Github.md",
+    "3 Floresta Aleatória/012 Inferência Bayesiana.md",
     "Conferences and Funding.md",
-    "MAPBIOMAS LULC.md",
-    "MAPBIOMAS.md",
-    "STRI Short-Term Fellowship Proposal.md",
-    "NTFP in Amazonia - RELAM.md",
-    "Chapter 2 - Predicting Regrowth in Panama.md",
-    "2 Research/Zuquim 2023 - Introducing a map of soil base cation concentration, an ecologically relevant GIS-layer for Amazonian forests.md",
-    "2 Research/Ma 2023 - Global forest fragmentation change from 2000 to 2020.md",
-    "2 Research/Strassburg 2020 - Global priority areas for ecosystem restoration.md",
-    "2 Research/Crouzeilles 2016 - Which landscape size best predicts the influence of forest cover on restoration success A global meta-analysis on the scale of effect.md",
-    "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md",
-    "2 Research/Forest restoration - a global dataset for biodiversity and vegetation structure.md",
-    "Meta Analysis.md",
+    "Ana Did Science Today.md",
+    "3 Floresta Aleatória/Variáveis Censuradas e Truncadas.md",
+    "3 Floresta Aleatória/006 Regressão Linear.md",
+    "3 Floresta Aleatória/Correlação e Colinearidade.md",
+    "3 Floresta Aleatória/Mínimos Quadrados.md",
+    "3 Floresta Aleatória/Statistics.md",
+    "3 Floresta Aleatória/005 Análise de Variância (ANOVA).md",
+    "3 Floresta Aleatória/002 Distribuições de Amostragem e Estimação.md",
     "100 A Floresta Aleatória.md",
-    "Regrowth.md",
-    "2 Research/Crouzeilles, Renato.md",
-    "3 Floresta Aleatória/003 Bootstrapping e Inferência Não Paramétrica.md",
-    "002 Data Sources.md",
-    "Tropical Forest Ecology.md",
+    "001 The Bridge.md",
+    "Scientific Writing.md",
+    "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
+    "Pixar Method.md",
+    "300 Doing Science.md",
+    "Science Journalism.md",
+    "Writing Science.md",
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "Debate da SBPC - O Futuro da Amazônia.md",
+    "Amazonia.md",
+    "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
+    "PANGEA April Workshop.md",
+    "Presenting Science.md",
+    "250 Conservation.md",
+    "400 Interests.md",
     "Regrowth.canvas",
-    "200 Life Sciences.md",
     "Climate Change.canvas",
     "Background Flowchart.canvas",
     "Nitrogen.canvas",

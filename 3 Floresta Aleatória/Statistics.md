@@ -101,6 +101,7 @@
 - [Estatística Aplicada à Ecologia - índice](https://www.ppgern.ufscar.br/pt-br/alunos/disciplinas/estatistica-aplicada-a-ecologia)
 - [Improving Your Statistical Inferences](https://lakens.github.io/statistical_inferences/)
 	- [Improving your statistical inferences - Coursera](https://www.coursera.org/learn/statistical-inferences/home/week/1)
+- [Statistics for Applications MIT OpenCourseWare](https://ocw.mit.edu/courses/18-443-statistics-for-applications-spring-2015/)
 - [[Estatística Sem Matemática]]
 ### Next
 - [Ecologia no R](https://analises-ecologicas.com/)

@@ -1,7 +1,7 @@
 ---
 up:
   - "[[Climate Change]]"
-  - "[[Outreach]]"
+  - "[[Science Journalism]]"
 authors:
   - Greta Thunberg
   - AOC

@@ -24,6 +24,8 @@ dg-home: true
 ## Other ongoing projects
 - [[Climate Change.canvas|Incentives to Forest Growth - Panama]]
 - [[Bureaucracy]]
+- [[STRI Short-Term Fellowship Proposal]]
+- [[AGU abstract]]
 
 ## Article ideas
 ```dataview

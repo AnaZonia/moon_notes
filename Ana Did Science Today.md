@@ -3,27 +3,24 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 08/05/2024, Chapter 1
+Mas hoje eu preciso focar em terminar de vez os códigos de processamento e análise de dados.
+
+### Goals for next week
+- Read over [[PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation|PANGEA]] Ecosystem Structure, Function, and Diversity Working Group conclusions and make my points. Would be interesting to do this with Katie.
+- Send [[Chapter 1 - Predicting Regrowth in the Amazon]] summary to collaborators. Does not need to be anything too elaborate I don't think, just show where the code is right now.
+
 ## 07/05/2024, Tue - Chapter 1
 
-sensitivity analysis - 5, 10, 15
+- Build a correlation matrix with R
+- Check for multicollinearity. Correlation structures may not be found easily if they don't follow a linear trend.
+- Check variance inflation factors.
 
-test collinearity - if there are relationships, there will be ridges between two axes.
+**Sensitivity analysis** - checking how the fit will change with either 5, 10, or 15 years of history.
 
-Correlation matrix - 
+**Checking for different effects of age and number of fires** - remove or add each individual term one by one to see its effect.
 
-Multicollinearity - correlation structures may not be found easily
-
-GAMs will but assume they are smoothing
-
-variance inflation factors - check
-
-compare incorporating age and number of fires - remove each individual term type 3 sum of squares
-
-adding one by one could be interesting
-
-use as starting point the fit of the last round - can only improve from the previous finding.
-
-
+**Preventing local minima** - use as starting point the fit of the last round - can only improve from the previous finding.
 
 ## 06/05/2024, Mon - Chapter 1
 
@@ -31,17 +28,14 @@ I'm realizing that there is no need to export all data all over again if I am re
 
 Also could be interesting to verify what is the minimum age that is helpful to the model - should I add one year old forests? what about two, or three year olds?
 
-Has there been an increase in fire in the past?
+There is good reason to believe there has been change in fire regime before and after 1985 - that's exactly democratization years.
 
-Truncation - camera that is not triggered by small animals
+[[Variáveis Censuradas e Truncadas]] - há maneiras de lidar com variáveis censuradas, que é o caso do histórico de uso de terra.
 
-Accessibility - 
-Missing data can be another parameter - another unknown value
+**Accessibility** - Missing data can be another parameter - another unknown value.
 
-Reparametrizing the model - 
-
-Start from the smallest scale that makes sense with stan (constant parameters) just to get the syntax working
-Simulate data and run it with stan afterwards.
+- Start from the smallest scale that makes sense with stan (constant parameters) just to get the syntax working
+- Simulate data and run it with stan afterwards.
 
 [brms: An R Package for Bayesian Multilevel Models using Stan (r-project.org)](https://cran.r-project.org/web/packages/brms/vignettes/brms_overview.pdf)
 
@@ -50,7 +44,6 @@ Simulate data and run it with stan afterwards.
 
 [Andrew MacDonald - Discrete-time population growth in Stan (aammd.github.io)](https://aammd.github.io/posts/2023-11-15-ives03-ts/)
 
-[Censored Variables and Censored Regression (ssicentral.com)](https://ssicentral.com/wp-content/uploads/2021/04/lis_censor.pdf)
 
 ## 05/05/2024, Sun - Chapter 1
 
@@ -227,47 +220,7 @@ So there's good room for collaboration as we work on things that are useful to e
 
 ## 25/03/2024 : 07/04/2024 - Organizing and writing
 
-**Olivia Milloway**
-- communicating with 13 year old - that is when most people stop taking science classes.
-	- also useful for interdisciplinary communication
-- personal journal entries - forces you out of 3rd person objective voice. Building a blog would be cool.
-- Building a professional website would be cool. It can have a news/stories page.
-	- Species feature/naturalist diary - talk about special tree species/groups. Reminds me of "um pé de que?"
-		- plantas alimenticias não típicas
-		- non timber forest products
-
-Contact Jeff Hall about communicating with rural communities through Agua Salud. Ask for his community engagement material.
-Daniel at Toucan NGO
-
-Guido Beguido from [[Adopta Bosque]] also protested against the mines.
-
-Send her an intro.
-
-Futuro NGO
-
-- university of boston communication forum
-- open notebook organization
-- Scicomm bites newsletter
-
-contact jimena to send her the articles
-
-oxygen isn't the reason we need forests.
-explain how the greenhouse effect works
-poor soil in the amazon - what makes soil good vs poor and why we need agroforestry.
-
-interview scientists to add quotes to articles
-think of how to make scientists human and approachable and believable.
-- Erika Berenguer and fires in the Amazon?
-- Erika Berenguer and boyfriends??
-
-It becomes impossible to have children in a scientist job - scientists dont have a firm job until very late in their career.
-
-foreigners that come do science in Brazil
-- write your own personal environmental story
-	- and a 300-word bio version
-	- write for labmates 
-
-Send stuff to Mongabay! English, Spanish and Portuguese?
+Talked to Olivia Milloway about [[Science Journalism]].
 
 **AAAS mass media fellowship** - place people in US institutions for summer media internships. Must be an American citizen, but a lot of the alumni would be cool inspiration.
 

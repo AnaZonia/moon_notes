@@ -2,7 +2,7 @@
 up:
   - "[[Amazonia]]"
   - "[[Climate Change]]"
-  - "[[Outreach]]"
+  - "[[Science Journalism]]"
 authors:
   - "[[Nobre, Carlos A.]]"
 type:

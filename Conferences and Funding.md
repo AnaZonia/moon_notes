@@ -19,7 +19,6 @@ dg-publish: true
 - [Mitacs | Research and Innovation - McGill University](https://www.mcgill.ca/research/research/funding/federal/mitacs)
 - [Ecologists in the Global South - British Ecological Society](https://www.britishecologicalsociety.org/funding/launching-our-new-grants-programme/ecologists-in-the-global-south/)
 - [Outreach Grants - British Ecological Society](https://www.britishecologicalsociety.org/funding/launching-our-new-grants-programme/outreach-grants/)
-- FRQNT/NSERC due october
 - [MapBiomas Brasil](https://brasil.mapbiomas.org/premio-mapbiomas/)
 - [National Geographic Explorers](https://www.nationalgeographic.org/society/grants-and-investments/)
 - [IAI - Inter-American Institute for Global Change Research](https://www.iai.int/en/step) Step Fellowship
