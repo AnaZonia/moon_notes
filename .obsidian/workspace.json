@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Google Earth Engine.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Google Earth Engine.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Google Earth Engine.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Google Earth Engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,13 +204,14 @@
   },
   "active": "36328ec3b1e5a7e8",
   "lastOpenFiles": [
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "001 The Bridge.md",
+    "Ana Did Science Today.md",
+    "Bureaucracy.md",
     "Chave 2014.md",
     "Methods Writing.md",
     "Ecoregions.md",
     "3 Floresta Aleatória/012 Inferência Bayesiana.md",
-    "Ana Did Science Today.md",
-    "001 The Bridge.md",
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Conferences and Funding.md",
     "3 Floresta Aleatória/Variáveis Censuradas e Truncadas.md",
     "3 Floresta Aleatória/006 Regressão Linear.md",
@@ -229,7 +230,6 @@
     "Debate da SBPC - O Futuro da Amazônia.md",
     "Amazonia.md",
     "LBA - Large Scale Biosphere-Atmosphere Experiment.md",
-    "PANGEA April Workshop.md",
     "Regrowth.canvas",
     "Climate Change.canvas",
     "Background Flowchart.canvas",
