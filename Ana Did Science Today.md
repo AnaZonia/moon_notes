@@ -3,7 +3,16 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 10/05/2024, Chapter 1
+
+
 ## 09/05/2024, Chapter 1
+
+[Mapa global de la altura de los árboles con resolución de 1 metro - MappingGIS](https://mappinggis.com/2024/05/mapa-global-de-la-altura-de-los-arboles-con-resolucion-de-1-metro/)
+
+Worked a lot on the GEE script today - got to exporting the images in a much better way including restricted ranges of land use history.
+
+Am having a hard time exporting to GEE since tasks don't seem to be running properly.
 
 ## 08/05/2024, Chapter 1
 Mas hoje eu preciso focar em terminar de vez os códigos de processamento e análise de dados.
