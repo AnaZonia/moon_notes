@@ -5,7 +5,7 @@ dg-publish: true
 ---
 ## 10/05/2024, Chapter 1
 
-
+- check when new protected areas were established.
 ## 09/05/2024, Chapter 1
 
 [Mapa global de la altura de los árboles con resolución de 1 metro - MappingGIS](https://mappinggis.com/2024/05/mapa-global-de-la-altura-de-los-arboles-con-resolucion-de-1-metro/)
