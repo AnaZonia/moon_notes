@@ -23,6 +23,10 @@ The information of the saved credentials are in
 ~/.config/earthengine/credentials
 ^this is what ee.Authenticate() reaches out to
 
+These credentials can be changed with gcloud init (check SpatialThoughts tutorial above)
+
+- [Installing jupyter notebook in WSL](https://code.adonline.id.au/jupyter-notebook-in-windows-subsystem-for-linux-wsl/)
+- [customize jupyterlab color scheme](https://stackoverflow.com/questions/40518614/how-to-apply-theme-to-jupyter-lab)
 ### Pros
 - **Easy handling and exporting** of very large data
 - **Easy immediate visualization** of your data on a map
