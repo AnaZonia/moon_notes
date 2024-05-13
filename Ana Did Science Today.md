@@ -4,7 +4,11 @@ up:
 dg-publish: true
 ---
 ## 13/05/2024, Chapter 1
-
+Add to CV:
+- FRQNT
+- STRI course
+- GMA
+- International graduate award
 
 ## 10/05/2024, Chapter 1
 

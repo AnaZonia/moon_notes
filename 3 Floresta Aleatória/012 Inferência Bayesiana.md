@@ -8,7 +8,6 @@ aliases:
 ---
 
 
-
 ### O que é a posterior?
 
 ![](https://i.imgur.com/5UsrwC4.gif)

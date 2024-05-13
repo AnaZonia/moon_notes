@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Earth Engine.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,12 +191,12 @@
   },
   "active": "452408b6d929bc45",
   "lastOpenFiles": [
-    "Ana Did Science Today.md",
     "001 The Bridge.md",
-    "Chave 2014.md",
-    "3 Floresta Aleatória/012 Inferência Bayesiana.md",
-    "Bureaucracy.md",
     "Google Earth Engine.md",
+    "3 Floresta Aleatória/012 Inferência Bayesiana.md",
+    "Ana Did Science Today.md",
+    "Chave 2014.md",
+    "Bureaucracy.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Methods Writing.md",
     "Ecoregions.md",
