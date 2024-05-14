@@ -33,6 +33,10 @@ dg-publish: true
 ### Climatic (yearly)
 [[002 Data Sources#Climate|Climate Data Sources]]
 - seasonality index
+
+![](https://i.imgur.com/KkwYI56.png)
+
+
 - mean annual precipitation
 - [[Evapotranspiration]]
 - [[Vapor Pressure]]
