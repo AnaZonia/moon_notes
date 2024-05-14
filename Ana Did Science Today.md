@@ -4,7 +4,33 @@ up:
 dg-publish: true
 ---
 ## 13/05/2024, Chapter 1
+- QGIS earth engine can be useful for publication-grade images
 
+detecting changes - detect deforestation and regrowth
+- seasonal changes
+- classifying with seasonal patterns of each land use class
+- uses bayesian stats to use previous classifications to inform future classifications
+
+- what were you thinking of doing with Brian for this?
+
+short wave infrared is a good detector of change in humid areas - so he chose NBR
+
+SAR can't see some things we care about - so we inhibit the detection of things.
+
+NISAR - L band allows for looking into cuts.
+the BULC algorithm allows to identify changes - deforestation, degradation, and regrowth.
+
+The restriction is cloudy pixels.
+
+Check if different crop types have different phenologies. At least the most popular for Panama
+
+It shows degradation - "intermittently weird" pixels. Can show selective logging! This could not be detected with a classifier.
+- How does that differ from AVOCADO?
+
+dynamic world has a lot of daily noise
+
+- Creative ways of searching - hyperparameter tuner. Give a .py script with the model with an optimizer task and outputs.
+- Send this to the collaborator.
 
 ## 10/05/2024, Chapter 1
 

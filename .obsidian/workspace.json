@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Floresta Aleatória/Python.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Floresta Aleatória/Python.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Floresta Aleatória/Python.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,17 +202,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "175f72f7112b1b6c",
+  "active": "6ffb67a8f7e93865",
   "lastOpenFiles": [
+    "001 The Bridge.md",
+    "Google Earth Engine.md",
+    "3 Floresta Aleatória/012 Inferência Bayesiana.md",
+    "3 Floresta Aleatória/Python.md",
     "Computers and Bash.md",
     "Files/Computers and Bash.png",
-    "3 Floresta Aleatória/Python.md",
-    "Google Earth Engine.md",
     "100 A Floresta Aleatória.md",
     "Github.md",
-    "001 The Bridge.md",
     "Ana Did Science Today.md",
-    "3 Floresta Aleatória/012 Inferência Bayesiana.md",
     "002 Data Sources.md",
     "SoilGrids.md",
     "FAO Soil Map of the World.md",
