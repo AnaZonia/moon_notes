@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "452408b6d929bc45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 Data Sources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dee3e60ce99db842",
             "type": "leaf",
             "state": {
@@ -30,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "175f72f7112b1b6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Floresta Aleatória/Python.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ffb67a8f7e93865",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Earth Engine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github.md"
+                "file": "3 Floresta Aleatória/Python.md"
               }
             }
           },
@@ -107,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github.md",
+                "file": "3 Floresta Aleatória/Python.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github.md",
+                "file": "3 Floresta Aleatória/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,15 +202,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "73760276f664cd91",
+  "active": "175f72f7112b1b6c",
   "lastOpenFiles": [
-    "SoilGrids.md",
-    "002 Data Sources.md",
-    "FAO Soil Map of the World.md",
-    "Ana Did Science Today.md",
-    "001 The Bridge.md",
+    "Computers and Bash.md",
+    "Files/Computers and Bash.png",
+    "3 Floresta Aleatória/Python.md",
     "Google Earth Engine.md",
+    "100 A Floresta Aleatória.md",
+    "Github.md",
+    "001 The Bridge.md",
+    "Ana Did Science Today.md",
     "3 Floresta Aleatória/012 Inferência Bayesiana.md",
+    "002 Data Sources.md",
+    "SoilGrids.md",
+    "FAO Soil Map of the World.md",
     "Chave 2014.md",
     "Bureaucracy.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
@@ -211,12 +229,7 @@
     "3 Floresta Aleatória/Statistics.md",
     "3 Floresta Aleatória/005 Análise de Variância (ANOVA).md",
     "3 Floresta Aleatória/002 Distribuições de Amostragem e Estimação.md",
-    "100 A Floresta Aleatória.md",
     "Scientific Writing.md",
-    "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
-    "Pixar Method.md",
-    "300 Doing Science.md",
-    "Science Journalism.md",
     "Regrowth.canvas",
     "Climate Change.canvas",
     "Background Flowchart.canvas",
@@ -243,7 +256,6 @@
     "Files/Screenshot 2023-09-05 155256.png",
     "Files/Screenshot 2023-09-05 192712.png",
     "Files/Screenshot 2023-11-06 104649.png",
-    "Files/albertHumanImpactsOutpace2023/albertHumanImpactsOutpace2023-7-x208-y386.jpg",
     "Files/albertHumanImpactsOutpace2023",
     "Files/Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.pdf",
     "3 Alexandria/Research"

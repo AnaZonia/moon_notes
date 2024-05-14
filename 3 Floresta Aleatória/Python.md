@@ -4,10 +4,9 @@ up:
 stardate: Sep 30th 2023
 update: Oct 8th 2023
 ---
-p
+
 ## First steps
 - Always have a virtual environment. Conda is a sort of a manager for packages and virtual environments, but it's unnecessary - everything can be managed easily with pip and venv.
-
 
 ## Venv
 
@@ -18,13 +17,12 @@ p
 sudo apt install python3.10-venv
 
 # create a new virtual environment
-python3 -m venv forest_regrowth_env
+python3 -m venv forest_env
 # to create a venv with all the packages from the global installation:
-python3 -m venv venv --system-site-packages 
+python3 -m venv forest_env --system-site-packages
 
 #activate it 
 source venv/bin/activate
-
 
 #to show only packages installed in this specific environment
 pip list --local
@@ -32,7 +30,22 @@ pip freeze --local
 #exit venv
 deactivate
 
+# delete venv
+rm -r venv
+
+# write all packages installed in venv in a txt file
+pip freeze > requirements.txt
+
+# install all packages from the venv
+pip install -r /path/to/requirements.txt
+
 ```
+
+
+- [Installing jupyter notebook in WSL](https://code.adonline.id.au/jupyter-notebook-in-windows-subsystem-for-linux-wsl/)
+- [customize jupyterlab color scheme](https://stackoverflow.com/questions/40518614/how-to-apply-theme-to-jupyter-lab)
+
+
 ## Machine Learning
 [[017 Aprendizado de Máquina]]
 
