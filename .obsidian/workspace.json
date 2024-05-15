@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dee3e60ce99db842",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Floresta Aleatória/012 Inferência Bayesiana.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "175f72f7112b1b6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 Floresta Aleatória/Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "6ffb67a8f7e93865",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 Data Sources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ffcb74ccb55730c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -132,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,18 +177,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffcb74ccb55730c5",
+  "active": "6ffb67a8f7e93865",
   "lastOpenFiles": [
+    "2 Research/Strassburg 2020 - Global priority areas for ecosystem restoration.md",
+    "Ana Did Science Today.md",
+    "001 The Bridge.md",
+    "Bureaucracy.md",
     "002 Data Sources.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Monthly AET - USGS.md",
     "TerraClimate.md",
-    "001 The Bridge.md",
     "Biogeochemistry.md",
     "Cumulative Water Deficit.md",
     "Chave 2014.md",
     "Files/cwd monthly.png",
-    "Ana Did Science Today.md",
     "Google Earth Engine.md",
     "3 Floresta Aleatória/012 Inferência Bayesiana.md",
     "3 Floresta Aleatória/Python.md",
@@ -235,7 +200,6 @@
     "Github.md",
     "SoilGrids.md",
     "FAO Soil Map of the World.md",
-    "Bureaucracy.md",
     "Methods Writing.md",
     "Ecoregions.md",
     "Conferences and Funding.md",
@@ -243,7 +207,6 @@
     "3 Floresta Aleatória/006 Regressão Linear.md",
     "3 Floresta Aleatória/Correlação e Colinearidade.md",
     "3 Floresta Aleatória/Mínimos Quadrados.md",
-    "3 Floresta Aleatória/Statistics.md",
     "Regrowth.canvas",
     "Climate Change.canvas",
     "Background Flowchart.canvas",

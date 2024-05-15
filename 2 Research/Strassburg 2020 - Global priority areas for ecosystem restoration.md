@@ -6,4 +6,4 @@
 
 ## Notes:
 
-[Prioritizing where to restore Earth’s ecosystems (nature.com)](https://www.nature.com/articles/d41586-020-02750-2)
+[Prioritizing where to restore Earth’s ecosystems (nature.com)](https://www.nature.com/articles/d41586-020-02750-2#:~:text=Forests%20are%20usually%20the%20biomes,found%20only%20in%20those%20ecosystems.)
