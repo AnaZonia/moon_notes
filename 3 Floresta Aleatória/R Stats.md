@@ -12,6 +12,7 @@
 - [Geocomputation with R](https://r.geocompx.org/)
 - [Spatial Data Science](https://r-spatial.org/book/)
 - [Intro a Mapas en R - Github](https://github.com/ulisesbalza/mapas_R_intro/tree/main)
+- [R for Earth-System Science (pjbartlein.github.io)](https://pjbartlein.github.io/REarthSysSci/index.html)
 
 ## Help if needed
 - [jakelawlor/TidyTuesday](https://github.com/jakelawlor/TidyTuesday_JL/tree/master)
