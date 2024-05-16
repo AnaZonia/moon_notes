@@ -44,7 +44,7 @@ pip install -r /path/to/requirements.txt
 
 - [Installing jupyter notebook in WSL](https://code.adonline.id.au/jupyter-notebook-in-windows-subsystem-for-linux-wsl/)
 - [customize jupyterlab color scheme](https://stackoverflow.com/questions/40518614/how-to-apply-theme-to-jupyter-lab)
-
+- https://themes.vscode.one/
 
 ## Machine Learning
 [[017 Aprendizado de Máquina]]
