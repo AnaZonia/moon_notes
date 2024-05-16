@@ -13,6 +13,7 @@ if running stan across multiple cores, I need to compile it first. it'll try and
 in R portion of stan code, dont run 30 instances, run only first. and run the dumbest version of it first so that it compiles.
 
 
+[color scheme - How to add theme in Visual Studio Code? - Stack Overflow](https://stackoverflow.com/questions/30011737/how-to-add-theme-in-visual-studio-code)
 
 ## 13/05/2024, Chapter 1
 - QGIS earth engine can be useful for publication-grade images
