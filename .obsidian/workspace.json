@@ -11,8 +11,24 @@
             "id": "c59765d7a728452a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ana Did Science Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "79fa515a3ee3b4de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bureaucracy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -80,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ana Did Science Today.md"
+              }
             }
           },
           {
@@ -89,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,6 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,11 +191,11 @@
   },
   "active": "c59765d7a728452a",
   "lastOpenFiles": [
-    "3 Floresta Aleatória/R Stats.md",
-    "Ana Did Science Today.md",
-    "2 Research/Strassburg 2020 - Global priority areas for ecosystem restoration.md",
-    "001 The Bridge.md",
     "Bureaucracy.md",
+    "001 The Bridge.md",
+    "Ana Did Science Today.md",
+    "3 Floresta Aleatória/R Stats.md",
+    "2 Research/Strassburg 2020 - Global priority areas for ecosystem restoration.md",
     "002 Data Sources.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Monthly AET - USGS.md",

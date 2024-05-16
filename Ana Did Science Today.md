@@ -3,6 +3,17 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 16/05/2024
+foreach with lab supercomputer 
+use so that each core could use a partition of the data
+if it's gigs worth of data, ask for Brian's help on partitioning it
+Each core is saving things - make sure that one core per computer is compiled first, then stop, then run everything else afterwards.
+
+if running stan across multiple cores, I need to compile it first. it'll try and run and compile 
+in R portion of stan code, dont run 30 instances, run only first. and run the dumbest version of it first so that it compiles.
+
+
+
 ## 13/05/2024, Chapter 1
 - QGIS earth engine can be useful for publication-grade images
 
