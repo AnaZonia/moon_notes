@@ -18,12 +18,11 @@ git clone https://github.com/AnaCAvila/forest_regrowth.git
 git remote add origin https://github.com/AnaCAvila/forest_regrowth.git
 ```
 
-Note that there may be a need to create a token on github to create a new local repository in case you initiate with SSH. There is a pubkey saved in janus, and this is the one that was generated in github: 
-
-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
+Note that there may be a need to create a token on github to create a new local repository in case you initiate with SSH.
 
 Apparently, there's issues using SSH, although it's a good option for people concerned about security. In general cases, stick with https.
 ==attention==: even with https you may need to authenticate on browser. If so, a pop up window will appear.
+
 ### git bash
 basically git's own terminal! easy to use on windows after you install git. good alternative to windows' trash CD language.
 
@@ -220,6 +219,7 @@ The `git rm` command, along with the `--cached` option, deletes the file fro
 
 Right now, I have my gitignore file ignoring folders with large data or virtual environment directories.
 
+[One example of a gitignore file for a project using R and Python](https://www.toptal.com/developers/gitignore/api/python,r)
 ## Resources
 
 [GitHub Skills](https://skills.github.com/)

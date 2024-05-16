@@ -4,6 +4,12 @@ up:
 dg-publish: true
 ---
 ## 16/05/2024
+
+Email Jeff Cardille
+- python script and dataframe
+- proposal for research
+- AVOCADO - improvement on it?
+- Reaching out to MAPBIOMAS people for collaboration. Here is my summary on it.
 foreach with lab supercomputer 
 use so that each core could use a partition of the data
 if it's gigs worth of data, ask for Brian's help on partitioning it
