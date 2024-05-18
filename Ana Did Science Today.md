@@ -5,6 +5,8 @@ dg-publish: true
 ---
 Now I have time since fire before observation (2020), but I wonder if time before regrowth would be best (basically time before observation - age?)
 
+Also, how long before regrowth was the fallow?
+
 ## 16/05/2024
 
 Email Jeff Cardille

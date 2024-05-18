@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "MAPBIOMAS LULC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "MAPBIOMAS LULC.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "MAPBIOMAS LULC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "MAPBIOMAS LULC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,6 +179,7 @@
   },
   "active": "c59765d7a728452a",
   "lastOpenFiles": [
+    "Ana Did Science Today.md",
     "001 The Bridge.md",
     "Ecoregions.md",
     "Methods Writing.md",
@@ -186,7 +187,6 @@
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "002 Data Sources.md",
     "2 Research/Ma 2023 - Global forest fragmentation change from 2000 to 2020.md",
-    "Ana Did Science Today.md",
     "3 Floresta Aleatória/Python.md",
     "Github.md",
     "Untitled.md",
