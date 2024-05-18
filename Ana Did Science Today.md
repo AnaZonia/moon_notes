@@ -3,6 +3,8 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+Now I have time since fire before observation (2020), but I wonder if time before regrowth would be best (basically time before observation - age?)
+
 ## 16/05/2024
 
 Email Jeff Cardille

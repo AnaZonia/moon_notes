@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Floresta Aleatória/Python.md",
+                "file": "Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Floresta Aleatória/Python.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Floresta Aleatória/Python.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Floresta Aleatória/Python.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,16 +179,21 @@
   },
   "active": "c59765d7a728452a",
   "lastOpenFiles": [
+    "001 The Bridge.md",
+    "Ecoregions.md",
+    "Methods Writing.md",
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+    "002 Data Sources.md",
+    "2 Research/Ma 2023 - Global forest fragmentation change from 2000 to 2020.md",
     "Ana Did Science Today.md",
+    "3 Floresta Aleatória/Python.md",
     "Github.md",
     "Untitled.md",
     "Bureaucracy.md",
     "Land Use.md",
-    "001 The Bridge.md",
     "3 Floresta Aleatória/R Stats.md",
     "2 Research/Strassburg 2020 - Global priority areas for ecosystem restoration.md",
-    "002 Data Sources.md",
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Monthly AET - USGS.md",
     "TerraClimate.md",
     "Biogeochemistry.md",
@@ -197,16 +202,11 @@
     "Files/cwd monthly.png",
     "Google Earth Engine.md",
     "3 Floresta Aleatória/012 Inferência Bayesiana.md",
-    "3 Floresta Aleatória/Python.md",
     "Computers and Bash.md",
     "Files/Computers and Bash.png",
     "100 A Floresta Aleatória.md",
     "SoilGrids.md",
     "FAO Soil Map of the World.md",
-    "Methods Writing.md",
-    "Ecoregions.md",
-    "Conferences and Funding.md",
-    "3 Floresta Aleatória/Variáveis Censuradas e Truncadas.md",
     "Regrowth.canvas",
     "Climate Change.canvas",
     "Background Flowchart.canvas",
@@ -218,7 +218,6 @@
     "Biodiversity-1.canvas",
     "Community Ecology.canvas",
     "Fire Effects on Tropical Forests.canvas",
-    "Climate Change Impacts on Tropical Forests.canvas",
     "Files/Prensa Neotropical - Puertos de Panamá.pdf",
     "Files/Ana Did Science Today-1.pdf",
     "Files/REDD+.pdf",
