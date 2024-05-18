@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAPBIOMAS LULC.md",
+                "file": "Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAPBIOMAS LULC.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAPBIOMAS LULC.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MAPBIOMAS LULC.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,8 +179,9 @@
   },
   "active": "c59765d7a728452a",
   "lastOpenFiles": [
-    "Ana Did Science Today.md",
     "001 The Bridge.md",
+    "MAPBIOMAS LULC.md",
+    "Ana Did Science Today.md",
     "Ecoregions.md",
     "Methods Writing.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",

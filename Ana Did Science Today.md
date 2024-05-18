@@ -3,6 +3,9 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+![](https://i.imgur.com/H18r1f2.png)
+
 Now I have time since fire before observation (2020), but I wonder if time before regrowth would be best (basically time before observation - age?)
 
 Also, how long before regrowth was the fallow?
