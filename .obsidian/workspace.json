@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "3 Floresta Aleatória/R Stats.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "3 Floresta Aleatória/R Stats.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "3 Floresta Aleatória/R Stats.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "3 Floresta Aleatória/R Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,9 +179,12 @@
   },
   "active": "c59765d7a728452a",
   "lastOpenFiles": [
-    "ESA CCI Biomass.md",
+    "Computers and Bash.md",
+    "3 Floresta Aleatória/Python.md",
     "Ana Did Science Today.md",
     "001 The Bridge.md",
+    "Google Earth Engine.md",
+    "ESA CCI Biomass.md",
     "Conferences and Funding.md",
     "MAPBIOMAS LULC.md",
     "Ecoregions.md",
@@ -190,7 +193,6 @@
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "002 Data Sources.md",
     "2 Research/Ma 2023 - Global forest fragmentation change from 2000 to 2020.md",
-    "3 Floresta Aleatória/Python.md",
     "Github.md",
     "Untitled.md",
     "Bureaucracy.md",
@@ -203,9 +205,7 @@
     "Cumulative Water Deficit.md",
     "Chave 2014.md",
     "Files/cwd monthly.png",
-    "Google Earth Engine.md",
     "3 Floresta Aleatória/012 Inferência Bayesiana.md",
-    "Computers and Bash.md",
     "Files/Computers and Bash.png",
     "100 A Floresta Aleatória.md",
     "Regrowth.canvas",

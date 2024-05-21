@@ -10,6 +10,9 @@ dg-publish: true
 - Simulated annealing
 
 Biomass data for 2010 - could that help, by adding more data - running it for secondary forests in 2010?
+
+Email Andrew and Renata
+
 ## 20/05/2024, Sunday
 - sample and export data again to make sure it's the exact same.
 
