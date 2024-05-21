@@ -5,6 +5,11 @@ dg-publish: true
 ---
 ## 21/05/2024, Monday
 
+- Include it with a flat prior - a shaped prior is only useful for 
+- Run it with a flat prior
+- Simulated annealing
+
+Biomass data for 2010 - could that help, by adding more data - running it for secondary forests in 2010?
 ## 20/05/2024, Sunday
 - sample and export data again to make sure it's the exact same.
 
