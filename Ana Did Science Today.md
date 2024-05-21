@@ -3,6 +3,10 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 21/05/2024, Monday
+
+## 20/05/2024, Sunday
+- sample and export data again to make sure it's the exact same.
 
 ![](https://i.imgur.com/H18r1f2.png)
 
@@ -10,7 +14,7 @@ Now I have time since fire before observation (2020), but I wonder if time befor
 
 Also, how long before regrowth was the fallow?
 
-## 16/05/2024
+## 16/05/2024, Thursday
 
 Email Jeff Cardille
 - python script and dataframe
