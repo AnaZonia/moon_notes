@@ -3,15 +3,40 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## 21/05/2024, Monday
+## 22/05/2024, Wednesday
+Every Tuesday, it's time to think over the week's tasks and prioritize.
+
+### Articles to read this week
+- Forest restoration in practice across Latin America
+- Flores 2024
+- Global Forest Frag Ma 2023
+- Zuquim 2023
+
+### Emails to send
+- Obsidian help group
+- Andrew and Renata
+- Jeff Hall
+- Jeff Cardille
+
+### Code to write
+- Export rainfall
+- Organize modelling in R
+- Finish modelling in Python
+
+Next week, I need to spend some time to think about PANGEA and the Alliance.
+### Goals for next week
+- Read over [[PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation|PANGEA]] Ecosystem Structure, Function, and Diversity Working Group conclusions and make my points. Would be interesting to do this with Katie.
+- Send [[Chapter 1 - Predicting Regrowth in the Amazon]] summary to collaborators. Does not need to be anything too elaborate I don't think, just show where the code is right now.
+
+## 21/05/2024, Tue - Supervisor meeting
 
 - Include it with a flat prior - a shaped prior is only useful for 
 - Run it with a flat prior
 - Simulated annealing
 
-Biomass data for 2010 - could that help, by adding more data - running it for secondary forests in 2010?
+Distinguishing between mature forests (all forest since 1985) and fallow would be useful.
 
-Email Andrew and Renata
+Biomass data for 2010 - could that help, by adding more data - running it for secondary forests in 2010?
 
 ## 20/05/2024, Sunday
 - sample and export data again to make sure it's the exact same.
@@ -36,9 +61,6 @@ Each core is saving things - make sure that one core per computer is compiled fi
 
 if running stan across multiple cores, I need to compile it first. it'll try and run and compile 
 in R portion of stan code, dont run 30 instances, run only first. and run the dumbest version of it first so that it compiles.
-
-
-[color scheme - How to add theme in Visual Studio Code? - Stack Overflow](https://stackoverflow.com/questions/30011737/how-to-add-theme-in-visual-studio-code)
 
 ## 13/05/2024, Chapter 1
 - QGIS earth engine can be useful for publication-grade images
@@ -70,7 +92,6 @@ dynamic world has a lot of daily noise
 - Send this to the collaborator.
 
 ## 10/05/2024, Chapter 1
-
 - check when new protected areas were established.
 ## 09/05/2024, Chapter 1
 

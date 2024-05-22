@@ -16,7 +16,14 @@ update: Oct 8th 2023
 
 ## People
 ```dataview
-TABLE WITHOUT ID link(file.link, file.name), location
+TABLE WITHOUT ID link(file.link, file.name) as "Name", location
 FROM [[]]
 WHERE contains(type, "researcher")
+```
+
+## Articles
+```dataview
+LIST 
+FROM "2 Research" AND [[]]
+
 ```

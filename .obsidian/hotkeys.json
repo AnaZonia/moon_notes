@@ -193,5 +193,13 @@
       ],
       "key": "Enter"
     }
+  ],
+  "workspace:new-tab": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
   ]
 }

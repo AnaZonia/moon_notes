@@ -5,6 +5,9 @@
 ## Authors:
 [[Crouzeilles, Renato]], [[Ferreira, Mariana S.]], [[Chazdon, Robin L.]], [[Lindenmayer, David B.]], [[Sansevero, Jerônimo B. B.]], [[Monteiro, Lara]], [[Iribarrem, Alvaro]], [[Latawiec, Agnieszka E.]], [[Strassburg, Bernardo B. N.]]
 
+## Links
+[[Regrowth]]
+
 ## Notes:
 The data comes from [[Forest restoration - a global dataset for biodiversity and vegetation structure]]
 
