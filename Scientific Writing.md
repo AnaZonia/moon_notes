@@ -22,6 +22,8 @@ update: Nov 25th 2023
 - *Add subheadings* - you can always take them away later.
 - Interesting to write a title as personifying the object of study, when speaking to the public.
 - Short titles get more attention.
+- Avoid using a "back to front" sentence structure, when the verb comes late into the sentence (often involves passive voice)
+- Also avoid clauses in the middle of the sentences (phrases nested by two commas)
 
 ### Useful links
 - [OpenAcademics Writing References](https://www.oacommunity.org/resources)

@@ -8,19 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c59765d7a728452a",
+            "id": "4ae481dd95231c74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md",
+                "file": "2 Research/Cole 2024 - Forest restoration in practice across Latin America.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c52fe5b8189f52b6",
+            "id": "f60c579b2ff4f42a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "59a7ddce7f66ea0d",
+            "id": "b89f3de7678e31c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Regrowth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ae481dd95231c74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Research/Cole 2024 - Forest restoration in practice across Latin America.md",
+                "file": "Bureaucracy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Research/Cole 2024 - Forest restoration in practice across Latin America.md"
+                "file": "Bureaucracy.md"
               }
             }
           },
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Research/Cole 2024 - Forest restoration in practice across Latin America.md",
+                "file": "Bureaucracy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -186,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Research/Cole 2024 - Forest restoration in practice across Latin America.md",
+                "file": "Bureaucracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,36 +201,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4ae481dd95231c74",
+  "active": "b89f3de7678e31c0",
   "lastOpenFiles": [
+    "001 The Bridge.md",
+    "2 Research/Cole 2024 - Forest restoration in practice across Latin America.md",
+    "Ana Did Science Today.md",
+    "2 Research/Verbesselt 2016 - Remotely sensed resilience of tropical forests.md",
+    "Forest restoration - a global dataset for biodiversity and vegetation structure.md",
+    "2 Research/Davidson 2004 - Nitrogen and Phosphorus Limitation of Biomass Growth in a Tropical Secondary Forest.md",
+    "2 Research/Davidson 2007 - Recuperation of nitrogen cycling in Amazonian forests following agricultural abandonment.md",
+    "2 Research/Chazdon 2016 - Carbon sequestration potential of second-growth forest regeneration in the Latin American tropics.md",
+    "2 Research/Cook-Patton 2020 - Mapping carbon accumulation potential from global natural forest regrowth.md",
+    "2 Research/Crouzeilles 2016 - Which landscape size best predicts the influence of forest cover on restoration success A global meta-analysis on the scale of effect.md",
+    "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md",
+    "Bureaucracy.md",
+    "002 Data Sources.md",
+    "Scientific Writing.md",
     "Regrowth.md",
     "Forest Restoration.md",
-    "2 Research/Cole 2024 - Forest restoration in practice across Latin America.md",
     "Templates/Research article.md",
     "Regrowth.canvas",
-    "Ana Did Science Today.md",
     "Biogeochemistry.md",
     "200 Life Sciences.md",
-    "001 The Bridge.md",
     "Powers, Jennifer S..md",
-    "2 Research/Chazdon 2016 - Carbon sequestration potential of second-growth forest regeneration in the Latin American tropics.md",
-    "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md",
     "People.md",
     "Tropical Forest Ecology.md",
     "Crouzeilles, Renato.md",
-    "002 Data Sources.md",
     "3 Floresta Aleatória/R Stats.md",
     "Computers and Bash.md",
     "3 Floresta Aleatória/Python.md",
-    "Google Earth Engine.md",
-    "ESA CCI Biomass.md",
-    "Conferences and Funding.md",
-    "MAPBIOMAS LULC.md",
-    "Ecoregions.md",
-    "Methods Writing.md",
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
-    "2 Research/Ma 2023 - Global forest fragmentation change from 2000 to 2020.md",
     "Files/cwd monthly.png",
     "Files/Computers and Bash.png",
     "Climate Change.canvas",

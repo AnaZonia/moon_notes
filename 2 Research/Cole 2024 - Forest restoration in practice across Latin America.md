@@ -1,6 +1,5 @@
 >[!summary] Restoration initiatives are diverse but need to be more efficient
-
-
+>Funding periods and amounts need to be better distributed to project needs, extent, time length, and goals.
 
 >[!quote] Cited
 ## Authors:
@@ -33,5 +32,6 @@ Only one respondent was from Panama.
 	- active planting predominant
 	- natural preferred in large scale
 - Costs varied a lot across projects
+- Monitoring costs were a big reason why things were so expensive, and often the information from monitoring did not adequately inform on the initial goal of the project (biodiversity, carbon, etc)
 
 
