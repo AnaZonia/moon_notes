@@ -32,19 +32,45 @@
             }
           },
           {
-            "id": "b89f3de7678e31c0",
+            "id": "b6997d799918d9ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bureaucracy.md",
+                "file": "Regrowth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ece81d41a5cdfa1d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Regrowth.canvas",
+                "viewState": {
+                  "x": 2928.676653895987,
+                  "y": -936.2696717448719,
+                  "zoom": -1.782355203228554
+                }
+              }
+            }
+          },
+          {
+            "id": "5c230da87049d994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regrowth.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bureaucracy.md"
+                "file": "2 Research/Cole 2024 - Forest restoration in practice across Latin America.md"
               }
             }
           },
@@ -120,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bureaucracy.md",
+                "file": "2 Research/Cole 2024 - Forest restoration in practice across Latin America.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -162,7 +188,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f068f42a2a1ada76",
@@ -174,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bureaucracy.md",
+                "file": "2 Research/Cole 2024 - Forest restoration in practice across Latin America.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,10 +228,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b89f3de7678e31c0",
+  "active": "4ae481dd95231c74",
   "lastOpenFiles": [
-    "001 The Bridge.md",
+    "Regrowth.canvas",
+    "Regrowth.md",
+    "Tropical Forest Ecology.md",
+    "Disturbance.md",
+    "200 Life Sciences.md",
+    "Ecosystem Functioning.md",
     "2 Research/Cole 2024 - Forest restoration in practice across Latin America.md",
+    "Bureaucracy.md",
+    "001 The Bridge.md",
     "Ana Did Science Today.md",
     "2 Research/Verbesselt 2016 - Remotely sensed resilience of tropical forests.md",
     "Forest restoration - a global dataset for biodiversity and vegetation structure.md",
@@ -214,22 +248,14 @@
     "2 Research/Cook-Patton 2020 - Mapping carbon accumulation potential from global natural forest regrowth.md",
     "2 Research/Crouzeilles 2016 - Which landscape size best predicts the influence of forest cover on restoration success A global meta-analysis on the scale of effect.md",
     "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md",
-    "Bureaucracy.md",
     "002 Data Sources.md",
     "Scientific Writing.md",
-    "Regrowth.md",
     "Forest Restoration.md",
     "Templates/Research article.md",
-    "Regrowth.canvas",
     "Biogeochemistry.md",
-    "200 Life Sciences.md",
     "Powers, Jennifer S..md",
     "People.md",
-    "Tropical Forest Ecology.md",
     "Crouzeilles, Renato.md",
-    "3 Floresta Aleatória/R Stats.md",
-    "Computers and Bash.md",
-    "3 Floresta Aleatória/Python.md",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Files/cwd monthly.png",
     "Files/Computers and Bash.png",

@@ -11,8 +11,8 @@
 
 Previous studies, many from [[Brancalion, Pedro H. S.|Brancalion, Pedro]], have also studied restoration methods, but not considered cost.
 
-There were many participants from Costa Rica, way more in proportion with its territory. Shows how well restoration is going there.
-Only one respondent was from Panama. 
+There were many participants from Costa Rica, way more in proportion with its territory. Shows how well restoration is going there, also helps that the study was led by a Costa Rican.
+Only one respondent was from Panama. It is expected that timber companies would not respond as much, and timber forests are underrepresented.
 
 ### Findings
 - Most of the funding came from NGOs, followed by private donors, and in THIRD PLACE the government.
@@ -23,10 +23,10 @@ Only one respondent was from Panama.
 - about one third of projects had food security as a motivator
 - The third largest motivator, beyond biodiversity and climate change, was regulating ecosystem services.  
 - Remote sensing is most commonly used for monitoring biodiversity
--  One third of projects used agroforestry
+- One third of projects used agroforestry
 - The maintenance cost over large timescales can be very high - between 2-5k USD per hectare for 3.5 years
 - Maintenance period for tree planting is short when companies are hired with < 4 year funding cycles - the need is to maintain care over the area for longer periods to ensure success
-  
+
 ### Main takeaways
 - Most restoration initiatives used multiple strategies and had multiple goals
 	- active planting predominant

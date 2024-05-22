@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
- - [[Evolution]]
+- [[Evolution]]
 - [[Biogeochemistry]]
 - [[Theoretical Ecology]]
 - [[Predictive Ecology]]
@@ -13,7 +13,6 @@ dg-publish: true
 - [[Community Ecology.canvas|Community Ecology]]
 - [[Macroecology]]
 - [[Connectivity]]
-- [[Ecosystem Functioning]]
 - [[Invasion Ecology]]
 
 ## Textbooks
