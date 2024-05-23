@@ -9,6 +9,7 @@
 [[Chazdon, Robin L.]], [[Broadbent, Eben N.]], [[Rozendaal, Danaë M. A.]], [[Bongers, Frans]], [[Zambrano, Angélica María Almeyda]], [[Aide, T. Mitchell]], [[Balvanera, Patricia]], [[Becknell, Justin M.]], [[Boukili, Vanessa]], [[Brancalion, Pedro H. S.]], [[Craven, Dylan]], [[Almeida-Cortez, Jarcilene S.]], [[Cabral, George A. L.]], [[De Jong, Ben]], [[Denslow, Julie S.]], [[Dent, Daisy H.]], [[DeWalt, Saara J.]], [[Dupuy, Juan M.]], [[Durán, Sandra M.]], [[Espírito-Santo, Mario M.]], [[Fandino, María C.]], [[César, Ricardo G.]], [[Hall, Jefferson S.]], [[Hernández-Stefanoni, José Luis]], [[Jakovac, Catarina C.]], [[Junqueira, André B.]], [[Kennard, Deborah]], [[Letcher, Susan G.]], [[Lohbeck, Madelon]], [[Martínez-Ramos, Miguel]], [[Massoca, Paulo]], [[Meave, Jorge A.]], [[Mesquita, Rita]], [[Mora, Francisco]], [[Muñoz, Rodrigo]], [[Muscarella, Robert]], [[Nunes, Yule R. F.]], [[Ochoa-Gaona, Susana]], [[Orihuela-Belmonte, Edith]], [[Peña-Claros, Marielos]], [[Pérez-García, Eduardo A.]], [[Piotto, Daniel]], [[Powers, Jennifer S.]], [[Rodríguez-Velazquez, Jorge]], [[Romero-Pérez, Isabel Eunice]], [[Ruíz, Jorge]], [[Saldarriaga, Juan G.]], [[Sanchez-Azofeifa, Arturo]], [[Schwartz, Naomi B.]], [[Steininger, Marc K.]], [[Swenson, Nathan G.]], [[Uriarte, Maria]], [[Van Breugel, Michiel]], [[Van Der Wal, Hans]], [[Veloso, Maria D. M.]], [[Vester, Hans]], [[Vieira, Ima C. G.|Vieira, Ima Celia G.]], [[Bentos, Tony Vizcarra]], [[Williamson, G. Bruce]], [[Poorter, Lourens]]
 ## Links
 [[Regrowth]]
+[[Biogeochemistry]]
 
 ## Notes:
  

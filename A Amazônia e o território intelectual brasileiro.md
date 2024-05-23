@@ -10,5 +10,4 @@ tags:
 ---
 >[!summary]
 
-
 ![[amazonia e territorio intelectual.jpeg]]

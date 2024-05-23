@@ -1,4 +1,4 @@
->[!summary] Summary
+ >[!summary] Summary
 >Similarly to what happens on primary succession, young forests are limited by N and as they age they become N-sufficient and are limited by P.
 
 >[!quote] Cited

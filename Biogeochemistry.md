@@ -12,7 +12,8 @@ update: Oct 8th 2023
 - [[Leaf Economics Spectrum]]
 - [[Gaia Hypothesis]]
 - [[Eddy Covariance]]
-
+- [[Carbon]]
+- 
 
 ## People
 ```dataview
