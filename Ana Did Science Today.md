@@ -3,7 +3,10 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## 22/05/2024, Wednesday
+## 23/05/2024, Thu - 
+
+
+## 22/05/2024, Wed - 
 Every Tuesday, it's time to think over the week's tasks and prioritize.
 
 Emails have been sent and there's been some good advance on the logistic side of things, but very little coding done as of yet.
