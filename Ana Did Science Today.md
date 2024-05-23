@@ -6,6 +6,9 @@ dg-publish: true
 ## 22/05/2024, Wednesday
 Every Tuesday, it's time to think over the week's tasks and prioritize.
 
+Emails have been sent and there's been some good advance on the logistic side of things, but very little coding done as of yet.
+
+## 21/05/2024, Weekly Goals
 ### Articles to read this week
 - Forest restoration in practice across Latin America
 - Flores 2024
@@ -30,8 +33,8 @@ Next week, I need to spend some time to think about PANGEA and the Alliance.
 
 ## 21/05/2024, Tue - Supervisor meeting
 
-- Include it with a flat prior - a shaped prior is only useful for 
 - Run it with a flat prior
+	- I already have, but that did not run with the parameters we have.
 - Simulated annealing
 
 Distinguishing between mature forests (all forest since 1985) and fallow would be useful.
@@ -54,6 +57,7 @@ Email Jeff Cardille
 - proposal for research
 - AVOCADO - improvement on it?
 - Reaching out to MAPBIOMAS people for collaboration. Here is my summary on it.
+
 foreach with lab supercomputer 
 use so that each core could use a partition of the data
 if it's gigs worth of data, ask for Brian's help on partitioning it
