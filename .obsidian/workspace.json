@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methods Writing.md",
+                "file": "Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 200
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -184,29 +184,29 @@
       }
     ],
     "direction": "horizontal",
-    "width": 412.5
+    "width": 200.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "cmdr:Open current tab in new window": false,
+      "templater-obsidian:Templater": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-gallery:Gallery": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "cmdr:Open current tab in new window": false,
-      "obsidian-gallery:Gallery": false,
-      "digitalgarden:Digital Garden Publication Center": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cbe5207b6de9edc4",
+  "active": "47492ffdd78b995c",
   "lastOpenFiles": [
     "Methods Writing.md",
+    "Github.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "001 The Bridge.md",
-    "Github.md",
     "Background Writing.md",
     "2 Research/Jakovac 2021 - The role of land‐use history in driving successional pathways and its implications for the restoration of tropical forests.md",
     "300 Doing Science.md",

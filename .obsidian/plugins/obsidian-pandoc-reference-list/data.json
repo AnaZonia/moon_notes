@@ -1,5 +1,5 @@
 {
-  "pathToPandoc": "",
+  "pathToPandoc": "/app/bin/pandoc",
   "tooltipDelay": 400,
   "zoteroGroups": [],
   "renderCitations": true,
