@@ -16,6 +16,9 @@ git clone https://github.com/AnaCAvila/forest_regrowth.git
 
 # to initiate a remote repository (origin) that already exists,
 git remote add origin https://github.com/AnaCAvila/forest_regrowth.git
+
+git config user.name "AnaZonia"
+git config user.password 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
 ```
 
 Note that there may be a need to create a token on github to create a new local repository in case you initiate with SSH.
