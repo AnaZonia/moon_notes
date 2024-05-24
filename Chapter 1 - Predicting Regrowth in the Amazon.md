@@ -11,7 +11,6 @@ dg-publish: true
 - [[Methods Writing]]
 - [[Methods Flowchart - Predicting Regrowth in the Amazon.canvas|Methods Flowchart]]
 
-
 #### Log-transform
 Linearize the model
 
