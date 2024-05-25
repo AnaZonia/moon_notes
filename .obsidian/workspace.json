@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computers and Bash.md"
+                "file": "Github.md"
               }
             }
           },
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computers and Bash.md",
+                "file": "Github.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computers and Bash.md",
+                "file": "Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,10 +200,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "cbe5207b6de9edc4",
+  "active": "f60c579b2ff4f42a",
   "lastOpenFiles": [
-    "Github.md",
     "Computers and Bash.md",
+    "Github.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Google Earth Engine.md",
     "Methods Writing.md",
