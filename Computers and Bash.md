@@ -67,10 +67,6 @@ pip install -r file.txt
 # get the packages installed in the correct format for a txt file to be installed in a different directory
 pip freeze > packages.txt
 
-# install R
-sudo apt install r-base r-base-dev -y
-# r-base-dev allows to install from the R console
-
 #set aliases
 alias python='/usr/bin/python3'
 
@@ -84,15 +80,9 @@ rm -rf directory/
 # make a directory
 mkdir my_project
 
-# upgrade all packages and their dependencies
-sudo apt-get dist-upgrade
-
-# in case you need to install R packages that aren't available because of curl,
-sudo apt-get install libcurl4-openssl-dev r-base libssl-dev libudunits2-dev libfontconfig1-dev openssl libnetcdf-dev libharfbuzz-dev libfribidi-dev libxml2-dev libfreetype6-dev libpng-dev libtiff5-dev libjpeg-dev gdal-bin libgdal-dev libprotobuf-dev libjq-dev protobuf-compiler
-# bear in mind that libcurl4 by itself removes the r-base packages.
-# curl and httr packages may need to be installed for other packages to run
-R -q -e "install.packages(c('curl', 'httr'))"
 ```
+
+
 ![[Computers and Bash-1.png]]
 ### Manage files
 
@@ -168,7 +158,7 @@ echo $num
 # remember $ indicates variables
 ```
 
-### Linux initial setups
+### Fedora initial setups
 
 ```bash
 # Making tab autocomplete case-insensitive
@@ -178,10 +168,24 @@ echo 'set completion-ignore-case on' | sudo tee -a /etc/inputrc
 echo 'set enable-bracketed-paste off' | sudo tee -a /etc/inputrc
 
 # install dconf-editor and disable audible-bell
+sudo dnf install dconf-editor
+gsettings set org.gnome.desktop.sound event-sounds false
 
 # install github CLI for https authentication
 sudo dnf install gh
 
+# for tidyverse and other R packages
+sudo dnf install libcurl-devel openssl-devel proj-devel geos-devel sqlite-devel udunits2-devel
 
+# upgrade all packages and their dependencies
+sudo apt-get dist-upgrade
+
+# curl and httr packages may need to be installed for other packages to run
+R -q -e "install.packages(c("curl", "httr", "openssl", "tidyverse", # required for tidyverse in Fedora
+                   "terra", "rstan", "cmdstanr", "ggplot2",
+                   "remotes", "Rcpp", "sf", "terra" # required for terra
+                   ))"
 ```
 
+### Add Python to ipykernel for jupyterlab
+/home/anazonia/Documents/forest_regrowth/forest_env/bin/python -m ipykernel install --user --name 'forest_env'
