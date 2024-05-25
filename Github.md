@@ -44,6 +44,9 @@ git config --global user.name "AnaZonia"
 git config --global user.password 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
 ```
 
+The password is the personal access token. make sure it's open enough to allow proper handling of scripts.
+
+Using GitHub CLI, the credentials are stored and initialized automatically.
 ## git commit
 
 ```bash

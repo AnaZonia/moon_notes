@@ -178,5 +178,8 @@ echo 'set completion-ignore-case on' | sudo tee -a /etc/inputrc
 echo 'set enable-bracketed-paste off' | sudo tee -a /etc/inputrc
 
 # install dconf-editor and disable audible-bell
+
+# install github CLI for https authentication
+sudo dnf install gh
 ```
 
