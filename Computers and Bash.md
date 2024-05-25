@@ -177,6 +177,6 @@ echo 'set completion-ignore-case on' | sudo tee -a /etc/inputrc
 # Removing brackets from paste
 echo 'set enable-bracketed-paste off' | sudo tee -a /etc/inputrc
 
-
+# install dconf-editor and disable audible-bell
 ```
 
