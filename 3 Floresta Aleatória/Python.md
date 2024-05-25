@@ -18,6 +18,7 @@ sudo apt install python3.10-venv
 
 # create a new virtual environment
 python3 -m venv forest_env
+
 # to create a venv with all the packages from the global installation:
 python3 -m venv forest_env --system-site-packages
 

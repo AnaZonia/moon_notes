@@ -30,7 +30,7 @@
 [fasterRaster](https://rdrr.io/github/adamlilith/fasterRaster/man/fasterProjectRaster.html)
 [nn2: Nearest Neighbour in df or matrix](https://rdrr.io/cran/RANN/man/nn2.html)
 [sits: Satellite image time series in R](https://github.com/e-sensing/sits)
-
+http://adv-r.had.co.nz/Rcpp.html
 [classify function - RDocumentation](https://www.rdocumentation.org/packages/RandPro/versions/0.2.2/topics/classify)
 factors are labelled numbers
 Difference between RData, rds, R file types

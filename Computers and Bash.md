@@ -182,8 +182,6 @@ echo 'set enable-bracketed-paste off' | sudo tee -a /etc/inputrc
 # install github CLI for https authentication
 sudo dnf install gh
 
-gsettings set org.gnome.desktop.interface gtk-theme "Material-Black-Pistachio-2.9.9-07"
-gsettings set org.gnome.desktop.wm.preferences theme "Material-Black-Pistachio-2.9.9-07"
 
 ```
 
