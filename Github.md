@@ -41,7 +41,7 @@ git config --global user.email "aavila@mail.mcgill.ca"
 
 git config --global user.name "AnaZonia"
 
-git config --global user.password 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
+git config --global user.password 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
 ```
 
 ## git commit

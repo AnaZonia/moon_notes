@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github.md",
+                "file": "Computers and Bash.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Google Earth Engine.md"
+                "file": "Github.md"
               }
             }
           },
@@ -120,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "Github.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -174,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Google Earth Engine.md",
+                "file": "Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,12 +200,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "47492ffdd78b995c",
+  "active": "f60c579b2ff4f42a",
   "lastOpenFiles": [
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Computers and Bash.md",
     "Github.md",
+    "Google Earth Engine.md",
     "Methods Writing.md",
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "001 The Bridge.md",
     "Background Writing.md",
     "2 Research/Jakovac 2021 - The role of land‐use history in driving successional pathways and its implications for the restoration of tropical forests.md",
@@ -229,7 +229,6 @@
     "Climate Change.canvas",
     "Nice new person.md",
     "Untitled 1.md",
-    "Templates/Research article.md",
     "Regrowth.canvas",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Files/cwd monthly.png",

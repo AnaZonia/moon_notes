@@ -167,3 +167,16 @@ echo can also show the contents of a variable:
 echo $num
 # remember $ indicates variables
 ```
+
+### Linux initial setups
+
+```bash
+# Making tab autocomplete case-insensitive
+echo 'set completion-ignore-case on' | sudo tee -a /etc/inputrc
+
+# Removing brackets from paste
+echo 'set enable-bracketed-paste off' | sudo tee -a /etc/inputrc
+
+
+```
+
