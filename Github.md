@@ -41,7 +41,7 @@ git config --global user.email "aavila@mail.mcgill.ca"
 
 git config --global user.name "AnaZonia"
 
-git config --global user.password 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
+git config --global user.password [insert personal access token]
 ```
 
 The password is the personal access token. make sure it's open enough to allow proper handling of scripts.
