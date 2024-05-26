@@ -19,10 +19,16 @@ git remote add origin https://github.com/AnaCAvila/forest_regrowth.git
 
 ```
 
-Note that there may be a need to create a token on github to create a new local repository in case you initiate with SSH.
-
 Apparently, there's issues using SSH, although it's a good option for people concerned about security. In general cases, stick with https.
 ==attention==: even with https you may need to authenticate on browser. If so, a pop up window will appear.
+
+
+For obsidian, it's useful to have this in the config file:
+```bash
+[remote "origin"]
+	url = https://[[personal access token]]@github.com/AnaZonia/moon_notes.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+```
 
 ### git bash
 basically git's own terminal! easy to use on windows after you install git. good alternative to windows' trash CD language.
