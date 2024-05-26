@@ -1,24 +1,20 @@
 {
-<<<<<<< HEAD
-  "commitMessage": "{{hostname)) backup: {{date}}",
-=======
-  "commitMessage": "{{hostname}} backup: {{date}}",
->>>>>>> 38fec139c0dc601caedbf9ecd7cdd306d6957139
+  "commitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
-  "autoSaveInterval": 60,
+  "autoSaveInterval": 0,
   "autoPushInterval": 0,
-  "autoPullInterval": 60,
-  "autoPullOnBoot": true,
+  "autoPullInterval": 0,
+  "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
   "disablePopupsForNoChanges": false,
-  "listChangedFilesInMessageBody": true,
-  "showStatusBar": false,
+  "listChangedFilesInMessageBody": false,
+  "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": true,
+  "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
@@ -26,11 +22,11 @@
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
-  "showBranchStatusBar": false,
+  "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
   "gitDir": "",
-  "showFileMenu": false,
+  "showFileMenu": true,
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,
   "lineAuthor": {
@@ -54,13 +50,7 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 5,
-    "lastShownAuthorDisplay": "initials",
-    "lastShownDateTimeFormatOptions": "date"
+    "gutterSpacingFallbackLength": 5
   },
-<<<<<<< HEAD
-  "autoCommitMessage": "{{hostname)) backup: {{date}}"
-=======
-  "autoCommitMessage": "{{hostname}} backup: {{date}}"
->>>>>>> 38fec139c0dc601caedbf9ecd7cdd306d6957139
+  "autoCommitMessage": "vault backup: {{date}}"
 }
