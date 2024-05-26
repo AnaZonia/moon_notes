@@ -8,7 +8,6 @@
   "obsidian-textgenerator-plugin",
   "highlightr-plugin",
   "tag-wrangler",
-  "obsidian-git",
   "obsidian-paste-image-rename",
   "float-search",
   "excalibrain",
@@ -30,5 +29,6 @@
   "obsidian-pandoc-reference-list",
   "obsidian-pandoc",
   "dataview",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-git"
 ]
