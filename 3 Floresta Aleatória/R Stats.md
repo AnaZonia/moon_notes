@@ -54,7 +54,27 @@ Note that some packages will work differently with data from stars, terra or ras
 ## Reproducible code and good practices
 ```bash
 # install many packages at once with their dependencies
-R -q -e "install.packages(c('terra', 'randomForest', 'tidyverse'), dependencies = TRUE)"
+R -q -e "install.packages(c("curl", "httr",
+
+"openssl", "tidyverse", # required for tidyverse in Fedora
+
+"terra", "rstan", "ggplot2",
+
+"remotes", "Rcpp", "sf", "terra", # required for terra
+
+"languageserver", "rmarkdown" # for VSCode and Bayesian
+
+), dependencies = TRUE)
+
+remotes::install_github(c("ManuelHentschel/vscDebugger", "stan-dev/cmdstanr"))
+
+install.packages("httpgd", repos = c(
+
+"https://nx10.r-universe.dev",
+
+"https://cran.r-project.org"
+
+))"
 ```
 
 ### [Unit Testing](https://www.geeksforgeeks.org/unit-testing-in-r-programming/) 
@@ -66,15 +86,6 @@ Note: the pipe operator can make loops/apply/per run much slower:
 
 ![](https://i.imgur.com/wKnlrvP.png)
 
-
-### VSCode Extensions
-[R in Visual Studio Code](https://code.visualstudio.com/docs/languages/r)
-#### IntelliSense Code Completion
-#### Linter
-[documentation](https://lintr.r-lib.org/articles/lintr.html#configuring-linters)
-- Checks the code for potential errors
-- Styler corrects these errors.
-#### Github Copilot
 
 
 #### Debugging

@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "protected areas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,12 +179,12 @@
   "active": "47492ffdd78b995c",
   "lastOpenFiles": [
     "001 The Bridge.md",
-    "Github.md",
-    "Computers and Bash.md",
+    "3 Floresta Aleatória/R Stats.md",
     "Ana Did Science Today.md",
+    "Computers and Bash.md",
+    "Github.md",
     "100 A Floresta Aleatória.md",
     "3 Floresta Aleatória/Python.md",
-    "3 Floresta Aleatória/R Stats.md",
     "Google Earth Engine.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Methods Writing.md",

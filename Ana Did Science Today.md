@@ -5,7 +5,13 @@ dg-publish: true
 ---
 ## 25/05 - 26/05, Sat - Sun - Stan considering distributions
 
-There were many git issues. they were all solved wi
+There were many git issues. they were all solved with the config file:
+```bash
+[remote "origin"]
+	url = https://[[personal access token]]@github.com/AnaZonia/moon_notes.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+```
+
 
 Sigma should be thought of as percentage of true value that is expected to vary.
 
