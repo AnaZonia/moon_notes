@@ -1,0 +1,12 @@
+{
+  "accentColor": "#cb7fc5",
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "baseFontSize": 26,
+  "translucency": false,
+  "enabledCssSnippets": [
+    "dataview_width",
+    "obsidian"
+  ],
+  "showViewHeader": true
+}

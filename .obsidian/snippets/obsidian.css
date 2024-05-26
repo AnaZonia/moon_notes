@@ -1,0 +1,15 @@
+
+
+#calendar-container [data-emoji-tag]::after {
+    content: attr(data-emoji-tag);
+    position: absolute;
+    top: -4px;
+    right: 4px;
+    height: 8px;
+    width: 8px;
+  }
+
+.callout[data-callout="glossary"] {
+    --callout-color: 255, 219, 88;
+    --callout-icon: sprout;
+}

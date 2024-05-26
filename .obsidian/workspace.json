@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "65701d1cc975603f",
+    "type": "split",
+    "children": [
+      {
+        "id": "53bc9d3c0f690312",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47492ffdd78b995c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f69081d9af503f59",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f8019cc210fca62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73760276f664cd91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fa4b3fde43a02b69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "protected areas",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "20c546b6f438462d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6dd32e945d853b19",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b3e5e477cb16920",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f7f1373e05d036e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Github.md"
+              }
+            }
+          },
+          {
+            "id": "b0c74e50e28a8d26",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Github.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "92789a8decab1d14",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6a230dcc8184e2d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "7a37bf2cb37fad4f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f068f42a2a1ada76",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3843f2c54ffd7a0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Github.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "cmdr:Open current tab in new window": false,
+      "templater-obsidian:Templater": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-gallery:Gallery": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "47492ffdd78b995c",
+  "lastOpenFiles": [
+    "Computers and Bash.md",
+    "Ana Did Science Today.md",
+    "001 The Bridge.md",
+    "Github.md",
+    "100 A Floresta Aleatória.md",
+    "3 Floresta Aleatória/Python.md",
+    "3 Floresta Aleatória/R Stats.md",
+    "Google Earth Engine.md",
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "Methods Writing.md",
+    "Background Writing.md",
+    "2 Research/Jakovac 2021 - The role of land‐use history in driving successional pathways and its implications for the restoration of tropical forests.md",
+    "300 Doing Science.md",
+    "Templates/4 People and networks.md",
+    "A Amazônia e o território intelectual brasileiro.md",
+    "Tropical Forest Ecology.md",
+    "002 Data Sources.md",
+    "Templates/Untitled.md",
+    "Templates/3 Data Source.md",
+    "Predictive Ecology.md",
+    "Untitled.md",
+    "200 Life Sciences.md",
+    "2 Research/Potvin 2011 - An ecosystem approach to biodiversity effects - Carbon pools in a tropical tree plantation.md",
+    "2 Research/Mancilla, Lady.md",
+    "Potvin, Catherine.md",
+    "People.md",
+    "Climate Change.canvas",
+    "Regrowth.canvas",
+    "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+    "Files/cwd monthly.png",
+    "Files/Computers and Bash.png",
+    "Background Flowchart.canvas",
+    "Nitrogen.canvas",
+    "Excalidraw/Predicting Regrowth in Central America - Project.svg",
+    "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
+    "Phosphorus.canvas",
+    "Climate Change and Tropical Forests.canvas",
+    "Biodiversity-1.canvas",
+    "Community Ecology.canvas",
+    "Fire Effects on Tropical Forests.canvas",
+    "Files/Prensa Neotropical - Puertos de Panamá.pdf",
+    "Files/Ana Did Science Today-1.pdf",
+    "Files/REDD+.pdf",
+    "Files/Ana Did Science Today.pdf",
+    "Project",
+    "moon.svg",
+    "Excalidraw/moon.svg.crdownload",
+    "Predicting Regrowth in Central America - Project-1.svg",
+    "moon.svg.crdownload",
+    "Predicting Regrowth in Central America - Project.svg",
+    "Files/Pasted Image 20240214131308_235.png",
+    "Files/Screenshot 2023-09-05 155256.png",
+    "Files/Screenshot 2023-09-05 192712.png",
+    "Files/albertHumanImpactsOutpace2023",
+    "Files/Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.pdf",
+    "3 Alexandria/Research"
+  ]
+}
