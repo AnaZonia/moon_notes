@@ -3,8 +3,20 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## 23/05/2024, Thu - 
+## 25/05 - 26/05, Sat - Sun - Stan considering distributions
 
+Sigma should be thought of as percentage of true value that is expected to vary.
+
+Dealing with censored data:
+// either set parameters with a parameter with a lower bound of 
+// or add a value with a distribution ranging from zero to the maximum year of colonization
+
+> fit.gamma$aic
+[1] 21223956
+> fit.weibull$aic
+[1] 21165728
+> fit.normal$aic
+[1] 21603847
 
 ## 22/05/2024, Wed - 
 Every Tuesday, it's time to think over the week's tasks and prioritize.
