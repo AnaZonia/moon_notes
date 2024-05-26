@@ -8,8 +8,6 @@ dg-publish: true
 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
 
 
-Editing from phone!!! So cool
-
 Sigma should be thought of as percentage of true value that is expected to vary.
 
 Dealing with censored data:
