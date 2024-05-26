@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "commitMessage": "{{hostname)) backup: {{date}}",
+=======
+  "commitMessage": "{{hostname}} backup: {{date}}",
+>>>>>>> 38fec139c0dc601caedbf9ecd7cdd306d6957139
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 60,
   "autoPushInterval": 0,
@@ -54,5 +58,9 @@
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   },
+<<<<<<< HEAD
   "autoCommitMessage": "{{hostname)) backup: {{date}}"
+=======
+  "autoCommitMessage": "{{hostname}} backup: {{date}}"
+>>>>>>> 38fec139c0dc601caedbf9ecd7cdd306d6957139
 }
