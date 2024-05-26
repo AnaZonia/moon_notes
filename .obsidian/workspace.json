@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Github.md"
               }
             }
           },
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Github.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,10 +178,10 @@
   },
   "active": "47492ffdd78b995c",
   "lastOpenFiles": [
+    "Computers and Bash.md",
+    "Ana Did Science Today.md",
     "001 The Bridge.md",
     "Github.md",
-    "Ana Did Science Today.md",
-    "Computers and Bash.md",
     "100 A Floresta Aleatória.md",
     "3 Floresta Aleatória/Python.md",
     "3 Floresta Aleatória/R Stats.md",

@@ -46,7 +46,8 @@ git config --global user.password [insert personal access token]
 
 The password is the personal access token. make sure it's open enough to allow proper handling of scripts.
 
-Using GitHub CLI, the credentials are stored and initialized automatically.
+Using GitHub CLI, the credentials are stored and initialized automatically. If needed, libsecret-devel must be installed (specially to use git with obsidian)
+
 ## git commit
 
 ```bash
