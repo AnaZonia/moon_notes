@@ -5,6 +5,8 @@ dg-publish: true
 ---
 ## 26/05
 
+Got github copilot with the free trial - must remember to update it asap.
+
 ## 25/05 - 26/05, Sat - Sun - Stan considering distributions
 
 There were many git issues. they were all solved with the config file:
