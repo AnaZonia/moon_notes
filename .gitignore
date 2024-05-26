@@ -1,11 +1,6 @@
-# to only exclude plugin configuration. Might be useful to prevent some plugin from exposing sensitive data
-.obsidian/plugins
-
-# OR only to exclude workspace cache
-.obsidian/workspace.json
+# exclude device-specific settings
+.obsidian/
 
 # Add below lines to exclude OS settings and caches
 .trash/
 .DS_Store
-
-.gitignore
