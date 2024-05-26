@@ -5,6 +5,11 @@ dg-publish: true
 ---
 ## 25/05 - 26/05, Sat - Sun - Stan considering distributions
 
+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
+
+
+Editing from phone!!! So cool
+
 Sigma should be thought of as percentage of true value that is expected to vary.
 
 Dealing with censored data:

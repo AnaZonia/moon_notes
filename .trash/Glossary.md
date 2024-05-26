@@ -1,5 +1,0 @@
----
-up: 
-type: 
-aliases: []
----

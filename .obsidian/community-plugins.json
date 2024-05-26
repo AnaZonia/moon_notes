@@ -1,6 +1,5 @@
 [
   "obsidian-minimal-settings",
-  "obsidian-excalidraw-plugin",
   "obsidian-zotero-desktop-connector",
   "obsidian-style-settings",
   "obsidian-list-callouts",
@@ -17,7 +16,6 @@
   "note-refactor-obsidian",
   "table-editor-obsidian",
   "cmdr",
-  "dataview",
   "obsidian-tasks-plugin",
   "quickadd",
   "drawio-obsidian",
@@ -30,5 +28,7 @@
   "obsidian-gallery",
   "better-word-count",
   "obsidian-pandoc-reference-list",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "dataview",
+  "obsidian-excalidraw-plugin"
 ]
