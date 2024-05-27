@@ -3,9 +3,10 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## 26/05
+## 27/05
 
 Got github copilot with the free trial - must remember to update it asap.
+
 
 ## 25/05 - 26/05, Sat - Sun - Stan considering distributions
 
