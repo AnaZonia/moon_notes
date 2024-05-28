@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47492ffdd78b995c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Potvin, Catherine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a2c63fdfe4a09238",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Methods Writing.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Methods Writing.md"
               }
             }
           },
@@ -121,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Methods Writing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Methods Writing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -207,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Methods Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +225,9 @@
   },
   "active": "a2c63fdfe4a09238",
   "lastOpenFiles": [
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "001 The Bridge.md",
+    "Ana Did Science Today.md",
     "250 Conservation.md",
     "Untitled.md",
     "Templates/Research article.md",
@@ -255,8 +244,6 @@
     "Templates/4 People and networks.md",
     "Templates/3 Data Source.md",
     "Templates/2 New Scroll.md",
-    "Ana Did Science Today.md",
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md",
     "3 Floresta Aleatória/001 Introdução à Estatística.md",
     "3 Floresta Aleatória/Statistics.md",

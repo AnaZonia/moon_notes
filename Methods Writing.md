@@ -28,7 +28,6 @@ update: Mar 26th 2024
 
 ![](https://i.imgur.com/KkwYI56.png)
 
-
 - mean annual precipitation
 - [[Evapotranspiration]]
 - [[Vapor Pressure]]
@@ -82,10 +81,19 @@ Everything else coming up:
 - seasonality  
 [[Ecoregions]]
 
-
-
 ### Potential correlations
 - Rainfall and soil fertility (Jeff Hall)
 
-
 ![](https://i.imgur.com/UUaTzE8.png)
+
+
+Input results from previous try into new try
+
+Catherine potvin
+
+forest plantations in Brazil
+
+writing things in a methods document
+send stri proposal
+install ray and ax
+finish writing the stan and optim attempts
