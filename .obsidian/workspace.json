@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Potvin, Catherine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2c63fdfe4a09238",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3cf394757ad1ddc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Berenguer, Erika.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,35 +236,36 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "47492ffdd78b995c",
+  "active": "a2c63fdfe4a09238",
   "lastOpenFiles": [
     "001 The Bridge.md",
+    "250 Conservation.md",
+    "Untitled.md",
+    "Templates/Research article.md",
+    "Potvin, Catherine.md",
+    "People.md",
+    "Berenguer, Erika.md",
+    "003 People and Networks.md",
+    "002 Data Sources.md",
+    "Regrowth.md",
+    "Airbus.md",
+    "Files/110 Remote Sensing-2.png",
+    "Templates/1 Cadet.md",
+    "Templates/5 Remote Sensing Product.md",
+    "Templates/4 People and networks.md",
+    "Templates/3 Data Source.md",
+    "Templates/2 New Scroll.md",
+    "Ana Did Science Today.md",
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md",
     "3 Floresta Aleatória/001 Introdução à Estatística.md",
     "3 Floresta Aleatória/Statistics.md",
     "smart-chats/UNTITLED CHAT 2024-05-26 21 18 11.md",
     "100 A Floresta Aleatória.md",
     "200 Life Sciences.md",
-    "Ana Did Science Today.md",
     "Botany.md",
     "smart-chats",
     "Github.md",
-    "3 Floresta Aleatória/R Stats.md",
-    "Computers and Bash.md",
-    "3 Floresta Aleatória/Python.md",
-    "Google Earth Engine.md",
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "Methods Writing.md",
-    "Background Writing.md",
-    "2 Research/Jakovac 2021 - The role of land‐use history in driving successional pathways and its implications for the restoration of tropical forests.md",
-    "300 Doing Science.md",
-    "Templates/4 People and networks.md",
-    "A Amazônia e o território intelectual brasileiro.md",
-    "Tropical Forest Ecology.md",
-    "002 Data Sources.md",
-    "Templates/Untitled.md",
-    "Templates/3 Data Source.md",
-    "Predictive Ecology.md",
-    "Untitled.md",
     "Climate Change.canvas",
     "Regrowth.canvas",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
@@ -266,7 +292,6 @@
     "Predicting Regrowth in Central America - Project.svg",
     "Files/Pasted Image 20240214131308_235.png",
     "Files/Screenshot 2023-09-05 155256.png",
-    "Files/Screenshot 2023-09-05 192712.png",
     "Files/albertHumanImpactsOutpace2023",
     "Files/Household Horror - Domestic Masculinity in Poe’s ‘The Black Cat'.pdf"
   ]

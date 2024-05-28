@@ -1,3 +1,4 @@
+
 >[!summary] Passive regrowth has better biomass, cover, density, height and biodiversity
 >When considering biotic and abiotic factors, the advantages of natural regeneration become apparent.
 

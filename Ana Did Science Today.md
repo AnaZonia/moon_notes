@@ -7,6 +7,7 @@ dg-publish: true
 
 Got github copilot with the free trial - must remember to update it asap.
 
+https://docs.github.com/en/repositories/working-with-files/managing-large-files/about-git-large-file-storage
 
 ## 25/05 - 26/05, Sat - Sun - Stan considering distributions
 

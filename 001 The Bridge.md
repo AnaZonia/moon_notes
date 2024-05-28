@@ -8,8 +8,6 @@ dg-home: true
 - [[Rolling Ideas]]
 - [[Personal Statements]]
 
-
-
 ## PhD projects
 1. [[Chapter 1 - Predicting Regrowth in the Amazon]]
 2. [[Chapter 2 - Predicting Regrowth in Panama]]
