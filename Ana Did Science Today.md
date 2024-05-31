@@ -4,7 +4,11 @@ up:
 dg-publish: true
 ---
 
+## 31/05, Fri - GEE
 
+Christian Seiler, at Queens - works with Earth System Models and Genetic Algorithms.
+
+https://cseiler.gitlab.io/research.html
 
 ## 27/05
 
