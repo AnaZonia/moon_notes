@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "3 Floresta Aleatória/Python.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "1b08e189f43b7749",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing May 31st 2024.excalidraw.md"
               }
             }
           },
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +71,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "venv",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Excalidraw/Drawing May 31st 2024.excalidraw.md"
               }
             }
           },
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Excalidraw/Drawing May 31st 2024.excalidraw.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Excalidraw/Drawing May 31st 2024.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Excalidraw/Drawing May 31st 2024.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +216,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,11 +236,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "73760276f664cd91",
+  "active": "1b08e189f43b7749",
   "lastOpenFiles": [
+    "3 Floresta Aleatória/Python.md",
+    "Excalidraw/Drawing May 31st 2024.excalidraw.md",
+    "Ana Did Science Today.md",
     "001 The Bridge.md",
     "Github.md",
-    "Ana Did Science Today.md",
     "Methods Writing.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "250 Conservation.md",
@@ -250,8 +265,6 @@
     "3 Floresta Aleatória/001 Introdução à Estatística.md",
     "3 Floresta Aleatória/Statistics.md",
     "smart-chats/UNTITLED CHAT 2024-05-26 21 18 11.md",
-    "100 A Floresta Aleatória.md",
-    "200 Life Sciences.md",
     "smart-chats",
     "Climate Change.canvas",
     "Regrowth.canvas",
