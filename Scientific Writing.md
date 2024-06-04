@@ -24,6 +24,8 @@ update: Nov 25th 2023
 - Short titles get more attention.
 - Avoid using a "back to front" sentence structure, when the verb comes late into the sentence (often involves passive voice)
 - Also avoid clauses in the middle of the sentences (phrases nested by two commas)
+- Get quickly to the core part of your research - background is good, but making the main point early is helpful.
+
 
 ### Useful links
 - [OpenAcademics Writing References](https://www.oacommunity.org/resources)
@@ -78,3 +80,24 @@ foreigners that come do science in Brazil
 Send stuff to Mongabay! English, Spanish and Portuguese?
 
 [[Pixar Method]]
+
+## Grant writing
+
+> Who are you writing for? What is their agenda?
+
+They want a **good, feasible** idea.
+
+- Why this question
+- Why this approach
+- Why now
+- Why you (expertise and credibility)
+- What is the product and who is it useful for? (tangible outcome)
+	- Make it **specific and achievable**.
+- Feasibility (time, money)
+
+Often grants require reporting, even 5 years later. Keep track of publicly available data and ways in which your work was used.
+
+What separates really good grants?
+- Past predicts future performance - show evidence of that
+- Well grounded in literature, but looks like a leap forward
+- Do you know what to do even if it fails?

@@ -5,6 +5,10 @@ update: Mar 26th 2024
 ---
 ## Methods
 
+
+
+
+
 ### Land use
 - number of years under fallow
 - time since last fire

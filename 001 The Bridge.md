@@ -7,6 +7,7 @@ dg-home: true
 - [[Conferences and Funding]]
 - [[Rolling Ideas]]
 - [[Personal Statements]]
+- [[Abstracts]]
 
 ## PhD projects
 1. [[Chapter 1 - Predicting Regrowth in the Amazon]]
@@ -24,7 +25,7 @@ dg-home: true
 ## Other ongoing projects
 - [[Climate Change.canvas|Incentives to Forest Growth - Panama]]
 - [[Bureaucracy]]
-- [[STRI Short-Term Fellowship Proposal]]
+- [[STRI Short-Term Fellowship]]
 - [[AGU abstract]]
 
 ## Article ideas

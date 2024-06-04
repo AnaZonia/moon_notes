@@ -14,4 +14,4 @@ dg-publish: true
 - [ ] Jeff Hall (the email with Brian's 6k species paper and the STRI proposal)
 
 ## Writing
-- [[STRI Short-Term Fellowship Proposal]]
+- [[STRI Short-Term Fellowship]]

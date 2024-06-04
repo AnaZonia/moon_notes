@@ -13,29 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Floresta Aleatória/Python.md",
+                "file": "Scientific Writing.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1b08e189f43b7749",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing May 31st 2024.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "a3cf394757ad1ddc",
+            "id": "032ba3455d34b1af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Berenguer, Erika.md",
+                "file": "STRI Short-Term Fellowship.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "1126c4733a05c6db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "349f362c8758e8b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ana Did Science Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "venv",
+                "query": "abstr",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -110,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing May 31st 2024.excalidraw.md"
+                "file": "STRI Short-Term Fellowship.md"
               }
             }
           },
@@ -120,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing May 31st 2024.excalidraw.md",
+                "file": "STRI Short-Term Fellowship.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing May 31st 2024.excalidraw.md",
+                "file": "STRI Short-Term Fellowship.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing May 31st 2024.excalidraw.md",
+                "file": "STRI Short-Term Fellowship.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,35 +245,35 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1b08e189f43b7749",
+  "active": "032ba3455d34b1af",
   "lastOpenFiles": [
+    "Ana Did Science Today.md",
+    "STRI Short-Term Fellowship.md",
+    "Templates/3 Data Source.md",
+    "Abstracts.md",
+    "Scientific Writing.md",
+    "300 Doing Science.md",
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "001 The Bridge.md",
+    "Methods Writing.md",
+    "Personal Statements.md",
+    "002 Data Sources.md",
+    "Berenguer, Erika.md",
     "3 Floresta Aleatória/Python.md",
     "Excalidraw/Drawing May 31st 2024.excalidraw.md",
-    "Ana Did Science Today.md",
-    "001 The Bridge.md",
     "Github.md",
-    "Methods Writing.md",
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "250 Conservation.md",
     "Untitled.md",
     "Templates/Research article.md",
     "Potvin, Catherine.md",
     "People.md",
-    "Berenguer, Erika.md",
     "003 People and Networks.md",
-    "002 Data Sources.md",
     "Regrowth.md",
     "Airbus.md",
     "Files/110 Remote Sensing-2.png",
     "Templates/1 Cadet.md",
     "Templates/5 Remote Sensing Product.md",
     "Templates/4 People and networks.md",
-    "Templates/3 Data Source.md",
-    "Templates/2 New Scroll.md",
-    "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md",
-    "3 Floresta Aleatória/001 Introdução à Estatística.md",
-    "3 Floresta Aleatória/Statistics.md",
-    "smart-chats/UNTITLED CHAT 2024-05-26 21 18 11.md",
     "smart-chats",
     "Climate Change.canvas",
     "Regrowth.canvas",

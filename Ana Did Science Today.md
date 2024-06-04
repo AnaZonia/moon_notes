@@ -3,6 +3,55 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 4/06, Tue - Coding and writing
+
+for fitting mature forest biomass - could use GAMs, or fit monotonic or unimodal curves, use something 
+[academic_award_process_guidelines_2022.pdf (si.edu)](https://stri.si.edu/sites/default/files/academic_award_process_guidelines_2022.pdf)
+
+1250 USD/month
+
+- drone flights on agua salud
+- land use classification comparison
+- apply for 2 months
+
+- Abstract is often the most important part.
+- Make clear that this is a part of the broader picture and the goal of this chapter.
+- Broader timeline and highlight the time you will spend in Panama.
+- Highlight what has already been done for Brazil and build off on it for Panama.
+- make explicit what will be done while I am at STRI.
+
+Add a table for remote sensing products
+
+[academic_award_process_guidelines_2022.pdf (si.edu)](https://stri.si.edu/sites/default/files/academic_award_process_guidelines_2022.pdf)
+
+1250 USD/month
+
+- drone flights on agua salud
+- land use classification comparison
+- apply for 2 months
+
+- Abstract is often the most important part.
+- Make clear that this is a part of the broader picture and the goal of this chapter.
+- Broader timeline and highlight the time you will spend in Panama.
+- Highlight what has already been done for Brazil and build off on it for Panama.
+- make explicit what will be done while I am at STRI.
+
+Add a table for remote sensing products
+like log-linear or a standard model?
+GAM - reduce knots to 3
+
+
+Philips et al 2
+
+ne thing you do not seem to have mentioned is that I have a chronosequence for dry forest growth that was initiated at the same time as the Agua Salud moist forest. It is not as elegant as Agua Salud in that we do not have as neat of a spread due to lack of forest but with 39 (?) plots remeasured annually for 10 years it is as good as one can get, I suspect. These should be used to construct a dry forest growth model and then apply it as appropriate to the Asner et al. data on carbon baseline.
+
+I think you should try to come to Panama to interact with me and my team. You could put into the proposal the need to do some ground truthing of the Walker maps. It would be useful to us to have you here.
+
+The carbon growth model in the dry forest is particularly pertinent. Microsoft announced today that they are paying to reforest 10,000 ha in the Azuero in Panama and gave some carbon numbers. There are others looking to do this as well.002 - increase in lianas in Amazonia
+
+nearest few neighbors mature forest from secondary forests.
+
+https://www.naturalearthdata.com/
 
 ## 31/05, Fri - GEE
 
@@ -365,7 +414,7 @@ Talked to Olivia Milloway about [[Science Journalism]].
 
 **AAAS mass media fellowship** - place people in US institutions for summer media internships. Must be an American citizen, but a lot of the alumni would be cool inspiration.
 
-- [[STRI Short-Term Fellowship Proposal]] 
+- [[STRI Short-Term Fellowship]] 
 
 ### Encuentro con Jimena Pitty
 After I spoke to her at the [[Ana Did Science Today#Science communication|NEO course]], it becomes more clear that I can work with science communication if I want. Along with Jeff Hall, she is preparing an Agua Salud exhibit at Culebra for children. Also, she is working with a Brazilian PhD student that has a background in biotechnology and is transitioning to education.

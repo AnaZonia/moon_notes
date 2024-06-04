@@ -11,9 +11,6 @@ dg-publish: true
 - [[Methods Writing]]
 - [[Methods Flowchart - Predicting Regrowth in the Amazon.canvas|Methods Flowchart]]
 
-#### Log-transform
-Linearize the model
-
 ### Optimizers
 - Hamiltonian Monte Carlo
 	- Can be hard to use discrete values of parameters. Values from HMC can be input into optim
