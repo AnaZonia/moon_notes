@@ -19,7 +19,8 @@ dg-publish: true
 - Highlight what has already been done for Brazil and build off on it for Panama.
 - make explicit what will be done while I am at STRI.
 
-Add a table for remote sensing products
+[[STRI Fellowship Research Proposal]]
+
 
 
 

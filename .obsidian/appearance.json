@@ -2,7 +2,7 @@
   "accentColor": "#cb7fc5",
   "cssTheme": "Minimal",
   "theme": "obsidian",
-  "baseFontSize": 26,
+  "baseFontSize": 18,
   "translucency": false,
   "enabledCssSnippets": [
     "dataview_width",
