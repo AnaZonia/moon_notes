@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "032ba3455d34b1af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "STRI Fellowship Research Proposal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "abstr",
+                "query": "[\"aliases\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +87,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STRI Fellowship Research Proposal.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STRI Fellowship Research Proposal.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "STRI Fellowship Research Proposal.md",
+                "file": "Ana Did Science Today.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -194,7 +182,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       },
       {
         "id": "f068f42a2a1ada76",
@@ -207,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STRI Fellowship Research Proposal.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +206,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -236,9 +226,19 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "032ba3455d34b1af",
+  "active": "a2c63fdfe4a09238",
   "lastOpenFiles": [
+    "Costa, Flávia R. C..md",
+    "Nobre, Carlos A..md",
+    "People.md",
     "Ana Did Science Today.md",
+    "2 Research/Flores 2024 - Critical transitions in the Amazon forest system.md",
+    "@floresCriticalTransitionsAmazon2024.md",
+    "2 Research/@floresCriticalTransitionsAmazon2024.md",
+    "2 Research/Umaña Quesada 2024 - Valuing nature - the case of tropical forests and Costa Rica.md",
+    "Templates/Legacy/Research Article - Legacy.md",
+    "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md",
+    "STRI Fellowship Research Proposal.md",
     "Ana Did Science Today.canvas",
     "Climate Change.canvas",
     "002 Data Sources.md",
@@ -250,7 +250,6 @@
     "Scientific Writing.md",
     "Untitled.md",
     "Untitled 1.md",
-    "STRI Fellowship Research Proposal.md",
     "STRI Short-Term Fellowship.md",
     "Templates/3 Data Source.md",
     "Abstracts.md",
@@ -258,14 +257,6 @@
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Methods Writing.md",
     "Personal Statements.md",
-    "Berenguer, Erika.md",
-    "3 Floresta Aleatória/Python.md",
-    "Excalidraw/Drawing May 31st 2024.excalidraw.md",
-    "Github.md",
-    "250 Conservation.md",
-    "Potvin, Catherine.md",
-    "People.md",
-    "003 People and Networks.md",
     "Files/110 Remote Sensing-2.png",
     "smart-chats",
     "Regrowth.canvas",

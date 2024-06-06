@@ -5,7 +5,8 @@ up:
 url: https://en.wikipedia.org/wiki/Carlos_Nobre_(scientist)
 type:
   - researcher
-aliases: 
+aliases:
+  - Nobre, Carlos
 location:
   - Brasil
   - USP

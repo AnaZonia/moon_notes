@@ -7,7 +7,7 @@
   "displayYAMLFrontmatter": false,
   "linkStrippingBehaviour": "text",
   "highDPIDiagrams": true,
-  "pandoc": "C:\\Users\\anaca\\pandoc",
+  "pandoc": "/usr/bin/pandoc",
   "pdflatex": null,
   "outputFolder": null,
   "extraArguments": "",

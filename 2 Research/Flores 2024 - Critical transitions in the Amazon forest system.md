@@ -1,3 +1,11 @@
+---
+aliases:
+  - "@floresCriticalTransitionsAmazon2024"
+stardate: May 26th 2024
+update: Jun 6th 2024
+dg-publish: true
+---
+
 
 >[!summary] 
 

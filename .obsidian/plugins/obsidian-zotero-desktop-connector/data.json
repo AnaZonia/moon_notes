@@ -6,9 +6,9 @@
   "pdfExportImageQuality": 90,
   "citeFormats": [
     {
-      "name": "Cite",
-      "format": "template",
-      "template": "{{citekey}}"
+      "name": "Pandoc",
+      "format": "pandoc",
+      "brackets": true
     }
   ],
   "exportFormats": [

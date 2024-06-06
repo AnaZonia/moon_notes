@@ -1,8 +1,17 @@
 {
-  "pathToPandoc": "/app/bin/pandoc",
+  "pathToPandoc": "/usr/bin/pandoc",
   "tooltipDelay": 400,
-  "zoteroGroups": [],
+  "zoteroGroups": [
+    {
+      "id": 1,
+      "name": "My Library",
+      "lastUpdate": 1717689343758
+    }
+  ],
   "renderCitations": true,
   "renderCitationsReadingMode": true,
-  "renderLinkCitations": true
+  "renderLinkCitations": true,
+  "enableCiteKeyCompletion": true,
+  "showCitekeyTooltips": true,
+  "pullFromZotero": true
 }
