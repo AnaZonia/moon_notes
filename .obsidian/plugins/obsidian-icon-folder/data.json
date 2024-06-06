@@ -33,7 +33,6 @@
     "debugMode": false
   },
   "Templates/Research article.md": "LiLibrary",
-  "Templates/Captain's Log.md": "SiStartrek",
   "Templates/1 Cadet.md": "LiStar",
   "Templates/4 People and networks.md": "TiHeartHandshake",
   "Templates/3 Data Source.md": "SiGoogleearth",
@@ -53,5 +52,6 @@
   "3 Floresta Aleatória/Statistics.md": "TiChartHistogram",
   "3 Floresta Aleatória/R Stats.md": "SiR",
   "001 The Bridge.md": "TiStarTrek",
-  "250 Conservation.md": "LiLeaf"
+  "250 Conservation.md": "LiLeaf",
+  "Templates/Legacy/Captain's Log.md": "SiStartrek"
 }
