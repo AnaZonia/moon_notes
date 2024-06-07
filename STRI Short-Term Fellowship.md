@@ -29,15 +29,14 @@ dg-publish: true
 
 
 ## Budget up to $2,000.
+Flight
+Room and board
 
 
 
 ## Diversity statement
-- how do you support a diverse environment?
-	- learning spanish is something that shows commitment to connecting Brazil to the rest of Latin America
-	- translation for astronomy club - connecting Brazil and the rest
 
-My native language, Portuguese, is the most similar to Spanish. Brazilians in general default to speaking "portuñol" in interactions with our hispanic neighbors, as some mimics and forced accents can usually get messages across well enough. Also, any Latino can tell you that Brazil is like an estranged cousin, showing up for Christmases but not really a member of the family Whatsapp group. Still, from childhood, I've always been interested in the Latinness of Brazilian culture, and carefully curated my Spanish skills to sound as native as possible in an effort to reunite with the rest of the cousins.
+My native language, Portuguese, is the most similar to Spanish. Brazilians in general default to speaking "portuñol" in interactions with our hispanic neighbors, as some mimics and forced accents can usually get messages across. Also, any Latino can tell you that Brazil is like an estranged cousin, showing up for Christmases but not really a member of the family Whatsapp group. Still, from childhood, I've always been interested in the Latinness of Brazilian culture, and carefully invested in my Spanish skills to sound as native as possible in hopes to one day reunite with the rest of the cousins as one of their own.
 My local astronomy club was my initial step into science. From high school, as a kid that had way too much interest in foreign languages, I have volunteered as the club's translator, which has pushed me further forward on my path to establish connections between Brazilian scientists and students with the rest of Latin America and the world. I see how much we can help each other. I also dont believe conservation can be done in isolation. As a scientist working on tropical forest conservation and regrowth, I realize how we are facing similar challenges and there is way too much unexplored potential for collaboration and knowledge exchange. In my education, I am working so that through my connections to Canada, Panama and Brazil can facilitate collaborations in common issues and student exchange.
 
 
