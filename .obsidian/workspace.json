@@ -89,6 +89,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "2071a22897608f00",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
           }
         ]
       }
