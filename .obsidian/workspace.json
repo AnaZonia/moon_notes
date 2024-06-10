@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "STRI Short-Term Fellowship.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STRI Short-Term Fellowship.md",
+                "file": "Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,14 +257,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "be727e08eaf8b534",
+  "active": "a2c63fdfe4a09238",
   "lastOpenFiles": [
-    "Methods Writing.md",
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "Background Writing.md",
-    "001 The Bridge.md",
     "Ana Did Science Today.md",
     "STRI Short-Term Fellowship.md",
+    "Methods Writing.md",
+    "001 The Bridge.md",
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "Background Writing.md",
     "Costa, Flávia R. C..md",
     "Nobre, Carlos A..md",
     "People.md",

@@ -3,6 +3,13 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 10/06, Monday - Finishing writing
+
+It has been difficult to push through writing something that I do not understand well and do not feel particularly excited about.
+Maybe I just need to accept it will be less than ideal and just finish it and submit. I can always try again later if I want to get the fellowship for another part of my research.
+
+
+
 ## 4/06, Tue - Coding and writing
 
 for fitting mature forest biomass - could use GAMs, or fit monotonic or unimodal curves, use something 
@@ -29,11 +36,7 @@ GAM - reduce knots to 3
 
 Philips et al 2
 
-ne thing you do not seem to have mentioned is that I have a chronosequence for dry forest growth that was initiated at the same time as the Agua Salud moist forest. It is not as elegant as Agua Salud in that we do not have as neat of a spread due to lack of forest but with 39 (?) plots remeasured annually for 10 years it is as good as one can get, I suspect. These should be used to construct a dry forest growth model and then apply it as appropriate to the Asner et al. data on carbon baseline.
-
-I think you should try to come to Panama to interact with me and my team. You could put into the proposal the need to do some ground truthing of the Walker maps. It would be useful to us to have you here.
-
-The carbon growth model in the dry forest is particularly pertinent. Microsoft announced today that they are paying to reforest 10,000 ha in the Azuero in Panama and gave some carbon numbers. There are others looking to do this as well.002 - increase in lianas in Amazonia
+002 - increase in lianas in Amazonia
 
 nearest few neighbors mature forest from secondary forests.
 
