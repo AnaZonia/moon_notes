@@ -3,6 +3,8 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+APA reference, 2 column, lato
 ## 10/06, Monday - Finishing writing
 
 It has been difficult to push through writing something that I do not understand well and do not feel particularly excited about.
