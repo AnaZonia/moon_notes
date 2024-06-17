@@ -4,6 +4,15 @@ up:
 dg-publish: true
 ---
 
+
+restricted maximum likelihood for GAMs instead of cross-validation
+
+
+
+
+Erik Johnson - STRI soil labs
+Log-log transformation changes the relationship from additive to multiplicative for GAMS.
+
 APA reference, 2 column, lato
 ## 10/06, Monday - Finishing writing
 
