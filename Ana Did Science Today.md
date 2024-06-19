@@ -5,16 +5,23 @@ dg-publish: true
 ---
 
 
+## 11/06, Wed - Kriging and interpolation
+
+Would be interesting to start writing the methods this weekend.
+
+- Finish mature forest kriging
+- Check what is going on with google earth engine
+- Finish STAN
+- Finish RAY
+
 restricted maximum likelihood for GAMs instead of cross-validation
-
-
 
 
 Erik Johnson - STRI soil labs
 Log-log transformation changes the relationship from additive to multiplicative for GAMS.
 
 APA reference, 2 column, lato
-## 10/06, Monday - Finishing writing
+## 10/06, Mon - Finishing writing
 
 It has been difficult to push through writing something that I do not understand well and do not feel particularly excited about.
 Maybe I just need to accept it will be less than ideal and just finish it and submit. I can always try again later if I want to get the fellowship for another part of my research.
