@@ -63,3 +63,4 @@ SORT file.name ASC
 - [FAO Forest Inventory](https://microdata.fao.org/index.php/catalog/Forestry/?page=1&sort_by=popularity&sort_order=desc&ps=15&repo=Forestry)
 - [[SiBBr - Sistema de Informação sobre a Biodiversidade Brasileira]]
 - [SUS -AlertaDengue](https://github.com/AlertaDengue/PySUS)
+- [Natural Earth Local Rasters](https://www.naturalearthdata.com/)

@@ -98,6 +98,5 @@ Catherine potvin
 forest plantations in Brazil
 
 writing things in a methods document
-send stri proposal
-install ray and ax
+
 finish writing the stan and optim attempts
