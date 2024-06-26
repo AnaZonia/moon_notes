@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md"
               }
             }
           },
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,12 +256,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "3e1cdd5ed53fadec",
+  "active": "2d022f00272af33f",
   "lastOpenFiles": [
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Methods Writing.md",
-    "001 The Bridge.md",
     "Ana Did Science Today.md",
+    "Ecoregions.md",
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "001 The Bridge.md",
     "Background Writing.md",
     "002 Data Sources.md",
     "Natural Earth.md",
@@ -285,7 +287,6 @@
     "Templates/Legacy/Captain's Log.md",
     "Templates/Legacy",
     "Templates/Research article.md",
-    "Scientific Writing.md",
     "Files/110 Remote Sensing-2.png",
     "smart-chats",
     "Regrowth.canvas",

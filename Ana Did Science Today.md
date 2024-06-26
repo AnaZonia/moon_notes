@@ -8,12 +8,6 @@ dg-publish: true
 ## 24/06, Mon - Planning restarting work
 
 
-## 23/06 - Weekly Goals
-
-
-
-
-
 ## 11/06, Wed - Kriging and interpolation
 
 Would be interesting to start writing the methods this weekend.
