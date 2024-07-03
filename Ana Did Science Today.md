@@ -5,6 +5,13 @@ dg-publish: true
 ---
 
 
+
+NEO retreat mid september
+- write email
+- plan gault chalet
+- info session / social / symposium / panel
+
+
 ## 24/06, Mon - Planning restarting work
 
 
