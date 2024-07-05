@@ -11,9 +11,13 @@ NEO retreat mid september
 - plan gault chalet
 - info session / social / symposium / panel
 
+Compared classification to [EC](https://developers.google.com/earth-engine/datasets/catalog/JRC_GFC2020_V1) and ESA Worldcover, and MAPBIOMAS 33 year classification is the most conservative (includes more consistent forests - understandable as it's using many years of history to classify, rather than doing it at yearly increments).
 
-## 24/06, Mon - Planning restarting work
+I am realizing the biomass for edge mature forest pixels can be unreliably low because, well, it's an edge - it is the average of the biomass values in cleared areas and non-cleared ones.
+![](https://i.imgur.com/IJOUX5O.png)
+ On darker colors, we see lower biomass values, and we can see how they are not as trustworthy.
 
+I applied a similar filter as I did on the secondary forests on the mature forests that are being used as reference for the nearest-forest-asymptote calculation.
 
 ## 11/06, Wed - Kriging and interpolation
 
