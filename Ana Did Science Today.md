@@ -19,6 +19,15 @@ I am realizing the biomass for edge mature forest pixels can be unreliably low b
 
 I applied a similar filter as I did on the secondary forests on the mature forests that are being used as reference for the nearest-forest-asymptote calculation.
 
+I was wondering if the trend would change whether I restricted ages and land use histories to include only older forests, or younger forests, that have been through long periods of pastureland. That did not change the R squared much. When I incorporated only younger forests, the
+
+Remember that AGBD was the average in 1 hectare cells. I believe a lot of this is driven by cells that are classified as the same AGBD but are far away.
+
+We need to consider only secondary forests that are not immediate neighbors, say less than 200m from a mature forest.
+
+![](https://i.imgur.com/J7fLV84.png)
+
+
 ## 11/06, Wed - Kriging and interpolation
 
 Would be interesting to start writing the methods this weekend.
