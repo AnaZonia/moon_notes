@@ -7,6 +7,9 @@ dg-publish: true
 ## 5/07, Fri - Edge effects and mature forests
 
 Ask Jeff Cardille about spatial autocorrelation
+Check NLL
+Check NA mature forest values
+
 
 Compared classification to [EC](https://developers.google.com/earth-engine/datasets/catalog/JRC_GFC2020_V1) and ESA Worldcover, and MAPBIOMAS 33 year classification is the most conservative (includes more consistent forests - understandable as it's using many years of history to classify, rather than doing it at yearly increments).
 
