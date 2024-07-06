@@ -11,6 +11,184 @@ Check NLL
 Check NA mature forest values
 
 
+"data_5" - 5 years of land use, up to 30 years of age
+"data_10" - 10 years of land use, up to 25 years of age
+"data_15" - 15 years of land use, up to 20 years of age
+"data_all" - no truncating history at all
+all_cat <- "age", "num_fires_before_regrowth", "sur_cover", "fallow", "indig", "protec", "cwd" (cwd as cumulative water deficit)
+
+### Mean biomass per ecoregion (nearest neighbor)
+[1] "----------------------------------------------------"
+[1] "data_5"
+[1] "age"
+[1] "R-squared: 0.264071556596866"
+[1] "----------------------------------------------------"
+[1] "data_5"
+[1] "fires"
+[1] "R-squared: 0.248694144368822"
+[1] "----------------------------------------------------"
+[1] "data_5"
+[1] "age_fires"
+[1] "R-squared: 0.265930958630639"
+[1] "----------------------------------------------------"
+[1] "data_5"
+[1] "all_cat"
+[1] "R-squared: 0.278682213112635"
+[1] "----------------------------------------------------"
+[1] "data_10"
+[1] "age"
+[1] "R-squared: 0.258415309528758"
+[1] "----------------------------------------------------"
+[1] "data_10"
+[1] "fires"
+[1] "R-squared: 0.242982017571527"
+[1] "----------------------------------------------------"
+[1] "data_10"
+[1] "age_fires"
+[1] "R-squared: 0.260463638075757"
+[1] "----------------------------------------------------"
+[1] "data_10"
+[1] "all_cat"
+[1] "R-squared: 0.271190433107168"
+[1] "----------------------------------------------------"
+[1] "data_15"
+[1] "age"
+[1] "R-squared: 0.250085077244723"
+[1] "----------------------------------------------------"
+[1] "data_15"
+[1] "fires"
+[1] "R-squared: 0.235855528106731"
+[1] "----------------------------------------------------"
+[1] "data_15"
+[1] "age_fires"
+[1] "R-squared: 0.252758992463627"
+[1] "----------------------------------------------------"
+[1] "data_15"
+[1] "all_cat"
+[1] "R-squared: 0.262614774813513"
+[1] "----------------------------------------------------"
+[1] "data_all"
+[1] "age"
+[1] "R-squared: 0.295260398927223"
+[1] "----------------------------------------------------"
+[1] "data_all"
+[1] "fires"
+[1] "R-squared: 0.265105767970166"
+[1] "----------------------------------------------------"
+[1] "data_all"
+[1] "age_fires"
+[1] "R-squared: 0.295990672664542"
+[1] "----------------------------------------------------"
+[1] "data_all"
+[1] "all_cat"
+[1] "R-squared: 0.304023715509109"
+
+### Nearest neighbor biomass
+[1] "----------------------------------------------------"
+[1] "data_5"
+[1] "age"
+[1] "R-squared: 0.529855316899076"
+[1] "----------------------------------------------------"
+[1] "data_5"
+[1] "fires"
+[1] "R-squared: 0.525386920253416"
+[1] "----------------------------------------------------"
+[1] "data_5"
+[1] "age_fires"
+[1] "R-squared: 0.529977141644358"
+[1] "----------------------------------------------------"
+[1] "data_5"
+[1] "all_cat"
+[1] "R-squared: 0.53176720620989"
+[1] "----------------------------------------------------"
+[1] "data_10"
+[1] "age"
+[1] "R-squared: 0.502645183882817"
+[1] "----------------------------------------------------"
+[1] "data_10"
+[1] "fires"
+[1] "R-squared: 0.497680012673496"
+[1] "----------------------------------------------------"
+[1] "data_10"
+[1] "age_fires"
+[1] "R-squared: 0.502727440994759"
+[1] "----------------------------------------------------"
+[1] "data_10"
+[1] "all_cat"
+[1] "R-squared: 0.50305613964344"
+[1] "----------------------------------------------------"
+[1] "data_15"
+[1] "age"
+[1] "R-squared: 0.480715013826312"
+[1] "----------------------------------------------------"
+[1] "data_15"
+[1] "fires"
+[1] "R-squared: 0.474094172199312"
+[1] "----------------------------------------------------"
+[1] "data_15"
+[1] "age_fires"
+[1] "R-squared: 0.48088425770059"
+[1] "----------------------------------------------------"
+[1] "data_15"
+[1] "all_cat"
+[1] "R-squared: 0.481472423068221"
+[1] "----------------------------------------------------"
+[1] "data_all"
+[1] "age"
+[1] "R-squared: 0.514053925182426"
+[1] "----------------------------------------------------"
+[1] "data_all"
+[1] "fires"
+[1] "R-squared: 0.498690433074939"
+[1] "----------------------------------------------------"
+[1] "data_all"
+[1] "age_fires"
+[1] "R-squared: 0.515138794764705"
+[1] "----------------------------------------------------"
+[1] "data_all"
+[1] "all_cat"
+[1] "R-squared: 0.515824922512492"
+
+### Fit asymptote - nearest neighbor mature biomass (raw)
+[1] "----------------------------------------------------"
+[1] "data_5" - 5 years of land use, up to 30 years of age
+[1] "R-squared (fixed asymptote, fit growth rate): 0.47746951448223"
+[1] "R-squared (fit asymptote, rate fit from age): 0.0134674823412842"
+[1] "----------------------------------------------------"
+[1] "data_10" - 10 years of land use, up to 25 years of age
+[1] "R-squared (fixed asymptote, fit growth rate): 0.449495463965637"
+[1] "R-squared (fit asymptote, rate fit from age): 0.00822052653618196"
+[1] "----------------------------------------------------"
+[1] "data_15" - 15 years of land use, up to 20 years of age
+[1] "R-squared (fixed asymptote, fit growth rate): 0.422808759884437"
+[1] "R-squared (fit asymptote, rate fit from age): 0.00711848868360519"
+[1] "----------------------------------------------------"
+[1] "data_all" - no truncating history at all
+[1] "R-squared (fixed asymptote, fit growth rate): 0.444887876578953"
+[1] "R-squared (fit asymptote, rate fit from age): 0.021890829768269"
+
+### Fit asymptote - nearest neighbor mature biomass (mature_biomass > secondary forest agbd, within 1sd of mean ecoregion)
+[1] "----------------------------------------------------"
+[1] "data_5"
+[1] "R-squared (fixed asymptote, fit growth rate): 0.445982932798548"
+[1] "R-squared (fit asymptote, rate fit from age): 0.00178027477928929"
+[1] "----------------------------------------------------"
+[1] "data_10"
+[1] "R-squared (fixed asymptote, fit growth rate): 0.409508387902555"
+[1] "R-squared (fit asymptote, rate fit from age): 0.000341293852312481"
+[1] "----------------------------------------------------"
+[1] "data_15"
+[1] "R-squared (fixed asymptote, fit growth rate): 0.374228168554021"
+[1] "R-squared (fit asymptote, rate fit from age): 0.00242396898040558"
+[1] "----------------------------------------------------"
+[1] "data_all"
+[1] "R-squared (fixed asymptote, fit growth rate): 0.434140919238666"
+[1] "R-squared (fit asymptote, rate fit from age): 0.012970205717891"
+
+
+
+
+
 Compared classification to [EC](https://developers.google.com/earth-engine/datasets/catalog/JRC_GFC2020_V1) and ESA Worldcover, and MAPBIOMAS 33 year classification is the most conservative (includes more consistent forests - understandable as it's using many years of history to classify, rather than doing it at yearly increments).
 
 
@@ -35,7 +213,7 @@ We need to consider only secondary forests that are not immediate neighbors, say
 ![](https://i.imgur.com/J7fLV84.png)
 
 
-
+A limitation of the nearest neighbor algorithm, even after removing edges, is that there may be big patches of mature forest that are not considered if there is a smaller patch closer by:
 
 ![](https://i.imgur.com/v70kOd7.png)
 
@@ -47,7 +225,7 @@ We need to consider only secondary forests that are not immediate neighbors, say
 ![](https://i.imgur.com/RxJJoI6.png)
 
 
-
+## 1/07 - Predict mature forest by environmental factors
 ![[Ana Did Science Today-2.pdf]]
 
 
