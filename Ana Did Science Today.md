@@ -4,17 +4,21 @@ up:
 dg-publish: true
 ---
 
-raster > analysis > fillnodata
+## 5/07, Fri - Edge effects and mature forests
 
-NEO retreat mid september
-- write email
-- plan gault chalet
-- info session / social / symposium / panel
+Ask Jeff Cardille about spatial autocorrelation
 
 Compared classification to [EC](https://developers.google.com/earth-engine/datasets/catalog/JRC_GFC2020_V1) and ESA Worldcover, and MAPBIOMAS 33 year classification is the most conservative (includes more consistent forests - understandable as it's using many years of history to classify, rather than doing it at yearly increments).
 
+
+![](https://i.imgur.com/HebQ9nb.png)
+
+
+
 I am realizing the biomass for edge mature forest pixels can be unreliably low because, well, it's an edge - it is the average of the biomass values in cleared areas and non-cleared ones.
 ![](https://i.imgur.com/IJOUX5O.png)
+ 
+ ![](https://i.imgur.com/3X8Gfix.png)
  On darker colors, we see lower biomass values, and we can see how they are not as trustworthy.
 
 I applied a similar filter as I did on the secondary forests on the mature forests that are being used as reference for the nearest-forest-asymptote calculation.
@@ -26,6 +30,23 @@ Remember that AGBD was the average in 1 hectare cells. I believe a lot of this i
 We need to consider only secondary forests that are not immediate neighbors, say less than 200m from a mature forest.
 
 ![](https://i.imgur.com/J7fLV84.png)
+
+
+
+
+![](https://i.imgur.com/v70kOd7.png)
+
+
+
+![](https://i.imgur.com/Xvn8bZX.png)
+![](https://i.imgur.com/QCqLasU.png)
+![](https://i.imgur.com/LC1zay8.png)
+![](https://i.imgur.com/RxJJoI6.png)
+
+
+
+![[Ana Did Science Today-2.pdf]]
+
 
 
 ## 11/06, Wed - Kriging and interpolation
