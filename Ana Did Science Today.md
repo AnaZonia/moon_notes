@@ -6,11 +6,24 @@ dg-publish: true
 
 ## 5/07, Fri - Edge effects and mature forests
 
-Ask Jeff Cardille about spatial autocorrelation
+Ask Jeff Cardille about spatial autocorrelation and his regrowth algorithm.
 Check NLL
 Check NA mature forest values
 
 
+### GAMs
+Land use alone explains 12% of the variation. Splitting the data between training and testing reduced from 12.3 to 12%, so not very much.
+![](https://i.imgur.com/hQdBKUl.png)
+
+
+With linear model it's 10%
+![](https://i.imgur.com/FcsjDhF.png)
+The weird thing is the relationship between the land use metrics and the biomass of the surrounding mature forests:
+
+![](https://i.imgur.com/yBL2ZRR.png)
+
+
+### Optim
 "data_5" - 5 years of land use, up to 30 years of age
 "data_10" - 10 years of land use, up to 25 years of age
 "data_15" - 15 years of land use, up to 20 years of age
