@@ -4,6 +4,9 @@ up:
 dg-publish: true
 ---
 
+## 8/07, Mon - PRISM and mature forest
+
+Getting mature forest biomass with relation to edge pixels.
 
 Anna Spalding - or someone else in agriculture?
 Martin Solano
@@ -12,9 +15,13 @@ Jeff Hall
 Other data layers:
 Jorge also has access to data from the department of agriculture of Panama with 1000 sampled points across Panama of soil nutrients - probably collected around agricultural systems.
 
-Talk to Jorge about puerto and land use classification
-
 GMA application for Panama
+AGU abstract
+https://eos.org/agu-news/so-you-want-to-write-an-abstract
+https://www.agu.org/-/media/files/fall-meeting/fm-2021/fm_abstracts_tips_final.pdf
+
+PRISM workshop section
+
 
 ## 5/07, Fri - Edge effects and mature forests
 
