@@ -11,6 +11,9 @@ Check NLL
 Check NA mature forest values
 
 
+
+Pattern of mature biomass distance from border
+
 ### GAMs
 Land use alone explains 12% of the variation. Splitting the data between training and testing reduced from 12.3 to 12%, so not very much.
 ![](https://i.imgur.com/hQdBKUl.png)
