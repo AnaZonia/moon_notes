@@ -4,6 +4,18 @@ up:
 dg-publish: true
 ---
 
+
+Anna Spalding - or someone else in agriculture?
+Martin Solano
+Jeff Hall
+
+Other data layers:
+Jorge also has access to data from the department of agriculture of Panama with 1000 sampled points across Panama of soil nutrients - probably collected around agricultural systems.
+
+Talk to Jorge about puerto and land use classification
+
+GMA application for Panama
+
 ## 5/07, Fri - Edge effects and mature forests
 
 Ask Jeff Cardille about spatial autocorrelation and his regrowth algorithm.
