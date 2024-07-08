@@ -251,9 +251,7 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "3e1cdd5ed53fadec",
