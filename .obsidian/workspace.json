@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "AGU Abstract.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md"
               }
             }
           },
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,13 +258,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "3e1cdd5ed53fadec",
+  "active": "2d022f00272af33f",
   "lastOpenFiles": [
-    "R squared values.md",
-    "Ana Did Science Today.md",
-    "Files/Ana Did Science Today-2.pdf",
+    "AGU Abstract.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Methods Writing.md",
+    "Ana Did Science Today.md",
+    "R squared values.md",
+    "Files/Ana Did Science Today-2.pdf",
     "Ecoregions.md",
     "001 The Bridge.md",
     "Background Writing.md",
@@ -287,7 +289,6 @@
     "Ana Did Science Today.canvas",
     "Climate Change.canvas",
     "Brazil Data Cube.md",
-    "Templates/Legacy/Captain's Log.md",
     "Templates/Legacy",
     "Files/110 Remote Sensing-2.png",
     "smart-chats",

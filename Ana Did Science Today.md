@@ -16,13 +16,12 @@ Other data layers:
 Jorge also has access to data from the department of agriculture of Panama with 1000 sampled points across Panama of soil nutrients - probably collected around agricultural systems.
 
 GMA application for Panama
-AGU abstract
-https://eos.org/agu-news/so-you-want-to-write-an-abstract
-https://www.agu.org/-/media/files/fall-meeting/fm-2021/fm_abstracts_tips_final.pdf
 
 PRISM workshop section
 
+Committee Meeting - Late October/early November
 
+[[AGU Abstract]]
 
 
 
