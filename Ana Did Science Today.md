@@ -23,6 +23,9 @@ https://www.agu.org/-/media/files/fall-meeting/fm-2021/fm_abstracts_tips_final.p
 PRISM workshop section
 
 
+
+
+
 ## 5/07, Fri - Edge effects and mature forests
 
 Ask Jeff Cardille about spatial autocorrelation and his regrowth algorithm.
