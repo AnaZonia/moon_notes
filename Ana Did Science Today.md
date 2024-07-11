@@ -14,6 +14,8 @@ I will:
 
 Must be patient - just let it run and work on the abstract.
 
+- Was not necessary - I believe it was just a matter of scaling. The algorithm was running on the mature forest biomass resampled to 30m, which is completely unnecessary. I am running it again now with the original 100m resolution.
+
 ## 8/07, Mon - PRISM and mature forest
 
 Getting mature forest biomass with relation to edge pixels.
