@@ -3,6 +3,16 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 11/07, Thu - Abstract and mature forest
+
+
+I believe it is taking a while because the mature forest values are just too far away.
+
+I will:
+- export and use QGIS nearest neighbor to compare methods
+- aggregate and run nearest neighbor on that
+
+Must be patient - just let it run and work on the abstract.
 
 ## 8/07, Mon - PRISM and mature forest
 
