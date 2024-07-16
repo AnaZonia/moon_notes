@@ -5,6 +5,7 @@ dg-publish: true
 ---
 ## 11/07, Thu - Abstract and mature forest
 
+18 of november to december 7th
 
 I believe it is taking a while because the mature forest values are just too far away.
 
