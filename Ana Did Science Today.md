@@ -4,6 +4,19 @@ up:
 dg-publish: true
 ---
 ## 17/07, Wed - Finishing abstract
+[B008 - Advances in Understanding and Constraining Uncertainties in the Terrestrial Carbon Cycle](https://agu.confex.com/agu/agu24/prelim.cgi/Session/224548) 
+
+[B009 - Advances in Understanding and Predicting Forest Demography and Carbon in a Changing World](https://agu.confex.com/agu/agu24/prelim.cgi/Session/229276) 
+
+[B010 - Advances in Understanding Land System Change](https://agu.confex.com/agu/agu24/prelim.cgi/Session/226148) 
+
+[B073 - Novel Paradigms, Processes, and Emergent Behavior in Terrestrial Ecosystem Modeling](https://agu.confex.com/agu/agu24/prelim.cgi/Session/228979)
+
+[B106 - The Global Carbon Cycle and Its Feedbacks with Anthropogenic Change](https://agu.confex.com/agu/agu24/prelim.cgi/Session/225532)
+
+[B109 - The Use of Remote Sensing to Evaluate Ecosystem Restoration Approaches](https://agu.confex.com/agu/agu24/prelim.cgi/Session/228714)
+
+[B112 - Tropical Forests Under a Changing Environment](https://agu.confex.com/agu/agu24/prelim.cgi/Session/224009)
 
 
 

@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "14d10a0660f723af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -235,11 +247,12 @@
   },
   "active": "73d2c8342e1031c0",
   "lastOpenFiles": [
+    "Github.md",
+    "Ana Did Science Today.md",
     "001 The Bridge.md",
     "AGU Abstract.md",
     "Methods Writing.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "Ana Did Science Today.md",
     "R squared values.md",
     "Files/Ana Did Science Today-2.pdf",
     "Ecoregions.md",
@@ -263,7 +276,6 @@
     "STRI Fellowship Research Proposal.md",
     "Ana Did Science Today.canvas",
     "Climate Change.canvas",
-    "Brazil Data Cube.md",
     "Templates/Legacy",
     "Files/110 Remote Sensing-2.png",
     "smart-chats",
