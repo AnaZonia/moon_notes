@@ -3,9 +3,13 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 17/07, Wed - Finishing abstract
+
+
+
 ## 11/07, Thu - Abstract and mature forest
 
-18 of november to december 7th
+18 of november to december 7th - Brian in Panama
 
 I believe it is taking a while because the mature forest values are just too far away.
 
