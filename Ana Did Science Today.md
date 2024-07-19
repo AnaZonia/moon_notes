@@ -3,6 +3,10 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 19/07, Fri - Writing
+
+I have fixed the issues with code and finished the first iteration of the abstract. Now, I want to write while the rest of the 
+
 ## 17/07, Wed - Finishing abstract
 [B008 - Advances in Understanding and Constraining Uncertainties in the Terrestrial Carbon Cycle](https://agu.confex.com/agu/agu24/prelim.cgi/Session/224548) 
 
