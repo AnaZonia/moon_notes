@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github.md",
+                "file": "Methods Writing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Methods Writing.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Methods Writing.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Methods Writing.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Methods Writing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,14 +245,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "73d2c8342e1031c0",
+  "active": "14d10a0660f723af",
   "lastOpenFiles": [
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "001 The Bridge.md",
     "Github.md",
     "Ana Did Science Today.md",
-    "001 The Bridge.md",
     "AGU Abstract.md",
     "Methods Writing.md",
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "R squared values.md",
     "Files/Ana Did Science Today-2.pdf",
     "Ecoregions.md",
