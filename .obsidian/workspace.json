@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github.md",
+                "file": "Computers and Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github.md"
+                "file": "Computers and Bash.md"
               }
             }
           },
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github.md",
+                "file": "Computers and Bash.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Github.md",
+                "file": "Computers and Bash.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github.md",
+                "file": "Computers and Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,17 +252,15 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "workspaces:Manage workspace layouts": false
     }
   },
   "active": "73d2c8342e1031c0",
   "lastOpenFiles": [
+    "Github.md",
     "Ana Did Science Today.md",
     "001 The Bridge.md",
     "Computers and Bash.md",
-    "Github.md",
     "200 Life Sciences.md",
     "250 Conservation.md",
     "002 Data Sources.md",
