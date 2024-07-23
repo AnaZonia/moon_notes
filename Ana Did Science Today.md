@@ -3,6 +3,11 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 23/07, Tue - Run nearest neighbor in R
+
+For paralellization - rule of thumb, it's good to check how much memory does it take on one core before choosing how many cores to assign the task to.
+
+Apply for conference funding:
 AGU
 GIC
 QLS
@@ -11,7 +16,7 @@ QCBS
 
 ## 19/07, Fri - Writing
 
-I have fixed the issues with code and finished the first iteration of the abstract. Now, I want to write while the rest of the 
+I have fixed the issues with code and finished the first iteration of the abstract. I spent some time preparing the thesis file on overleaf. Would be a nice thing to do over the weekend.
 
 ## 17/07, Wed - Finishing abstract
 [B008 - Advances in Understanding and Constraining Uncertainties in the Terrestrial Carbon Cycle](https://agu.confex.com/agu/agu24/prelim.cgi/Session/224548) 

@@ -13,6 +13,18 @@ We have 8 cores - Janus has 64
 - Double format is the same as a 64-bit float.
 - 16-bit floats can handle 3 decimal places, and 32-bit floats can handle 6 decimal places
 
+```bash
+# To run scripts remotely on Janus without getting locked out:
+nohup Rscript script.r &
+# To get progress, 
+tail -f nohup.out
+# To kill a running job,
+# Get PID with
+ps aux | grep script.r
+# And terminate it with
+kill PID
+```
+
 ## Bash basics
 [Intro to Shell](https://hbctraining.github.io/Intro-to-shell-flipped/schedule/links-to-lessons.html)
 ```bash

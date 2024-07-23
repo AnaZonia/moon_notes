@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,6 +26,18 @@
               "type": "markdown",
               "state": {
                 "file": "Methods Writing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a145810d44e0b7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computers and Bash.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Github.md"
               }
             }
           },
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Github.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Github.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,22 +258,26 @@
   },
   "active": "73d2c8342e1031c0",
   "lastOpenFiles": [
+    "Ana Did Science Today.md",
+    "001 The Bridge.md",
+    "Computers and Bash.md",
+    "Github.md",
+    "200 Life Sciences.md",
+    "250 Conservation.md",
+    "002 Data Sources.md",
+    "Abstracts.md",
+    "100 A Floresta Aleatória.md",
+    "AGU Abstract.md",
     "Methods Writing.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "001 The Bridge.md",
-    "Github.md",
-    "Ana Did Science Today.md",
-    "AGU Abstract.md",
     "R squared values.md",
     "Files/Ana Did Science Today-2.pdf",
     "Ecoregions.md",
     "Background Writing.md",
-    "002 Data Sources.md",
     "Natural Earth.md",
     "FAO Soil Map of the World.md",
     "3 Floresta Aleatória/001 Introdução à Estatística.md",
     "3 Floresta Aleatória/Statistics.md",
-    "100 A Floresta Aleatória.md",
     "STRI Short-Term Fellowship.md",
     "Costa, Flávia R. C..md",
     "Nobre, Carlos A..md",
@@ -269,10 +285,6 @@
     "2 Research/Flores 2024 - Critical transitions in the Amazon forest system.md",
     "@floresCriticalTransitionsAmazon2024.md",
     "2 Research/@floresCriticalTransitionsAmazon2024.md",
-    "2 Research/Umaña Quesada 2024 - Valuing nature - the case of tropical forests and Costa Rica.md",
-    "Templates/Legacy/Research Article - Legacy.md",
-    "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md",
-    "STRI Fellowship Research Proposal.md",
     "Ana Did Science Today.canvas",
     "Climate Change.canvas",
     "Templates/Legacy",
