@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Methods Writing.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Methods Writing.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Methods Writing.md",
+                "file": "Ana Did Science Today.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Methods Writing.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,14 +244,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "14d10a0660f723af",
+  "active": "73d2c8342e1031c0",
   "lastOpenFiles": [
+    "Methods Writing.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "001 The Bridge.md",
     "Github.md",
     "Ana Did Science Today.md",
     "AGU Abstract.md",
-    "Methods Writing.md",
     "R squared values.md",
     "Files/Ana Did Science Today-2.pdf",
     "Ecoregions.md",

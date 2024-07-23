@@ -3,6 +3,12 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+AGU
+GIC
+QLS
+GREAT
+QCBS
+
 ## 19/07, Fri - Writing
 
 I have fixed the issues with code and finished the first iteration of the abstract. Now, I want to write while the rest of the 
