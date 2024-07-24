@@ -14,6 +14,10 @@ QLS
 GREAT
 QCBS
 
+One issue with running the nearest neighbor with terra as rasters is that the distances were calculated in meters, and that requires different UTM zones to find nearest neighbors.
+
+For now I continue calculating with matrices and later will check how to do all this in gee.
+
 ## 19/07, Fri - Writing
 
 I have fixed the issues with code and finished the first iteration of the abstract. I spent some time preparing the thesis file on overleaf. Would be a nice thing to do over the weekend.
