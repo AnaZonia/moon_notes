@@ -94,6 +94,15 @@ git checkout master
 
 # delete a merged branch
 git branch -d feature-name-temp
+
+# to merge changes from new branch to master
+git checkout master
+git pull origin master
+git merge testBranch
+git push origin master
+
+# force pull from master (erase local changes)
+git reset --hard origin/master
 ```
 
 branches that are adding something new are usually called "feature branches"

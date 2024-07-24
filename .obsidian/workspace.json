@@ -37,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methods Writing.md",
+                "file": "Github.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Github.md"
               }
             }
           },
@@ -129,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Github.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Github.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,22 +253,24 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "73d2c8342e1031c0",
+  "active": "14d10a0660f723af",
   "lastOpenFiles": [
-    "001 The Bridge.md",
-    "Github.md",
     "Computers and Bash.md",
+    "Github.md",
+    "Methods Writing.md",
     "Ana Did Science Today.md",
+    "001 The Bridge.md",
     "200 Life Sciences.md",
     "250 Conservation.md",
     "002 Data Sources.md",
     "Abstracts.md",
     "100 A Floresta Aleatória.md",
     "AGU Abstract.md",
-    "Methods Writing.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "R squared values.md",
     "Files/Ana Did Science Today-2.pdf",
