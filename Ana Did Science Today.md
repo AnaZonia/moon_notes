@@ -3,6 +3,17 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+Fitting the Gaussian kernel on R is not working:
+
+```r
+# 500 m res
+mature_biomass <- rast("./data/mature_biomass_1k.tif")
+
+w <- focalMat(mature_biomass, 200, type = "Gauss")
+
+Error: cannot allocate vector of size 265.9 Gb
+```
+
 ## 23/07, Tue - Run nearest neighbor in R
 
 For paralellization - rule of thumb, it's good to check how much memory does it take on one core before choosing how many cores to assign the task to.
