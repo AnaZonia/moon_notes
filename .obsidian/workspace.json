@@ -253,14 +253,16 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "1a145810d44e0b7a",
   "lastOpenFiles": [
-    "Ana Did Science Today.md",
-    "Computers and Bash.md",
     "Github.md",
+    "Computers and Bash.md",
+    "Ana Did Science Today.md",
     "Methods Writing.md",
     "001 The Bridge.md",
     "200 Life Sciences.md",
