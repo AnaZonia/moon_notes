@@ -24,6 +24,11 @@ w <- focalMat(mature_biomass, 200, type = "Gauss")
 Error: cannot allocate vector of size 265.9 Gb
 ```
 
+Next steps:
+- implement biome/ecoreg switch
+- implement error catch for GAM
+
+
 ## 23/07, Tue - Run nearest neighbor in R
 
 For paralellization - rule of thumb, it's good to check how much memory does it take on one core before choosing how many cores to assign the task to.
