@@ -3,6 +3,16 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+## 28/07, Mon - Submit abstract
+Realized why nearest mature forest biomass calculations are not running for the whole country.
+
+<!--⚠️Imgur upload failed, check dev console-->
+![[Ana Did Science Today.png]]
+
+The extents are not the same. Fixing that on GEE.
+
+
 Fitting the Gaussian kernel on R is not working:
 
 ```r

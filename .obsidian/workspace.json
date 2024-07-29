@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Github.md",
+                "file": "Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Github.md",
+                "file": "Ana Did Science Today.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -216,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,17 +240,20 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "14d10a0660f723af",
   "lastOpenFiles": [
+    "Files/Ana Did Science Today.png",
+    "001 The Bridge.md",
+    "Github.md",
     "Computers and Bash.md",
     "100 A Floresta Aleatória.md",
     "Ana Did Science Today.md",
-    "Github.md",
     "Methods Writing.md",
-    "001 The Bridge.md",
     "200 Life Sciences.md",
     "250 Conservation.md",
     "002 Data Sources.md",
@@ -272,7 +274,6 @@
     "People.md",
     "2 Research/Flores 2024 - Critical transitions in the Amazon forest system.md",
     "@floresCriticalTransitionsAmazon2024.md",
-    "2 Research/@floresCriticalTransitionsAmazon2024.md",
     "Ana Did Science Today.canvas",
     "Climate Change.canvas",
     "Templates/Legacy",
