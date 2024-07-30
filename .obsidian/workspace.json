@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Chapter 2 - Predicting Regrowth in Panama.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Chapter 2 - Predicting Regrowth in Panama.md"
               }
             }
           },
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Chapter 2 - Predicting Regrowth in Panama.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Chapter 2 - Predicting Regrowth in Panama.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Chapter 2 - Predicting Regrowth in Panama.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,12 +246,12 @@
   },
   "active": "14d10a0660f723af",
   "lastOpenFiles": [
-    "Files/Ana Did Science Today.png",
     "001 The Bridge.md",
+    "Ana Did Science Today.md",
+    "Files/Ana Did Science Today.png",
     "Github.md",
     "Computers and Bash.md",
     "100 A Floresta Aleatória.md",
-    "Ana Did Science Today.md",
     "Methods Writing.md",
     "200 Life Sciences.md",
     "250 Conservation.md",
@@ -301,7 +300,6 @@
     "Predicting Regrowth in Central America - Project-1.svg",
     "moon.svg.crdownload",
     "Predicting Regrowth in Central America - Project.svg",
-    "Files/Pasted Image 20240214131308_235.png",
-    "Files/Screenshot 2023-09-05 155256.png"
+    "Files/Pasted Image 20240214131308_235.png"
   ]
 }

@@ -4,6 +4,12 @@ up:
 dg-publish: true
 ---
 
+## 30/07, Tue - 
+- paper on land use projections
+- heinrich nature paper
+- distance to mature forest edge
+
+
 ## 28/07, Mon - Submit abstract
 Realized why nearest mature forest biomass calculations are not running for the whole country.
 
