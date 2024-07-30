@@ -28,6 +28,7 @@ Next steps:
 - implement biome/ecoreg switch
 - implement error catch for GAM
 
+Check for spatial autocorrelation
 
 ## 23/07, Tue - Run nearest neighbor in R
 
