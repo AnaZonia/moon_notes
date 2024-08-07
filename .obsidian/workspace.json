@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c859291130e5cfd4",
+        "id": "f0552bf11e544bbf",
         "type": "tabs",
         "children": [
           {
-            "id": "14d10a0660f723af",
+            "id": "32be8fb97dc78740",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2 - Predicting Regrowth in Panama.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73d2c8342e1031c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computers and Bash.md",
+                "file": "Bureaucracy.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 2 - Predicting Regrowth in Panama.md"
+                "file": "Bureaucracy.md"
               }
             }
           },
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 2 - Predicting Regrowth in Panama.md",
+                "file": "Bureaucracy.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapter 2 - Predicting Regrowth in Panama.md",
+                "file": "Bureaucracy.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -214,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 2 - Predicting Regrowth in Panama.md",
+                "file": "Bureaucracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,13 +232,14 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "14d10a0660f723af",
+  "active": "32be8fb97dc78740",
   "lastOpenFiles": [
     "001 The Bridge.md",
+    "Computers and Bash.md",
+    "Chapter 2 - Predicting Regrowth in Panama.md",
     "Ana Did Science Today.md",
     "Files/Ana Did Science Today.png",
     "Github.md",
-    "Computers and Bash.md",
     "100 A Floresta Aleatória.md",
     "Methods Writing.md",
     "200 Life Sciences.md",
