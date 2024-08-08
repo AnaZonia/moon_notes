@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f0552bf11e544bbf",
+        "id": "ac9dae98231c04e2",
         "type": "tabs",
         "children": [
           {
-            "id": "32be8fb97dc78740",
+            "id": "1b94ca7f9bf386fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bureaucracy.md",
+                "file": "Github.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bureaucracy.md"
+                "file": "Github.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bureaucracy.md",
+                "file": "Github.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bureaucracy.md",
+                "file": "Github.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bureaucracy.md",
+                "file": "Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,9 +232,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "32be8fb97dc78740",
+  "active": "1b94ca7f9bf386fd",
   "lastOpenFiles": [
     "001 The Bridge.md",
+    "STRI Short-Term Fellowship.md",
+    "Bureaucracy.md",
     "Computers and Bash.md",
     "Chapter 2 - Predicting Regrowth in Panama.md",
     "Ana Did Science Today.md",
@@ -256,12 +258,10 @@
     "FAO Soil Map of the World.md",
     "3 Floresta Aleatória/001 Introdução à Estatística.md",
     "3 Floresta Aleatória/Statistics.md",
-    "STRI Short-Term Fellowship.md",
     "Costa, Flávia R. C..md",
     "Nobre, Carlos A..md",
     "People.md",
     "2 Research/Flores 2024 - Critical transitions in the Amazon forest system.md",
-    "@floresCriticalTransitionsAmazon2024.md",
     "Ana Did Science Today.canvas",
     "Climate Change.canvas",
     "Templates/Legacy",
