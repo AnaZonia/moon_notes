@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 The Bridge.md",
+                "file": "Ana Did Science Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c59f0ee59110679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 The Bridge.md"
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md"
               }
             }
           },
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "001 The Bridge.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "001 The Bridge.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 The Bridge.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,10 +245,11 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "1b94ca7f9bf386fd",
+  "active": "0c59f0ee59110679",
   "lastOpenFiles": [
-    "Ana Did Science Today.md",
+    "Files/Chapter 1 - Predicting Regrowth in the Amazon.png",
     "001 The Bridge.md",
+    "Ana Did Science Today.md",
     "Land Use.md",
     "Github.md",
     "STRI Short-Term Fellowship.md",
@@ -261,7 +275,6 @@
     "3 Floresta Aleatória/Statistics.md",
     "Costa, Flávia R. C..md",
     "Nobre, Carlos A..md",
-    "People.md",
     "Ana Did Science Today.canvas",
     "Climate Change.canvas",
     "Templates/Legacy",

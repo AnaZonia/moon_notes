@@ -65,3 +65,6 @@ Still unsure how to include this in the dataframe, since there are different amo
 - [ ] MAPBIOMAS classification quality - flooded forest class
 - [ ] Lençol freático
 - [ ] differentiating mature forests and fallow (everything that is mature from 1985 onwards)
+
+<!--⚠️Imgur upload failed, check dev console-->
+![[Chapter 1 - Predicting Regrowth in the Amazon.png]]
