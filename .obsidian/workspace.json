@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "001 The Bridge.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "001 The Bridge.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "001 The Bridge.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "001 The Bridge.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "001 The Bridge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,13 +234,14 @@
   },
   "active": "1b94ca7f9bf386fd",
   "lastOpenFiles": [
+    "Ana Did Science Today.md",
     "001 The Bridge.md",
+    "Land Use.md",
     "Github.md",
     "STRI Short-Term Fellowship.md",
     "Bureaucracy.md",
     "Computers and Bash.md",
     "Chapter 2 - Predicting Regrowth in Panama.md",
-    "Ana Did Science Today.md",
     "Files/Ana Did Science Today.png",
     "100 A Floresta Aleatória.md",
     "Methods Writing.md",
@@ -261,7 +262,6 @@
     "Costa, Flávia R. C..md",
     "Nobre, Carlos A..md",
     "People.md",
-    "2 Research/Flores 2024 - Critical transitions in the Amazon forest system.md",
     "Ana Did Science Today.canvas",
     "Climate Change.canvas",
     "Templates/Legacy",

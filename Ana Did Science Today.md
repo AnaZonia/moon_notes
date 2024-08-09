@@ -3,10 +3,13 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-Shriram
-Me
-Ana
-Carmen
+## 09/08, Fri - Planning the week/organizing things
+### Work tasks of the day
+- write chapter 1
+- write project for chapter 2 and plan workshop
+	- fire for Panama, run it with as many categories as we can. Check the differences between running the model with more or less categories.
+- read documentation on MAPBIOMAS
+
 
 
 ## 30/07, Tue - 
