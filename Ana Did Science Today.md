@@ -3,13 +3,30 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 16/08, Fri - 
+
+## 15/08, Thu - 
+
+
+## 13/08, Tue - Coding
+
+
+Afternoon after 3PM is taken by QLS and lab socials.
+
+## 12/08, Mon - Coding and meeting Jeff Cardille
+
+
+
+### Meeting with Jeff
+
+
 ## 09/08, Fri - Planning the week/organizing things
-### Work tasks of the day
-- write chapter 1
+### Work task planning
+- write chapter 1 - take a full day to advance on the whole thing as well as possible.
 - write project for chapter 2 and plan workshop
 	- fire for Panama, run it with as many categories as we can. Check the differences between running the model with more or less categories.
 - read documentation on MAPBIOMAS
-
+m
 
 
 ## 30/07, Tue - 

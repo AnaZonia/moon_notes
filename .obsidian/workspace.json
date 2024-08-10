@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 304.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Ana Did Science Today.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,8 +245,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0c59f0ee59110679",
+  "active": "1b94ca7f9bf386fd",
   "lastOpenFiles": [
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Files/Chapter 1 - Predicting Regrowth in the Amazon.png",
     "001 The Bridge.md",
     "Ana Did Science Today.md",
@@ -264,7 +265,6 @@
     "002 Data Sources.md",
     "Abstracts.md",
     "AGU Abstract.md",
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "R squared values.md",
     "Files/Ana Did Science Today-2.pdf",
     "Ecoregions.md",
@@ -301,7 +301,6 @@
     "Excalidraw/moon.svg.crdownload",
     "Predicting Regrowth in Central America - Project-1.svg",
     "moon.svg.crdownload",
-    "Predicting Regrowth in Central America - Project.svg",
-    "Files/Pasted Image 20240214131308_235.png"
+    "Predicting Regrowth in Central America - Project.svg"
   ]
 }
