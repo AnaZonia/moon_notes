@@ -5,6 +5,9 @@ dg-publish: true
 ---
 ## 16/08, Fri - 
 
+- shorter titles that cite results are cited more
+- be consistent with order of primary and secondary goals. showing it first is also a good idea
+
 ## 15/08, Thu - 
 
 
@@ -15,7 +18,7 @@ Afternoon after 3PM is taken by QLS and lab socials.
 
 ## 12/08, Mon - Coding and meeting Jeff Cardille
 
-
+- Check with Gabriela if she is or knows someone who would be interested in leading the mining group at the workshop
 
 ### Meeting with Jeff
 
