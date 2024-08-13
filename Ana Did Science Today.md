@@ -13,14 +13,21 @@ dg-publish: true
 
 ## 13/08, Tue - Coding
 
+- Check semivariogram and kriging with mature forest biomass aggregated to 1km
+- krig with n closest neighbor
 
 Afternoon after 3PM is taken by QLS and lab socials.
 
 ## 12/08, Mon - Coding and meeting Jeff Cardille
 
 - Check with Gabriela if she is or knows someone who would be interested in leading the mining group at the workshop
+climatic variables should only matter when age is implicit.
 
-### Meeting with Jeff
+means model
+
+annual model
+
+Meeting with Jeff postponed
 
 
 ## 09/08, Fri - Planning the week/organizing things
