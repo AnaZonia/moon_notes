@@ -10,6 +10,7 @@ dg-publish: true
 
 ## 15/08, Thu - 
 
+Check the effect of implicit age with logistic curve.
 
 ## 13/08, Tue - Coding
 
