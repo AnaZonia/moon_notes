@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Leung - Clustered vs catastrophic declines.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5,
-    "collapsed": true
+    "width": 304.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -247,12 +246,16 @@
   },
   "active": "1b94ca7f9bf386fd",
   "lastOpenFiles": [
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "Files/Chapter 1 - Predicting Regrowth in the Amazon.png",
     "001 The Bridge.md",
+    "Gatti - Amazonia as Carbon Source.md",
+    "Leung - Clustered vs catastrophic declines.md",
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "Background Flowchart.canvas",
+    "200 Life Sciences.md",
     "Ana Did Science Today.md",
-    "Land Use.md",
     "Github.md",
+    "Files/Chapter 1 - Predicting Regrowth in the Amazon.png",
+    "Land Use.md",
     "STRI Short-Term Fellowship.md",
     "Bureaucracy.md",
     "Computers and Bash.md",
@@ -260,7 +263,6 @@
     "Files/Ana Did Science Today.png",
     "100 A Floresta Aleatória.md",
     "Methods Writing.md",
-    "200 Life Sciences.md",
     "250 Conservation.md",
     "002 Data Sources.md",
     "Abstracts.md",
@@ -274,7 +276,6 @@
     "3 Floresta Aleatória/001 Introdução à Estatística.md",
     "3 Floresta Aleatória/Statistics.md",
     "Costa, Flávia R. C..md",
-    "Nobre, Carlos A..md",
     "Ana Did Science Today.canvas",
     "Climate Change.canvas",
     "Templates/Legacy",
@@ -284,7 +285,6 @@
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Files/cwd monthly.png",
     "Files/Computers and Bash.png",
-    "Background Flowchart.canvas",
     "Nitrogen.canvas",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",

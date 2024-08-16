@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"d4c18a2d73c27a33","x":-400,"y":-600,"width":380,"height":280,"type":"file","file":"2 Research/Bongers 2015 - The Potential of Secondary Forests.md"}
+		{"id":"d4c18a2d73c27a33","type":"file","file":"2 Research/Bongers 2015 - The Potential of Secondary Forests.md","x":-400,"y":-600,"width":540,"height":460}
 	],
 	"edges":[]
 }

@@ -18,6 +18,9 @@ APA reference, 2 column, lato
 
 - Finish mature forest kriging
 
+[[Gatti - Amazonia as Carbon Source]]
+[[Leung - Clustered vs catastrophic declines]]
+
 ## Optimizers
 ### Hamiltonian Monte Carlo
 

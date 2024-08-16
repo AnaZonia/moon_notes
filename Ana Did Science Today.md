@@ -8,6 +8,45 @@ dg-publish: true
 - shorter titles that cite results are cited more
 - be consistent with order of primary and secondary goals. showing it first is also a good idea
 
+depending on the age class N fixers fix at different rates
+
+- botanist - understands lianas and biodiversity
+- in the field
+not in the dry forest - newer data
+- never been analysed in the way that we can do it.
+
+land use classification
+burn
+
+meet over zoom professor in singapore.
+
+greg asner 2012 data. he may have information on land use classification?
+- may have other lidar flights over agua salud done this past year and other regions for other regions - would have biomass for other years.
+helena muller-landau would have that with drones.
+etienne university of toronto used remote sensing 
+casey cushman - jpl, tenessee oak ridge, helped lead the radar study from JPL
+
+someone did postdoc with catherine potvin - joanne palantier. she did land use classification for land slides.
+
+remote sensing people in panama canal authority - raul martinez. gerente of environmental division. they may have at least within the watershed.
+milton solano also - write him an email and ask. manage databases.
+
+most forests are regrowing on pastureland - rice isnt grown everywhere, and neither is sugar cane, some areas have 
+would be cool to start with just fire and move on.
+
+final product 
+- regeneration potential for Panama - marrying with the probability of deforestation map
+	- how forests regenerate from landslides?
+	- hills and bedrock - this could be an interesting predictor too.
+- conceptualizing chapter 3 - lianas, nitrogen fixers. Catherine also has botanists, and others in forest geo.
+
+dispersal limitation.
+
+Hola Milton,
+
+
+
+
 ## 15/08, Thu - 
 
 Check the effect of implicit age with logistic curve.
