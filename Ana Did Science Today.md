@@ -31,6 +31,8 @@ someone did postdoc with catherine potvin - joanne palantier. she did land use c
 remote sensing people in panama canal authority - raul martinez. gerente of environmental division. they may have at least within the watershed.
 milton solano also - write him an email and ask. manage databases.
 
+https://ensminger.csb.utoronto.ca/2022/08/31/our-drone-data-reaches-new-heights/
+
 most forests are regrowing on pastureland - rice isnt grown everywhere, and neither is sugar cane, some areas have 
 would be cool to start with just fire and move on.
 
