@@ -5,6 +5,8 @@ dg-publish: true
 ---
 ## 16/08, Fri - 
 
+https://www.nature.com/documents/nature-summary-paragraph.pdf
+
 - shorter titles that cite results are cited more
 - be consistent with order of primary and secondary goals. showing it first is also a good idea
 

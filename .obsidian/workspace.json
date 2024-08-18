@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "70be0ef0973d398d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing Aug 17th 2024.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "0c59f0ee59110679",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leung - Clustered vs catastrophic declines.md",
+                "file": "Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing Aug 17th 2024.excalidraw.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -114,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing Aug 17th 2024.excalidraw.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -131,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing Aug 17th 2024.excalidraw.md",
+                "file": "Ana Did Science Today.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -212,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing Aug 17th 2024.excalidraw.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,12 +232,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "70be0ef0973d398d",
+  "active": "0c59f0ee59110679",
   "lastOpenFiles": [
+    "001 The Bridge.md",
+    "Leung - Clustered vs catastrophic declines.md",
     "Excalidraw/Drawing Aug 17th 2024.excalidraw.md",
     "Ana Did Science Today.md",
-    "Leung - Clustered vs catastrophic declines.md",
-    "001 The Bridge.md",
     "Gatti - Amazonia as Carbon Source.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Background Flowchart.canvas",
