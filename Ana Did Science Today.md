@@ -3,6 +3,14 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+https://www.researchgate.net/publication/227674661_Landslides_and_Their_Contribution_to_Land-cover_Change_in_the_Mountains_of_Mexico_and_Central_America1
+- landslide classification is its own field
+- her collaborator is a landslide engineer
+- Catalina Gonzalez
+
+Nature-based solutions - reforestation as risk reduction
+
 ## 16/08, Fri - 
 
 https://www.nature.com/documents/nature-summary-paragraph.pdf
