@@ -11,6 +11,16 @@ https://www.researchgate.net/publication/227674661_Landslides_and_Their_Contribu
 
 Nature-based solutions - reforestation as risk reduction
 
+How much area is there for landslides - if there are not many, can we still identify this?
+
+- combining with deforestation probability is probably the lowest hanging fruit.
+
+land use management practices - nutrient inputs - can vary a lot within the same crop type, but also across different regions. It would be cool to look into crop type as an additive
+
+Adding slope to compare with atlantic forest
+
+
+
 ## 16/08, Fri - 
 
 https://www.nature.com/documents/nature-summary-paragraph.pdf
