@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ac9dae98231c04e2",
+        "id": "36cbb34cefb24b84",
         "type": "tabs",
         "children": [
           {
-            "id": "0c59f0ee59110679",
+            "id": "b521b68e0c71ad98",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -232,12 +232,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0c59f0ee59110679",
+  "active": "b521b68e0c71ad98",
   "lastOpenFiles": [
-    "Dent, Daisy.md",
-    "Ana Did Science Today.md",
-    "Dalling, Jim.md",
     "001 The Bridge.md",
+    "Ana Did Science Today.md",
+    "Dent, Daisy.md",
+    "Dalling, Jim.md",
     "Leung - Clustered vs catastrophic declines.md",
     "Excalidraw/Drawing Aug 17th 2024.excalidraw.md",
     "Gatti - Amazonia as Carbon Source.md",

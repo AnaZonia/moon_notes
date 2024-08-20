@@ -4,6 +4,19 @@ up:
 dg-publish: true
 ---
 
+
+
+## 19/08
+
+people for panama regrowth project
+oswaldo - wanted help distinguishing between rice and other land use types
+javier sanchez galan
+
+meeting jeff cardille - 
+
+
+
+
 https://www.researchgate.net/publication/227674661_Landslides_and_Their_Contribution_to_Land-cover_Change_in_the_Mountains_of_Mexico_and_Central_America1
 - landslide classification is its own field
 - her collaborator is a landslide engineer
