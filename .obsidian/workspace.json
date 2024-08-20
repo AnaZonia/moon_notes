@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "338f1bbd871a2ce4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing Aug 20th 2024.excalidraw.md"
+              }
+            }
           }
         ]
       }
@@ -234,8 +244,9 @@
   },
   "active": "b521b68e0c71ad98",
   "lastOpenFiles": [
-    "001 The Bridge.md",
+    "Excalidraw/Drawing Aug 20th 2024.excalidraw.md",
     "Ana Did Science Today.md",
+    "001 The Bridge.md",
     "Dent, Daisy.md",
     "Dalling, Jim.md",
     "Leung - Clustered vs catastrophic declines.md",
@@ -263,7 +274,6 @@
     "Ecoregions.md",
     "Background Writing.md",
     "Natural Earth.md",
-    "FAO Soil Map of the World.md",
     "Ana Did Science Today.canvas",
     "Climate Change.canvas",
     "Templates/Legacy",

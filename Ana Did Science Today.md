@@ -5,6 +5,12 @@ dg-publish: true
 ---
 
 
+s2bak has the average for many years
+
+
+Which land use types did jorge classify?
+
+https://developers.google.com/earth-engine/datasets/catalog/CSP_ERGo_1_0_Global_ALOS_CHILI
 
 ## 19/08
 
