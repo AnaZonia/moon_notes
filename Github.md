@@ -22,7 +22,6 @@ git remote add origin https://github.com/AnaCAvila/forest_regrowth.git
 Apparently, there's issues using SSH, although it's a good option for people concerned about security. In general cases, stick with https.
 ==attention==: even with https you may need to authenticate on browser. If so, a pop up window will appear.
 
-
 For obsidian, it's useful to have this in the config file:
 ```bash
 [remote "origin"]
