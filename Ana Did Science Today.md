@@ -4,7 +4,7 @@ up:
 dg-publish: true
 ---
 
-
+## 23/08, Fri - Writing and organizing
 s2bak has the average for many years
 
 
@@ -88,9 +88,6 @@ Hola Milton,
 
 
 
-## 15/08, Thu - 
-
-Check the effect of implicit age with logistic curve.
 
 ## 13/08, Tue - Coding
 
