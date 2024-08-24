@@ -5,9 +5,7 @@ dg-publish: true
 ---
 
 
-not using the phone in the morning
-waking up at the same time
-## 24/08, Fri - Writing and organizing
+## 25/08, Sat - Writing and organizing
 s2bak has the average for many years
 
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010372
