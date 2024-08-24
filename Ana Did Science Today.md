@@ -4,6 +4,9 @@ up:
 dg-publish: true
 ---
 
+
+not using the phone in the morning
+waking up at the same time
 ## 24/08, Fri - Writing and organizing
 s2bak has the average for many years
 
