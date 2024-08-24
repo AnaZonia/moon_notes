@@ -5,8 +5,6 @@ stardate: Oct 2nd 2023
 update: Oct 2nd 2023
 type:
   - scicomm_article
-tags:
-  - tribble
 dg-publish: true
 ---
 [The “Canada Brand”: Violence and Canadian Mining Companies in Latin America - Justice & Corporate Accountability Project](https://justice-project.org/the-canada-brand-violence-and-canadian-mining-companies-in-latin-america/)

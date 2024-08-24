@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Background.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Background.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Background.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,7 +250,43 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "001 The Bridge.md",
+                    "file": "Background.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9a5c910b4402fadb",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 Research/Schmidt 2021 - Indigenous Knowledge and Forest Succession Management in the Brazilian Amazon - Contributions to Reforestation of Degraded Areas.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "57ab092bed983f80",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 Research/Hirota 2022 - Policy Brief - A Call for Global Action to Move the Amazon Forest System Away from Tipping Points (Extended Version).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "f762f2371d4cc425",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "2 Research/Leung 2020 - Clustered versus catastrophic global vertebrate declines.md",
                     "mode": "source",
                     "source": false
                   }
@@ -260,8 +296,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1335,
-        "y": 555,
+        "x": 1523,
+        "y": 509,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -269,10 +305,20 @@
       }
     ]
   },
-  "active": "b521b68e0c71ad98",
+  "active": "d2d1afbc9892b632",
   "lastOpenFiles": [
-    "001 The Bridge.md",
+    "2 Research/Schmidt 2021 - Indigenous Knowledge and Forest Succession Management in the Brazilian Amazon - Contributions to Reforestation of Degraded Areas.md",
+    "Background.md",
+    "2 Research/Hirota 2022 - Policy Brief - A Call for Global Action to Move the Amazon Forest System Away from Tipping Points (Extended Version).md",
+    "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "Methods Writing.md",
+    "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
+    "Background Flowchart.canvas",
     "Ana Did Science Today.md",
+    "2 Research/Leung 2020 - Clustered versus catastrophic global vertebrate declines.md",
+    "Leung - Clustered vs catastrophic declines.md",
+    "001 The Bridge.md",
+    "Canadian Contributions to Climate Change - Pollution and Mining.md",
     "Excalidraw/Drawing Aug 20th 2024.excalidraw.md",
     "3 Floresta Aleatória/Python.md",
     "100 A Floresta Aleatória.md",
@@ -287,19 +333,10 @@
     "Github.md",
     "Dent, Daisy.md",
     "Dalling, Jim.md",
-    "Leung - Clustered vs catastrophic declines.md",
     "Excalidraw/Drawing Aug 17th 2024.excalidraw.md",
     "Gatti - Amazonia as Carbon Source.md",
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "Background Flowchart.canvas",
-    "200 Life Sciences.md",
     "Files/Chapter 1 - Predicting Regrowth in the Amazon.png",
-    "Land Use.md",
-    "STRI Short-Term Fellowship.md",
-    "Bureaucracy.md",
-    "Chapter 2 - Predicting Regrowth in Panama.md",
     "Files/Ana Did Science Today.png",
-    "Methods Writing.md",
     "Files/Ana Did Science Today-2.pdf",
     "Ana Did Science Today.canvas",
     "Climate Change.canvas",
@@ -307,7 +344,6 @@
     "Files/110 Remote Sensing-2.png",
     "smart-chats",
     "Regrowth.canvas",
-    "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Files/cwd monthly.png",
     "Files/Computers and Bash.png",
     "Nitrogen.canvas",

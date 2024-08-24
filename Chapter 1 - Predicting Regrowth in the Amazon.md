@@ -6,9 +6,9 @@ dg-publish: true
 ---
 ## Writing
 - [[Background Flowchart.canvas|Background Flowchart]]
+- [[Background]]
 - [[Methods Writing]]
 - [[Methods Flowchart - Predicting Regrowth in the Amazon.canvas|Methods Flowchart]]
-APA reference, 2 column, lato
 
 ## Working on
 
@@ -19,7 +19,6 @@ APA reference, 2 column, lato
 - Finish mature forest kriging
 
 [[Gatti - Amazonia as Carbon Source]]
-[[Leung - Clustered vs catastrophic declines]]
 
 ## Optimizers
 ### Hamiltonian Monte Carlo
