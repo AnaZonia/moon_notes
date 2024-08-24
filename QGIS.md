@@ -1,3 +1,11 @@
+---
+up:
+  - "[[100 A Floresta Aleatória]]"
+stardate: May 26th 2024
+update: Aug 23rd 2024
+dg-publish: true
+---
+
 GDAL
 Translate tool
 - generate NAs

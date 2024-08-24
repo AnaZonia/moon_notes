@@ -4,9 +4,10 @@ up:
 dg-publish: true
 ---
 
-## 23/08, Fri - Writing and organizing
+## 24/08, Fri - Writing and organizing
 s2bak has the average for many years
 
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010372
 
 Which land use types did jorge classify?
 
@@ -21,6 +22,8 @@ javier sanchez galan
 meeting jeff cardille - 
 
 
+
+![](https://i.imgur.com/yPwSN2p.png)
 
 
 https://www.researchgate.net/publication/227674661_Landslides_and_Their_Contribution_to_Land-cover_Change_in_the_Mountains_of_Mexico_and_Central_America1

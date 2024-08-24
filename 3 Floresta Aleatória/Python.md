@@ -64,7 +64,6 @@ pip install -r /path/to/requirements.txt
 - [QGIS Google Earth Engine plugin](https://gee-community.github.io/qgis-earthengine-plugin/)
 - [Creating Maps with Google Earth Engine and PyQGIS – Spatial Thoughts](https://spatialthoughts.com/2020/04/04/ndvi-time-series-gee-qgis/)
 ### Next
-- [FULL COURSE - Google Earth Engine Python API and Colab for Absolute Beginners in 3 Hours](https://www.youtube.com/watch?v=Lqirs04EccA)
 - [McMedHacks](https://app.gumroad.com/d/5f76a9bc66bfd87f4d75d4d157304e99)
 - [Python for Statistical Analysis | Udemy](https://www.udemy.com/course/python-for-statistical-analysis/)
 - [Machine Learning in Python (Data Science and Deep Learning) | Udemy](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/)
