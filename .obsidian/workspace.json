@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Background.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Background.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Background.md",
+                "file": "Ana Did Science Today.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Background.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,92 +232,25 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "floating": {
-    "id": "3f710d2392641d1d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1ea030ceecd03686",
-        "type": "window",
-        "children": [
-          {
-            "id": "c5e7674ff87d09b0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d2d1afbc9892b632",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Background.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "9a5c910b4402fadb",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 Research/Schmidt 2021 - Indigenous Knowledge and Forest Succession Management in the Brazilian Amazon - Contributions to Reforestation of Degraded Areas.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "57ab092bed983f80",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 Research/Hirota 2022 - Policy Brief - A Call for Global Action to Move the Amazon Forest System Away from Tipping Points (Extended Version).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "f762f2371d4cc425",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "2 Research/Leung 2020 - Clustered versus catastrophic global vertebrate declines.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1523,
-        "y": 509,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "d2d1afbc9892b632",
+  "active": "b521b68e0c71ad98",
   "lastOpenFiles": [
-    "2 Research/Schmidt 2021 - Indigenous Knowledge and Forest Succession Management in the Brazilian Amazon - Contributions to Reforestation of Degraded Areas.md",
     "Background.md",
+    "Ana Did Science Today.md",
+    "001 The Bridge.md",
+    "Philosophy.md",
+    "Leonardo da Vinci e uma Lembrança de sua Infância.md",
+    "Freud.md",
+    "O Mal-Estar na Civilização.md",
+    "O Futuro de Uma Ilusão.md",
+    "400 Interests.md",
+    "2 Research/Schmidt 2021 - Indigenous Knowledge and Forest Succession Management in the Brazilian Amazon - Contributions to Reforestation of Degraded Areas.md",
     "2 Research/Hirota 2022 - Policy Brief - A Call for Global Action to Move the Amazon Forest System Away from Tipping Points (Extended Version).md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Methods Writing.md",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Background Flowchart.canvas",
-    "Ana Did Science Today.md",
     "2 Research/Leung 2020 - Clustered versus catastrophic global vertebrate declines.md",
     "Leung - Clustered vs catastrophic declines.md",
-    "001 The Bridge.md",
     "Canadian Contributions to Climate Change - Pollution and Mining.md",
     "Excalidraw/Drawing Aug 20th 2024.excalidraw.md",
     "3 Floresta Aleatória/Python.md",
@@ -329,12 +262,6 @@
     "Google Earth Engine.md",
     "3 Floresta Aleatória/Statistics.md",
     "3 Floresta Aleatória/001 Introdução à Estatística.md",
-    "FAO Soil Map of the World.md",
-    "Github.md",
-    "Dent, Daisy.md",
-    "Dalling, Jim.md",
-    "Excalidraw/Drawing Aug 17th 2024.excalidraw.md",
-    "Gatti - Amazonia as Carbon Source.md",
     "Files/Chapter 1 - Predicting Regrowth in the Amazon.png",
     "Files/Ana Did Science Today.png",
     "Files/Ana Did Science Today-2.pdf",

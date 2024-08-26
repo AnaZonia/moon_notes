@@ -5,14 +5,15 @@ dg-publish: true
 ---
 
 
-## 25/08, Sat - Writing and organizing
-s2bak has the average for many years
+## 26/08, Mon - Finishing R application of model
 
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010372
 
-Which land use types did jorge classify?
 
-https://developers.google.com/earth-engine/datasets/catalog/CSP_ERGo_1_0_Global_ALOS_CHILI
+
+
+
+
+
 
 ## 19/08
 
@@ -22,6 +23,15 @@ javier sanchez galan
 
 meeting jeff cardille - 
 
+
+
+s2bak has the average for many years
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010372
+
+Which land use types did jorge classify?
+
+https://developers.google.com/earth-engine/datasets/catalog/CSP_ERGo_1_0_Global_ALOS_CHILI
 
 
 ![](https://i.imgur.com/yPwSN2p.png)
