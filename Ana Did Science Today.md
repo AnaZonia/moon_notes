@@ -5,6 +5,8 @@ dg-publish: true
 ---
 
 
+Removing rare ecoregions and soil types makes such that amaz, both and atla have slightly different nrow values.
+
 ## 26/08, Mon - Finishing R application of model
 
 - compare with different predictors with brian
