@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Github.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Github.md",
+                "file": "Ana Did Science Today.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,8 +242,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "c21be8d89399ec5e",
+  "active": "b521b68e0c71ad98",
   "lastOpenFiles": [
+    "Github.md",
     "Ana Did Science Today.md",
     "Freud.md",
     "Background.md",
@@ -272,7 +272,6 @@
     "Remote Sensing.md",
     "Google Earth Engine.md",
     "3 Floresta Aleatória/Statistics.md",
-    "3 Floresta Aleatória/001 Introdução à Estatística.md",
     "Files/Chapter 1 - Predicting Regrowth in the Amazon.png",
     "Files/Ana Did Science Today.png",
     "Files/Ana Did Science Today-2.pdf",

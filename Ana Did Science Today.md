@@ -7,9 +7,20 @@ dg-publish: true
 
 ## 26/08, Mon - Finishing R application of model
 
+- compare with different predictors with brian
+- aggregated land use
+- incorporate jeffs ages
+- climatic variables
+- pantanal/cerrado
+- surrounding mature forest cover/kriging
 
+neighborhood effect
+- asymptote
+- surrounding forest cover
 
-
+fundamental differences between what the predictions would have been vs what they are now
+- get the key areas
+- absolute values (differences)
 
 
 
