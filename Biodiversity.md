@@ -30,3 +30,10 @@ FROM [[]]
 WHERE contains(type, "research network") OR contains(type, "NGO") OR contains(type, "think-tank") OR contains(type, "policy")
 ```
 
+## Papers
+```dataview
+LIST
+FROM "2 Research"
+WHERE contains(file.outlinks, this.file.link)
+SORT file.name ASC
+```

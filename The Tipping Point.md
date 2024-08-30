@@ -4,7 +4,7 @@ up:
 stardate: Nov 25th 2023
 update: Nov 25th 2023
 ---
-
+[[Hirota 2022 - Policy Brief - A Call for Global Action to Move the Amazon Forest System Away from Tipping Points (Extended Version)]]
 ## Resources
 [The Amazon might not have a 'tipping point.' But it's still in trouble](https://www.sciencenews.org/article/amazon-tipping-trouble-climate-cerrado)
 

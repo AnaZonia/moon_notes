@@ -3,7 +3,6 @@
 - [[Climate Change]]
 - [[Historical Ecology]]
 - [[Critical Ecology]]
-
 - [[Amazon Conservation]]
 
 

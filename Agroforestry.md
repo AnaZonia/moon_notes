@@ -9,8 +9,6 @@ aliases:
 - [[Agent-Based Modelling]]
 - [[Cacao Agroforestry]]
 
-[[NTFP in Amazonia - RELAM]]
-
 ## Books
 ```dataview
 TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author"

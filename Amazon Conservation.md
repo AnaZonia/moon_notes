@@ -5,8 +5,6 @@ up:
 stardate: Nov 24th 2023
 update: Nov 24th 2023
 ---
-- [[NTFP in Amazonia - RELAM]]
-
 [[Amazon Deforestation and Climate Change - Interview]]
 
 [Países ricos pressionam pela liberação do garimpo em terras indígenas – Sustentabilidade – CartaCapital](https://www.cartacapital.com.br/sustentabilidade/paises-ricos-pressionam-pela-liberacao-do-garimpo-em-terras-indigenas/)

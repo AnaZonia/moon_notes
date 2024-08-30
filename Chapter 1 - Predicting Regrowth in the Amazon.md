@@ -12,11 +12,9 @@ dg-publish: true
 
 ## Working on
 
-- Check what is going on with google earth engine
-- Finish STAN
-- Finish RAY
-
-- Finish mature forest kriging
+fundamental differences between what the predictions would have been vs what they are now
+- get the key areas
+- absolute values (differences)
 
 [[Gatti - Amazonia as Carbon Source]]
 

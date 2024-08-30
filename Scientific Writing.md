@@ -101,3 +101,9 @@ What separates really good grants?
 - Past predicts future performance - show evidence of that
 - Well grounded in literature, but looks like a leap forward
 - Do you know what to do even if it fails?
+
+## Article Writing
+https://www.nature.com/documents/nature-summary-paragraph.pdf
+
+- shorter titles that cite results are cited more
+- be consistent with order of primary and secondary goals. showing it first is also a good idea

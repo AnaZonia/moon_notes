@@ -4,139 +4,78 @@ up:
 dg-publish: true
 ---
 
-## 30/08, Fri - Writing and organization
+## 30/08, Fri - WEEKLY REVIEW
+
+### Coding
+I have realized that the mismatch between the lm and optim outputs were largely due to:
+- correlations between variables - mature_forest_years was very related to ages, and number of fires before anthro with number of fires before regrowth, and so on
+- and there were columns that were empty, for the rarer ecoregion types and soil types.
+I have fixed that by removing types that are too rare. Removing rare ecoregions and soil types makes such that amaz, both and atla have slightly different nrow values, but I do not think that is a problem. Think about that a bit more next week.
+Another concern now is spatial autocorrelation. I could select only one point per 1km area - confirming that with GEE.
+
+### Goals - Other
+- [ ]  [[Chapter 2 - Predicting Regrowth in Panama]] Write short summary of project for workshop
+- [ ] Contact Gabriela and see if she knows anyone that would be interested in the project
+- [ ] Finish retreat prep
+- [ ] Find out who was working with landslides on Jeff Hall's email
+- [ ] Apply to GMA
+- [ ] Apply for conference funding:
+AGU
+GIC
+QLS
+GREAT
+QCBS
+
+### Goals - Coding
+- [ ] Look over climatic variables with Fiona
+- [ ] Look over pantanal/cerrado with Fiona
+- [ ] Incorporate Jeff's ages from his model
+- [ ] Check random forest outcomes with python, as well as hyperparameter tuning
+- [ ] Add slope
 
 
 
-Removing rare ecoregions and soil types makes such that amaz, both and atla have slightly different nrow values.
-
-## 26/08, Mon - Finishing R application of model
-
-- compare with different predictors with brian
-- aggregated land use
-- incorporate jeffs ages
-- climatic variables
-- pantanal/cerrado
-- surrounding mature forest cover/kriging
-
-neighborhood effect
-- asymptote
-- surrounding forest cover
-
-fundamental differences between what the predictions would have been vs what they are now
-- get the key areas
-- absolute values (differences)
-
-
-
-
-
-## 19/08
-
-people for panama regrowth project
-oswaldo - wanted help distinguishing between rice and other land use types
-javier sanchez galan
-
-meeting jeff cardille - 
-
-
-
-s2bak has the average for many years
 
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010372
-
-Which land use types did jorge classify?
-
-https://developers.google.com/earth-engine/datasets/catalog/CSP_ERGo_1_0_Global_ALOS_CHILI
 
 
 ![](https://i.imgur.com/yPwSN2p.png)
 
 
-https://www.researchgate.net/publication/227674661_Landslides_and_Their_Contribution_to_Land-cover_Change_in_the_Mountains_of_Mexico_and_Central_America1
-- landslide classification is its own field
-- her collaborator is a landslide engineer
-- Catalina Gonzalez
 
-Nature-based solutions - reforestation as risk reduction
+## 16/08, Fri - Meeting Jeff Hall with Brian
 
-How much area is there for landslides - if there are not many, can we still identify this?
+### Important notes
+- depending on the age class N fixers fix at different rates. Makes sense - connects to other papers I've read.
+- The dry forest has new data that has never been analysed in the way that we can do it.
+- Most forests are regrowing on pastureland - rice isnt grown everywhere, and neither is sugar cane, some areas have more presence of one land use type than others.
+- would be cool to start with just fire and move on.
 
-- combining with deforestation probability is probably the lowest hanging fruit.
+### People mentioned
+- botanist in his lab - understands lianas and biodiversity in secondary forests. Could be useful in conceptualizing chapter 2.
+- Professor in Singapore could be met over zoom - not sure of their specialty?
+- Greg Asner - 2012 data. he may have information on land use classification?
+	- may have other lidar flights over agua salud done this past year and other regions for other regions - would have biomass for other years.
+- Helena muller-landau would have that with drones.
+- Etienne university of toronto used remote sensing 
+- Casey cushman - jpl, tenessee oak ridge, helped lead the radar study from JPL
+- Joanne palantier was catherine potvin's postdoc. she did land use classification for land slides. [[Regrowth on Landslides]]
+- Raul Martinez - remote sensing people in panama canal authority. gerente of environmental division. they may have at least within the watershed.
+- Milton Solano also - write him an email and ask. manage databases.
 
-land use management practices - nutrient inputs - can vary a lot within the same crop type, but also across different regions. It would be cool to look into crop type as an additive
-
-Adding slope to compare with atlantic forest
-
-
-
-## 16/08, Fri - 
-
-https://www.nature.com/documents/nature-summary-paragraph.pdf
-
-- shorter titles that cite results are cited more
-- be consistent with order of primary and secondary goals. showing it first is also a good idea
-
-depending on the age class N fixers fix at different rates
-
-- botanist - understands lianas and biodiversity
-- in the field
-not in the dry forest - newer data
-- never been analysed in the way that we can do it.
-
-land use classification
-burn
-
-meet over zoom professor in singapore.
-
-greg asner 2012 data. he may have information on land use classification?
-- may have other lidar flights over agua salud done this past year and other regions for other regions - would have biomass for other years.
-helena muller-landau would have that with drones.
-etienne university of toronto used remote sensing 
-casey cushman - jpl, tenessee oak ridge, helped lead the radar study from JPL
-
-someone did postdoc with catherine potvin - joanne palantier. she did land use classification for land slides.
-
-remote sensing people in panama canal authority - raul martinez. gerente of environmental division. they may have at least within the watershed.
-milton solano also - write him an email and ask. manage databases.
-
-https://ensminger.csb.utoronto.ca/2022/08/31/our-drone-data-reaches-new-heights/
-
-most forests are regrowing on pastureland - rice isnt grown everywhere, and neither is sugar cane, some areas have 
-would be cool to start with just fire and move on.
-
-final product 
+### Final product 
 - regeneration potential for Panama - marrying with the probability of deforestation map
 	- how forests regenerate from landslides?
 	- hills and bedrock - this could be an interesting predictor too.
 - conceptualizing chapter 3 - lianas, nitrogen fixers. Catherine also has botanists, and others in forest geo.
 
-dispersal limitation.
+https://ensminger.csb.utoronto.ca/2022/08/31/our-drone-data-reaches-new-heights/
 
-Hola Milton,
-
-
-
-
-
-## 13/08, Tue - Coding
-
-- Check semivariogram and kriging with mature forest biomass aggregated to 1km
-- krig with n closest neighbor
-
-Afternoon after 3PM is taken by QLS and lab socials.
 
 ## 12/08, Mon - Coding and meeting Jeff Cardille
 
 - Check with Gabriela if she is or knows someone who would be interested in leading the mining group at the workshop
-climatic variables should only matter when age is implicit.
-
-means model
-
-annual model
-
-Meeting with Jeff postponed
-
+Climatic variables should only matter when age is implicit. Careful - included variables that should not have been included together. It would have been helpful to think of the model conceptually first before writing the code.
 
 ## 09/08, Fri - Planning the week/organizing things
 ### Work task planning
@@ -144,14 +83,6 @@ Meeting with Jeff postponed
 - write project for chapter 2 and plan workshop
 	- fire for Panama, run it with as many categories as we can. Check the differences between running the model with more or less categories.
 - read documentation on MAPBIOMAS
-m
-
-
-## 30/07, Tue - 
-- paper on land use projections
-- heinrich nature paper
-- distance to mature forest edge
-
 
 ## 28/07, Mon - Submit abstract
 Realized why nearest mature forest biomass calculations are not running for the whole country.
@@ -246,18 +177,12 @@ PRISM workshop section
 
 Committee Meeting - Late October/early November
 
-[[AGU Abstract]]
-
-
 
 ## 5/07, Fri - Edge effects and mature forests
 
 Ask Jeff Cardille about spatial autocorrelation and his regrowth algorithm.
 Check NLL
 Check NA mature forest values
-
-
-
 Pattern of mature biomass distance from border
 
 ### GAMs

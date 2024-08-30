@@ -66,14 +66,3 @@ there are deciduous tropical forests
 
 > <span style="color: #FFC0CB">FUN 3.0 expands upon recent inclusions of P dynamics in ESMs (Wang et al., 2010; Goll et al., 2012; Yang et al., 2014) not only by limiting NPP due to stoichiometric constraints but also by accounting for the C and N invested by plants into acquiring P from soil</span>
 
-
----
-aliases: ["Modeling the Carbon Cost of Plant Nitrogen and Phosphorus Uptake Across Temperate and Tropical Forests"] 
-year: 2020 
-first-author: Allen, Kara
-publisher: "Frontiers in Forests and Global Change" 
-tags:[model, ]
-url: https://www.frontiersin.org/articles/10.3389/ffgc.2020.00043 
-type: lit_note
-
----

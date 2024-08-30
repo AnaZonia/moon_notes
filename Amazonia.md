@@ -6,7 +6,8 @@ update: Oct 7th 2023
 tags: 
 dg-publish: true
 ---
-### Amazonian Landscape
+[[Why is the Amazon important]]
+## Amazonian Landscape
 - [[Climate Patterns in the Amazon]]
 - [[Peatlands]]
 - [[White Sand]]
@@ -14,12 +15,6 @@ dg-publish: true
 - [[História da Amazônia]]
 - [[The Tipping Point]]
 - [[The Changing Carbon Balance in Amazonia]]
-
->[!quote] Quotable facts
->- It's the size of the continental US- 1/5 of the world's freshwater runs through it
->- Over 50% of the remaining rainforests in the world
->- It absorbs one fourth of the CO2 absorbed by all land on Earth, but that's 30% less now than in the 1990s due to deforestation.
-
 
 ## Books
 ```dataview
@@ -31,7 +26,7 @@ SORT authors ASC
 
 ## Reports
 ```dataview
-TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author", tags as "Tribble?"
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author"
 FROM [[]]
 WHERE contains(type, "report")
 SORT authors ASC
@@ -39,7 +34,7 @@ SORT authors ASC
 
 ## Articles
 ```dataview
-TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author", tags as "Tribble?"
+TABLE WITHOUT ID link(file.link, file.name) AS "Title", authors as "Author"
 FROM [[]]
 WHERE contains(type, "article") AND !contains(type, "scicomm_article")
 SORT authors ASC
@@ -61,11 +56,18 @@ FROM [[]]
 WHERE contains(type, "research network") OR contains(type, "NGO") OR contains(type, "think-tank") OR contains(type, "policy")
 ```
 
-
-
 ## People
 ```dataview
-TABLE WITHOUT ID link(file.link, file.name), location
+TABLE WITHOUT ID link(file.link, file.name) AS "Name", location
 FROM [[]]
 WHERE contains(type, "researcher")
+```
+
+
+## Papers
+```dataview
+LIST
+FROM "2 Research"
+WHERE contains(file.outlinks, this.file.link)
+SORT file.name ASC
 ```

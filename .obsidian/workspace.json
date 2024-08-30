@@ -8,12 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b521b68e0c71ad98",
+            "id": "947993a1d660f851",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Chapter 2 - Predicting Regrowth in Panama.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6677a61ccf441c08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a843e4e2a4bc5ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gatti - Amazonia as Carbon Source.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Gatti - Amazonia as Carbon Source.md"
               }
             }
           },
@@ -104,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Gatti - Amazonia as Carbon Source.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Gatti - Amazonia as Carbon Source.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Gatti - Amazonia as Carbon Source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,36 +250,38 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b521b68e0c71ad98",
+  "active": "a843e4e2a4bc5ccd",
   "lastOpenFiles": [
-    "Github.md",
-    "Ana Did Science Today.md",
-    "Freud.md",
-    "Background.md",
-    "001 The Bridge.md",
-    "Philosophy.md",
-    "Leonardo da Vinci e uma Lembrança de sua Infância.md",
-    "O Mal-Estar na Civilização.md",
-    "O Futuro de Uma Ilusão.md",
-    "400 Interests.md",
-    "2 Research/Schmidt 2021 - Indigenous Knowledge and Forest Succession Management in the Brazilian Amazon - Contributions to Reforestation of Degraded Areas.md",
     "2 Research/Hirota 2022 - Policy Brief - A Call for Global Action to Move the Amazon Forest System Away from Tipping Points (Extended Version).md",
+    "2 Research/Jakovac 2017 - Spatial and temporal dynamics of shifting cultivation in the middle-Amazonas river - Expansion and intensification.md",
+    "2 Research/Allen 2020 - Modeling the Carbon Cost of Plant Nitrogen and Phosphorus Uptake Across Temperate and Tropical Forests.md",
+    "Lianas.md",
+    "Botany.md",
+    "Biodiversity.md",
+    "Amazonia.md",
+    "Regrowth.md",
+    "Tropical Forest Ecology.md",
+    "Chapter 2 - Predicting Regrowth in Panama.md",
+    "Gatti - Amazonia as Carbon Source.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "Methods Writing.md",
+    "200 Life Sciences.md",
+    "MAPBIOMAS.md",
+    "300 Doing Science.md",
+    "250 Conservation.md",
+    "Ecosystem services.md",
+    "Agroforestry.md",
+    "Agent-Based Modelling.md",
+    "Amazon Conservation.md",
+    "Amazon Deforestation and Climate Change - Interview.md",
+    "400 Interests.md",
+    "Economics.md",
+    "The Tipping Point.md",
+    "Why is the Amazon important.md",
+    "Tipos de Mata na Amazônia.md",
+    "Climate Change and Tropical Forests.canvas",
+    "Regrowth.canvas",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Background Flowchart.canvas",
-    "2 Research/Leung 2020 - Clustered versus catastrophic global vertebrate declines.md",
-    "Leung - Clustered vs catastrophic declines.md",
-    "Canadian Contributions to Climate Change - Pollution and Mining.md",
-    "Excalidraw/Drawing Aug 20th 2024.excalidraw.md",
-    "3 Floresta Aleatória/Python.md",
-    "100 A Floresta Aleatória.md",
-    "QGIS.md",
-    "GDAL.md",
-    "Computers and Bash.md",
-    "Remote Sensing.md",
-    "Google Earth Engine.md",
-    "3 Floresta Aleatória/Statistics.md",
     "Files/Chapter 1 - Predicting Regrowth in the Amazon.png",
     "Files/Ana Did Science Today.png",
     "Files/Ana Did Science Today-2.pdf",
@@ -270,14 +290,12 @@
     "Templates/Legacy",
     "Files/110 Remote Sensing-2.png",
     "smart-chats",
-    "Regrowth.canvas",
     "Files/cwd monthly.png",
     "Files/Computers and Bash.png",
     "Nitrogen.canvas",
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
     "Phosphorus.canvas",
-    "Climate Change and Tropical Forests.canvas",
     "Biodiversity-1.canvas",
     "Community Ecology.canvas",
     "Files/Prensa Neotropical - Puertos de Panamá.pdf",
