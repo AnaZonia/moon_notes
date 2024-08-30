@@ -4,6 +4,9 @@ up:
 dg-publish: true
 ---
 
+## 30/08, Fri - Writing and organization
+
+
 
 Removing rare ecoregions and soil types makes such that amaz, both and atla have slightly different nrow values.
 
