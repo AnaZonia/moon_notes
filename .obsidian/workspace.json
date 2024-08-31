@@ -13,31 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 2 - Predicting Regrowth in Panama.md",
+                "file": "Writing Science.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "6677a61ccf441c08",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "a843e4e2a4bc5ccd",
+            "id": "5de7ce1472180061",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gatti - Amazonia as Carbon Source.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gatti - Amazonia as Carbon Source.md"
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md"
               }
             }
           },
@@ -122,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gatti - Amazonia as Carbon Source.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Gatti - Amazonia as Carbon Source.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gatti - Amazonia as Carbon Source.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,34 +245,35 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a843e4e2a4bc5ccd",
+  "active": "5de7ce1472180061",
   "lastOpenFiles": [
+    "001 The Bridge.md",
+    "Writing Science.md",
+    "Scientific Writing.md",
+    "300 Doing Science.md",
+    "400 Interests.md",
+    "Biodiversity.md",
+    "Biodiversity-1.canvas",
+    "200 Life Sciences.md",
+    "Botany.md",
+    "Photosynthesis.md",
+    "100 A Floresta Aleatória.md",
+    "Ana Did Science Today.md",
+    "Chapter 2 - Predicting Regrowth in Panama.md",
+    "2 Research/Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests.md",
+    "2 Research/Gatti 2023 - Increased Amazon carbon emissions mainly from decline in law enforcement.md",
+    "Gatti - Amazonia as Carbon Source.md",
     "2 Research/Hirota 2022 - Policy Brief - A Call for Global Action to Move the Amazon Forest System Away from Tipping Points (Extended Version).md",
     "2 Research/Jakovac 2017 - Spatial and temporal dynamics of shifting cultivation in the middle-Amazonas river - Expansion and intensification.md",
     "2 Research/Allen 2020 - Modeling the Carbon Cost of Plant Nitrogen and Phosphorus Uptake Across Temperate and Tropical Forests.md",
     "Lianas.md",
-    "Botany.md",
-    "Biodiversity.md",
     "Amazonia.md",
     "Regrowth.md",
     "Tropical Forest Ecology.md",
-    "Chapter 2 - Predicting Regrowth in Panama.md",
-    "Gatti - Amazonia as Carbon Source.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "200 Life Sciences.md",
     "MAPBIOMAS.md",
-    "300 Doing Science.md",
     "250 Conservation.md",
     "Ecosystem services.md",
-    "Agroforestry.md",
-    "Agent-Based Modelling.md",
-    "Amazon Conservation.md",
-    "Amazon Deforestation and Climate Change - Interview.md",
-    "400 Interests.md",
-    "Economics.md",
-    "The Tipping Point.md",
-    "Why is the Amazon important.md",
-    "Tipos de Mata na Amazônia.md",
     "Climate Change and Tropical Forests.canvas",
     "Regrowth.canvas",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
@@ -296,7 +292,6 @@
     "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/Drawing Feb 14th 2024.excalidraw.png",
     "Phosphorus.canvas",
-    "Biodiversity-1.canvas",
     "Community Ecology.canvas",
     "Files/Prensa Neotropical - Puertos de Panamá.pdf",
     "Files/Ana Did Science Today-1.pdf",
