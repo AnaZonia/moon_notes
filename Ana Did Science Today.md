@@ -5,6 +5,17 @@ dg-publish: true
 ---
 ## 03/09, Mon - Random forest and wrapping up Optim
 
+response curve - investigate with random forest by adding one by one. Use the results of random forest to compare with optim
+MCMC with stan
+hyperparameter tuning
+MSE instead of r squared may be a better metric.
+
+How well does the atlantic forest predict the amazon?
+For MCMC, running more than 1000 for chain length is often unnecessary.
+
+tommy laguardia - what carmen mentioned, the place where they have aerial photography to help land use classification.
+
+
 multicollinearity
 ### Writing/storytelling thinking
 - consider different land use change scenarios - how do land use projection scenarios look like, and how can we answer things.

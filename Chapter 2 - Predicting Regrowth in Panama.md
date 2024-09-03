@@ -40,8 +40,6 @@ Brian and Morgane used atmospherically corrected Landsat data to classify land u
 - [ ] [[Dent, Daisy]]
 - [ ] [[Davies, Stuart]]
 - [ ] Kendra Walker
-- [ ] cara da silvicultura de Yale
-- [ ] Kendra Walker - Land use map
 - [ ] Elizabeth Goltz
 - [ ] Jeff Hall (the email with Brian's 6k species paper and the STRI proposal)
 - [ ] oswaldo - wanted help distinguishing between rice and other land use types
@@ -49,5 +47,6 @@ Brian and Morgane used atmospherically corrected Landsat data to classify land u
 - [ ] Milton Solano
 - [ ] [[Ana Did Science Today#16/08, Fri - Meeting Jeff Hall with Brian|Jeff Hall]]
 - [ ] Carmen - could she have more high-rez airborne data?
-
+- [ ] [[Slusser, Jacob]]
+- [ ] Helena Muller Landau
 
