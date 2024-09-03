@@ -3,7 +3,15 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 03/09, Mon - Random forest and wrapping up Optim
 
+multicollinearity
+### Writing/storytelling thinking
+- consider different land use change scenarios - how do land use projection scenarios look like, and how can we answer things.
+- active vs passive reforestation - cost of regrowth
+- "where should you put your money for maximum carbon bucks?"
+
+- [ ] Schedule committee meeting - talk to Catherine about land use classification
 ## 30/08, Fri - WEEKLY REVIEW
 
 ### Coding
@@ -30,9 +38,9 @@ QCBS
 - [ ] Look over climatic variables with Fiona
 - [ ] Look over pantanal/cerrado with Fiona
 - [ ] Incorporate Jeff's ages from his model
-- [ ] Check random forest outcomes with python, as well as hyperparameter tuning
+- [x] Check random forest outcomes with python ✅ 2024-09-03
+- [ ] Incorporate hyperparameter tuning
 - [ ] Add slope
-
 
 
 
