@@ -31,6 +31,8 @@ Also explained well in:
 
 ![](https://i.imgur.com/QGWVBzV.png)
 
+Psychrometric constant for tropical forests
+
 And on [[MODIS]] [ATBC](https://lpdaac.usgs.gov/documents/93/MOD16_ATBD.pdf), which works to overcome the grass reference constraint with LAI and Land cover information:
 
 ![](https://i.imgur.com/zT4AlgS.png)

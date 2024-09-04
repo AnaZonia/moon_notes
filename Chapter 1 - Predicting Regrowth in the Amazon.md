@@ -16,7 +16,6 @@ fundamental differences between what the predictions would have been vs what the
 - get the key areas
 - absolute values (differences)
 
-[[Gatti - Amazonia as Carbon Source]]
 
 ## Optimizers
 ### Hamiltonian Monte Carlo
@@ -47,7 +46,6 @@ fundamental differences between what the predictions would have been vs what the
 ### Correlated variables
 - Dry areas burn more often
 - Pastureland may also be burned more frequently
-- How can I analyse correlations?
 
 ### Distribution of errors
 The standard deviation tending towards the upper end may mean the errors are not normally distributed. Checking the distribution of errors would help.
@@ -60,6 +58,9 @@ The standard deviation tending towards the upper end may mean the errors are not
 
 ### Time since burn
 Still unsure how to include this in the dataframe, since there are different amounts of burn events - for a patch that burned 5 times, or one that burned once, how do I incorporate that? should I make up to 33 columns - one with age for fire 1, other with age for fire 2, and so on?
+
+### Determine active vs. passive reforestation
+Given the importance of surrounding forest cover, I should be able to determine how distance to mature forest can determine whether active or passive reforestation is recommended.
 
 ### Other things to look into
 - [ ] MAPBIOMAS classification quality - flooded forest class

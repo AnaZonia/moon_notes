@@ -3,7 +3,14 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## 03/09, Mon - Random forest and wrapping up Optim
+## 04/09, Wed - Coding chapter 1
+
+
+
+
+- [ ] Falar com [[Costa, Flávia R. C.|Costa, Flavia]] - ask about evapotranspiration in the Amazon. If that doesn't work, talk to Sara Knox through Fiona.
+
+## 03/09, Tue - Random forest and wrapping up Optim
 
 response curve - investigate with random forest by adding one by one. Use the results of random forest to compare with optim
 MCMC with stan
@@ -14,7 +21,6 @@ How well does the atlantic forest predict the amazon?
 For MCMC, running more than 1000 for chain length is often unnecessary.
 
 tommy laguardia - what carmen mentioned, the place where they have aerial photography to help land use classification.
-
 
 multicollinearity
 ### Writing/storytelling thinking
@@ -46,8 +52,8 @@ GREAT
 QCBS
 
 ### Goals - Coding
-- [ ] Look over climatic variables with Fiona
-- [ ] Look over pantanal/cerrado with Fiona
+- [x] Look over climatic variables with Fiona ✅ 2024-09-04
+- [x] Look over pantanal/cerrado with Fiona ✅ 2024-09-04
 - [ ] Incorporate Jeff's ages from his model
 - [x] Check random forest outcomes with python ✅ 2024-09-03
 - [ ] Incorporate hyperparameter tuning
@@ -56,8 +62,6 @@ QCBS
 
 
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010372
-
-
 
 
 

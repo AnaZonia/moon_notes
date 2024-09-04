@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "947993a1d660f851",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Slusser, Jacob.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "37ef9b46e56b9bd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Ana Did Science Today.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a017e60267d7d9c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ana Did Science Today.md"
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ana Did Science Today.md",
+                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,14 +245,19 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "37ef9b46e56b9bd5",
+  "active": "a017e60267d7d9c0",
   "lastOpenFiles": [
-    "001 The Bridge.md",
-    "Chapter 2 - Predicting Regrowth in Panama.md",
-    "Slusser, Jacob.md",
     "Ana Did Science Today.md",
-    "Writing Science.md",
     "Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "001 The Bridge.md",
+    "Rolling ideas.md",
+    "Costa, Flávia R. C..md",
+    "Slusser, Jacob.md",
+    "MAPBIOMAS LULC.md",
+    "MAPBIOMAS.md",
+    "Evapotranspiration.md",
+    "Chapter 2 - Predicting Regrowth in Panama.md",
+    "Writing Science.md",
     "Scientific Writing.md",
     "300 Doing Science.md",
     "400 Interests.md",
@@ -269,11 +274,6 @@
     "2 Research/Jakovac 2017 - Spatial and temporal dynamics of shifting cultivation in the middle-Amazonas river - Expansion and intensification.md",
     "2 Research/Allen 2020 - Modeling the Carbon Cost of Plant Nitrogen and Phosphorus Uptake Across Temperate and Tropical Forests.md",
     "Lianas.md",
-    "Amazonia.md",
-    "Regrowth.md",
-    "Tropical Forest Ecology.md",
-    "MAPBIOMAS.md",
-    "250 Conservation.md",
     "Climate Change and Tropical Forests.canvas",
     "Regrowth.canvas",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
