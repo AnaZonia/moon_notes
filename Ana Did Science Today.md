@@ -58,7 +58,6 @@ QCBS
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010372
 
 
-![](https://i.imgur.com/yPwSN2p.png)
 
 
 

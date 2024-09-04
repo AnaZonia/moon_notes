@@ -10,6 +10,9 @@ dg-publish: true
 ## Data available
 - Paper on land use classification for Panama
 - Paper on probability of deforestation
+- Fires, land use
+
+With what we have right now, we can have a preliminary map of regrowth potential for Panama.
 ### Asner biomass data
 Not necessarily comparable with ESA CCI Biomass for 2020. Airborne LiDAR for all of Panama, 2012. He may have more high resolution data for Panama.
 ### Jorge's model
