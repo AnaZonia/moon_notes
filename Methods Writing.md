@@ -1,5 +1,5 @@
 ---
-up: "[[Chapter 1 - Predicting Regrowth in the Amazon]]"
+up: "[[000 Chapter 1 - Predicting Regrowth in the Amazon]]"
 stardate: Mar 26th 2024
 update: Mar 26th 2024
 ---

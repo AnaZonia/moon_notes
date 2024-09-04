@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "000 Chapter 2 - Predicting Regrowth in Panama.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Ana Did Science Today.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +214,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,18 +244,18 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a017e60267d7d9c0",
+  "active": "37ef9b46e56b9bd5",
   "lastOpenFiles": [
+    "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "Ana Did Science Today.md",
-    "Chapter 1 - Predicting Regrowth in the Amazon.md",
     "001 The Bridge.md",
+    "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Rolling ideas.md",
     "Costa, Flávia R. C..md",
     "Slusser, Jacob.md",
     "MAPBIOMAS LULC.md",
     "MAPBIOMAS.md",
     "Evapotranspiration.md",
-    "Chapter 2 - Predicting Regrowth in Panama.md",
     "Writing Science.md",
     "Scientific Writing.md",
     "300 Doing Science.md",

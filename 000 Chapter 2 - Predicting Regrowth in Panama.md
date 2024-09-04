@@ -12,6 +12,13 @@ dg-publish: true
 - Paper on probability of deforestation
 - Fires, land use
 
+put the 1990s land use stuff in snowi:/home/shared/svaradarajan/landuse1990s. It's global so you'll have to crop it to whichever country.
+
+  
+
+And here's the paper: [https://www.tandfonline.com/doi/pdf/10.1080/014311600210209](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Fpdf%2F10.1080%2F014311600210209&data=05%7C02%7Cana.avila%40mail.mcgill.ca%7C11adce861b0f429e09a408dccc6b4e11%7Ccd31967152e74a68afa9fcf8f89f09ea%7C0%7C0%7C638610008432920320%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=sBVDK1A0LaaCM6mYWo%2Fto4IfFd6rA5kmjKeCXHq372Q%3D&reserved=0 "Original URL: https://www.tandfonline.com/doi/pdf/10.1080/014311600210209. Click or tap if you trust this link."). I don't have a file for the lookup table of values but the figure description on page 1351 has all of them.
+
+
 With what we have right now, we can have a preliminary map of regrowth potential for Panama.
 ### Asner biomass data
 Not necessarily comparable with ESA CCI Biomass for 2020. Airborne LiDAR for all of Panama, 2012. He may have more high resolution data for Panama.

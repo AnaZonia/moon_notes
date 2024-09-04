@@ -4,11 +4,30 @@ up:
 dg-publish: true
 ---
 ## 04/09, Wed - Coding chapter 1
+I have decided to do the larger weekly management on friday and saturday. For today, I will focus on coding.
+I am comparing the effect of random forest with optim. I will run random forest with each predictor, one by one, to see how it behaves, and do the same with optim.
+So now that R is done and working fine, I am going to focus on the python code:
 
+### Task list
+- [ ] Check for multicolinearity / check data
+- [ ] Compare Scipy Nelder-Mead with Optim
+- [ ] Hyperparameter tuning (sciopt bayesian optimization)
+- [ ] Check results with MSE instead of r squared.
+- [ ] Check the response curve with random forest as predictors are added.
+- [ ] Check MCMC with STAN (+1000 chain length is unnecessary)
+- [ ] Xboost
+- [ ] Create holdout set to test everything.
+- [ ] To check for overfitting, use learning curves - see how performance improves with sample size.
+- [ ] Check how well do Atlantic Forest results predict the Amazon
 
+For now, as long as we are only comparing methods, stick with 10-year, Amazon.
+
+Note: can build confidence values by running the model multiple times for each pixel and seeing how the results differ. That's probably how they did SD for CCI Biomass?
 
 
 - [ ] Falar com [[Costa, Flávia R. C.|Costa, Flavia]] - ask about evapotranspiration in the Amazon. If that doesn't work, talk to Sara Knox through Fiona.
+- [ ] Get running on GIC-Green and contact Tim
+- [ ] Contact collaborators in Brazil
 
 ## 03/09, Tue - Random forest and wrapping up Optim
 
@@ -39,7 +58,7 @@ I have fixed that by removing types that are too rare. Removing rare ecoregions 
 Another concern now is spatial autocorrelation. I could select only one point per 1km area - confirming that with GEE.
 
 ### Goals - Other
-- [ ]  [[Chapter 2 - Predicting Regrowth in Panama]] Write short summary of project for workshop
+- [ ]  [[000 Chapter 2 - Predicting Regrowth in Panama]] Write short summary of project for workshop
 - [ ] Contact Gabriela and see if she knows anyone that would be interested in the project
 - [ ] Finish retreat prep
 - [ ] Find out who was working with landslides on Jeff Hall's email
@@ -549,7 +568,7 @@ Emails have been sent and there's been some good advance on the logistic side of
 Next week, I need to spend some time to think about PANGEA and the Alliance.
 ### Goals for next week
 - Read over [[PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation|PANGEA]] Ecosystem Structure, Function, and Diversity Working Group conclusions and make my points. Would be interesting to do this with Katie.
-- Send [[Chapter 1 - Predicting Regrowth in the Amazon]] summary to collaborators. Does not need to be anything too elaborate I don't think, just show where the code is right now.
+- Send [[000 Chapter 1 - Predicting Regrowth in the Amazon]] summary to collaborators. Does not need to be anything too elaborate I don't think, just show where the code is right now.
 
 ## 21/05/2024, Tue - Supervisor meeting
 
@@ -633,7 +652,7 @@ The only alternative I can envision is maybe what was done by Jeff Hall's postdo
 
 ### Goals for next week
 - Read over [[PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation|PANGEA]] Ecosystem Structure, Function, and Diversity Working Group conclusions and make my points. Would be interesting to do this with Katie.
-- Send [[Chapter 1 - Predicting Regrowth in the Amazon]] summary to collaborators. Does not need to be anything too elaborate I don't think, just show where the code is right now.
+- Send [[000 Chapter 1 - Predicting Regrowth in the Amazon]] summary to collaborators. Does not need to be anything too elaborate I don't think, just show where the code is right now.
 
 ## 07/05/2024, Tue - Chapter 1
 
