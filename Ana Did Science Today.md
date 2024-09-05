@@ -3,9 +3,17 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## 05/09, Thu
+## 05/09, Thu - PRISM and modelling
 
 - Asymptote is affecting the growth rate. What happens if I include it in the rate as well?
+I closed off my participation at the port stuff for today, and reached out to some people about the mining project. I will close off the planning for Panama trip, as well as my participation in the workshop, between today and tomorrow.
+
+Conclusions so far:
+- gap between optim and LM is largest in atlantic forest than amazon
+- R squared values are largest for 5 years and lowest for all
+
+So for initial testing and comparison across optim, lm and rf, I will choose atlantic forest, all, all_continuous_mean_clim or all_mean clim.
+
 
 
 ## 04/09, Wed - Coding chapter 1
@@ -13,7 +21,7 @@ I have decided to do the larger weekly management on friday and saturday. For to
 I am comparing the effect of random forest with optim. I will run random forest with each predictor, one by one, to see how it behaves, and do the same with optim.
 So now that R is done and working fine, I am going to focus on the python code:
 
-### Task list
+### Task list - to do with ONLY ONE dataframe and ONLY ONE combination
 - [ ] Check for multicolinearity / check data
 - [ ] Compare Scipy Nelder-Mead with Optim
 - [ ] Hyperparameter tuning (sciopt bayesian optimization)
