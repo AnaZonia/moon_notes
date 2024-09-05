@@ -3,6 +3,11 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 05/09, Thu
+
+- Asymptote is affecting the growth rate. What happens if I include it in the rate as well?
+
+
 ## 04/09, Wed - Coding chapter 1
 I have decided to do the larger weekly management on friday and saturday. For today, I will focus on coding.
 I am comparing the effect of random forest with optim. I will run random forest with each predictor, one by one, to see how it behaves, and do the same with optim.
