@@ -3,6 +3,9 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+
+
 ## 05/09, Thu - PRISM and modelling
 
 - Asymptote is affecting the growth rate. What happens if I include it in the rate as well?
@@ -14,10 +17,21 @@ Conclusions so far:
 
 So for initial testing and comparison across optim, lm and rf, I will choose atlantic forest, all, all_continuous_mean_clim or all_mean clim.
 
+### TAship no Panamá
+10 de fevereiro - 2 de março (Ariel Espino e Nicolas Kosoy)
+Carnaval, outro curso (3 semanas livres) - ver o custo do voo
+24 março - 13 abril (Ariel Espino e Nicolas Kosoy)
 
+Dormitório Bela Vista - Avenida Balboa. Cama King Size e banheiro
+- escritório
+
+Plano de manejo de bacia de Santa Fe
+Agua Dulce (outro mar) Foz do Rio Santa Fé
+
+Próxima semana - contatar Nicolas Kosoy
 
 ## 04/09, Wed - Coding chapter 1
-I have decided to do the larger weekly management on friday and saturday. For today, I will focus on coding.
+I have decided to do the larger weekly management on Friday and saturday. For today, I will focus on coding.
 I am comparing the effect of random forest with optim. I will run random forest with each predictor, one by one, to see how it behaves, and do the same with optim.
 So now that R is done and working fine, I am going to focus on the python code:
 
