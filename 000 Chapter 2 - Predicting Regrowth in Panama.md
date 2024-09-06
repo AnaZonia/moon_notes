@@ -8,13 +8,11 @@ dg-publish: true
 - Expanding the probability of deforestation model that was already built for Panama, and incorporating it to the regrowth model to indicate areas of most promising regrowth in the country.
 
 ## Data available
-- Paper on land use classification for Panama
-- Paper on probability of deforestation
+- Walker et al 2020 - Capturing ephemeral forest dynamics with hybrid time-series and composite mapping in the Republic of Panama
+- Bardino et al 2023 - Landscape context importance for predicting forest transition success in central Panama
 - Fires, land use
 
 put the 1990s land use stuff in snowi:/home/shared/svaradarajan/landuse1990s. It's global so you'll have to crop it to whichever country.
-
-  
 
 And here's the paper: [https://www.tandfonline.com/doi/pdf/10.1080/014311600210209](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Fpdf%2F10.1080%2F014311600210209&data=05%7C02%7Cana.avila%40mail.mcgill.ca%7C11adce861b0f429e09a408dccc6b4e11%7Ccd31967152e74a68afa9fcf8f89f09ea%7C0%7C0%7C638610008432920320%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=sBVDK1A0LaaCM6mYWo%2Fto4IfFd6rA5kmjKeCXHq372Q%3D&reserved=0 "Original URL: https://www.tandfonline.com/doi/pdf/10.1080/014311600210209. Click or tap if you trust this link."). I don't have a file for the lookup table of values but the figure description on page 1351 has all of them.
 

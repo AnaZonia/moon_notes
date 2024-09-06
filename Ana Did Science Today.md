@@ -3,7 +3,12 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 06/09, Fri - Writing
 
+Planning week and other logistic work should be done tomorrow.
+
+Today I am finishing the Panama writing and will work more on chapter 1 writing.
+- actually, it takes a lot of formatting to work on the workshop planning. I'll do that tomorrow with my desk. For now I focus on writing my storyline for chapter 1.
 
 
 ## 05/09, Thu - PRISM and modelling
@@ -86,7 +91,7 @@ Another concern now is spatial autocorrelation. I could select only one point pe
 
 ### Goals - Other
 - [ ]  [[000 Chapter 2 - Predicting Regrowth in Panama]] Write short summary of project for workshop
-- [ ] Contact Gabriela and see if she knows anyone that would be interested in the project
+- [x] Contact Gabriela and see if she knows anyone that would be interested in the project ✅ 2024-09-06
 - [ ] Finish retreat prep
 - [ ] Find out who was working with landslides on Jeff Hall's email
 - [ ] Apply to GMA
