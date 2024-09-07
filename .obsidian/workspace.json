@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md"
+                "file": "Ana Did Science Today.md"
               }
             }
           },
@@ -117,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Ana Did Science Today.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -215,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,13 +241,15 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "37ef9b46e56b9bd5",
+  "active": "4c80e0e8c15c149a",
   "lastOpenFiles": [
-    "Ana Did Science Today.md",
     "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "Ana Did Science Today.md",
     "001 The Bridge.md",
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "Rolling ideas.md",
