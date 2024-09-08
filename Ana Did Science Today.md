@@ -3,6 +3,8 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 08/09, Sun - 
+
 ## 07/09, Sat - Wrapping up everything
 
 Today I am taking stuff out of my mind so I can focus on coding and writing. Working on bureaucracies in general and planning.
