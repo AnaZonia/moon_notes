@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 Data Sources.md",
+                "file": "000 Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 Data Sources.md"
+                "file": "000 Ana Did Science Today.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 Data Sources.md",
+                "file": "000 Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 Data Sources.md",
+                "file": "000 Ana Did Science Today.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002 Data Sources.md",
+                "file": "000 Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,10 +234,15 @@
   },
   "active": "e2809e2b926f7c6d",
   "lastOpenFiles": [
+    "ALOS Landforms.md",
+    "002 Data Sources.md",
+    "000 Ana Did Science Today.md",
+    "ProEcoAzuero.md",
+    "CSP - Conservation Science Partners.md",
+    "003 People and Networks.md",
     "TerraClimate.md",
     "ESA CCI Biomass.md",
     "FireCCI.md",
-    "002 Data Sources.md",
     "GWIS (Global Wildfire Information System).md",
     "GFED (Global Fire Emissions Database).md",
     "WorldCover.md",
@@ -246,7 +251,6 @@
     "TerraClass.md",
     "Panama Land Use.md",
     "Hansen 2013 - Global Forest Change.md",
-    "000 Ana Did Science Today.md",
     "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Adopta Bosque.md",
     "Scientific Writing.md",
@@ -256,10 +260,6 @@
     "001 The Bridge.md",
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "Rolling ideas.md",
-    "Costa, Flávia R. C..md",
-    "Slusser, Jacob.md",
-    "MAPBIOMAS LULC.md",
-    "MAPBIOMAS.md",
     "Biodiversity-1.canvas",
     "Climate Change and Tropical Forests.canvas",
     "Regrowth.canvas",
