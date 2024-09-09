@@ -53,7 +53,7 @@ Brian and Morgane used atmospherically corrected Landsat data to classify land u
 - [ ] oswaldo - wanted help distinguishing between rice and other land use types
 - [ ] Javier sanchez galan
 - [ ] Milton Solano
-- [ ] [[Ana Did Science Today#16/08, Fri - Meeting Jeff Hall with Brian|Jeff Hall]]
+- [ ] [[000 Ana Did Science Today#16/08, Fri - Meeting Jeff Hall with Brian|Jeff Hall]]
 - [ ] Carmen - could she have more high-rez airborne data?
 - [ ] [[Slusser, Jacob]]
 - [ ] Helena Muller Landau

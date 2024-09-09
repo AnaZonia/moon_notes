@@ -3,7 +3,13 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## 08/09, Sun - 
+## 09/09, Mon - Writing and coding
+I am realizing that today I don't have time to plan all my tasks again. I am letting them sit here until tomorrow while I finish today
+- writing Panama summary
+- writing article key sentences
+- testing for multicollinearity
+
+- [ ] Call Analida and Gabriela
 
 ## 07/09, Sat - Wrapping up everything
 
@@ -96,9 +102,9 @@ I have fixed that by removing types that are too rare. Removing rare ecoregions 
 Another concern now is spatial autocorrelation. I could select only one point per 1km area - confirming that with GEE.
 
 ### Goals - Other
-- [ ]  [[000 Chapter 2 - Predicting Regrowth in Panama]] Write short summary of project for workshop
+- [x] [[000 Chapter 2 - Predicting Regrowth in Panama]] Write short summary of project for workshop ✅ 2024-09-09
 - [x] Contact Gabriela and see if she knows anyone that would be interested in the project ✅ 2024-09-06
-- [ ] Finish retreat prep
+- [x] Finish retreat prep ✅ 2024-09-09
 - [ ] Find out who was working with landslides on Jeff Hall's email
 - [ ] Apply to GMA
 - [ ] Apply for conference funding:
@@ -906,10 +912,8 @@ Talked to Olivia Milloway about [[Science Journalism]].
 
 **AAAS mass media fellowship** - place people in US institutions for summer media internships. Must be an American citizen, but a lot of the alumni would be cool inspiration.
 
-- [[STRI Short-Term Fellowship]] 
-
 ### Encuentro con Jimena Pitty
-After I spoke to her at the [[Ana Did Science Today#Science communication|NEO course]], it becomes more clear that I can work with science communication if I want. Along with Jeff Hall, she is preparing an Agua Salud exhibit at Culebra for children. Also, she is working with a Brazilian PhD student that has a background in biotechnology and is transitioning to education.
+After I spoke to her at the [[000 Ana Did Science Today#Science communication|NEO course]], it becomes more clear that I can work with science communication if I want. Along with Jeff Hall, she is preparing an Agua Salud exhibit at Culebra for children. Also, she is working with a Brazilian PhD student that has a background in biotechnology and is transitioning to education.
 Thinking of the essays I'd like to be writing, she mentioned how it would be interesting to look into:
 - how to communicate with farmers
 - writing simple, eye-catching text like the STRI magazine does
@@ -1218,7 +1222,7 @@ We are also observing:
 
 ### Environmental factors
 **Microclimate** is a way bigger deal than I originally thought. In the mountains, they are reliant on the positions of the mountains and how that affects the mist that comes in the dry season, and also the breeze that is essential to prevent mold.
-- Because of this, it's hard to tease out the effects of climate change. Lower areas can have more issues with humidity (which matches what [[Ana Did Science Today#Alexis|Alexis]] said!) since here the clouds hold back a lot of the heavy rain. He has noticed more extreme weather events. I am concerned that it may be hard to explain differences in microclimate in the mountains, and that could make it hard to model regrowth in such a climatically patchy region. Another reason why <mark> my model probably won't work in the mountains...</mark>
+- Because of this, it's hard to tease out the effects of climate change. Lower areas can have more issues with humidity (which matches what [[000 Ana Did Science Today#Alexis|Alexis]] said!) since here the clouds hold back a lot of the heavy rain. He has noticed more extreme weather events. I am concerned that it may be hard to explain differences in microclimate in the mountains, and that could make it hard to model regrowth in such a climatically patchy region. Another reason why <mark> my model probably won't work in the mountains...</mark>
 
 **Loess** soil -  <mark>I would like to get to know more about soil types in here and in Ipetí </mark>
 

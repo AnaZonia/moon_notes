@@ -7,7 +7,7 @@ update: Oct 11th 2023
 ---
 > [!note] First brought to my attention by [[Studnicki-Gizbert, Daviken]] - mentioning how carbon dating can help understand soil history across longer time scales.
 
-- Also met [Jonathan D. Cybulski](https://www.jonathancybulski.com/), working on history of coral reefs up to thousands of years old, using isotopes, during [[Ana Did Science Today#2/2/2024, Fri 3/2/2024, Sat - Pixvae|NEO course at Pixvae]].
+- Also met [Jonathan D. Cybulski](https://www.jonathancybulski.com/), working on history of coral reefs up to thousands of years old, using isotopes, during [[000 Ana Did Science Today#2/2/2024, Fri 3/2/2024, Sat - Pixvae|NEO course at Pixvae]].
 - Was recommended by Martín Giraldo, Daviken's PhD student, to look into [Marisol de la Cadena](https://www.marisoldelacadena.com/bio).
 
 ### Sources
