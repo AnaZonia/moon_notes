@@ -3,13 +3,23 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 10/09, Tue
+
+- Writing
+- Committee Meeting
+- GMA application
+- TAship
+
 ## 09/09, Mon - Writing and coding
 I am realizing that today I don't have time to plan all my tasks again. I am letting them sit here until tomorrow while I finish today
 - writing Panama summary
 - writing article key sentences
 - testing for multicollinearity
 
+Change of plans - will code tomorrow. today we finish first iteration of writing and GMA application.
+
 - [ ] Call Analida and Gabriela
+- [ ] Schedule committee meeting
 
 ## 07/09, Sat - Wrapping up everything
 

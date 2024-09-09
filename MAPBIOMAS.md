@@ -39,8 +39,32 @@ Here I write a short summary of:
 - R - improve processing of large datasets, machine learning, data analysis and visualization.
 [github](https://github.com/joaosiqueira/mapbiomas-chile-training)for training of mapbiomas chile data (js)
 
+
+### Summary
+
+- Acquire Landsat Data for Panama: 
+   Obtain Landsat data for the specific temporal windows relevant to annual crops and with clearer weather conditions, optimizing spectral contrast for better discrimination of land use and land cover (LULC) classes. 
+
+- Define Feature Spaces: 
+   Apply a series of preprocessing steps, including shadow masking, cloud cover filtering, and temporal outlier detection, to create a feature space with approximately 90 features. These features may include median values, amplitude, standard deviation, and minimum values for different spectral bands. 
+
+- Select Training Samples: 
+   Use a reliable source like LAPIG/UFG's Chave de Interpretação to select training samples representative of different LULC classes in Panama. Employ data augmentation techniques to enhance the diversity of the training dataset. 
+
+- Implement Time Series Analysis: 
+   Leverage Landsat mosaics covering the period from October to March for mapping annual crops. Understand how time series analysis can enhance classification accuracy by considering the growth stages of different crops. 
+
+- Post-Classification Filters: 
+   Apply post-classification filters such as time-wise gap fill, spatial filter, temporal filter, frequency filter, and incidence filter to refine the classification results and improve overall accuracy. 
+
+- Integration and Validation: 
+Integrate the classified maps following prevalence rules. Apply a temporal filter to classes with low occurrences and a spatial filter to remove isolated classes. Validate the classification results using metrics like global accuracy, allocation disagreement, and area disagreement. 
+
+The next steps for chapter 2 include the collection of training data for Panama and training data augmentation with the Segment Anything Model (SAMGeo).
+
 ### MapBiomas Brasil
 Using Surface Reflectance (SR) from Landsat Collection 2 (Tier 1) 
+
 
 1. **Got landsat data in specific temporal windows** to optimize spectral contrast and better discriminate the LULC classes.
 2. **Define feature spaces** for each year
