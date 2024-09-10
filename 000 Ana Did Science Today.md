@@ -3,7 +3,18 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 14/09, Sat - Task planning and finishing retreat plans
+Consider joining beeminder to motivate you to have morning work sessions and to work out in the morning.
+Organize the tasks better. Consider coding progress and rewrite coding goals.
 
+## 13/09, Fri - Task planning
+Since writing was done earlier in the week, today we code.
+
+## 12/09, Thu - Coding
+
+## 11/09, Wed - Coding
+
+- testing for multicollinearity
 
 ## 10/09, Tue - Writing
 - Writing
@@ -12,6 +23,10 @@ dg-publish: true
 I would like to organize my tasks, but I will leave that for the weekend. Today I finish writing and applications so I can move on to the code.
 
 TAship still needs to be decided.
+
+Considering focusmate sessions early in the morning?
+
+After writing, I decided to start with multicollinearity.
 
 ## 09/09, Mon - Writing
 I am realizing that today I don't have time to plan all my tasks again. I am letting them sit here until tomorrow while I finish today
@@ -45,7 +60,7 @@ Conclusions so far:
 - gap between optim and LM is largest in atlantic forest than amazon
 - R squared values are largest for 5 years and lowest for all
 
-So for initial testing and comparison across optim, lm and rf, I will choose atlantic forest, all, all_continuous_mean_clim or all_mean clim.
+So for initial testing and comparison across optim, lm and rf, I will choose **atlantic forest, all, all_continuous_mean_clim or all_mean clim.**
 
 ### TAship no Panamá
 10 de fevereiro - 2 de março (Ariel Espino e Nicolas Kosoy)
