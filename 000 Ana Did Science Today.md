@@ -3,14 +3,17 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## 10/09, Tue
 
+
+## 10/09, Tue - Writing
 - Writing
 - Committee Meeting
 - GMA application
-- TAship
+I would like to organize my tasks, but I will leave that for the weekend. Today I finish writing and applications so I can move on to the code.
 
-## 09/09, Mon - Writing and coding
+TAship still needs to be decided.
+
+## 09/09, Mon - Writing
 I am realizing that today I don't have time to plan all my tasks again. I am letting them sit here until tomorrow while I finish today
 - writing Panama summary
 - writing article key sentences
@@ -19,7 +22,7 @@ I am realizing that today I don't have time to plan all my tasks again. I am let
 Change of plans - will code tomorrow. today we finish first iteration of writing and GMA application.
 
 - [ ] Call Analida and Gabriela
-- [ ] Schedule committee meeting
+- [x] Schedule committee meeting ✅ 2024-09-10
 
 ## 07/09, Sat - Wrapping up everything
 
@@ -101,7 +104,7 @@ multicollinearity
 - active vs passive reforestation - cost of regrowth
 - "where should you put your money for maximum carbon bucks?"
 
-- [ ] Schedule committee meeting - talk to Catherine about land use classification
+- [x] Schedule committee meeting - talk to Catherine about land use classification ✅ 2024-09-10
 ## 30/08, Fri - WEEKLY REVIEW
 
 ### Coding
