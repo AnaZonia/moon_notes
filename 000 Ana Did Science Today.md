@@ -15,6 +15,36 @@ Since writing was done earlier in the week, today we code.
 ## 11/09, Wed - Coding
 
 - testing for multicollinearity
+After testing for multicollinearity and running for the main optimizers, I am also trying out [theseus](https://sites.google.com/view/theseus-ai/), Hossein's recommendation.
+
+                               GVIF Df GVIF^(1/(2*Df))
+indig                      1.047234  1        1.023344
+lulc_sum_15                2.685540  1        1.638762
+lulc_sum_21                3.002503  1        1.732773
+lulc_sum_39                1.144176  1        1.069662
+lulc_sum_40                1.047488  1        1.023469
+lulc_sum_41                1.291870  1        1.136605
+lulc_sum_46                1.050510  1        1.024944
+lulc_sum_9                 1.876912  1        1.370005
+num_fires_after_regrowth   2.076377  1        1.440964
+num_fires_before_regrowth  4.512407  1        2.124243
+sur_cover                  1.219305  1        1.104221
+ts_fire_after_regrowth     2.070698  1        1.438992
+ts_fire_before_regrowth    4.431991  1        2.105230
+ecoreg                    50.929251  4        1.634447
+soil                      29.095926  7        1.272212
+cwd                       11.069060  1        3.327020
+mean_prec                  4.796260  1        2.190036
+mean_si                    7.784058  1        2.789993
+age                        3.372658  1        1.836480
+nearest_mature             1.523663  1        1.234368
+
+I am removing num_fires_after_regrowth (I believe it may be related to age and num_fires_before_regrowth)
+
+also, time since fires also definitely relates to age. while age is being tested, I also remove those
+
+also checking the effect of cwd, mean_prec, mean_si
+
 
 ## 10/09, Tue - Writing
 - Writing
