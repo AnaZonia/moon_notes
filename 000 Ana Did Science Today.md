@@ -6,6 +6,9 @@ dg-publish: true
 ## 14/09, Sat - Task planning and finishing retreat plans
 Consider joining beeminder to motivate you to have morning work sessions and to work out in the morning.
 Organize the tasks better. Consider coding progress and rewrite coding goals.
+Email Bailón
+Email Moraes
+Finish and submit QLS funding
 
 ## 13/09, Fri - Task planning
 Since writing was done earlier in the week, today we code.
@@ -13,9 +16,9 @@ Since writing was done earlier in the week, today we code.
 ## 12/09, Thu - Coding
 
 ## 11/09, Wed - Coding
-
-- testing for multicollinearity
 After testing for multicollinearity and running for the main optimizers, I am also trying out [theseus](https://sites.google.com/view/theseus-ai/), Hossein's recommendation.
+
+### testing for multicollinearity
 
                                GVIF Df GVIF^(1/(2*Df))
 indig                      1.047234  1        1.023344
@@ -41,9 +44,37 @@ nearest_mature             1.523663  1        1.234368
 
 I am removing num_fires_after_regrowth (I believe it may be related to age and num_fires_before_regrowth)
 
-also, time since fires also definitely relates to age. while age is being tested, I also remove those
-
 also checking the effect of cwd, mean_prec, mean_si
+
+With cwd, mean_prec, mean_si in a PCA:
+![](https://i.imgur.com/6K4KoCX.png)
+
+
+
+![](https://i.imgur.com/TCWOLpE.png)
+![](https://i.imgur.com/ly5nP8M.png)
+
+Since I don't know the effects of introducing new continuous variables from the PCA into optim, I am going on removing ecoregion and soil and seeing how it behaves with the bare minimum.
+
+                    indig               lulc_sum_15               lulc_sum_21 
+                 1.030280                  2.622587                  2.914899 
+              lulc_sum_39               lulc_sum_40               lulc_sum_41 
+                 1.118340                  1.047743                  1.254247 
+              lulc_sum_46               lulc_sum_48                lulc_sum_9 
+                 1.037590                  1.016834                  1.819965 
+num_fires_before_regrowth                    protec                 sur_cover 
+                 4.343726                  1.066350                  1.148549 
+  ts_fire_before_regrowth                       cwd                   mean_si 
+                 4.282326                  4.387833                  3.939459 
+                      age            nearest_mature 
+                 3.268504                  1.397458 
+             
+9 and 21 are correlated land use types.
+
+Checked for multicollinearity, included mature_forest, and the issue is the same.
+
+Now trying fitting with python. Leave the code messy - clean it later.
+pars_fit <- c("age", "nearest_mature", "lulc_sum_21", "lulc_sum_15", "lulc_sum_39", "lulc_sum_40", "lulc_sum_41", "num_fires_before_regrowth", "protec", "sur_cover","cwd", "nearest_mature")
 
 
 ## 10/09, Tue - Writing
