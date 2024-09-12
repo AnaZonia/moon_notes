@@ -15,6 +15,12 @@ Since writing was done earlier in the week, today we code.
 
 ## 12/09, Thu - Coding
 
+Meetings went well. Nothing else is urgent so I can code.
+
+It looks like due to data leakage, the normalization should be done within each testing/training group. Since I found that out when rewriting the code in Python, I am leaving the original code for a bit and will focus on writing the Python section.
+
+I am starting with only one set of parameters and will build on that as the code is shown to be robust.
+
 ## 11/09, Wed - Coding
 After testing for multicollinearity and running for the main optimizers, I am also trying out [theseus](https://sites.google.com/view/theseus-ai/), Hossein's recommendation.
 
