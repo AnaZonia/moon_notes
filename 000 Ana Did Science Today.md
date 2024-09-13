@@ -17,6 +17,10 @@ Spent also some time doing housework and thinking of the model conceptually. Har
 
 lulc_sum_40 is too few points right now
 
+Realizing that there may have been something wrong with the way the later dataframes were exported, with my method of trying to avoid spatial autocorrelation. I am going to confirm and run again the scripts, clean everything from beginning to end.
+
+Concerns for now - going through with the code. Going to write the methods down to discuss with Brian.
+
 ## 12/09, Thu - Coding
 
 Meetings went well. Nothing else is urgent so I can code.
