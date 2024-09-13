@@ -7,12 +7,15 @@ dg-publish: true
 Consider joining beeminder to motivate you to have morning work sessions and to work out in the morning.
 Organize the tasks better. Consider coding progress and rewrite coding goals.
 Email Bailón
-Email Moraes
-Finish and submit QLS funding
+Email service point
+Finish and submit QLS funding and GMA
 
 ## 13/09, Fri - Task planning
 Since writing was done earlier in the week, today we code.
 
+Spent also some time doing housework and thinking of the model conceptually. Hardcore coding will be done again on Sunday.
+
+lulc_sum_40 is too few points right now
 
 ## 12/09, Thu - Coding
 
