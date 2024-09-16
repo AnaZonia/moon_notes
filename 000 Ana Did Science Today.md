@@ -3,6 +3,12 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+simulated annealing
+evolutionary algorithms
+
+get flight to panama
+
+fires - when was the data collected for?
 ## 14/09, Sat - Task planning and finishing retreat plans
 Consider joining beeminder to motivate you to have morning work sessions and to work out in the morning.
 Organize the tasks better. Consider coding progress and rewrite coding goals.
