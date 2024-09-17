@@ -3,12 +3,72 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+
+
+
+Initial (Non-tuned) Results:
+Cross-validation R2: 0.117 (±0.019)
+Unseen data R2: 0.138
+
+Random Forest Results:
+Cross-validation R2: 0.332 (±0.018)
+Unseen data R2: 0.318
+
+Feature Importance:
+                  feature  importance      std
+                      cwd    0.366600 0.023969
+           nearest_mature    0.156924 0.007927
+                      age    0.121189 0.010427
+                sur_cover    0.117791 0.010898
+              lulc_sum_15    0.031879 0.004525
+              lulc_sum_21    0.030922 0.004459
+              lulc_sum_41    0.008952 0.001913
+num_fires_before_regrowth    0.006607 0.001667
+              lulc_sum_39    0.004586 0.001644
+
+
+Linear Regression Results:
+Cross-validation R2: 0.190 (±0.036)
+Unseen data R2: 0.209
+
+Feature Importance:
+                  feature  importance      std
+                      cwd    0.151801 0.010817
+                      age    0.062219 0.006214
+                sur_cover    0.038454 0.006047
+           nearest_mature    0.017647 0.002808
+              lulc_sum_41    0.005496 0.001666
+              lulc_sum_15    0.004324 0.001378
+              lulc_sum_39    0.003063 0.001314
+num_fires_before_regrowth    0.002785 0.001420
+              lulc_sum_21    0.000463 0.000195
+
+XGBoost Results:
+Cross-validation R2: 0.309 (±0.025)
+Unseen data R2: 0.307
+
+Feature Importance:
+                  feature  importance      std
+                      cwd    0.308156 0.021909
+           nearest_mature    0.145135 0.009349
+                      age    0.132427 0.006648
+                sur_cover    0.098023 0.008758
+              lulc_sum_15    0.032115 0.006971
+              lulc_sum_21    0.016699 0.005783
+              lulc_sum_41    0.012113 0.002658
+              lulc_sum_39    0.008167 0.001967
+num_fires_before_regrowth    0.002006 0.001960
+
+
+
+
 simulated annealing
 evolutionary algorithms
 
 get flight to panama
 
-fires - when was the data collected for?
+
 ## 14/09, Sat - Task planning and finishing retreat plans
 Consider joining beeminder to motivate you to have morning work sessions and to work out in the morning.
 Organize the tasks better. Consider coding progress and rewrite coding goals.
