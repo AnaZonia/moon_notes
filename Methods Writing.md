@@ -81,18 +81,9 @@ Everything else coming up:
 - seasonality  
 [[Ecoregions]]
 
+Forest plantations
 ### Potential correlations
 - Rainfall and soil fertility (Jeff Hall)
 
 ![](https://i.imgur.com/UUaTzE8.png)
 
-
-Input results from previous try into new try
-
-Catherine potvin
-
-forest plantations in Brazil
-
-writing things in a methods document
-
-finish writing the stan and optim attempts

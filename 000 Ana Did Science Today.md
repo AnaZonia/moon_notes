@@ -5,7 +5,11 @@ dg-publish: true
 ---
 
 
-## 17/09, Tuesday - modelling
+## 17/09, Tue - modelling, task planning and writing
+
+I have made good progress in modelling. Now I should write down the formulas and think of how the paper is going to go given what I have right now.
+
+
 
 Initial (Non-tuned) Results:
 Cross-validation R2: 0.117 (±0.019)
@@ -62,20 +66,9 @@ num_fires_before_regrowth    0.002006 0.001960
 
 
 
-
-
-get flight to panama
-
-
-
-
-
 ## 14/09, Sat - Task planning and finishing retreat plans
 Consider joining beeminder to motivate you to have morning work sessions and to work out in the morning.
 Organize the tasks better. Consider coding progress and rewrite coding goals.
-Email Bailón
-Email service point
-Finish and submit QLS funding and GMA
 
 ## 13/09, Fri - Task planning
 Since writing was done earlier in the week, today we code.
@@ -184,7 +177,7 @@ I am realizing that today I don't have time to plan all my tasks again. I am let
 
 Change of plans - will code tomorrow. today we finish first iteration of writing and GMA application.
 
-- [ ] Call Analida and Gabriela
+- [x] Call Analida and Gabriela ✅ 2024-09-17
 - [x] Schedule committee meeting ✅ 2024-09-10
 
 ## 07/09, Sat - Wrapping up everything
@@ -229,25 +222,19 @@ I am comparing the effect of random forest with optim. I will run random forest 
 So now that R is done and working fine, I am going to focus on the python code:
 
 ### Task list - to do with ONLY ONE dataframe and ONLY ONE combination
-- [ ] Check for multicolinearity / check data
-- [ ] Compare Scipy Nelder-Mead with Optim
-- [ ] Hyperparameter tuning (sciopt bayesian optimization)
-- [ ] Check results with MSE instead of r squared.
-- [ ] Check the response curve with random forest as predictors are added.
-- [ ] Check MCMC with STAN (+1000 chain length is unnecessary)
-- [ ] Xboost
-- [ ] Create holdout set to test everything.
-- [ ] To check for overfitting, use learning curves - see how performance improves with sample size.
-- [ ] Check how well do Atlantic Forest results predict the Amazon
+- [x] Check for multicolinearity / check data ✅ 2024-09-17
+- [x] Compare Scipy Nelder-Mead with Optim ✅ 2024-09-17
+- [x] Hyperparameter tuning (sciopt bayesian optimization) ✅ 2024-09-17
+- [x] Check results with MSE instead of r squared. ✅ 2024-09-17
+- [x] Check the response curve with random forest as predictors are added. ✅ 2024-09-17
+- [x] Xboost ✅ 2024-09-17
+- [x] Create holdout set to test everything. ✅ 2024-09-17
+- [x] To check for overfitting, use learning curves - see how performance improves with sample size. ✅ 2024-09-17
 
 For now, as long as we are only comparing methods, stick with 10-year, Amazon.
 
 Note: can build confidence values by running the model multiple times for each pixel and seeing how the results differ. That's probably how they did SD for CCI Biomass?
 
-
-- [ ] Falar com [[Costa, Flávia R. C.|Costa, Flavia]] - ask about evapotranspiration in the Amazon. If that doesn't work, talk to Sara Knox through Fiona.
-- [ ] Get running on GIC-Green and contact Tim
-- [ ] Contact collaborators in Brazil
 
 ## 03/09, Tue - Random forest and wrapping up Optim
 
@@ -281,27 +268,14 @@ Another concern now is spatial autocorrelation. I could select only one point pe
 - [x] [[000 Chapter 2 - Predicting Regrowth in Panama]] Write short summary of project for workshop ✅ 2024-09-09
 - [x] Contact Gabriela and see if she knows anyone that would be interested in the project ✅ 2024-09-06
 - [x] Finish retreat prep ✅ 2024-09-09
-- [ ] Find out who was working with landslides on Jeff Hall's email
-- [ ] Apply to GMA
-- [ ] Apply for conference funding:
-AGU
-GIC
-QLS
-GREAT
-QCBS
 
 ### Goals - Coding
 - [x] Look over climatic variables with Fiona ✅ 2024-09-04
 - [x] Look over pantanal/cerrado with Fiona ✅ 2024-09-04
 - [ ] Incorporate Jeff's ages from his model
-- [x] Check random forest outcomes with python ✅ 2024-09-03
-- [ ] Incorporate hyperparameter tuning
 - [ ] Add slope
-
-
-
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010372
-
+- [x] Check random forest outcomes with python ✅ 2024-09-03
+- [x] Incorporate hyperparameter tuning ✅ 2024-09-17
 
 
 ## 16/08, Fri - Meeting Jeff Hall with Brian
