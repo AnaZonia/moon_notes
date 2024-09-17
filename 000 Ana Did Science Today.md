@@ -5,7 +5,7 @@ dg-publish: true
 ---
 
 
-
+## 17/09, Tuesday - modelling
 
 Initial (Non-tuned) Results:
 Cross-validation R2: 0.117 (±0.019)
@@ -63,10 +63,11 @@ num_fires_before_regrowth    0.002006 0.001960
 
 
 
-simulated annealing
-evolutionary algorithms
 
 get flight to panama
+
+
+
 
 
 ## 14/09, Sat - Task planning and finishing retreat plans
