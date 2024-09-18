@@ -29,8 +29,8 @@ dg-publish: true
 - [ ] Get running on GIC-Green and contact Tim
 - [ ] Contact collaborators in Brazil
 - [ ] get flight to panama
-- [ ] call with Brian and Cristina
-- [ ] Email Bailón
+- [x] call with Brian and Cristina ✅ 2024-09-17
+- [x] Email Bailón ✅ 2024-09-17
 - [ ] Email service point
 - [ ] Falar com [[Costa, Flávia R. C.|Costa, Flavia]] - ask about evapotranspiration in the Amazon. If that doesn't work, talk to Sara Knox through Fiona.
 - [ ] Apply to GMA
