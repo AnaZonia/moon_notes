@@ -23,18 +23,18 @@ dg-publish: true
 - [ ] Remove forests that burned after regrowth
 - [ ] Investigate low impact of cwd on Amazon
 - [ ] Write methods/conceptualize model
+	- [ ] Hidden states/detection algorithm? 
 - [ ] Write introduction
 
 ## Work Management
 - [ ] Get running on GIC-Green and contact Tim
 - [ ] Contact collaborators in Brazil
-- [ ] get flight to panama
+- [x] get flight to panama ✅ 2024-09-18
 - [x] call with Brian and Cristina ✅ 2024-09-17
 - [x] Email Bailón ✅ 2024-09-17
-- [ ] Email service point
 - [ ] Falar com [[Costa, Flávia R. C.|Costa, Flavia]] - ask about evapotranspiration in the Amazon. If that doesn't work, talk to Sara Knox through Fiona.
-- [ ] Apply to GMA
-- [ ] Apply for conference funding:
+- [x] Apply to GMA ✅ 2024-09-18
+- [x] Apply for conference funding: ✅ 2024-09-18
 AGU
 GIC
 QLS
