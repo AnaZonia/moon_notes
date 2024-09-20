@@ -4,6 +4,28 @@ up:
 dg-publish: true
 ---
 
+- here is a fake management plans. what 
+preliminary meetings
+
+
+
+tempo de manejo - tempo sob banana por exemplo é bem diferente do tempo para 
+
+latosolo do brasil não retém nada - potássio, cálcio, tudo muda.
+porcentagem de materia organica.
+
+o panamá tem mais variabilidade nos tipos de solo e são solos mais férteis. o panamá tem solos muito recentes e curtos, o solo brasileiro é profundo e antigo. os cátios são 
+
+muito oxido de ferro e aluminio, solos mais ácidos na amazonia.
+
+o solo panamenho tem mais variabilidade de solos.
+
+ph,
+areia, mineralogia, dados de solo. textura. 
+
+cabeças de gado por hectare e pasto manejado ou pasto nativo.
+
+[anovelbarba@gmail.com](mailto:anovelbarba@gmail.com "mailto:anovelbarba@gmail.com") Anovel Barba
 
 ## 17/09, Tue - modelling, task planning and writing
 

@@ -7,6 +7,11 @@ dg-publish: true
 - A forest regrowth potential map for Panama, considering the effects of nitrogen fertilization as a predictor
 - Expanding the probability of deforestation model that was already built for Panama, and incorporating it to the regrowth model to indicate areas of most promising regrowth in the country.
 
+## Agriculture expertise
+
+Nitrogen data, but how much can we infer from land use practices in Panama. What kind of data could I use that I may not have considered yet?
+
+
 ## Data available
 - Walker et al 2020 - Capturing ephemeral forest dynamics with hybrid time-series and composite mapping in the Republic of Panama
 - Bardino et al 2023 - Landscape context importance for predicting forest transition success in central Panama

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Tasks.md",
+                "file": "002 Data Sources.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Tasks.md"
+                "file": "000 Ana Did Science Today.md"
               }
             }
           },
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Tasks.md",
+                "file": "000 Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Tasks.md",
+                "file": "000 Ana Did Science Today.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Tasks.md",
+                "file": "000 Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,19 +257,24 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "a32c37517c0dee52",
+  "active": "e2809e2b926f7c6d",
   "lastOpenFiles": [
-    "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
+    "002 Data Sources.md",
+    "WorldCover.md",
+    "TerraClass.md",
+    "Sentinel Global Land Cover.md",
+    "ESA CCI Global Land Cover.md",
+    "Hansen 2013 - Global Forest Change.md",
     "000 Tasks.md",
+    "000 Chapter 2 - Predicting Regrowth in Panama.md",
+    "001 The Bridge.md",
+    "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
     "SoilGrids.md",
     "000 Ana Did Science Today.md",
     "Methods Writing.md",
     "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "001 The Bridge.md",
     "MAPBIOMAS.md",
-    "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "ALOS Landforms.md",
-    "002 Data Sources.md",
     "ProEcoAzuero.md",
     "CSP - Conservation Science Partners.md",
     "003 People and Networks.md",
@@ -279,13 +283,8 @@
     "FireCCI.md",
     "GWIS (Global Wildfire Information System).md",
     "GFED (Global Fire Emissions Database).md",
-    "WorldCover.md",
     "TreeDivNet.md",
-    "Sentinel Global Land Cover.md",
-    "TerraClass.md",
     "Panama Land Use.md",
-    "Hansen 2013 - Global Forest Change.md",
-    "Adopta Bosque.md",
     "Biodiversity-1.canvas",
     "Climate Change and Tropical Forests.canvas",
     "Regrowth.canvas",
