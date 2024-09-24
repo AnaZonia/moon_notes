@@ -4,13 +4,38 @@ up:
 dg-publish: true
 ---
 
-secondary growth based on the usage of indigenous peoples - models of bioculture keystone usage
+## 23/09, Mon - Wrapping up workshop plan and reading
+Ask guido and gabriela about observers
 
+Check whoever in the ministry of environment we talked to. Consider institutional support from STRI.
 
+Schedule leaders meeting
 
+What questions do we need to ask the people who are coming? Language, diets, staying over, are they willing to share with other people? When would people arrive?
+Accessibility requirements.
+Zoom link for the presentations. Bring fancy microphone. Does anyone in Panama have a 360 degree camera?
 
 - here is a fake management plans. what 
 preliminary meetings
+
+what should I talk to Carmen about sustainable land use and regrowth?
+
+read katie's frqnt
+read isabella's frqnt
+
+ask jeff hall for a replacement
+
+Carmen - tom laguardia, pictures. ask if I should meet people there and 
+steve patton
+
+email brian files in janus and spanish
+
+conversations with carmen and her group would be nice
+
+how much nitrogen is being added per district for all panama.
+
+
+
 
 
 
