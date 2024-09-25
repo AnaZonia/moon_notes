@@ -3,7 +3,7 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-
+Ask Fiona about applying to PGSS Travel Awards as well
 ## 23/09, Mon - Wrapping up workshop plan and reading
 Ask guido and gabriela about observers
 
