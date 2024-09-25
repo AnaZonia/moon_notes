@@ -18,9 +18,6 @@ Zoom link for the presentations. Bring fancy microphone. Does anyone in Panama h
 - here is a fake management plans. what 
 preliminary meetings
 
-what should I talk to Carmen about sustainable land use and regrowth?
-
-read katie's frqnt
 read isabella's frqnt
 
 ask jeff hall for a replacement
@@ -28,7 +25,7 @@ ask jeff hall for a replacement
 Carmen - tom laguardia, pictures. ask if I should meet people there and 
 steve patton
 
-email brian files in janus and spanish
+
 
 conversations with carmen and her group would be nice
 
@@ -37,7 +34,7 @@ how much nitrogen is being added per district for all panama.
 
 
 
-
+### Meeting with Julie Major
 
 tempo de manejo - tempo sob banana por exemplo é bem diferente do tempo para 
 
