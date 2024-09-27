@@ -3,45 +3,27 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-![](https://i.imgur.com/tniaPVl.png)
-Yue Li
-![](https://i.imgur.com/tfJulkQ.png)
-stomatal closure has hydrological effects, but we dont know if the transpiration decline can cause regional changes
+## 27/09, Fri - Writing and planning
 
-Humboldt - deforestation and drought?
-![](https://i.imgur.com/jnzWAXm.png)
-Different areas of the Amazon have rainfall be more sensitive to deforestation and others more sensitive to CO2.
-Worked with CMIP Earth System Model
+Main tasks:
+- Organize tasks per chapter
+- Read Isabella's FRQNT
+- Write PRISM blurb and send it out
+- Write on chapter 1 - get Fiona's edits
 
-![](https://i.imgur.com/ZHsuczE.png)
-
+### Chapter 1
+- Ask Fiona about applying to PGSS Travel Awards
 
 
-![](https://i.imgur.com/53MOq3P.png)
-There is a question whether rainfall decrease would decrease soil moisture to the point of restricting growth. So far, models 
-
-![](https://i.imgur.com/z5IOUKi.png)
-
-Leaf area index (greening) increases in the Amazon. why?
-- outcome of CO2 fertilization - there may be more transpiration because of larger leaves
-a tradeoff with leaf area index could increase surface evapotranspiration and counteract the effect of the closed stomata.
-
-![](https://i.imgur.com/YJOm4Kp.png)
-
-Stomata (physiological response) are dominant in earth system models, but in real world there may be change in LAI (did he say that LAI and stomata closing when considered together still led to drying?)
-
-![](https://i.imgur.com/ulcJgcG.png)
-
-![](https://i.imgur.com/TCGeFnr.png)
+### Chapter 2
 
 
-Ask Fiona about applying to PGSS Travel Awards as well
+
+
 ## 23/09, Mon - Wrapping up workshop plan and reading
 Ask guido and gabriela about observers
 
 Check whoever in the ministry of environment we talked to. Consider institutional support from STRI.
-
-Schedule leaders meeting
 
 What questions do we need to ask the people who are coming? Language, diets, staying over, are they willing to share with other people? When would people arrive?
 Accessibility requirements.
@@ -50,18 +32,10 @@ Zoom link for the presentations. Bring fancy microphone. Does anyone in Panama h
 - here is a fake management plans. what 
 preliminary meetings
 
-read isabella's frqnt
-
 ask jeff hall for a replacement
 
 Carmen - tom laguardia, pictures. ask if I should meet people there and 
 steve patton
-
-
-
-conversations with carmen and her group would be nice
-
-how much nitrogen is being added per district for all panama.
 
 
 

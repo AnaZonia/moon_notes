@@ -252,11 +252,15 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "e2809e2b926f7c6d",
   "lastOpenFiles": [
+    "Climate feedback from plant physiological responses to increasing atmospheric CO2 in Earth system models.md",
+    "000 Ana Did Science Today.md",
     "002 Data Sources.md",
     "WorldCover.md",
     "TerraClass.md",
@@ -268,7 +272,6 @@
     "001 The Bridge.md",
     "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
     "SoilGrids.md",
-    "000 Ana Did Science Today.md",
     "Methods Writing.md",
     "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
     "MAPBIOMAS.md",
@@ -282,7 +285,6 @@
     "GWIS (Global Wildfire Information System).md",
     "GFED (Global Fire Emissions Database).md",
     "TreeDivNet.md",
-    "Panama Land Use.md",
     "Biodiversity-1.canvas",
     "Climate Change and Tropical Forests.canvas",
     "Regrowth.canvas",
