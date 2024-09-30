@@ -3,6 +3,10 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 30/09, Mon - 
+- Ask Fiona about applying to PGSS Travel Awards
+
+
 ## 27/09, Fri - Writing and planning
 
 Main tasks:
@@ -11,36 +15,8 @@ Main tasks:
 - Write PRISM blurb and send it out
 - Write on chapter 1 - get Fiona's edits
 
-### Chapter 1
-- Ask Fiona about applying to PGSS Travel Awards
 
-
-### Chapter 2
-
-
-
-
-## 23/09, Mon - Wrapping up workshop plan and reading
-Ask guido and gabriela about observers
-
-Check whoever in the ministry of environment we talked to. Consider institutional support from STRI.
-
-What questions do we need to ask the people who are coming? Language, diets, staying over, are they willing to share with other people? When would people arrive?
-Accessibility requirements.
-Zoom link for the presentations. Bring fancy microphone. Does anyone in Panama have a 360 degree camera?
-
-- here is a fake management plans. what 
-preliminary meetings
-
-ask jeff hall for a replacement
-
-Carmen - tom laguardia, pictures. ask if I should meet people there and 
-steve patton
-
-
-
-
-### Meeting with Julie Major
+## 23/09, Mon - Meeting with Julie Major
 
 tempo de manejo - tempo sob banana por exemplo é bem diferente do tempo para 
 
@@ -58,7 +34,6 @@ areia, mineralogia, dados de solo. textura.
 
 cabeças de gado por hectare e pasto manejado ou pasto nativo.
 
-[anovelbarba@gmail.com](mailto:anovelbarba@gmail.com "mailto:anovelbarba@gmail.com") Anovel Barba
 
 ## 17/09, Tue - modelling, task planning and writing
 

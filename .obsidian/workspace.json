@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "56d9227b3bc771d3",
+        "id": "9ce65fb8738ff4fe",
         "type": "tabs",
         "children": [
           {
-            "id": "e2809e2b926f7c6d",
+            "id": "37d4873bd05ea2ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "000 Ana Did Science Today.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a32c37517c0dee52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 Data Sources.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc5673fbeae49f8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -257,20 +232,21 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "e2809e2b926f7c6d",
+  "active": "37d4873bd05ea2ae",
   "lastOpenFiles": [
-    "Climate feedback from plant physiological responses to increasing atmospheric CO2 in Earth system models.md",
-    "000 Ana Did Science Today.md",
+    "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
     "002 Data Sources.md",
+    "Conferences and Funding.md",
+    "000 Tasks.md",
+    "000 Ana Did Science Today.md",
+    "Climate feedback from plant physiological responses to increasing atmospheric CO2 in Earth system models.md",
     "WorldCover.md",
     "TerraClass.md",
     "Sentinel Global Land Cover.md",
     "ESA CCI Global Land Cover.md",
     "Hansen 2013 - Global Forest Change.md",
-    "000 Tasks.md",
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "001 The Bridge.md",
-    "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
     "SoilGrids.md",
     "Methods Writing.md",
     "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
@@ -284,7 +260,6 @@
     "FireCCI.md",
     "GWIS (Global Wildfire Information System).md",
     "GFED (Global Fire Emissions Database).md",
-    "TreeDivNet.md",
     "Biodiversity-1.canvas",
     "Climate Change and Tropical Forests.canvas",
     "Regrowth.canvas",

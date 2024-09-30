@@ -35,8 +35,13 @@ dg-publish: true
 - [ ] Falar com [[Costa, Flávia R. C.|Costa, Flavia]] - ask about evapotranspiration in the Amazon. If that doesn't work, talk to Sara Knox through Fiona.
 - [x] Apply to GMA ✅ 2024-09-18
 - [x] Apply for conference funding: ✅ 2024-09-18
-AGU
-GIC
-QLS
-GREAT
-QCBS
+
+## Preparation for the workshop:
+- [ ] Ask guido and gabriela about observers
+- [ ] Check whoever in the ministry of environment we talked to. Consider institutional support from STRI.
+- [ ] What questions do we need to ask the people who are coming? Language, diets, staying over, are they willing to share with other people? When would people arrive?
+	- Accessibility requirements.
+	- Zoom link for the presentations. Bring fancy microphone. Does anyone in Panama have a 360 degree camera?
+- [ ] Schedule preliminary meetings
+- [ ] ask jeff hall for a replacement
+- [ ] book hotels
