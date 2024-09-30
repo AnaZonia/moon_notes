@@ -3,7 +3,7 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## 30/09, Mon - 
+## 30/09, Mon - Writing and coding
 - Ask Fiona about applying to PGSS Travel Awards
 
 

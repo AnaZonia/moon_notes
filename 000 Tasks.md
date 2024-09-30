@@ -44,4 +44,3 @@ dg-publish: true
 	- Zoom link for the presentations. Bring fancy microphone. Does anyone in Panama have a 360 degree camera?
 - [ ] Schedule preliminary meetings
 - [ ] ask jeff hall for a replacement
-- [ ] book hotels
