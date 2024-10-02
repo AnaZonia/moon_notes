@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Tasks.md",
+                "file": "000 Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Tasks.md"
+                "file": "000 Ana Did Science Today.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Tasks.md",
+                "file": "000 Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Tasks.md",
+                "file": "000 Ana Did Science Today.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Tasks.md",
+                "file": "000 Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,11 +235,12 @@
   "active": "37d4873bd05ea2ae",
   "lastOpenFiles": [
     "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "SoilGrids.md",
+    "000 Tasks.md",
     "000 Ana Did Science Today.md",
     "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
     "002 Data Sources.md",
     "Conferences and Funding.md",
-    "000 Tasks.md",
     "Climate feedback from plant physiological responses to increasing atmospheric CO2 in Earth system models.md",
     "WorldCover.md",
     "TerraClass.md",
@@ -248,7 +249,6 @@
     "Hansen 2013 - Global Forest Change.md",
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "001 The Bridge.md",
-    "SoilGrids.md",
     "Methods Writing.md",
     "MAPBIOMAS.md",
     "ALOS Landforms.md",

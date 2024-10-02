@@ -5,7 +5,12 @@ dg-publish: true
 ---
 ## 30/09, Mon - Writing and coding
 - Ask Fiona about applying to PGSS Travel Awards
+Correlation for age_mapbiomas and age_eu is 0.41 in the atlantic rainforest and 0.66 in the amazon
+R squared is 2x better in the atlantic forest (2.5 - 5%) and about same in the amazon (3.7 - 6%)
 
+So I think the next steps are to accept the high intercept, contact jeff cardille about the algorithm, and think of modelling without land use but with fire for Brazil and Panama. Incorporate the delay term Brian mentioned and see how that does, and then consider other predictors as intercepts by looking at the data and thinking carefully about it.
+
+This is also the time to stop and look at all the screenshots and write a small report to update Fiona.
 
 ## 27/09, Fri - Writing and planning
 
