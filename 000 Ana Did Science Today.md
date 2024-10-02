@@ -3,6 +3,12 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 02/10, Wed - Coding
+
+In the beginning of the day, I want to run the model with just ages considering linear, random forest, and optim, with the new data, for the Amazon only.
+
+In the rest of the day, I organize the writing/thinking, register what has been done and found so far, and clean up the code.
+
 ## 30/09, Mon - Writing and coding
 - Ask Fiona about applying to PGSS Travel Awards
 Correlation for age_mapbiomas and age_eu is 0.41 in the atlantic rainforest and 0.66 in the amazon
