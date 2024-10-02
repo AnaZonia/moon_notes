@@ -9,6 +9,12 @@ In the beginning of the day, I want to run the model with just ages considering 
 
 In the rest of the day, I organize the writing/thinking, register what has been done and found so far, and clean up the code.
 
+https://essd.copernicus.org/articles/16/1353/2024/#section2
+
+compare performance of celso vs mapbiomas - choose whether to do that for 2018 or 2020
+
+check whether mature forest edge needs to be considered in this new dataset where disturbances are pointed out
+
 ## 30/09, Mon - Writing and coding
 - Ask Fiona about applying to PGSS Travel Awards
 Correlation for age_mapbiomas and age_eu is 0.41 in the atlantic rainforest and 0.66 in the amazon
