@@ -17,6 +17,9 @@ check whether mature forest edge needs to be considered in this new dataset wher
 
 get number of years of disturbance and deforestation before regrowth
 
+Brian's delays make sense, but another thing I want to do this week is to think of how to implement different functional forms depending on what I observe with the data. Beginning slowly.
+
+also SLOPE and mapbiomas fire/FRP while we're at it!
 
 ## 30/09, Mon - Writing and coding
 - Ask Fiona about applying to PGSS Travel Awards

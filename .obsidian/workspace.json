@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "989e1f6772a2684a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Ana Did Science Today.md"
+                "file": "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md"
               }
             }
           },
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +134,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -202,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,13 +245,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "37d4873bd05ea2ae",
+  "active": "989e1f6772a2684a",
   "lastOpenFiles": [
-    "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "SoilGrids.md",
-    "000 Tasks.md",
     "000 Ana Did Science Today.md",
     "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
+    "000 Tasks.md",
+    "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "SoilGrids.md",
     "002 Data Sources.md",
     "Conferences and Funding.md",
     "Climate feedback from plant physiological responses to increasing atmospheric CO2 in Earth system models.md",
