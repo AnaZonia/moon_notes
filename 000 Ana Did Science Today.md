@@ -3,6 +3,11 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 03/10, Thu - Coding
+
+I'm realizing that this dataset shows a lot of the forests as disturbed 
+
+
 ## 02/10, Wed - Coding
 
 In the beginning of the day, I want to run the model with just ages considering linear, random forest, and optim, with the new data, for the Amazon only.
