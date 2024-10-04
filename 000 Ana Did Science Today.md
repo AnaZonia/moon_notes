@@ -7,6 +7,12 @@ dg-publish: true
 
 I'm realizing that this dataset shows a lot of the forests as disturbed 
 
+It does not seem to be an issue to resample to 1000m - that is just a reaggregation to 1km, and that is only used to determine the nearest asymptote, so that makes sense.
+In order to determine propagule pressure, nearest surrounding cover or gaussian kernel makes more sense.
+
+
+![](https://i.imgur.com/4blI7cC.png)
+
 
 ## 02/10, Wed - Coding
 
