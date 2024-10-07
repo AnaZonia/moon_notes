@@ -3,6 +3,12 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 07/10, Mon - Wrapping up
+
+Sent the GMA and am wrapping up coding for the meeting tomorrow.
+
+Need to send off emails to the PRISM guests.
+
 ## 03/10, Thu - Coding
 
 I'm realizing that this dataset shows a lot of the forests as disturbed 
