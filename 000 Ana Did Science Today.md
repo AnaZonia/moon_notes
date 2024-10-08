@@ -3,10 +3,19 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 08/10, Tue - Wrapping up
+
+taking the day to write current conclusions and coming plans.
+For the model:
+- try STAN
+- try checking the effect of the predictors in the intercept
+- finish implementing other data sources
+- finish commenting code/finishing R testing ground
+
+
 ## 07/10, Mon - Wrapping up
 
-Sent the GMA and am wrapping up coding for the meeting tomorrow.
-
+Sent the GMA and am wrapping up coding.
 Need to send off emails to the PRISM guests.
 
 ## 03/10, Thu - Coding

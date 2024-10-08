@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c5ed6b41cc7abc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Methods Writing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -246,13 +258,16 @@
   },
   "active": "37d4873bd05ea2ae",
   "lastOpenFiles": [
-    "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
-    "000 Ana Did Science Today.md",
-    "000 Tasks.md",
-    "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "SoilGrids.md",
-    "002 Data Sources.md",
     "Conferences and Funding.md",
+    "001 The Bridge.md",
+    "002 Data Sources.md",
+    "300 Doing Science.md",
+    "000 Ana Did Science Today.md",
+    "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
+    "Methods Writing.md",
+    "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "000 Tasks.md",
+    "SoilGrids.md",
     "Climate feedback from plant physiological responses to increasing atmospheric CO2 in Earth system models.md",
     "WorldCover.md",
     "TerraClass.md",
@@ -260,8 +275,6 @@
     "ESA CCI Global Land Cover.md",
     "Hansen 2013 - Global Forest Change.md",
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
-    "001 The Bridge.md",
-    "Methods Writing.md",
     "MAPBIOMAS.md",
     "ALOS Landforms.md",
     "ProEcoAzuero.md",
@@ -271,7 +284,6 @@
     "ESA CCI Biomass.md",
     "FireCCI.md",
     "GWIS (Global Wildfire Information System).md",
-    "GFED (Global Fire Emissions Database).md",
     "Biodiversity-1.canvas",
     "Climate Change and Tropical Forests.canvas",
     "Regrowth.canvas",
