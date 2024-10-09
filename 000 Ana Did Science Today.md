@@ -12,6 +12,7 @@ For the model:
 - finish implementing other data sources
 - finish commenting code/finishing R testing ground
 
+ERA5 = https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY_AGGR#bands
 
 ## 07/10, Mon - Wrapping up
 
