@@ -13,7 +13,8 @@ For the model:
 - finish commenting code/finishing R testing ground
 
 ERA5 = https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY_AGGR#bands
-
+https://www.sciencedirect.com/science/article/abs/pii/S0924271621001519#preview-section-abstract
+https://github.com/et-brasil/geeSEBAL/blob/master/Examples/Image_function_geeSEBAL.ipynb
 ## 07/10, Mon - Wrapping up
 
 Sent the GMA and am wrapping up coding.
