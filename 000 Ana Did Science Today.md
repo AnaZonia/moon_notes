@@ -7,6 +7,8 @@ compare ages with agua salud
 
 random forest will predict 1 ton/hectare
 
+since EU only has ages up until 1990 it would be useful to compare the same periods with mapbiomas
+
 ## 08/10, Tue - Wrapping up
 
 taking the day to write current conclusions and coming plans.
