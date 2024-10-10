@@ -4,10 +4,15 @@ up:
 dg-publish: true
 ---
 compare ages with agua salud
+ask jeff hall for preliminary agua salud data
+make prism survey
 
-random forest will predict 1 ton/hectare
 
 since EU only has ages up until 1990 it would be useful to compare the same periods with mapbiomas
+
+email people that will come to the workshop
+
+email jamie and ask for land use data
 
 ## 08/10, Tue - Wrapping up
 
