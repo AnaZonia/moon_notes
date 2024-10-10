@@ -3,6 +3,10 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+compare ages with agua salud
+
+random forest will predict 1 ton/hectare
+
 ## 08/10, Tue - Wrapping up
 
 taking the day to write current conclusions and coming plans.

@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md"
+                "file": "000 Ana Did Science Today.md"
               }
             }
           },
@@ -129,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
+                "file": "000 Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -146,7 +145,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
+                "file": "000 Ana Did Science Today.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
+                "file": "000 Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,12 +256,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "989e1f6772a2684a",
+  "active": "37d4873bd05ea2ae",
   "lastOpenFiles": [
+    "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
     "000 Ana Did Science Today.md",
     "Cumulative Water Deficit.md",
     "Methods Writing.md",
-    "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
     "Conferences and Funding.md",
     "001 The Bridge.md",
     "002 Data Sources.md",
