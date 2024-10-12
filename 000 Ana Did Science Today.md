@@ -3,6 +3,77 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## 12/10, Sat - writing down methods
+
+### Step 1 - Compare models
+
+- parameter inclusion: age, surrounding_cover
+- biome: amazon
+- fitting method: NLL
+- interval: all
+- non-aggregated
+
+Test performance on:
+- machine learning
+	- xgboost
+	- lm
+	- random forest
+- process-based model
+	- B0_theta
+	- lag
+	- changing intercept
+	- k0 = -np.log(1 - (y.mean() / A.mean()))
+
+### Step 2 - Compare Land Use Data
+
+Using the preferred process-based model from Step 1:
+
+#### Brazil
+- Biomes
+	- Amazon
+	- Atlantic Forest
+	- Both
+		- Parameter combinations
+			- environmental + land use (mapbiomas)
+				- Land-Use intervals
+					- all
+					- 5
+					- 10
+					- 15
+						- aggregated
+						- non_aggregated
+							- blunt_cut
+							- max_limit
+			- environmental (mapbiomas)
+			- environmental (eu)
+#### Panama
+-  environmental + fire (eu)
+
+### Step 3 - Compare Climate History
+
+Using the preferred land use method from Step 2:
+
+Brazil
+- Biomes
+	- Amazon
+	- Atlantic Forest
+	- Both
+		- Parameter combinations
+			- environmental + land use (mapbiomas)
+			- environmental (mapbiomas)
+			- environmental (eu)
+				- no_climate_history
+				- climate_history
+#### Panama
+-  environmental + fire (eu)
+	- no_climate_history
+	- climate_history
+
+
+
+
+
+
 
 register for AGU with Fiona by november - early bird registration
 
