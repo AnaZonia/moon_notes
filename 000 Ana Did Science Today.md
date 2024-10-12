@@ -3,6 +3,24 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+register for AGU with Fiona by november - early bird registration
+
+adjustment_value = -np.log(1 - (y.mean() / A.mean()))
+
+I am realizing there are too many combinations to try all at once. the combinations grow really quickly. It is best to try one at a time, and see how they behave - register the results, and later find something ultimately better.
+
+right now the options are:
+
+- all different functional forms
+- all different parameter inclusions
+- 3 biomes
+- 2 fitting methods (nll and nls)
+- 4 intervals
+	- for 3 intervals, hard_cut or selected ranges
+- aggregated or non-aggregated data
+- with and without integrating through climate history
+
 compare ages with agua salud
 ask jeff hall for preliminary agua salud data
 make prism survey
