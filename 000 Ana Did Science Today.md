@@ -5,80 +5,24 @@ dg-publish: true
 ---
 ## 12/10, Sat - writing down methods
 
-### Step 1 - Compare models
-
-- parameter inclusion: age, surrounding_cover
-- biome: amazon
-- fitting method: NLL
-- interval: all
-- non-aggregated
-
-Test performance on:
-- machine learning
-	- xgboost
-	- lm
-	- random forest
-- process-based model
-	- B0_theta
-	- lag
-	- changing intercept
-	- k0 = -np.log(1 - (y.mean() / A.mean()))
-
-### Step 2 - Compare Land Use Data
-
-Using the preferred process-based model from Step 1:
-
-#### Brazil
-- Biomes
-	- Amazon
-	- Atlantic Forest
-	- Both
-		- Parameter combinations
-			- environmental + land use (mapbiomas)
-				- Land-Use intervals
-					- all
-					- 5
-					- 10
-					- 15
-						- aggregated
-						- non_aggregated
-							- blunt_cut
-							- max_limit
-			- environmental (mapbiomas)
-			- environmental (eu)
-#### Panama
--  environmental + fire (eu)
-
-### Step 3 - Compare Climate History
-
-Using the preferred land use method from Step 2:
-
-Brazil
-- Biomes
-	- Amazon
-	- Atlantic Forest
-	- Both
-		- Parameter combinations
-			- environmental + land use (mapbiomas)
-			- environmental (mapbiomas)
-			- environmental (eu)
-				- no_climate_history
-				- climate_history
-#### Panama
--  environmental + fire (eu)
-	- no_climate_history
-	- climate_history
-
-
-
-
-
-
+finish conceptualizing panama ports model
+email people for data
 
 register for AGU with Fiona by november - early bird registration
 
 adjustment_value = -np.log(1 - (y.mean() / A.mean()))
 
+compare ages with agua salud
+ask jeff hall for preliminary agua salud data
+make prism survey
+
+since EU only has ages up until 1990 it would be useful to compare the same periods with mapbiomas
+
+email people that will come to the workshop
+
+email jamie and ask for land use data
+
+### Methods flowchart for modelling, step by step
 I am realizing there are too many combinations to try all at once. the combinations grow really quickly. It is best to try one at a time, and see how they behave - register the results, and later find something ultimately better.
 
 right now the options are:
@@ -92,16 +36,6 @@ right now the options are:
 - aggregated or non-aggregated data
 - with and without integrating through climate history
 
-compare ages with agua salud
-ask jeff hall for preliminary agua salud data
-make prism survey
-
-
-since EU only has ages up until 1990 it would be useful to compare the same periods with mapbiomas
-
-email people that will come to the workshop
-
-email jamie and ask for land use data
 
 ## 08/10, Tue - Wrapping up
 
