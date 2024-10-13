@@ -8,22 +8,22 @@ dg-publish: true
 ## Modelling
 - [ ] Incorporate new variables:
 	- [ ] Jeff's ages
-	- [ ] Slope
-	- [ ] [TMF ages](https://forobs.jrc.ec.europa.eu/TMF)
+	- [x] Slope ✅ 2024-10-13
+	- [x] [TMF ages](https://forobs.jrc.ec.europa.eu/TMF) ✅ 2024-10-13
 	- [ ] [L-band vegetation optical depth (_L_-_VOD_)](https://ib.remote-sensing.inrae.fr/)
 	- [ ] [Species density](https://www.nature.com/articles/s41467-022-32063-z)
 	- [ ] others from [[Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes]]
-	- [ ] [[SoilGrids]]
+	- [x] [[SoilGrids]] ✅ 2024-10-13
 
 - [ ] Try new optimizers
 	- [ ] MCMC with STAN (+1000 chain length is unnecessary)
 	- [ ] [Theseus](https://sites.google.com/view/theseus-ai/)
+	- [ ] Hidden states/detection algorithm
 
 - [ ] Compare the effect of normalizing before or after splitting in groups
-- [ ] Remove forests that burned after regrowth
-- [ ] Investigate low impact of cwd on Amazon
+- [x] Remove forests that burned after regrowth ✅ 2024-10-13
+- [x] Investigate low impact of cwd on Amazon ✅ 2024-10-13
 - [ ] Write methods/conceptualize model
-	- [ ] Hidden states/detection algorithm? 
 - [ ] Write introduction
 
 ## Work Management

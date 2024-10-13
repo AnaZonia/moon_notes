@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "000 Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Ana Did Science Today.md"
+                "file": "Cumulative Water Deficit.md"
               }
             }
           },
@@ -128,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Cumulative Water Deficit.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +146,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Cumulative Water Deficit.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Cumulative Water Deficit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,22 +252,25 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "37d4873bd05ea2ae",
+  "active": "6c5ed6b41cc7abc6",
   "lastOpenFiles": [
-    "SiBBr - Sistema de Informação sobre a Biodiversidade Brasileira.md",
-    "000 Ana Did Science Today.md",
+    "000 Tasks.md",
     "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
+    "000 Ana Did Science Today.md",
+    "001 The Bridge.md",
+    "Rolling ideas.md",
+    "SiBBr - Sistema de Informação sobre a Biodiversidade Brasileira.md",
     "Cumulative Water Deficit.md",
     "Methods Writing.md",
     "Conferences and Funding.md",
-    "001 The Bridge.md",
     "002 Data Sources.md",
     "300 Doing Science.md",
     "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "000 Tasks.md",
     "SoilGrids.md",
     "Climate feedback from plant physiological responses to increasing atmospheric CO2 in Earth system models.md",
     "WorldCover.md",
@@ -281,7 +285,6 @@
     "CSP - Conservation Science Partners.md",
     "003 People and Networks.md",
     "TerraClimate.md",
-    "ESA CCI Biomass.md",
     "Biodiversity-1.canvas",
     "Climate Change and Tropical Forests.canvas",
     "Regrowth.canvas",
