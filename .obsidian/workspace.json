@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "37d4873bd05ea2ae",
+            "id": "64f51573c84ed104",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "989e1f6772a2684a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c5ed6b41cc7abc6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cumulative Water Deficit.md",
+                "file": "000 Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -118,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Tasks.md"
+                "file": "000 Ana Did Science Today.md"
               }
             }
           },
@@ -128,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Tasks.md",
+                "file": "000 Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -145,7 +122,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Tasks.md",
+                "file": "000 Ana Did Science Today.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -226,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Tasks.md",
+                "file": "000 Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
-    "collapsed": true
+    "width": 402.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,13 +232,52 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "37d4873bd05ea2ae",
+  "floating": {
+    "id": "4c9b1d7336c1aded",
+    "type": "floating",
+    "children": [
+      {
+        "id": "eb33c42927686b3b",
+        "type": "window",
+        "children": [
+          {
+            "id": "df20a70aa4f31a5c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b6b6a76d31dd88df",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000 Ana Did Science Today.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1240,
+        "y": 117,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "64f51573c84ed104",
   "lastOpenFiles": [
-    "Cumulative Water Deficit.md",
-    "000 Tasks.md",
-    "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
-    "000 Ana Did Science Today.md",
     "001 The Bridge.md",
+    "000 Ana Did Science Today.md",
+    "000 Tasks.md",
+    "AGU.md",
+    "Climate Change.canvas",
+    "Cumulative Water Deficit.md",
+    "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
     "Rolling ideas.md",
     "SiBBr - Sistema de Informação sobre a Biodiversidade Brasileira.md",
     "Methods Writing.md",
@@ -283,7 +298,6 @@
     "ProEcoAzuero.md",
     "CSP - Conservation Science Partners.md",
     "003 People and Networks.md",
-    "TerraClimate.md",
     "Biodiversity-1.canvas",
     "Climate Change and Tropical Forests.canvas",
     "Regrowth.canvas",
@@ -293,7 +307,6 @@
     "Files/Ana Did Science Today.png",
     "Files/Ana Did Science Today-2.pdf",
     "Ana Did Science Today.canvas",
-    "Climate Change.canvas",
     "Templates/Legacy",
     "Files/110 Remote Sensing-2.png",
     "smart-chats",

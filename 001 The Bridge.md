@@ -22,8 +22,7 @@ dg-home: true
 - [[500 Alexandria]]
 
 ## Other ongoing projects
-- [[Climate Change.canvas|Incentives to Forest Growth - Panama]]
-
+- [[AGU]]
 
 ## Article ideas
 ```dataview

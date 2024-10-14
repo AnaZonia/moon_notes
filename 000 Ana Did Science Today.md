@@ -3,7 +3,80 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+# Oct 13 : 20 - Weekly Tasks
+
+## Modelling
+- [ ] Incorporate new variables:
+	- [ ] Jeff's ages
+	- [ ] [L-band vegetation optical depth (_L_-_VOD_)](https://ib.remote-sensing.inrae.fr/)
+	- [ ] [Species density](https://www.nature.com/articles/s41467-022-32063-z)
+	- [ ] others from [[Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes]]
+
+- [ ] Try new optimizers
+	- [ ] MCMC with STAN (+1000 chain length is unnecessary)
+	- [ ] [Theseus](https://sites.google.com/view/theseus-ai/)
+	- [ ] Hidden states/detection algorithm
+
+- [ ] Compare the effect of normalizing before or after splitting in groups
+- [ ] Write methods for 
+- [ ] Write introduction
+- [ ] Confidence metric map
+
+## Work Management
+- [ ] Get running on GIC-Green and contact Tim
+- [ ] Contact collaborators in Brazil
+
+- [ ] Falar com [[Costa, Flávia R. C.|Costa, Flavia]] - ask about evapotranspiration in the Amazon. If that doesn't work, talk to Sara Knox through Fiona.
+
+## Preparation for the workshop:
+- [ ] Ask guido and gabriela about observers
+- [ ] Check whoever in the ministry of environment we talked to. Consider institutional support from STRI.
+- [ ] What questions do we need to ask the people who are coming? Language, diets, staying over, are they willing to share with other people? When would people arrive?
+	- Accessibility requirements.
+	- Zoom link for the presentations. Bring fancy microphone. Does anyone in Panama have a 360 degree camera?
+- [ ] Schedule preliminary meetings
+- [ ] ask jeff hall for a replacement
+
+# 01/10 : 13/10 - Weekly Tasks
+## Modelling
+- Incorporate new variables:
+- [x] Slope ✅ 2024-10-13
+- [x] [TMF ages](https://forobs.jrc.ec.europa.eu/TMF) ✅ 2024-10-13
+- [x] [[SoilGrids]] ✅ 2024-10-13
+- [x] Remove forests that burned after regrowth ✅ 2024-10-13
+- [x] Investigate low impact of cwd on Amazon ✅ 2024-10-13
+
+## Work Management
+- [x] Apply to GMA ✅ 2024-09-18
+- [x] Apply for conference funding: ✅ 2024-09-18
+
+
+## 13/10, Sun - Weekly Review
+
+NLL does slightly better (0.143 rather than 0.140), makes sense
+
+and the preferred growth curve has B0 described by the parameters.
+
+
+
+Correlation heatmap for mapbiomas data:
+![](https://i.imgur.com/LA91XtX.png)
+Correlation heatmap for EU data:
+![](https://i.imgur.com/GTRtsDo.png)
+
+
+
+![](https://i.imgur.com/8MJ7fhR.png)
+
+
+
+
 ## 12/10, Sat - writing down methods
+
+finish writing goals
+write expenses for brian and fiona
+
+plan port model
 
 finish conceptualizing panama ports model
 email people for data
@@ -21,7 +94,8 @@ since EU only has ages up until 1990 it would be useful to compare the same peri
 email people that will come to the workshop
 
 email jamie and ask for land use data
-
+write to brian asking to pay for Panama
+write airbnb costs for washington
 ### Methods flowchart for modelling, step by step
 I am realizing there are too many combinations to try all at once. the combinations grow really quickly. It is best to try one at a time, and see how they behave - register the results, and later find something ultimately better.
 
@@ -82,6 +156,76 @@ get number of years of disturbance and deforestation before regrowth
 Brian's delays make sense, but another thing I want to do this week is to think of how to implement different functional forms depending on what I observe with the data. Beginning slowly.
 
 also SLOPE and mapbiomas fire/FRP while we're at it!
+
+
+
+![](https://i.imgur.com/X7M3VPC.png)
+![](https://i.imgur.com/SpeHRiO.png)
+![](https://i.imgur.com/KZuXdyh.png)
+![](https://i.imgur.com/pRgr5vo.png)
+![](https://i.imgur.com/l50rvEE.png)
+![](https://i.imgur.com/tDY5Ti8.png)
+![](https://i.imgur.com/tSOcQov.png)
+
+
+
+# October Goals
+
+## Modelling
+
+
+
+# September Conclusions
+
+## Main results
+
+R-squared values with linear models were quite high, reaching around 40%. Optim results were also acceptable, around the 30s, but less predictive than linear models, indicating issues with the functional form.
+[](https://i.imgur.com/R58jpAt.png)
+[](https://i.imgur.com/lWqcy7M.png)
+[](https://i.imgur.com/7I2XwPt.png)
+[](https://i.imgur.com/xvNKdZt.png)
+[](https://i.imgur.com/LQvQp0q.png)
+
+Decided to check data distributions and found that mean biomass for 1 year old forests is around 100 tons per hectare. That shows that Landsat has a hard time detecting forests that are less dense than that and those are the early years that we are missing from the analysis.
+
+![](https://i.imgur.com/6gnuCXv.png)
+![](https://i.imgur.com/cLeBiBp.png)
+
+
+![](https://i.imgur.com/h6Ry1Hu.png)
+
+Interestingly, I noticed that the intercept also changes with each predictor given. They have more of an effect on the overall shift of the growth curve than the rate itself:
+
+![](https://i.imgur.com/d6OIXJ4.png)
+![](https://i.imgur.com/4Pcc6cv.png)
+![](https://i.imgur.com/Mv3VlK8.png)
+
+
+
+The rate seems to only change with age.
+
+This would make the growth curve:
+
+$$
+AGB = B_{0} + (A - B_{0})*(1-e⁻kt)
+$$
+Where A = biomass of the nearest mature forest, t = age, k is a growth rate, and $B_0 = c_{1} \cdot \text{par}_{1} + c_{2} \cdot \text{par}_{2} + \dots + c_{n} \cdot \text{par}_{n}$
+- the relationships between the predictors may not be linear - this can be investigated through:
+	- partial dependence plots
+	- residual plots
+
+However, this is not the beginning of the growth curve, but the middle onward. This can be fit through a lag term, in which case the lag would be a function of the predictors:
+$$ AGB = A \cdot \left( 1 - e^{-k(t + \text{lag})} \right)^{\tau} $$ Where A = biomass of the nearest mature forest, t = age, $$ k = c_{1} \cdot \text{par}_{1} + c_{2} \cdot \text{par}_{2} + \dots + c_{n} \cdot \text{par}_{n} $$ and $$ \text{lag} \sim \mathcal{N}(\mu_{\text{lag}}, \sigma_{\text{lag}}) $$
+However, looking at the curves, I am unsure whether that would be significantly different from assuming B_0 as just an intercept that depends on the predictors rather than a randomly distributed lag. This can be tested by comparing the curve written here (without a shape term tau, since we would not assume there is an initial delay if the data is not being forced through zero) and the curve fit with lag and other predictors into the growth rate.
+
+Also would be interesting to check if the asymptote is appropriate - say, if the nearest mature forest biomass is a better value to consider than the average biomass of the oldest secondary forests. It probably would, since that considers regional variation, but I would like to plot that at some point to understand it better.
+
+
+Julie Major mentioned:\
+- Panama has more soil variability - that could lead to different predictive power of soil variables in Brazil vs Panama. Brazil has 
+cabeças de gado por hectare e pasto manejado ou pasto nativo.
+
+
 
 ## 30/09, Mon - Writing and coding
 - Ask Fiona about applying to PGSS Travel Awards
@@ -210,10 +354,10 @@ Undergrads to get data. Report back what they CAN't find - who are they talking 
 
 
 
-## 11/09, Wed - Coding
+## 11/09, Wed - Multicollinearity and PCA for soil and ecoregion
 After testing for multicollinearity and running for the main optimizers, I am also trying out [theseus](https://sites.google.com/view/theseus-ai/), Hossein's recommendation.
 
-### testing for multicollinearity
+
 
                                GVIF Df GVIF^(1/(2*Df))
 indig                      1.047234  1        1.023344
