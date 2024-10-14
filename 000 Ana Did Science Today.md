@@ -220,6 +220,8 @@ However, looking at the curves, I am unsure whether that would be significantly 
 
 Also would be interesting to check if the asymptote is appropriate - say, if the nearest mature forest biomass is a better value to consider than the average biomass of the oldest secondary forests. It probably would, since that considers regional variation, but I would like to plot that at some point to understand it better.
 
+Lag with parameters in asymptote. Consider age normalized or not, parametrized or not.  
+Plot histogram of nearest mature biomass and biomass of old secondary forests
 
 Julie Major mentioned:\
 - Panama has more soil variability - that could lead to different predictive power of soil variables in Brazil vs Panama. Brazil has 
