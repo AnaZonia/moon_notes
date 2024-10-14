@@ -25,6 +25,7 @@ dg-publish: true
 - [x] Investigate low impact of cwd on Amazon ✅ 2024-10-13
 - [ ] Write methods/conceptualize model
 - [ ] Write introduction
+- [ ] Confidence metric map
 
 ## Work Management
 - [ ] Get running on GIC-Green and contact Tim
