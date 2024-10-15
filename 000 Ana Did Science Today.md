@@ -27,6 +27,7 @@ dg-publish: true
 - [ ] ask jeff hall for agua salud data
 - [ ] write down expenses to claim with Brian
 - [ ] register for AGU with Fiona
+- [ ] make poster
 
 ## Papers to read
 - [ ] [Wood density](https://www.nature.com/articles/s41559-024-02564-9)
@@ -35,22 +36,13 @@ dg-publish: true
 
 ## 15/10, Tuesday - Coding and writing
 
-
-
-adjustment_value = -np.log(1 - (y.mean() / A.mean()))
-
-compare performance of celso vs mapbiomas - choose whether to do that for 2018 or 2020
-
-check whether mature forest edge needs to be considered in this new dataset where disturbances are pointed out
-
-get number of years of disturbance and deforestation before regrowth
-
-since EU only has ages up until 1990 it would be useful to compare the same periods with mapbiomas
-
-
+Save on data sources:
 ERA5 = https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY_AGGR#bands
 https://www.sciencedirect.com/science/article/abs/pii/S0924271621001519#preview-section-abstract
 https://github.com/et-brasil/geeSEBAL/blob/master/Examples/Image_function_geeSEBAL.ipynb
+https://forobs.jrc.ec.europa.eu/TMF
+
+
 
 # 01/10 : 13/10 - Weekly Tasks
 ## Modelling
@@ -64,7 +56,6 @@ https://github.com/et-brasil/geeSEBAL/blob/master/Examples/Image_function_geeSEB
 ## Work Management
 - [x] Apply to GMA ✅ 2024-09-18
 - [x] Apply for conference funding: ✅ 2024-09-18
-
 
 ## 13/10, Sun - Weekly Review
 
