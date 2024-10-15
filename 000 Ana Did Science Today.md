@@ -204,12 +204,8 @@ Interestingly, I noticed that the intercept also changes with each predictor giv
 
 The rate seems to only change with age.
 
-This would make the growth curve:
 
-$$
-AGB = B_{0} + (A - B_{0})*(1-e⁻kt)
-$$
-Where A = biomass of the nearest mature forest, t = age, k is a growth rate, and $B_0 = c_{1} \cdot \text{par}_{1} + c_{2} \cdot \text{par}_{2} + \dots + c_{n} \cdot \text{par}_{n}$
+$A = c_{1} \cdot \text{par}_{1} + c_{2} \cdot \text{par}_{2} + \dots + c_{n} \cdot \text{par}_{n}$
 - the relationships between the predictors may not be linear - this can be investigated through:
 	- partial dependence plots
 	- residual plots
@@ -220,7 +216,11 @@ However, looking at the curves, I am unsure whether that would be significantly 
 
 Also would be interesting to check if the asymptote is appropriate - say, if the nearest mature forest biomass is a better value to consider than the average biomass of the oldest secondary forests. It probably would, since that considers regional variation, but I would like to plot that at some point to understand it better.
 
-Lag with parameters in asymptote. Consider age normalized or not, parametrized or not.  
+Lag with parameters in asymptote.
+- check whether biomass of forests at 35 ish years old is significantly different across higher and lower quartiles of all predictors (ANOVA)
+
+Consider age normalized or not, parametrized or not.
+
 Plot histogram of nearest mature biomass and biomass of old secondary forests
 
 Julie Major mentioned:\
