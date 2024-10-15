@@ -1,7 +1,6 @@
 ---
 up:
-  - "[[Biogeochemistry]]"
-  - "[[ECOSTRESS]]"
+  - "[[002 Data Sources#Climate|Climate Data Sources]]"
 stardate: Oct 9th 2023
 update: Oct 9th 2023
 ---

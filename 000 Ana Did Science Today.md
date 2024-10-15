@@ -3,39 +3,54 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## Next stages
+- [ ] Go through Fiona's edits
+- [ ] Get running on GIC-Green and contact Tim
+- [ ] Contact collaborators in Brazil
+- [ ] Falar com [[Costa, Flávia R. C.|Costa, Flavia]] - ask about evapotranspiration in the Amazon. If that doesn't work, talk to Sara Knox through Fiona.
+
 # Oct 13 : 20 - Weekly Tasks
 
 ## Modelling
-- [ ] Incorporate new variables:
-	- [ ] Jeff's ages
-	- [ ] [L-band vegetation optical depth (_L_-_VOD_)](https://ib.remote-sensing.inrae.fr/)
-	- [ ] [Species density](https://www.nature.com/articles/s41467-022-32063-z)
-	- [ ] others from [[Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes]]
+- [ ] Email Jeff again about algorithm
+- [ ] Write methods
 
-- [ ] Try new optimizers
-	- [ ] MCMC with STAN (+1000 chain length is unnecessary)
-	- [ ] [Theseus](https://sites.google.com/view/theseus-ai/)
-	- [ ] Hidden states/detection algorithm
-
-- [ ] Compare the effect of normalizing before or after splitting in groups
-- [ ] Write methods for 
-- [ ] Write introduction
-- [ ] Confidence metric map
-
-## Work Management
-- [ ] Get running on GIC-Green and contact Tim
-- [ ] Contact collaborators in Brazil
-
-- [ ] Falar com [[Costa, Flávia R. C.|Costa, Flavia]] - ask about evapotranspiration in the Amazon. If that doesn't work, talk to Sara Knox through Fiona.
-
-## Preparation for the workshop:
-- [ ] Ask guido and gabriela about observers
-- [ ] Check whoever in the ministry of environment we talked to. Consider institutional support from STRI.
-- [ ] What questions do we need to ask the people who are coming? Language, diets, staying over, are they willing to share with other people? When would people arrive?
+## Travel prep
+- [ ] Talk to Gabriela for mining project
+- [ ] Email guests
+- [ ] Assign tasks to Katie for port project
+- [x] Check whoever in the ministry of environment we talked to. Consider institutional support from STRI. ✅ 2024-10-15
+- [ ] Prepare google form for the workshop. 
+	- What questions do we need to ask the people who are coming? Language, diets, staying over, are they willing to share with other people? When would people arrive?
 	- Accessibility requirements.
 	- Zoom link for the presentations. Bring fancy microphone. Does anyone in Panama have a 360 degree camera?
-- [ ] Schedule preliminary meetings
-- [ ] ask jeff hall for a replacement
+- [ ] ask jeff hall for agua salud data
+- [ ] write down expenses to claim with Brian
+- [ ] register for AGU with Fiona
+
+## Papers to read
+- [ ] [Wood density](https://www.nature.com/articles/s41559-024-02564-9)
+- [ ] Heinrich papers and Celso ages (understand how they forced the growth curve through zero)
+- [ ] [[Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes]]
+
+## 15/10, Tuesday - Coding and writing
+
+
+
+adjustment_value = -np.log(1 - (y.mean() / A.mean()))
+
+compare performance of celso vs mapbiomas - choose whether to do that for 2018 or 2020
+
+check whether mature forest edge needs to be considered in this new dataset where disturbances are pointed out
+
+get number of years of disturbance and deforestation before regrowth
+
+since EU only has ages up until 1990 it would be useful to compare the same periods with mapbiomas
+
+
+ERA5 = https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY_AGGR#bands
+https://www.sciencedirect.com/science/article/abs/pii/S0924271621001519#preview-section-abstract
+https://github.com/et-brasil/geeSEBAL/blob/master/Examples/Image_function_geeSEBAL.ipynb
 
 # 01/10 : 13/10 - Weekly Tasks
 ## Modelling
@@ -53,11 +68,7 @@ dg-publish: true
 
 ## 13/10, Sun - Weekly Review
 
-NLL does slightly better (0.143 rather than 0.140), makes sense
-
-and the preferred growth curve has B0 described by the parameters.
-
-
+NLL does slightly better than NLS.
 
 Correlation heatmap for mapbiomas data:
 ![](https://i.imgur.com/LA91XtX.png)
@@ -73,29 +84,7 @@ Correlation heatmap for EU data:
 
 ## 12/10, Sat - writing down methods
 
-finish writing goals
-write expenses for brian and fiona
 
-plan port model
-
-finish conceptualizing panama ports model
-email people for data
-
-register for AGU with Fiona by november - early bird registration
-
-adjustment_value = -np.log(1 - (y.mean() / A.mean()))
-
-compare ages with agua salud
-ask jeff hall for preliminary agua salud data
-make prism survey
-
-since EU only has ages up until 1990 it would be useful to compare the same periods with mapbiomas
-
-email people that will come to the workshop
-
-email jamie and ask for land use data
-write to brian asking to pay for Panama
-write airbnb costs for washington
 ### Methods flowchart for modelling, step by step
 I am realizing there are too many combinations to try all at once. the combinations grow really quickly. It is best to try one at a time, and see how they behave - register the results, and later find something ultimately better.
 
@@ -120,9 +109,6 @@ For the model:
 - finish implementing other data sources
 - finish commenting code/finishing R testing ground
 
-ERA5 = https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY_AGGR#bands
-https://www.sciencedirect.com/science/article/abs/pii/S0924271621001519#preview-section-abstract
-https://github.com/et-brasil/geeSEBAL/blob/master/Examples/Image_function_geeSEBAL.ipynb
 ## 07/10, Mon - Wrapping up
 
 Sent the GMA and am wrapping up coding.
@@ -145,8 +131,6 @@ In the beginning of the day, I want to run the model with just ages considering 
 
 In the rest of the day, I organize the writing/thinking, register what has been done and found so far, and clean up the code.
 
-https://essd.copernicus.org/articles/16/1353/2024/#section2
-
 compare performance of celso vs mapbiomas - choose whether to do that for 2018 or 2020
 
 check whether mature forest edge needs to be considered in this new dataset where disturbances are pointed out
@@ -157,21 +141,18 @@ Brian's delays make sense, but another thing I want to do this week is to think 
 
 also SLOPE and mapbiomas fire/FRP while we're at it!
 
-
-
+EU ages:
 ![](https://i.imgur.com/X7M3VPC.png)
+MAPBIOMAS ages:
 ![](https://i.imgur.com/SpeHRiO.png)
+Celso ages:
 ![](https://i.imgur.com/KZuXdyh.png)
 ![](https://i.imgur.com/pRgr5vo.png)
 ![](https://i.imgur.com/l50rvEE.png)
+EU distributions:
 ![](https://i.imgur.com/tDY5Ti8.png)
 ![](https://i.imgur.com/tSOcQov.png)
 
-
-
-# October Goals
-
-## Modelling
 
 
 
@@ -194,38 +175,51 @@ Decided to check data distributions and found that mean biomass for 1 year old f
 
 ![](https://i.imgur.com/h6Ry1Hu.png)
 
-Interestingly, I noticed that the intercept also changes with each predictor given. They have more of an effect on the overall shift of the growth curve than the rate itself:
+Interestingly, I noticed that the intercept/asymptote also changes with each predictor given. They have more of an effect on the overall shift of the growth curve than the rate itself:
 
 ![](https://i.imgur.com/d6OIXJ4.png)
 ![](https://i.imgur.com/4Pcc6cv.png)
 ![](https://i.imgur.com/Mv3VlK8.png)
 
+It is noticeable that the intercept is not the beginning of the growth curve, but the middle onward. This can be fit through a lag term, in which case:$$ AGB = A \cdot \left( 1 - e^{-k(t + \text{lag})} \right)^{\tau} $$ Where A = biomass of the nearest mature forest, t = age, $$ k = c_{1} \cdot \text{par}_{1} + c_{2} \cdot \text{par}_{2} + \dots + c_{n} \cdot \text{par}_{n} $$ and $$ \text{lag} \sim \mathcal{N}(\mu_{\text{lag}}, \sigma_{\text{lag}}) $$
+In this functional form, normalizing age should not matter, but I will compare both just in case.
+
+However, this may also be written where $A = c_{1} \cdot \text{par}_{1} + c_{2} \cdot \text{par}_{2} + \dots + c_{n} \cdot \text{par}_{n}$ (including nearest mature forest) and k is a fit parameter. This would assume the growth rate is independent of the other parameters, and only asymptote depends on it.
+
+Alternatively,
+	$$A = c_{1} \cdot \text{par}_{1} + c_{2} \cdot \text{par}_{2} + \dots + c_{n} \cdot \text{par}_{n}$$
+and
+$$ k = c'_{1} \cdot \text{par}_{1} + c'_{2} \cdot \text{par}_{2} + \dots + c'_{n} \cdot \text{par}_{n} $$
+Fitting the same parameters as affecting growth rate and asymptote simultaneously, with different coefficients.
+
+The rate seems to only change with age. Biomass of the nearest mature forests also depends with all those predictors, meaning that they will affect the asymptote indirectly when A = nearest_mature_biomass.
+
+I would have assumed that there is some effect of all other predictors on nearest forest biomass, but thought the effect seen by num_fires_before_regrowth would be completely independent to nearest mature forest. However, even though there is no significant correlation shown in the multicollinearity test:
+
+![](https://i.imgur.com/c9CtpVP.png)
+
+Other predictors do relate to nearest_mature_forest, probably since they indicate some level of disturbance or other indirect effect of human activity, or that human activity tends to happen in less dense environments.
+
+This leads me to believe that nearest_mature_biomass may be enough to describe the asymptote, but it may be worth confirming.
+
+### Comparing average biomass
+Comparing the average biomass of the nearest mature forest to the average biomass of the oldest secondary forests, it shows that the nearest mature biomass seems like an acceptable asymptote.
+
+![](https://i.imgur.com/baMXp8r.png)
 
 
-The rate seems to only change with age.
+![](https://i.imgur.com/msv5Ink.png)
 
-
-$A = c_{1} \cdot \text{par}_{1} + c_{2} \cdot \text{par}_{2} + \dots + c_{n} \cdot \text{par}_{n}$
+### Future tests
+- Predict biomass of mature forests based on environmental predictors is a separate test that can also be done to find out whether that would make a better asymptote. Potentially a xgboost submodel would be helpful here.
 - the relationships between the predictors may not be linear - this can be investigated through:
 	- partial dependence plots
 	- residual plots
 
-However, this is not the beginning of the growth curve, but the middle onward. This can be fit through a lag term, in which case the lag would be a function of the predictors:
-$$ AGB = A \cdot \left( 1 - e^{-k(t + \text{lag})} \right)^{\tau} $$ Where A = biomass of the nearest mature forest, t = age, $$ k = c_{1} \cdot \text{par}_{1} + c_{2} \cdot \text{par}_{2} + \dots + c_{n} \cdot \text{par}_{n} $$ and $$ \text{lag} \sim \mathcal{N}(\mu_{\text{lag}}, \sigma_{\text{lag}}) $$
-However, looking at the curves, I am unsure whether that would be significantly different from assuming B_0 as just an intercept that depends on the predictors rather than a randomly distributed lag. This can be tested by comparing the curve written here (without a shape term tau, since we would not assume there is an initial delay if the data is not being forced through zero) and the curve fit with lag and other predictors into the growth rate.
-
-Also would be interesting to check if the asymptote is appropriate - say, if the nearest mature forest biomass is a better value to consider than the average biomass of the oldest secondary forests. It probably would, since that considers regional variation, but I would like to plot that at some point to understand it better.
-
-Lag with parameters in asymptote.
-- check whether biomass of forests at 35 ish years old is significantly different across higher and lower quartiles of all predictors (ANOVA)
-
-Consider age normalized or not, parametrized or not.
-
-Plot histogram of nearest mature biomass and biomass of old secondary forests
 
 Julie Major mentioned:\
-- Panama has more soil variability - that could lead to different predictive power of soil variables in Brazil vs Panama. Brazil has 
-cabeças de gado por hectare e pasto manejado ou pasto nativo.
+- Panama has more soil variability - that could lead to different predictive power of soil variables in Brazil vs Panama.
+- cabeças de gado por hectare e pasto manejado ou pasto nativo.
 
 
 

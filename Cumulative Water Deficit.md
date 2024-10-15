@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[Biogeochemistry]]"
+  - "[[002 Data Sources#Climate|Climate Data Sources]]"
 stardate: Nov 28th 2023
 update: Nov 28th 2023
 ---
