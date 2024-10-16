@@ -32,7 +32,9 @@ dg-publish: true
 ## Papers to read
 - [ ] [Wood density](https://www.nature.com/articles/s41559-024-02564-9)
 - [ ] Heinrich papers and Celso ages (understand how they forced the growth curve through zero)
-- [ ] [[Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes]]
+- [ ] [[Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes
+- [ ] https://phys.org/news/2024-08-nitrogen-deposition-biodiversity-larger-scale.html]]
+- [ ] Jakovac policy brief
 
 ## 15/10, Tuesday - Coding and writing
 
