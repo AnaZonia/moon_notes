@@ -8,26 +8,39 @@ dg-publish: true
 - [ ] Get running on GIC-Green and contact Tim
 - [ ] Contact collaborators in Brazil
 - [ ] Falar com [[Costa, Flávia R. C.|Costa, Flavia]] - ask about evapotranspiration in the Amazon. If that doesn't work, talk to Sara Knox through Fiona.
-
-# Oct 13 : 20 - Weekly Tasks
-
-## Modelling
-- [ ] Email Jeff again about algorithm
-- [ ] Write methods
-
-## Travel prep
-- [ ] Talk to Gabriela for mining project
-- [ ] Email guests
-- [ ] Assign tasks to Katie for port project
-- [x] Check whoever in the ministry of environment we talked to. Consider institutional support from STRI. ✅ 2024-10-15
 - [ ] Prepare google form for the workshop. 
 	- What questions do we need to ask the people who are coming? Language, diets, staying over, are they willing to share with other people? When would people arrive?
 	- Accessibility requirements.
 	- Zoom link for the presentations. Bring fancy microphone. Does anyone in Panama have a 360 degree camera?
-- [ ] ask jeff hall for agua salud data
-- [ ] write down expenses to claim with Brian
 - [ ] register for AGU with Fiona
+- [ ] make presentation for committee meeting
+- [ ] write committee meeting report
+- [ ] write summary for workshop
+
+# Oct 13 : 20 - Weekly Tasks
+
+## Modelling
+- [x] Email Jeff again about algorithm ✅ 2024-10-16
+- [ ] Write methods
+
+## Travel prep
+- [x] Talk to Gabriela for mining project ✅ 2024-10-16
+- [ ] Email guests
+- [x] Assign tasks to Katie for port project ✅ 2024-10-16
+- [x] Check whoever in the ministry of environment we talked to. Consider institutional support from STRI. ✅ 2024-10-15
+- [x] ask jeff hall for agua salud data ✅ 2024-10-16
+- [x] write down expenses to claim with Brian ✅ 2024-10-16
 - [ ] make poster
+
+## Others
+
+ - [ ] Save data sources:
+		ERA5 = https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY_AGGR#bands
+		https://www.sciencedirect.com/science/article/abs/pii/S0924271621001519#preview-section-abstract
+		https://github.com/et-brasil/geeSEBAL/blob/master/Examples/Image_function_geeSEBAL.ipynb
+		https://forobs.jrc.ec.europa.eu/TMF
+- [x] set up github 2FA ✅ 2024-10-16
+
 
 ## Papers to read
 - [ ] [Wood density](https://www.nature.com/articles/s41559-024-02564-9)
@@ -35,15 +48,9 @@ dg-publish: true
 - [ ] [[Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes
 - [ ] https://phys.org/news/2024-08-nitrogen-deposition-biodiversity-larger-scale.html]]
 - [ ] Jakovac policy brief
+- [ ] read GT Aliança material
 
 ## 15/10, Tuesday - Coding and writing
-
-Save on data sources:
-ERA5 = https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY_AGGR#bands
-https://www.sciencedirect.com/science/article/abs/pii/S0924271621001519#preview-section-abstract
-https://github.com/et-brasil/geeSEBAL/blob/master/Examples/Image_function_geeSEBAL.ipynb
-https://forobs.jrc.ec.europa.eu/TMF
-
 
 
 # 01/10 : 13/10 - Weekly Tasks

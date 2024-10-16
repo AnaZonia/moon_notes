@@ -4,27 +4,7 @@ stardate: Aug 18th 2023
 update: Nov 24th 2023
 dg-publish: true
 ---
-## Predictors
-### Land use
-- number of years under fallow
-- time since last fire
-- total number of fires
-- total years under each land use type
-- last observed land use type
-### Landscape
-- soil type ([[FAO Soil Map of the World]], [[Zuquim 2023 - Introducing a map of soil base cation concentration, an ecologically relevant GIS-layer for Amazonian forests|Zuquim]])
-- protected areas
-- indigenous areas
-- [[Ecoregions]]
-- surrounding forest biomass (mature forest cover)
-	- mean forest biomass per ecoregion
-### Climatic (yearly)
-[[002 Data Sources#Climate|Climate Data Sources]]
-- [[Seasonality]]
-- mean annual precipitation
-- [[Evapotranspiration]]
-- [[Latent Heat Flux]]
-- [[Cumulative Water Deficit]]
+[[Model Overview]]
 
 ## Workflow
 ### Step 0: Data gathering
@@ -202,7 +182,3 @@ Remake this plot for EU data
 - [ ] Determine active vs. passive reforestation
 	- Given the importance of surrounding forest cover, I should be able to determine how distance to mature forest can determine whether active or passive reforestation is recommended
 - [ ] Make a confidence metric map
-
-
-## Papers
-[[Crouzeilles 2016 - Which landscape size best predicts the influence of forest cover on restoration success A global meta-analysis on the scale of effect]]
