@@ -4,39 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "9ce65fb8738ff4fe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "64f51573c84ed104",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Ana Did Science Today.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "f009ee3756e6b53c",
         "type": "tabs",
         "children": [
-          {
-            "id": "b76db316f909e9f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "4306cdc0811b58c1",
             "type": "leaf",
@@ -48,9 +18,15 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "76ec836bfc9ed58b",
+        "type": "tabs",
+        "children": [
           {
-            "id": "edf028406588dcf9",
+            "id": "cb1f6190e8cce3b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,21 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5da86d45061f494c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Ana Did Science Today.md"
+                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md"
               }
             }
           },
@@ -160,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +140,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 402.5
+    "width": 402.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,11 +251,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "64f51573c84ed104",
+  "active": "4306cdc0811b58c1",
   "lastOpenFiles": [
+    "000 Ana Did Science Today.md",
     "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
     "Model Overview.md",
-    "000 Ana Did Science Today.md",
+    "Github.md",
     "Seasonality.md",
     "Cumulative Water Deficit.md",
     "Latent Heat Flux.md",
@@ -317,7 +282,6 @@
     "Climate feedback from plant physiological responses to increasing atmospheric CO2 in Earth system models.md",
     "WorldCover.md",
     "TerraClass.md",
-    "Sentinel Global Land Cover.md",
     "Biodiversity-1.canvas",
     "Climate Change and Tropical Forests.canvas",
     "Regrowth.canvas",

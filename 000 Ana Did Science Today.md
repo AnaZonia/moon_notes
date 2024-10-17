@@ -16,6 +16,14 @@ dg-publish: true
 - [ ] make presentation for committee meeting
 - [ ] write committee meeting report
 - [ ] write summary for workshop
+ - [ ] Save data sources:
+		ERA5 = https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY_AGGR#bands
+		https://www.sciencedirect.com/science/article/abs/pii/S0924271621001519#preview-section-abstract
+		https://github.com/et-brasil/geeSEBAL/blob/master/Examples/Image_function_geeSEBAL.ipynb
+		https://forobs.jrc.ec.europa.eu/TMF
+		https://www.conservation.org/about/annual-report\
+		Ruth Metzel
+		https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2208
 
 # Oct 13 : 20 - Weekly Tasks
 
@@ -25,7 +33,7 @@ dg-publish: true
 
 ## Travel prep
 - [x] Talk to Gabriela for mining project ✅ 2024-10-16
-- [ ] Email guests
+- [x] Email guests ✅ 2024-10-17
 - [x] Assign tasks to Katie for port project ✅ 2024-10-16
 - [x] Check whoever in the ministry of environment we talked to. Consider institutional support from STRI. ✅ 2024-10-15
 - [x] ask jeff hall for agua salud data ✅ 2024-10-16
@@ -34,14 +42,6 @@ dg-publish: true
 
 ## Others
 
- - [ ] Save data sources:
-		ERA5 = https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY_AGGR#bands
-		https://www.sciencedirect.com/science/article/abs/pii/S0924271621001519#preview-section-abstract
-		https://github.com/et-brasil/geeSEBAL/blob/master/Examples/Image_function_geeSEBAL.ipynb
-		https://forobs.jrc.ec.europa.eu/TMF
-		https://www.conservation.org/about/annual-report\
-		Ruth Metzel
-		https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2208
 - [x] set up github 2FA ✅ 2024-10-16
 
 
