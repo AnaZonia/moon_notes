@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md"
+                "file": "000 Ana Did Science Today.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "000 Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "000 Ana Did Science Today.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -258,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "000 Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,10 +287,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "4306cdc0811b58c1",
+  "active": "64f51573c84ed104",
   "lastOpenFiles": [
-    "Model Overview.md",
     "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
+    "Model Overview.md",
     "000 Ana Did Science Today.md",
     "Seasonality.md",
     "Cumulative Water Deficit.md",

@@ -39,6 +39,9 @@ dg-publish: true
 		https://www.sciencedirect.com/science/article/abs/pii/S0924271621001519#preview-section-abstract
 		https://github.com/et-brasil/geeSEBAL/blob/master/Examples/Image_function_geeSEBAL.ipynb
 		https://forobs.jrc.ec.europa.eu/TMF
+		https://www.conservation.org/about/annual-report\
+		Ruth Metzel
+		https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2208
 - [x] set up github 2FA ✅ 2024-10-16
 
 
