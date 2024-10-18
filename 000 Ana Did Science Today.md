@@ -24,6 +24,12 @@ dg-publish: true
 		https://www.conservation.org/about/annual-report\
 		Ruth Metzel
 		https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2208
+## Papers to read
+- [ ] [Wood density](https://www.nature.com/articles/s41559-024-02564-9)
+- [ ] Heinrich papers and Celso ages (understand how they forced the growth curve through zero)
+- [ ] [[Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes
+- [ ] https://phys.org/news/2024-08-nitrogen-deposition-biodiversity-larger-scale.html]]
+- [ ] Jakovac policy brief
 
 # Oct 13 : 20 - Weekly Tasks
 
@@ -41,19 +47,21 @@ dg-publish: true
 - [ ] make poster
 
 ## Others
-
 - [x] set up github 2FA ✅ 2024-10-16
 
-
 ## Papers to read
-- [ ] [Wood density](https://www.nature.com/articles/s41559-024-02564-9)
-- [ ] Heinrich papers and Celso ages (understand how they forced the growth curve through zero)
-- [ ] [[Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes
-- [ ] https://phys.org/news/2024-08-nitrogen-deposition-biodiversity-larger-scale.html]]
-- [ ] Jakovac policy brief
 - [ ] read GT Aliança material
 
-## 15/10, Tuesday - Coding and writing
+## 17/10, Thursday - Coding and writing
+
+A lot of the past few days has been spent writing methods and planning tasks.
+
+![](https://i.imgur.com/DIhqNDk.png)
+There are very few pixels in the Amazon that don't have pastureland as their last observed land use.
+
+I am removing last_LU since through multicollinearity it correlated strongly with number of years under each land use type.
+![](https://i.imgur.com/KC2W9cv.png)
+This is after sampling. There data is not evenly distributed - can this cause issues?
 
 
 # 01/10 : 13/10 - Weekly Tasks
