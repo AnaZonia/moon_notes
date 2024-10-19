@@ -52,6 +52,9 @@ dg-publish: true
 ## Papers to read
 - [ ] read GT Aliança material
 
+## 19/10, Saturday - Wrapping up model
+- removing last_LU did not help much
+
 ## 17/10, Thursday - Coding and writing
 
 A lot of the past few days has been spent writing methods and planning tasks.

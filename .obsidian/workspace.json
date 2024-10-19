@@ -6,6 +6,7 @@
       {
         "id": "f009ee3756e6b53c",
         "type": "tabs",
+        "dimension": 50.644567219152854,
         "children": [
           {
             "id": "4306cdc0811b58c1",
@@ -20,12 +21,28 @@
               "icon": "lucide-file",
               "title": "000 Chapter 1 - Predicting Regrowth in the Amazon"
             }
+          },
+          {
+            "id": "124598811d5d2914",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Ana Did Science Today.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000 Ana Did Science Today"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "76ec836bfc9ed58b",
         "type": "tabs",
+        "dimension": 49.355432780847146,
         "children": [
           {
             "id": "cb1f6190e8cce3b7",
@@ -40,21 +57,8 @@
               "icon": "lucide-file",
               "title": "000 Ana Did Science Today"
             }
-          },
-          {
-            "id": "be2ffd67e252800e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,8 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -287,10 +290,12 @@
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "be2ffd67e252800e",
+  "active": "124598811d5d2914",
   "lastOpenFiles": [
     "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
     "000 Ana Did Science Today.md",
