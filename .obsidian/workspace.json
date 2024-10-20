@@ -6,7 +6,7 @@
       {
         "id": "f009ee3756e6b53c",
         "type": "tabs",
-        "dimension": 50.644567219152854,
+        "dimension": 50.64456721915285,
         "children": [
           {
             "id": "4306cdc0811b58c1",
@@ -36,13 +36,12 @@
               "title": "000 Ana Did Science Today"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "76ec836bfc9ed58b",
         "type": "tabs",
-        "dimension": 49.355432780847146,
+        "dimension": 49.35543278084715,
         "children": [
           {
             "id": "cb1f6190e8cce3b7",
@@ -295,7 +294,7 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "124598811d5d2914",
+  "active": "cb1f6190e8cce3b7",
   "lastOpenFiles": [
     "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
     "000 Ana Did Science Today.md",
