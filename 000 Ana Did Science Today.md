@@ -34,6 +34,11 @@ dg-publish: true
 - spent the weekend double checking the results.
 - [x] write summary for workshop ✅ 2024-10-21
 
+Results normalizing all data at once:
+
+![](https://i.imgur.com/b8s2ows.png)
+
+
 # Oct 13 : 20 - Weekly Tasks
 
 ## Modelling
