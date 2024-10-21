@@ -7,15 +7,8 @@ dg-publish: true
 - [ ] Go through Fiona's edits
 - [ ] Get running on GIC-Green and contact Tim
 - [ ] Contact collaborators in Brazil
+- [ ] Contact Jacob Slusser
 - [ ] Falar com [[Costa, Flávia R. C.|Costa, Flavia]] - ask about evapotranspiration in the Amazon. If that doesn't work, talk to Sara Knox through Fiona.
-- [ ] Prepare google form for the workshop. 
-	- What questions do we need to ask the people who are coming? Language, diets, staying over, are they willing to share with other people? When would people arrive?
-	- Accessibility requirements.
-	- Zoom link for the presentations. Bring fancy microphone. Does anyone in Panama have a 360 degree camera?
-- [ ] register for AGU with Fiona
-- [ ] make presentation for committee meeting
-- [ ] write committee meeting report
-- [ ] write summary for workshop
  - [ ] Save data sources:
 		ERA5 = https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY_AGGR#bands
 		https://www.sciencedirect.com/science/article/abs/pii/S0924271621001519#preview-section-abstract
@@ -31,11 +24,20 @@ dg-publish: true
 - [ ] https://phys.org/news/2024-08-nitrogen-deposition-biodiversity-larger-scale.html]]
 - [ ] Jakovac policy brief
 
+# Oct 21 : 28 - Weekly Tasks
+- [ ] Write methods
+- [ ] make poster
+- [ ] make presentation for committee meeting
+- [ ] write committee meeting report
+- [ ] register for AGU with Fiona
+## 21/10, Monday - Wrapping up model
+- spent the weekend double checking the results.
+- [x] write summary for workshop ✅ 2024-10-21
+
 # Oct 13 : 20 - Weekly Tasks
 
 ## Modelling
 - [x] Email Jeff again about algorithm ✅ 2024-10-16
-- [ ] Write methods
 
 ## Travel prep
 - [x] Talk to Gabriela for mining project ✅ 2024-10-16
@@ -44,16 +46,8 @@ dg-publish: true
 - [x] Check whoever in the ministry of environment we talked to. Consider institutional support from STRI. ✅ 2024-10-15
 - [x] ask jeff hall for agua salud data ✅ 2024-10-16
 - [x] write down expenses to claim with Brian ✅ 2024-10-16
-- [ ] make poster
-
 ## Others
 - [x] set up github 2FA ✅ 2024-10-16
-
-## Papers to read
-- [ ] read GT Aliança material
-
-## 19/10, Saturday - Wrapping up model
-- removing last_LU did not help much
 
 ## 17/10, Thursday - Coding and writing
 
