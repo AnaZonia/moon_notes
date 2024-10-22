@@ -38,6 +38,7 @@ Results normalizing all data at once:
 
 ![](https://i.imgur.com/b8s2ows.png)
 
+![](https://i.imgur.com/SEDeRwk.png)
 
 # Oct 13 : 20 - Weekly Tasks
 
