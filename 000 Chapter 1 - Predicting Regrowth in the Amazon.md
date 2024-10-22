@@ -170,6 +170,7 @@ k0 = -np.log(1 - (y.mean() / A.mean()))
           ├─ No Climate History 
           └─ Climate History 
 
+Fit asymptote based on climate
 
 #### Incorporating climate history
 $$
