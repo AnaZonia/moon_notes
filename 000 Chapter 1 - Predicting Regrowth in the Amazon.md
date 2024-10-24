@@ -65,7 +65,8 @@ The regrowing forests have started regrowing in 1995 at the very earliest.
 There are two sources of age data from Landsat going back to 1985 - Mapbiomas, made for the Brazilian territory, and TMF Ages, made by the European Union for the world. TMF ages considers phenology, flagging disturbance as well as deforestation. Also, since it is international, it opens the possibility of fitting the model to Panama right away.
 
 #### Multicollinearity
-Tested for multicollinearity. 
+Tested for multicollinearity. Removed columns that show multicollinearity, mostly environmental ones. Also showed strong multicollinearity:
+- time since last fire
 
 #### First fit comparison - machine learning, ages, biome
 The first step is to compare machine learning methods as a reference point for the process-based model.
