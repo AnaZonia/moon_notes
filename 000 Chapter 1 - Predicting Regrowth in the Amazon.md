@@ -206,8 +206,8 @@ $$
 	- Celso's data was calculated until 2018
 - [ ] MAPBIOMAS classification quality - flooded forest class
 
- Examine disturbance of edge mature forests
- 
+Examine disturbance of edge mature forests
+
 get number of years of disturbance and deforestation before regrowth
 
 - Older forests have less reliable biomass data - how can we correct for heteroskedasticity?
