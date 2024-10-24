@@ -30,6 +30,17 @@ dg-publish: true
 - [ ] make presentation for committee meeting
 - [ ] write committee meeting report
 - [ ] register for AGU with Fiona
+
+## 24/10, Thursday - Finishing code
+
+- Noted how the *distribution of ages makes a big difference for XGBoost results* more than for the process-based model. The aggregated_data with only 5yrs of history, with more evenly distributed ages, had much higher r-squared values than the same dataset with 15 years of history and less evenly distributed ages. Even the aggregated data with no age restriction (same age range), when compared, had much higher r-squared values when it was sampled such that there were more evenly distributed ages. The same dataset ended up having lower r-squared values when the comparison was made with the process-based model.
+- New *MAPBIOMAS collection 9* being implemented, going to check the results with it
+- normalizing with means and standard deviations implemented, as well as *new cross-validation method* that Brian mentioned (getting the predicted values at each fold and comparing it all at the end). Not much was changed in the r-squared values, but it is better methods.
+	- Note that Brian recommended not to stratify sample for different predictors to not overestimate their importance. Adding more rows is preferable, or just removing rare cases.
+	- Ran XGBoost again without stratifying and the results were comparable. The only cleaning done was removing rare categories.
+- process-based model results with EU data and no land use history were comparable than those with mapbiomas data and land use history.
+
+
 ## 21/10, Monday - Wrapping up model
 - spent the weekend double checking the results.
 - [x] write summary for workshop ✅ 2024-10-21
@@ -54,6 +65,9 @@ Results normalizing all data at once:
 - [x] write down expenses to claim with Brian ✅ 2024-10-16
 ## Others
 - [x] set up github 2FA ✅ 2024-10-16
+
+
+
 
 ## 17/10, Thursday - Coding and writing
 
