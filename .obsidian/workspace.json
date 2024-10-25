@@ -126,10 +126,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Ana Did Science Today.md"
+                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 000 Ana Did Science Today"
+              "title": "Outline of 000 Chapter 1 - Predicting Regrowth in the Amazon"
             }
           },
           {
@@ -248,12 +248,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 000 Ana Did Science Today"
+              "title": "Outgoing links from 000 Chapter 1 - Predicting Regrowth in the Amazon"
             }
           }
         ]
@@ -275,15 +275,13 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
-      "cmdr:Open current tab in new window": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "cmdr:Open current tab in new window": false
     }
   },
-  "active": "cb1f6190e8cce3b7",
+  "active": "4306cdc0811b58c1",
   "lastOpenFiles": [
-    "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
     "000 Ana Did Science Today.md",
+    "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "Model Overview.md",
     "Github.md",
