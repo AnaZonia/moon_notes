@@ -174,22 +174,25 @@ k0 = -np.log(1 - (y.mean() / A.mean()))
 Fit asymptote based on climate
 
 #### Incorporating climate history
+
+$$
+\mathrm{AGB}= A \cdot \left(1-e^{-k t}\right)^\tau
+$$
+$$
+\mathrm{AGB}= B_{0} + (A - B_{0}) \cdot \left(1-e^{-k t}\right)^\tau
+$$
 $$
 \mathrm{AGB}=A \cdot (1-\underbrace{e^{-k} \cdot e^{-k} \cdots \cdot e^{-k} \cdot e^{-k}}_{t \text { times }})^\tau
 $$
 $$
 \mathrm{AGB}=A \cdot \left(1-\left(e^{-k_1} \cdot e^{-k_2} \cdot \cdots \cdot e^{-k_{t-1}} \cdot e^{-k_t}\right)\right)^\tau=
 $$
-$$
-\mathrm{AGB}= A \cdot \left(1-e^{-k t}\right)^\tau
-$$
 $$ 
-\mathrm{AGB} = A \cdot \left(1-\prod_{t=1}^{t_\text{max}}e^{- (E_t+LU)}\right)^\tau
+\mathrm{AGB} = A \cdot \left(1-\prod_{t=1}^{t_\text{max}}e^{- k_{t}}\right)^\tau
 $$
 $$
-\mathrm{AGB} = A \cdot \left(1-e^{-\sum_{t=1}^{t_\text{max}} (E_t+LU)}\right)^\tau
+\mathrm{AGB} = A \cdot \left(1-e^{-\sum_{t=1}^{t_\text{max}} k_{t}}\right)^\tau
 $$
-
 
 
 ## Next steps
