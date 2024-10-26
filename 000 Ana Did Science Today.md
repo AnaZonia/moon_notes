@@ -31,6 +31,9 @@ dg-publish: true
 - [ ] write committee meeting report
 - [ ] register for AGU with Fiona
 
+## 26/10, Saturday - Presentation and Poster
+I noticed yesterday that I can try to run the model with other optimizers and with a 
+
 ## 24/10, Thursday - Finishing code
 
 - Noted how the *distribution of ages makes a big difference for XGBoost results* more than for the process-based model. The aggregated_data with only 5yrs of history, with more evenly distributed ages, had much higher r-squared values than the same dataset with 15 years of history and less evenly distributed ages. Even the aggregated data with no age restriction (same age range), when compared, had much higher r-squared values when it was sampled such that there were more evenly distributed ages. The same dataset ended up having lower r-squared values when the comparison was made with the process-based model.
