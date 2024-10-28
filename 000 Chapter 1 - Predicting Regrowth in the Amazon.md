@@ -193,7 +193,10 @@ $$
 $$
 \mathrm{AGB} = A \cdot \left(1-e^{-\sum_{t=1}^{t_\text{max}} k_{t}}\right)^\tau
 $$
-
+- splines
+- genetic algorithms
+- neural networks
+- hybrid models (XGBoost?)
 
 ## Next steps
 ### Incorporate next variables
