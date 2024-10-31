@@ -17,6 +17,7 @@ dg-publish: true
 		https://www.conservation.org/about/annual-report\
 		Ruth Metzel
 		https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2208
+		http://maps.elie.ucl.ac.be/CCI/viewer/download.php
 ## Papers to read
 - [ ] [Wood density](https://www.nature.com/articles/s41559-024-02564-9)
 - [ ] Heinrich papers and Celso ages (understand how they forced the growth curve through zero)
@@ -33,6 +34,7 @@ dg-publish: true
 
 ## 26/10, Saturday - Presentation and Poster
 I noticed yesterday that I can try to run the model with other optimizers and with a 
+Distance to Mining area???
 
 ## 24/10, Thursday - Finishing code
 
