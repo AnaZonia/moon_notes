@@ -20,6 +20,7 @@ dg-publish: true
 		http://maps.elie.ucl.ac.be/CCI/viewer/download.php
 		https://daac.ornl.gov/CMS/guides/CMS_Global_Forest_Age.html
 		https://essopenarchive.org/users/747800/articles/720021-intergovernmental-panel-on-climate-change-ipcc-tier-1-forest-biomass-estimates-from-earth-observation
+https://spatialthoughts.com/2024/02/07/agb-regression-gee/
 ## Papers to read
 - [ ] [Wood density](https://www.nature.com/articles/s41559-024-02564-9)
 - [ ] Heinrich papers and Celso ages (understand how they forced the growth curve through zero)
