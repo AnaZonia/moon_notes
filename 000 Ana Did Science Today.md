@@ -19,6 +19,7 @@ dg-publish: true
 		https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2208
 		http://maps.elie.ucl.ac.be/CCI/viewer/download.php
 		https://daac.ornl.gov/CMS/guides/CMS_Global_Forest_Age.html
+		https://essopenarchive.org/users/747800/articles/720021-intergovernmental-panel-on-climate-change-ipcc-tier-1-forest-biomass-estimates-from-earth-observation
 ## Papers to read
 - [ ] [Wood density](https://www.nature.com/articles/s41559-024-02564-9)
 - [ ] Heinrich papers and Celso ages (understand how they forced the growth curve through zero)
@@ -40,6 +41,11 @@ Binomial burnt unburnt
 ## 26/10, Saturday - Presentation and Poster
 I noticed yesterday that I can try to run the model with other optimizers and with a 
 Distance to Mining area???
+
+on the top it's the Atlantic Forest and in the bottom it's the Amazon. The land use types across both are too different to be compared.
+![](https://i.imgur.com/AnxMu0o.png)
+
+
 
 ## 24/10, Thursday - Finishing code
 
