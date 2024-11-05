@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -262,9 +261,9 @@
   },
   "active": "4306cdc0811b58c1",
   "lastOpenFiles": [
-    "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
     "001 The Bridge.md",
     "000 Ana Did Science Today.md",
+    "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
     "MAPBIOMAS LULC.md",
     "MAPBIOMAS.md",
     "Github.md",
