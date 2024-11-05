@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "000 Ana Did Science Today"
             }
+          },
+          {
+            "id": "1267dfc5cc71fc9c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,12 +267,10 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
-      "cmdr:Open current tab in new window": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "cmdr:Open current tab in new window": false
     }
   },
-  "active": "4306cdc0811b58c1",
+  "active": "1267dfc5cc71fc9c",
   "lastOpenFiles": [
     "001 The Bridge.md",
     "000 Ana Did Science Today.md",
