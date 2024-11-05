@@ -31,9 +31,9 @@ https://spatialthoughts.com/2024/02/07/agb-regression-gee/
 # Oct 21 : 28 - Weekly Tasks
 - [ ] Write methods
 - [ ] make poster
-- [ ] make presentation for committee meeting
+- [x] make presentation for committee meeting ✅ 2024-11-05
 - [ ] write committee meeting report
-- [ ] register for AGU with Fiona
+- [x] register for AGU with Fiona ✅ 2024-11-05
 
 
 The increase in predictive power with aggregated land use types (the only thing changing is how I am restricting first to last observed land use!) could only be due to 1- either number of years would make a huge difference, in which case we would have seen that with the other predictors or 2. just aggregating the data and fitting the model separately would make a difference.
