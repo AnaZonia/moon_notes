@@ -40,7 +40,8 @@ The increase in predictive power with aggregated land use types (the only thing 
 
 Normalizing age and the predictors makes a very big difference for the lag predicted values. For now, age is included in the normalization no matter what, to keep things comparable.
 
-Removing outliers?
+Try different measures of seasonality.
+
 ## 26/10, Saturday - Presentation and Poster
 I noticed yesterday that I can try to run the model with other optimizers and with a 
 Distance to Mining area???
