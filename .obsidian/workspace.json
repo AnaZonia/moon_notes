@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -262,7 +261,9 @@
   },
   "active": "4306cdc0811b58c1",
   "lastOpenFiles": [
+    "Reading Plan.md",
     "001 The Bridge.md",
+    "AGU.md",
     "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
     "000 Ana Did Science Today.md",
     "ESA CCI Global Land Cover.md",
@@ -288,10 +289,8 @@
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Ecoregions.md",
     "000 Tasks.md",
-    "AGU.md",
     "Climate Change.canvas",
     "2 Research/Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes.md",
-    "Rolling ideas.md",
     "Biodiversity-1.canvas",
     "Climate Change and Tropical Forests.canvas",
     "Regrowth.canvas",

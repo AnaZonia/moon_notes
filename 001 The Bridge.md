@@ -23,6 +23,7 @@ dg-home: true
 
 ## Other ongoing projects
 - [[AGU]]
+- [[Reading Plan]]
 
 ## Article ideas
 ```dataview
