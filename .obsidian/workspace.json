@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "remote sensing biodiversity trees",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -254,20 +254,18 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
-      "cmdr:Open current tab in new window": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "cmdr:Open current tab in new window": false
     }
   },
   "active": "4306cdc0811b58c1",
   "lastOpenFiles": [
-    "ESA CCI Global Land Cover.md",
+    "001 The Bridge.md",
+    "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
     "000 Ana Did Science Today.md",
+    "ESA CCI Global Land Cover.md",
     "Biodiversity.md",
     "Hyperspectral.md",
     "Remote Sensing.md",
-    "001 The Bridge.md",
-    "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
     "MAPBIOMAS LULC.md",
     "MAPBIOMAS.md",
     "Github.md",
