@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 254.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -226,20 +227,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "000 Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 000 Chapter 1 - Predicting Regrowth in the Amazon"
+              "title": "Outgoing links from 000 Ana Did Science Today"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 402.5,
-    "collapsed": true
+    "width": 288.5
   },
   "left-ribbon": {
     "hiddenItems": {

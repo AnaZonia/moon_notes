@@ -28,9 +28,17 @@ https://spatialthoughts.com/2024/02/07/agb-regression-gee/
 - [ ] https://phys.org/news/2024-08-nitrogen-deposition-biodiversity-larger-scale.html]]
 - [ ] Jakovac policy brief
 
-# Oct 21 : 28 - Weekly Tasks
-- [ ] Write methods
+
+## Nov 01 : 17 - Pre-travel prep
 - [ ] make poster
+- [ ] prepare data and text for Panama
+
+### Committee Meeting
+
+
+# Oct 21 : 28 - Weekly Tasks
+- [x] Write methods ✅ 2024-11-08
+
 - [x] make presentation for committee meeting ✅ 2024-11-05
 - [x] write committee meeting report ✅ 2024-11-07
 - [x] register for AGU with Fiona ✅ 2024-11-05
