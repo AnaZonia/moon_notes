@@ -200,13 +200,11 @@ $$
 - genetic algorithms
 - neural networks
 - hybrid models (XGBoost?)
-# just show obs vs expected in different places. a measure of error in different places.
+- Look into the predicted distribution of parameter values
 
-# variance across different folds
+- Look into the past with high-resolution and 
 
-# column of predicted values for the entire data.
 
-# distribution of parameter values
 ## Next steps
 ### Incorporate next variables
 - [ ] Lençol freático
