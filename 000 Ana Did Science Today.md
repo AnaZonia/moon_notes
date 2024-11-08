@@ -32,7 +32,7 @@ https://spatialthoughts.com/2024/02/07/agb-regression-gee/
 ## Nov 01 : 17 - Pre-travel prep
 - [ ] make poster
 - [ ] prepare data and text for Panama
-- [ ] contact Carmen
+- [x] contact Carmen ✅ 2024-11-08
 
 ### Committee Meeting
 
