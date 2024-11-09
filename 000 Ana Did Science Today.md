@@ -33,7 +33,9 @@ https://spatialthoughts.com/2024/02/07/agb-regression-gee/
 - [ ] make poster
 - [ ] prepare data and text for Panama
 - [x] contact Carmen ✅ 2024-11-08
-
+With Katie:
+- get updated on PANGEA
+- prepare for AGU
 ### Committee Meeting
 
 TreeDivNet
