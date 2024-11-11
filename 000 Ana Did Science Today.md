@@ -40,6 +40,11 @@ With Katie:
 
 TreeDivNet
 
+
+### Articles comparing GEDI and ESA CCI
+
+
+
 # Oct 21 : 28 - Weekly Tasks
 - [x] Write methods ✅ 2024-11-08
 
