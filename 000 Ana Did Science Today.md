@@ -35,11 +35,27 @@ https://spatialthoughts.com/2024/02/07/agb-regression-gee/
 - [x] contact Carmen ✅ 2024-11-08
 With Katie:
 - get updated on PANGEA
-- prepare for AGU
+- plan Smithsonian museum visit
 ### Committee Meeting
 
-TreeDivNet
+chapter 1 -  
+Mutual information  
+  
+Late fusion 
 
+chapter 2 -  
+participatory mapping of land use in eastern Panama - ask Milton Solano at STRI  
+- CC catherine and ask him for the data  
+- ask french student that may have maps otherwise  
+  
+chapter 3 -
+
+does fire affect lag
+compare differences in intercepts with differnt age data
+TreeDivNet
+list the predictors but only address two of them
+titles as take home message
+bulk density and N
 
 ### Articles comparing GEDI and ESA CCI
 

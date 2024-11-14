@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "000 Ana Did Science Today"
             }
-          },
-          {
-            "id": "7b75ee5f69efd0e8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.6"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.6"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -268,10 +255,12 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
-      "cmdr:Open current tab in new window": false
+      "cmdr:Open current tab in new window": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "7b75ee5f69efd0e8",
+  "active": "4306cdc0811b58c1",
   "lastOpenFiles": [
     "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
     "000 Ana Did Science Today.md",
