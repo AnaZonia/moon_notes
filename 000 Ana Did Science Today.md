@@ -38,7 +38,7 @@ With Katie:
 - plan Smithsonian museum visit
 ### Committee Meeting
 
-chapter 1 -  
+
 Mutual information  
   
 Late fusion 
@@ -48,7 +48,6 @@ participatory mapping of land use in eastern Panama - ask Milton Solano at STRI
 - CC catherine and ask him for the data  
 - ask french student that may have maps otherwise  
   
-chapter 3 -
 
 does fire affect lag
 compare differences in intercepts with differnt age data

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "003 People and Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 Ana Did Science Today"
+              "title": "003 People and Networks"
             }
           }
         ]
@@ -105,10 +105,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Ana Did Science Today.md"
+                "file": "003 People and Networks.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 000 Ana Did Science Today"
+              "title": "Outline of 003 People and Networks"
             }
           },
           {
@@ -262,8 +262,8 @@
   },
   "active": "4306cdc0811b58c1",
   "lastOpenFiles": [
-    "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
     "000 Ana Did Science Today.md",
+    "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
     "003 People and Networks.md",
     "001 The Bridge.md",
     "Conferences and Funding.md",
