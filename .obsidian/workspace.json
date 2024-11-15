@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 People and Networks.md",
+                "file": "Thesis Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003 People and Networks"
+              "title": "Thesis Overview"
             }
           }
         ]
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -105,10 +104,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 People and Networks.md"
+                "file": "Thesis Overview.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 003 People and Networks"
+              "title": "Outline of Thesis Overview"
             }
           },
           {
@@ -255,16 +254,19 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
-      "cmdr:Open current tab in new window": false
+      "cmdr:Open current tab in new window": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "4306cdc0811b58c1",
   "lastOpenFiles": [
+    "001 The Bridge.md",
+    "Thesis Overview.md",
     "000 Ana Did Science Today.md",
     "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
-    "003 People and Networks.md",
-    "001 The Bridge.md",
     "Conferences and Funding.md",
+    "003 People and Networks.md",
     "002 Data Sources.md",
     "Chave 2014.md",
     "Reading Plan.md",
@@ -286,7 +288,6 @@
     "Vapor Pressure.md",
     "2 Research/Crouzeilles 2016 - Which landscape size best predicts the influence of forest cover on restoration success A global meta-analysis on the scale of effect.md",
     "Methods Writing.md",
-    "Background.md",
     "Background Flowchart.canvas",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
     "Climate Change.canvas",

@@ -8,6 +8,10 @@ dg-publish: true
 ### Conferences
 - ATBC - Due Late June
 	[Call for Annual Meetings - Tropical Biology & Conservation | ATBC](https://tropicalbiology.org/call-for-annual-meetings/)  
+	Abstract fee : 75$
+	Membership fee (student): 45$
+	Registration fee: 350$
+	
 - ESA - Due early March/Late Feb
 	- San Francisco in August
 - AGU - Due Early August (Washington in Dec)

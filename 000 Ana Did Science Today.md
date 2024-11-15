@@ -30,8 +30,8 @@ https://spatialthoughts.com/2024/02/07/agb-regression-gee/
 
 
 ## Nov 01 : 17 - Pre-travel prep
-- [ ] make poster
-- [ ] prepare data and text for Panama
+- [x] make poster ✅ 2024-11-15
+- [x] prepare data and text for Panama ✅ 2024-11-15
 - [x] contact Carmen ✅ 2024-11-08
 With Katie:
 - get updated on PANGEA
@@ -43,11 +43,6 @@ Mutual information
   
 Late fusion 
 
-chapter 2 -  
-participatory mapping of land use in eastern Panama - ask Milton Solano at STRI  
-- CC catherine and ask him for the data  
-- ask french student that may have maps otherwise  
-  
 
 does fire affect lag
 compare differences in intercepts with differnt age data
