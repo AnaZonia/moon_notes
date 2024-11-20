@@ -3,7 +3,7 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## Next stages
+## Dec 2024 - Jan 2025
 - [ ] Go through Fiona's edits
 - [ ] Get running on GIC-Green and contact Tim
 - [ ] Contact collaborators in Brazil
@@ -28,55 +28,38 @@ https://spatialthoughts.com/2024/02/07/agb-regression-gee/
 - [ ] https://phys.org/news/2024-08-nitrogen-deposition-biodiversity-larger-scale.html]]
 - [ ] Jakovac policy brief
 
+## Nov 17 : Dec - Panama
+
+list the predictors but only address two of them
+titles as take home message
+### With Katie
+- [ ] get updated on PANGEA
+- [ ] plan Smithsonian museum visit
+- [ ] finish poster
+
+
+
 
 ## Nov 01 : 17 - Pre-travel prep
 - [x] make poster ✅ 2024-11-15
 - [x] prepare data and text for Panama ✅ 2024-11-15
 - [x] contact Carmen ✅ 2024-11-08
-With Katie:
-- get updated on PANGEA
-- plan Smithsonian museum visit
+
 ### Committee Meeting
-
-
-Mutual information  
-  
-Late fusion 
-
-
-does fire affect lag
-compare differences in intercepts with differnt age data
-TreeDivNet
-list the predictors but only address two of them
-titles as take home message
-bulk density and N
-
-### Articles comparing GEDI and ESA CCI
-
-
+Main outcome was contact with [[Potvin, Catherine]] and the participatory mapping data. This seems to offer information on land use history through observation.
 
 # Oct 21 : 28 - Weekly Tasks
 - [x] Write methods ✅ 2024-11-08
-
 - [x] make presentation for committee meeting ✅ 2024-11-05
 - [x] write committee meeting report ✅ 2024-11-07
 - [x] register for AGU with Fiona ✅ 2024-11-05
 
-
-The increase in predictive power with aggregated land use types (the only thing changing is how I am restricting first to last observed land use!) could only be due to 1- either number of years would make a huge difference, in which case we would have seen that with the other predictors or 2. just aggregating the data and fitting the model separately would make a difference.
-
-Normalizing age and the predictors makes a very big difference for the lag predicted values. For now, age is included in the normalization no matter what, to keep things comparable.
-
-Try different measures of seasonality.
-
 ## 26/10, Saturday - Presentation and Poster
 
-Distance to Mining area???
-
-on the top it's the Atlantic Forest and in the bottom it's the Amazon. The land use types across both are too different to be compared.
+on the top it's the Atlantic Forest and in the bottom it's the Amazon. The land use types across both are too different to be compared:
 ![](https://i.imgur.com/AnxMu0o.png)
 
-
+Noticed the size of mining areas. Probably not worth incorporating as a predictor, but could keep in mind for the future.
 
 ## 24/10, Thursday - Finishing code
 
@@ -1092,7 +1075,7 @@ Emails have been sent and there's been some good advance on the logistic side of
 Next week, I need to spend some time to think about PANGEA and the Alliance.
 ### Goals for next week
 - Read over [[PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation|PANGEA]] Ecosystem Structure, Function, and Diversity Working Group conclusions and make my points. Would be interesting to do this with Katie.
-- Send [[000 Chapter 1 - Predicting Regrowth in the Amazon]] summary to collaborators. Does not need to be anything too elaborate I don't think, just show where the code is right now.
+- Send [[000 Chapter 1 - Predicting Regrowth in Brazil]] summary to collaborators. Does not need to be anything too elaborate I don't think, just show where the code is right now.
 
 ## 21/05/2024, Tue - Supervisor meeting
 
@@ -1176,7 +1159,7 @@ The only alternative I can envision is maybe what was done by Jeff Hall's postdo
 
 ### Goals for next week
 - Read over [[PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation|PANGEA]] Ecosystem Structure, Function, and Diversity Working Group conclusions and make my points. Would be interesting to do this with Katie.
-- Send [[000 Chapter 1 - Predicting Regrowth in the Amazon]] summary to collaborators. Does not need to be anything too elaborate I don't think, just show where the code is right now.
+- Send [[000 Chapter 1 - Predicting Regrowth in Brazil]] summary to collaborators. Does not need to be anything too elaborate I don't think, just show where the code is right now.
 
 ## 07/05/2024, Tue - Chapter 1
 

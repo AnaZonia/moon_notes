@@ -1,10 +1,32 @@
 ---
-up: "[[001 The Bridge]]"
-stardate: Aug 18th 2023
-update: Nov 24th 2023
+up:
+  - "[[000 Chapter 1 - Predicting Regrowth in Brazil]]"
+stardate: Nov 17th 2024
+update: Nov 17th 2024
 dg-publish: true
 ---
-[[Model Overview]]
+
+
+### Land use
+- number of years under fallow
+- time since last fire
+- total number of fires
+- total years under each land use type
+- last observed land use type
+### Landscape
+- soil type ([[FAO Soil Map of the World]], [[Zuquim 2023 - Introducing a map of soil base cation concentration, an ecologically relevant GIS-layer for Amazonian forests|Zuquim]], [[SoilGrids]])
+- protected areas
+- indigenous areas
+- [[Ecoregions]]
+- surrounding forest biomass (mature forest cover)
+	- mean forest biomass per ecoregion
+### Climatic (yearly)
+[[002 Data Sources#Climate|Climate Data Sources]]
+- [[Seasonality]]
+- mean annual precipitation
+- [[Evapotranspiration]]
+- [[Latent Heat Flux]]
+- [[Cumulative Water Deficit]]
 
 ## Workflow
 ### Step 0: Data gathering
@@ -171,94 +193,3 @@ k0 = -np.log(1 - (y.mean() / A.mean()))
           ├─ No Climate History 
           └─ Climate History 
 
-Fit asymptote based on climate
-
-#### Incorporating climate history
-
-$$
-\mathrm{AGB}= A \cdot \left(1-e^{-k t}\right)^\tau
-$$
-$$
-\mathrm{AGB}= B_{0} + (A - B_{0}) \cdot \left(1-e^{-k t}\right)^\tau
-$$
-$$
-\mathrm{AGB}=A \cdot (1-\underbrace{e^{-k} \cdot e^{-k} \cdots \cdot e^{-k} \cdot e^{-k}}_{t \text { times }})^\tau
-$$
-$$
-\mathrm{AGB}=A \cdot \left(1-\left(e^{-k_1} \cdot e^{-k_2} \cdot \cdots \cdot e^{-k_{t-1}} \cdot e^{-k_t}\right)\right)^\tau=
-$$
-$$ 
-\mathrm{AGB} = A \cdot \left(1-\prod_{t=1}^{t_\text{max}}e^{- k_{t}}\right)^\tau
-$$
-$$
-\mathrm{AGB} = A \cdot \left(1-e^{-\sum_{t=1}^{t_\text{max}} k_{t}}\right)^\tau
-$$
-
-
-
-- splines
-- genetic algorithms
-- neural networks
-- hybrid models (XGBoost?)
-- Look into the predicted distribution of parameter values
-
-- Look into the past with high-resolution and 
-
-
-## Next steps
-### Incorporate next variables
-- [ ] Lençol freático
-- [ ] Time since burn
-	- Time since last burn is very strongly correlated to number of burns, so it was removed. However, the time since each burn is probably relevant for regrowth, but I am not sure how to include this in the dataframe. For a patch that burned 5 times, or one that burned once, how do I incorporate that? should I make up to 33 columns - one with age for fire 1, other with age for fire 2, and so on?
-- [ ] [L-band vegetation optical depth (_L_-_VOD_)](https://ib.remote-sensing.inrae.fr/)
-- [ ] [Species density](https://www.nature.com/articles/s41467-022-32063-z)
-- [ ] cabeças de gado por hectare
-- [ ] pasto manejado ou pasto nativo
-
-### Data analysis
-- [ ] Compare age products
-	- Celso's data was calculated until 2018
-- [ ] MAPBIOMAS classification quality - flooded forest class
-
-Examine disturbance of edge mature forests
-
-get number of years of disturbance and deforestation before regrowth
-
-- Older forests have less reliable biomass data - how can we correct for heteroskedasticity?
-
-- Predict biomass of mature forests based on environmental predictors is a separate test that can also be done to find out whether that would make a better asymptote. Potentially a xgboost submodel would be helpful here.
-- the relationships between the predictors may not be linear - this can be investigated through:
-	- partial dependence plots
-	- residual plots
-
-since EU only has ages up until 1990 it would be useful to compare the same periods with mapbiomas
-
-Remake this plot for EU data
-
-![[Chapter 1 - Predicting Regrowth in the Amazon.png]]
-
-### Try new optimizers
-#### Correcting censored data
-- [ ] MCMC with STAN (+1000 chain length is unnecessary)
-	- Can be hard to use discrete parameters
-	- Values from HMC can be input into optim
-	- [Bayesian in Python](https://towardsdatascience.com/how-to-use-bayesian-inference-for-predictions-in-python-4de5d0bc84f3)
-- [ ] Hidden states/detection algorithm
-- [ ] differentiating mature forests and fallow (everything that is mature from 1985 onwards)
-#### Parameter tuning
-- [ ] [Theseus](https://sites.google.com/view/theseus-ai/)
-- [ ] Evolution-based algorithms
-	- [Generalized differential evolution](https://ieeexplore.ieee.org/document/8167916)
-	- [Simulated Annealing](https://machinelearningmastery.com/simulated-annealing-from-scratch-in-python/)
-		- [optim_sa](https://search.r-project.org/CRAN/refmans/optimization/html/optim_sa.html)
-		- [anneal](https://search.r-project.org/CRAN/refmans/likelihood/html/anneal.html)
-		- [from scratch](https://jmsallan.netlify.app/blog/coding-simulated-annealing-in-r/)
-	
-### Make final product
-- [ ] Compare results with previous models
-	- Show if there are fundamental differences between what the predictions would have been vs what they are now
-		- get the key areas
-		- absolute values (differences)
-- [ ] Determine active vs. passive reforestation
-	- Given the importance of surrounding forest cover, I should be able to determine how distance to mature forest can determine whether active or passive reforestation is recommended
-- [ ] Make a confidence metric map

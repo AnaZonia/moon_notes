@@ -3,31 +3,18 @@ up: "[[001 The Bridge]]"
 dg-publish: true
 ---
 
-## Land Use Classification Plan of Action
+### Fragmentation/human impact
+Model probability of disturbance in Panama.
 
-Brian and Morgane used atmospherically corrected Landsat data to classify land use in Panama. Training data was not useful across footprints - training worked well for one footprint at a time only. I believe these are the reasons:
-- Only Landsat's 9 bands were input into random forest. [[MAPBIOMAS]] seems to improve on this issue by ==using 90 features, and training the data for the whole country all at once, for each year==.
-- Data for annual plants was implemented regardless of stage in growing cycle, but that should be considered for classification as MapBiomas [[Land Use#Time Series|does]]
-- Rice and Citrus classes were classified using U-Net by MapBiomas
+Examine disturbance of edge mature forests
 
-- [ ] Get landsat for Panama in the correct time window
-- [ ] Collect some sample points for the main crop types of the country (perennial such as banana, annual such as maize, coffee)
-- [ ] Can U-Net help us do better land use classification in Panama?
-- [ ] Can Samgeo help us augment the datapoints for training?
-- [ ] How to define the feature space for classification in Panama?
-- [ ] Besides multispectral, could it be an advantage to add SAR data?
-- [ ] How does time series help us classify, and how would we implement that?
+get number of years of disturbance and deforestation before regrowth
+does fire affect lag
+### Nitrogen addition
 
-## People
-- [ ] [[Dent, Daisy]]
-- [ ] [[Davies, Stuart]]
-- [ ] Kendra Walker
-- [ ] Elizabeth Goltz
-- [ ] Jeff Hall (the email with Brian's 6k species paper and the STRI proposal)
-- [ ] Javier sanchez galan
-- [ ] Milton Solano
-- [ ] [[000 Ana Did Science Today#16/08, Fri - Meeting Jeff Hall with Brian|Jeff Hall]]
-- [ ] Carmen - could she have more high-rez airborne data?
-- [ ] [[Slusser, Jacob]]
-- [ ] Helena Muller Landau
 
+
+- [ ] Time since burn
+	- Time since last burn is very strongly correlated to number of burns, so it was removed. However, the time since each burn is probably relevant for regrowth, but I am not sure how to include this in the dataframe. For a patch that burned 5 times, or one that burned once, how do I incorporate that? should I make up to 33 columns - one with age for fire 1, other with age for fire 2, and so on?
+- [ ] cabeças de gado por hectare
+- [ ] pasto manejado ou pasto nativo

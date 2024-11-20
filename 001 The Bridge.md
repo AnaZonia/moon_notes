@@ -9,8 +9,7 @@ dg-home: true
 - [[Personal Statements]]
 
 ## PhD projects
-1. [[Thesis Overview]]
-1. [[000 Chapter 1 - Predicting Regrowth in the Amazon]]
+1. [[000 Chapter 1 - Predicting Regrowth in Brazil]]
 2. [[000 Chapter 2 - Predicting Regrowth in Panama]]
 3. [[Chapter 3 - Incorporating Biodiversity]]
 
