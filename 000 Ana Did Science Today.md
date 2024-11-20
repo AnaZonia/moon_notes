@@ -39,7 +39,6 @@ titles as take home message
 
 
 
-
 ## Nov 01 : 17 - Pre-travel prep
 - [x] make poster ✅ 2024-11-15
 - [x] prepare data and text for Panama ✅ 2024-11-15
