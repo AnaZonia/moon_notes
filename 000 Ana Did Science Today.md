@@ -37,6 +37,31 @@ titles as take home message
 - [ ] plan Smithsonian museum visit
 - [ ] finish poster
 
+Ylana Rodrigues
+- ela fala muito do trabalho do SUS, e do investimento ao apoio logístico. 
+![](https://i.imgur.com/u2ZY2nm.png)
+
+Catarina Jakovac e Nathalia Nascimento
+- acredita que créditos de carbono e de biodiversidade podem ser bons incentivos para a conservação.
+	- ela menciona créditos para a implantação de sistemas agroflorestais, mas que deve também haver créditos para restauração não-produtiva e seguros para incentivar a restauração.
+- a maioria das florestas secundárias é cortada com menos de 10 anos
+Parece que o mercado de crédito de carbono ainda é visto como uma possibilidade sólida mas que não é explorado em detalhe ainda.
+
+
+
+Pedro, Renato e Marcos - não sei quem são, mas falam mais de financiamento. Mencionam os climate bonds que financiam muito ao mesmo tempo.
+Disseram que o mercado de créditos de carbono está quase falido - não sei bem porque?
+- o retorno não é alto o suficiente pra justificar o investimento arriscado de muitos. daí a importancia do BNDES.
+
+Gostaria de saber quais são as questões mais urgentes que o meio acadêmico deve resolver para planejar o financiamento da restauração, como o cálculo do valor econômico dos serviços ecossistêmicos. E se a fundação do AmIT vai priorizar estas questões
+
+Gostaria de saber mais sobre os climate bonds - de onde vem o financiamento, como é tão abundante, e seria uma alternativa mais promissora que o mercado de carbono neste momento?
+
+Marina Hirota calculou quando da chuva que vem ao sul/sudeste vem de terras indígenas.
+
+Plan on asking mcgill for financing to go to Belém from November 10-21st, 2025.
+
+[[Meeting with Jeff Hall and Agua Salud Visit]]
 
 ## Nov 01 : 17 - Pre-travel prep
 - [x] make poster ✅ 2024-11-15
