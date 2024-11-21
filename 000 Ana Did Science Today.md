@@ -62,7 +62,9 @@ Marina Hirota calculou quando da chuva que vem ao sul/sudeste vem de terras ind�
 Plan on asking mcgill for financing to go to Belém from November 10-21st, 2025.
 
 [[Meeting with Jeff Hall and Agua Salud Visit]]
-
+Ask Jeff:
+- land use history before regrowth
+- whether paja canalera was widespread, and whether that may be a confounding variable that may affect the Amazon comparison
 ## Nov 01 : 17 - Pre-travel prep
 - [x] make poster ✅ 2024-11-15
 - [x] prepare data and text for Panama ✅ 2024-11-15

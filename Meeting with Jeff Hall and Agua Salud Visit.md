@@ -11,6 +11,6 @@ Some quadrants measure all trees above 5 cm, others measure all trees above 1 cm
 - S2BaK / Agua Salud - Distribution of species changes with plot, possibly depending on surrounding forest cover.
 - Surrounding mature forest cover probably has more of an effect on older secondary forests, as that is where the seeds for late succession species come from. It could be that they don't supply enough seeds of early succession species, and according to Mario Bailón, after 5 years you already see a solid presence of mature forest species, so the dynamics in the very first years may not be strongly dependent on mature forest biomass.
 - Some plots have remnant trees, that were left behind by pastureland, and others are regrowing on completely clear cut areas. Plots with remnant trees may also regenerate much faster, and those older trees may hold a lot of the biomass.
-
-## Lianas
-Every plot measures lianas. Number and size of individual branches is measured in each 5x5m quadrant. Liana diversity/abundance changes with age
+- 25 m of resolution for biomass data could explain better relationship with age, as plot age may change within less than 100m. I am curious as to what is the effect of scale of measurement for large trees.
+- Fabaceae can be early species, but usually not pioneers. At what age does nitrogen fixation start to happen and matter?
+- Every plot measures lianas. Number and size of individual branches is measured in each 5x5m quadrant. Liana diversity/abundance changes with age
