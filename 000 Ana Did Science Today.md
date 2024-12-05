@@ -3,6 +3,30 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+#### Poster ideas
+- intro/Background
+	- 50% of all forests are secondary
+	- Secondary forests are essential carbon sinks
+	- Accurate regrowth models:
+		- More accurate carbon sequestration predictions
+		- Optimal policies for maximal regrowth rate
+	- Previous models
+		- Only account for climatic factors
+		- doe not account for human impact 
+			- fires
+			- fragmentation 
+			- land use history
+		- Inaccurate predictions at local management relevant scales
+- Objectives [flow chart]
+	- improve regrowth models
+		- include human impact.
+- Method
+- Results
+- Conclusions 
+initial purposes: land use is important. burning, pasture, fragmentation. 
+
+
+
 ## Dec 2024 - Jan 2025
 - [ ] Go through Fiona's edits
 - [ ] Get running on GIC-Green and contact Tim
