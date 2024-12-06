@@ -36,6 +36,10 @@ dg-publish: true
 				- Asymptote = nearest mature forest
 			- Nelder Mead (add logo R)
 - Results
+	- asymptote is higher than expected
+	- landscape fragmentation improves predictions
+	- previous land use information from mapbiomas is likely wrong for young forests
+
 - Conclusions 
 initial purposes: land use is important. burning, pasture, fragmentation. 
 
