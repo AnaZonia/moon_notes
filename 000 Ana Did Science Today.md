@@ -43,6 +43,7 @@ dg-publish: true
 - Conclusions 
 initial purposes: land use is important. burning, pasture, fragmentation. 
 
+amazon and tlantic forest
 
 
 ## Dec 2024 - Jan 2025
