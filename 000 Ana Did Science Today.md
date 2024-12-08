@@ -45,6 +45,9 @@ initial purposes: land use is important. burning, pasture, fragmentation.
 
 amazon and tlantic forest
 
+MapBiomas Bolivia
+armando.rodriguez.montellano@gmail.com
+
 
 ## Dec 2024 - Jan 2025
 - [ ] Go through Fiona's edits
@@ -389,8 +392,6 @@ cabeças de gado por hectare e pasto manejado ou pasto nativo.
 ## 17/09, Tue - modelling, task planning and writing
 
 I have made good progress in modelling. Now I should write down the formulas and think of how the paper is going to go given what I have right now.
-
-
 
 Initial (Non-tuned) Results:
 Cross-validation R2: 0.117 (±0.019)
