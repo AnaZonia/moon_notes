@@ -4,46 +4,9 @@ up:
 dg-publish: true
 ---
 #### Poster ideas
-- intro/Background [done]
-	- 50% of all forests are secondary
-	- Secondary forests are essential carbon sinks
-	- Accurate regrowth models:
-		- More accurate carbon sequestration predictions
-		- Optimal policies for maximal regrowth rate
-	- Previous models
-		- Only account for climatic factors
-		- doe not account for human impact 
-			- fires
-			- fragmentation 
-			- land use history
-		- Inaccurate predictions at local management relevant scales
-- Objectives [flow chart] [done]
-	- improve regrowth models
-		- include human impact.
-- Method
-	- Data Extraction and preprocessing
-		- Google earth engine (add logo)
-			- MAPBIOMASS (30 m x 30 m) (add logo)
-			- ESACCI Biomass (100 m x 100 m) (add logo)
-			
-		- mark new features that u are using
-	- Data Analysis
-		- XGBoost (Machine learning)
-			- Hyper parameters
-			- Grid Search (add logo python)
-		- Chapman richard (Analytical model)
-			- Equation
-				- Asymptote = nearest mature forest
-			- Nelder Mead (add logo R)
-- Results
-	- asymptote is higher than expected
-	- landscape fragmentation improves predictions
-	- previous land use information from mapbiomas is likely wrong for young forests
 
-- Conclusions 
-initial purposes: land use is important. burning, pasture, fragmentation. 
+Helena Vallicrosa - cesar terrer student
 
-amazon and tlantic forest
 
 MapBiomas Bolivia
 armando.rodriguez.montellano@gmail.com
