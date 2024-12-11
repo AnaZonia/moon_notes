@@ -28,6 +28,10 @@ MapBiomas Bolivia
 armando.rodriguez.montellano@gmail.com
 
 
+TAC - Scheffer et al 2012 - measure of forest resilience (lag-1 temporal autocorrelation)
+- can be calculated from Landsat
+
+
 ## Dec 2024 - Jan 2025
 - [ ] Go through Fiona's edits
 - [ ] Get running on GIC-Green and contact Tim
