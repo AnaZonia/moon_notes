@@ -4,6 +4,10 @@ up:
 dg-publish: true
 ---
 
+
+
+### AGU
+
 GEDI for savannas - GEDI has large errors of 50-100% in areas with less than 60 mgc /ha - New GEDI Footprint Level Biomass Models for Southern African Savannas - Wessels et al.
 - developed models to estimate biomass in GEDI footprints that coincide with airborne lidar. Random Forest did very well.
 - wonder how much of this can be done with Agua Salud?
@@ -58,13 +62,6 @@ https://spatialthoughts.com/2024/02/07/agb-regression-gee/
 - [ ] Jakovac policy brief
 
 ## Nov 17 : Dec - Panama
-
-list the predictors but only address two of them
-titles as take home message
-### With Katie
-- [ ] get updated on PANGEA
-- [ ] plan Smithsonian museum visit
-- [ ] finish poster
 
 Ylana Rodrigues
 - ela fala muito do trabalho do SUS, e do investimento ao apoio logístico. 
