@@ -14,6 +14,8 @@ Mamãe
 	- remédio de pressão - marcar com cartão de todos
 
 - planejar exercicios
+	- canoa havaiana
+	- piscina
 
 - planejar custo/uso da casa
 
