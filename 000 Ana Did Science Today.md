@@ -4,7 +4,45 @@ up:
 dg-publish: true
 ---
 
+Visita ao Brasil
 
+Mamãe
+- pintar paredes
+
+	- ultrassom tireoide e tinite - endocrino
+	- outro óculos
+	- remédio de pressão - marcar com cartão de todos
+
+- planejar exercicios
+
+- planejar custo/uso da casa
+
+- planejar projeto de leitura
+
+Pessoal
+- computador da katie
+- responder amigos
+- comprar lembrancinhas/preparar mala
+- fazer backup de fotos
+
+
+pai
+leo e maia
+luize
+jp
+matheus e gio
+
+
+
+
+Pesquisa
+- organizar obsidian
+- organizar anotaçoes/fotos da conferencia
+- escrever artigo
+- organizar artigos
+- contatar colaboradores
+- planejar resto do doutorado pra falar com brian e fiona
+- pedir reembolso brian/fiona
 
 ### AGU
 
