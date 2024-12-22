@@ -14,6 +14,9 @@ Mamãe
 	- piscina
 
 - planejar custo/uso da casa
+ir ao INSS
+
+
 - planejar projeto de leitura
 
 Pessoal
