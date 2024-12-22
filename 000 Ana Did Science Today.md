@@ -9,16 +9,11 @@ Visita ao Brasil
 Mamãe
 - pintar paredes
 
-	- ultrassom tireoide e tinite - endocrino
-	- outro óculos
-	- remédio de pressão - marcar com cartão de todos
-
 - planejar exercicios
 	- canoa havaiana
 	- piscina
 
 - planejar custo/uso da casa
-
 - planejar projeto de leitura
 
 Pessoal
@@ -34,7 +29,12 @@ luize
 jp
 matheus e gio
 
-
+Before the end of insurance
+- verify cost of meds
+- IUD
+- pap smear
+- full blood panel
+- cardiovascular exam
 
 
 Pesquisa
