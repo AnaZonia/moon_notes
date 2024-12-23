@@ -21,16 +21,12 @@ ir ao INSS
 
 Pessoal
 - computador da katie
-- responder amigos
+
 - comprar lembrancinhas/preparar mala
 - fazer backup de fotos
 
-
-pai
-leo e maia
-luize
 jp
-matheus e gio
+
 
 Before the end of insurance
 - verify cost of meds
