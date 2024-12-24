@@ -3,38 +3,12 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-
-Visita ao Brasil
-
-Mamãe
-- pintar paredes
-
-- planejar exercicios
-	- canoa havaiana
-	- piscina
-
-- planejar custo/uso da casa
-ir ao INSS
-
-
-- planejar projeto de leitura
-
-Pessoal
-- computador da katie
-
-- comprar lembrancinhas/preparar mala
-- fazer backup de fotos
-
-jp
-
-
 Before the end of insurance
 - verify cost of meds
 - IUD
 - pap smear
 - full blood panel
 - cardiovascular exam
-
 
 Pesquisa
 - organizar obsidian
@@ -77,6 +51,7 @@ TAC - Scheffer et al 2012 - measure of forest resilience (lag-1 temporal autocor
 
 ## Dec 2024 - Jan 2025
 - [ ] Go through Fiona's edits
+- [ ] Send committee form
 - [ ] Get running on GIC-Green and contact Tim
 - [ ] Contact collaborators in Brazil
 - [ ] Contact Jacob Slusser
