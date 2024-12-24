@@ -3,21 +3,6 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-Before the end of insurance
-- verify cost of meds
-- IUD
-- pap smear
-- full blood panel
-- cardiovascular exam
-
-Pesquisa
-- organizar obsidian
-- organizar anotaçoes/fotos da conferencia
-- escrever artigo
-- organizar artigos
-- contatar colaboradores
-- planejar resto do doutorado pra falar com brian e fiona
-- pedir reembolso brian/fiona
 
 \section{Consequences for policy and climate modelling} \label{sec3}
 

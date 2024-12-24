@@ -21,10 +21,6 @@ dg-home: true
 - [[400 Interests]]
 - [[500 Alexandria]]
 
-## Other ongoing projects
-- [[AGU]]
-- [[Reading Plan]]
-
 ## Article ideas
 ```dataview
 TABLE WITHOUT ID link(file.link, file.name) AS "Title", up AS "Topic"

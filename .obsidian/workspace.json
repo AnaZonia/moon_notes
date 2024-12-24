@@ -4,61 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "11ccc4dd8b2bd1aa",
+        "id": "c2b9dcfee22c7904",
         "type": "tabs",
         "children": [
           {
-            "id": "bcfb2fc7c677ec13",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Files/110 Remote Sensing-4.png"
-              },
-              "icon": "lucide-image",
-              "title": "110 Remote Sensing-4"
-            }
-          },
-          {
-            "id": "d30d82edd1b81814",
+            "id": "c9573f669219018e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meeting with Jeff Hall and Agua Salud Visit.md",
+                "file": "000 Chapter 1 - Predicting Regrowth in Brazil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meeting with Jeff Hall and Agua Salud Visit"
-            }
-          },
-          {
-            "id": "691706fe2981460f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Chapter 2 - Predicting Regrowth in Panama.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "000 Chapter 2 - Predicting Regrowth in Panama"
-            }
-          },
-          {
-            "id": "08716dac5a652827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How Costa Rica did so well.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "How Costa Rica did so well"
+              "title": "000 Chapter 1 - Predicting Regrowth in Brazil"
             }
           }
         ]
@@ -144,10 +104,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Files/110 Remote Sensing-4.png"
+                "file": "000 Chapter 1 - Predicting Regrowth in Brazil.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 110 Remote Sensing-4"
+              "title": "Outline of 000 Chapter 1 - Predicting Regrowth in Brazil"
             }
           },
           {
@@ -156,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "000 Chapter 1 - Predicting Regrowth in Brazil.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -166,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 000 Chapter 1 - Predicting Regrowth in the Amazon"
+              "title": "Backlinks for 000 Chapter 1 - Predicting Regrowth in Brazil"
             }
           },
           {
@@ -175,7 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in the Amazon.md",
+                "file": "000 Chapter 1 - Predicting Regrowth in Brazil.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +163,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 000 Chapter 1 - Predicting Regrowth in the Amazon"
+              "title": "Graph of 000 Chapter 1 - Predicting Regrowth in Brazil"
             }
           },
           {
@@ -253,7 +213,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "f068f42a2a1ada76",
@@ -266,19 +227,19 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Files/110 Remote Sensing-4.png",
+                "file": "000 Chapter 1 - Predicting Regrowth in Brazil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 110 Remote Sensing-4"
+              "title": "Outgoing links from 000 Chapter 1 - Predicting Regrowth in Brazil"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 537.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,14 +259,25 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "bcfb2fc7c677ec13",
+  "active": "c9573f669219018e",
   "lastOpenFiles": [
+    "250 Conservation.md",
     "000 Ana Did Science Today.md",
-    "How Costa Rica did so well.md",
-    "001 The Bridge.md",
-    "Meeting with Jeff Hall and Agua Salud Visit.md",
-    "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "000 Chapter 1 - Predicting Regrowth in Brazil.md",
+    "2 Research/Allen 2020 - Modeling the Carbon Cost of Plant Nitrogen and Phosphorus Uptake Across Temperate and Tropical Forests.md",
+    "Biodiversity.md",
+    "Why do the tropics have higher biodiversity.md",
+    "200 Life Sciences.md",
+    "Tropical Forest Ecology.md",
+    "Why are tropical forests important.md",
+    "NPP.md",
+    "001 The Bridge.md",
+    "Reading Plan.md",
+    "AGU.md",
+    "000 Chapter 2 - Predicting Regrowth in Panama.md",
+    "How Costa Rica did so well.md",
+    "Meeting with Jeff Hall and Agua Salud Visit.md",
+    "Files/110 Remote Sensing-4.png",
     "Model.md",
     "000 Chapter 3 - Validation with Plot Data.md",
     "Thesis Overview.md",
@@ -318,16 +290,6 @@
     "Potvin, Catherine.md",
     "Files/Potvin, Catherine-1.png",
     "Files/Potvin, Catherine.png",
-    "TreeDivNet.md",
-    "Model Overview.md",
-    "Conferences and Funding.md",
-    "003 People and Networks.md",
-    "002 Data Sources.md",
-    "Chave 2014.md",
-    "Reading Plan.md",
-    "AGU.md",
-    "ESA CCI Global Land Cover.md",
-    "Biodiversity.md",
     "Files/Chapter 1 - Predicting Regrowth in the Amazon.png",
     "Background Flowchart.canvas",
     "Methods Flowchart - Predicting Regrowth in the Amazon.canvas",
@@ -353,7 +315,6 @@
     "Files/REDD+.pdf",
     "Files/Ana Did Science Today.pdf",
     "Project",
-    "moon.svg",
     "Excalidraw/moon.svg.crdownload",
     "moon.svg.crdownload"
   ]
