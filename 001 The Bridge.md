@@ -15,13 +15,12 @@ dg-home: true
 ## Index
 - [[A Floresta Aleatória]]
 - [[Doing Science]]
-- [[Climate Change]]
 - [[Philosophy]]
 
 - [[Alexandria]]
 
-
 [[Amazonia]]
 [[Biodiversity]]
+[[Climate Change]]
 [[Ecosystem Services]]
 [[Nutrient Cycling]]

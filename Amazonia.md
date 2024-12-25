@@ -1,20 +1,10 @@
 ---
-up:
-  - "[[Tropical Forest Ecology]]"
 stardate: Aug 22nd 2023
 update: Oct 7th 2023
 tags: 
 dg-publish: true
 ---
-[[Why is the Amazon important]]
-## Amazonian Landscape
-- [[Climate Patterns in the Amazon]]
-- [[Peatlands]]
-- [[White Sand]]
-- [[Tipos de Mata na Amazônia]]
-- [[História da Amazônia]]
-- [[The Tipping Point]]
-- [[The Changing Carbon Balance in Amazonia]]
+
 
 ## Books
 ```dataview

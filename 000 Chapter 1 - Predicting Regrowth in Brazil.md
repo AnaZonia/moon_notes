@@ -22,9 +22,6 @@ In Brazil, most secondary forests are passive regrowth
 
 
 
-
-
-
 ## Main Points
 ### Scale
 Previous models have done things using plots or aggregated data (medians). This will make predictions at broad scales but is not predictive at small scales which are relevant for management
@@ -66,6 +63,13 @@ bulk density and N
 since EU only has ages up until 1990 it would be useful to compare the same periods with mapbiomas
 
 Remake this plot for EU data
+
+
+
+Northern Amazon is wetter, so it feels less the effect of fire. How does the model incorporate this knowledge?
+
+[[Water Stress]] in the Amazonian context:
+- The east and southeastern parts of the forest actually go months each year with little or no rain. The trees survive by tapping soil moisture as far down as 20 meters.
 
 
 ### Make final product
