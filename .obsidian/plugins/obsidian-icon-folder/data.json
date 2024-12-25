@@ -39,7 +39,6 @@
   "Templates/3 Data Source.md": "SiGoogleearth",
   "100 A Floresta Aleatória.md": "TiChartHistogram",
   "400 Interests.md": "TiBook",
-  "200 Life Sciences.md": "LiLeaf",
   "300 Doing Science.md": "LiPenTool",
   "500 Alexandria.md": "LiScroll",
   "Reading Map.md": "LiMap",
@@ -53,6 +52,5 @@
   "3 Floresta Aleatória/Statistics.md": "TiChartHistogram",
   "3 Floresta Aleatória/R Stats.md": "SiR",
   "001 The Bridge.md": "TiStarTrek",
-  "250 Conservation.md": "LiLeaf",
   "Templates/Legacy/Captain's Log.md": "SiStartrek"
 }

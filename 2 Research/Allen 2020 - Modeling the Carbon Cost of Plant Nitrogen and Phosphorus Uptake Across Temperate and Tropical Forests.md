@@ -1,5 +1,5 @@
 >[!summary] Summary
-> Updated [[FUN]] by introducing P dynamics and showed lower carbon uptake. Estimates of growth under carbon fertilization decrease when phosphorus is taken into consideration, as it is a limiting nutrient.
+> Estimates of growth by [[FUN]] under carbon fertilization decrease when phosphorus is taken into consideration, as it is a limiting nutrient.
 
 >[!quote] Cited
 
