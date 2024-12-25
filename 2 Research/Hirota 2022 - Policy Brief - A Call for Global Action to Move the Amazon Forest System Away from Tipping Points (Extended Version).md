@@ -1,3 +1,12 @@
+---
+title:
+author: 
+year:
+tags: 
+summary:
+---
+
+
 >[!summary]
 > What are the tipping points for the Amazon and how can we prevent them - economic and policy approaches
 

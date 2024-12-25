@@ -1,6 +1,10 @@
-
->[!summary] Summary
-> 
+---
+title:
+author: 
+year:
+tags: 
+summary:
+---
 
 ## Authors:
 [[Wong, Michelle Y.]], [[Neill, Christopher]], [[Marino, Roxanne]], [[Silvério, Divino V.]], [[Brando, Paulo M.]], [[Howarth, Robert W.]]

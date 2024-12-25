@@ -1,3 +1,10 @@
+---
+title: 
+author: 
+year: 
+tags: 
+summary: Forests lost more biomass due to mortality but did not gain much due to growth.
+---
 >[!summary] Summary
 >  increase in secondary forest growth with N and N+P treatments in Brazil, but no increase with P-only treatments (across 1999-2001). 
 

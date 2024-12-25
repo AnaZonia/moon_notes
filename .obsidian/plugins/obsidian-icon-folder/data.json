@@ -37,10 +37,6 @@
   "Templates/1 Cadet.md": "LiStar",
   "Templates/4 People and networks.md": "TiHeartHandshake",
   "Templates/3 Data Source.md": "SiGoogleearth",
-  "100 A Floresta Aleatória.md": "TiChartHistogram",
-  "400 Interests.md": "TiBook",
-  "300 Doing Science.md": "LiPenTool",
-  "500 Alexandria.md": "LiScroll",
   "Reading Map.md": "LiMap",
   "Templates/2 New Scroll.md": "LiScroll",
   "Templates/5 Remote Sensing Product.md": "TiSatellite",
@@ -52,5 +48,8 @@
   "3 Floresta Aleatória/Statistics.md": "TiChartHistogram",
   "3 Floresta Aleatória/R Stats.md": "SiR",
   "001 The Bridge.md": "TiStarTrek",
-  "Templates/Legacy/Captain's Log.md": "SiStartrek"
+  "Templates/Legacy/Captain's Log.md": "SiStartrek",
+  "Alexandria.md": "LiScroll",
+  "A Floresta Aleatória.md": "TiChartHistogram",
+  "Doing Science.md": "LiPenTool"
 }

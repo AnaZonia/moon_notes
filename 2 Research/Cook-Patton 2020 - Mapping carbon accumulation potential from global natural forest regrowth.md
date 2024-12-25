@@ -1,4 +1,10 @@
-
+---
+title: 
+author: 
+year: 
+tags: 
+summary: Forests lost more biomass due to mortality but did not gain much due to growth.
+---
 >[!summary] Summary
 >Based on plot data across different biomes, it shows predictions for the whole world based on 66 environmental predictors.
 

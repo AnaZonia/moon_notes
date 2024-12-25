@@ -17,13 +17,13 @@ This reminds me a bit of the Outliers book claim that once you reach the same st
 ## Luck
 
 >[!quote] Pasteur
->Luck favors the prepared mind #quote
+>Luck favors the prepared mind
 
 >[!quote] Newton
->If others would think as hard as I did, then they would get similar results #quote
+>If others would think as hard as I did, then they would get similar results
 
 >[!quote] Edison
-Genius is 99% perspiration and 1% inspiration #quote
+Genius is 99% perspiration and 1% inspiration
 
 
 I definitely feel the idea that with effort, I can achieve a lot. I've been incredibly lucky, so I can put in the effort.

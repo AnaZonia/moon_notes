@@ -1,7 +1,7 @@
 ---
 up:
   - "[[Filosofia da Ciência]]"
-  - "[[300 Doing Science]]"
+  - "[[Doing Science]]"
 stardate: Sep 28th 2023
 update: Nov 24th 2023
 ---

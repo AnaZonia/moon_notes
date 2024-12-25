@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[100 A Floresta Aleatória]]"
+  - "[[A Floresta Aleatória]]"
 stardate: Oct 19th 2023
 update: Oct 19th 2023
 ---

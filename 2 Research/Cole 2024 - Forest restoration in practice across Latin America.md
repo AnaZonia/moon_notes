@@ -1,3 +1,10 @@
+---
+title: 
+author: 
+year: 
+tags: 
+summary: Forests lost more biomass due to mortality but did not gain much due to growth.
+---
 >[!summary] Restoration initiatives are diverse but need to be more efficient
 >Funding periods and amounts need to be better distributed to project needs, extent, time length, and goals.
 

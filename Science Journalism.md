@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[300 Doing Science]]"
+  - "[[Doing Science]]"
 stardate: Sep 24th 2023
 update: Oct 23rd 2023
 ---

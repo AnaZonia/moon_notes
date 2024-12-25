@@ -1,3 +1,10 @@
+---
+title: 
+author: 
+year: 
+tags: 
+summary: Forests lost more biomass due to mortality but did not gain much due to growth.
+---
 >[!summary] Summary
 >Phosphorus addition had been less evident in less P-limited parts of the neotropics, but in Amazonia it was evident that phosphorus is limiting and more carbon probably won't do much to mature forests.
 

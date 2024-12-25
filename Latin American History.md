@@ -1,3 +1,0 @@
-[[Brazilian History]]
-
-[[Zapata]]

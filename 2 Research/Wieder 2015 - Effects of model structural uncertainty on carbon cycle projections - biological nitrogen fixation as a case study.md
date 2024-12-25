@@ -1,7 +1,11 @@
+---
+title:
+author: 
+year:
+tags: 
+summary:
+---
 
->[!summary] Summary
-
->[!quote] Cited
 
 ## Authors:
 [[Wieder, William R.]], [[Cleveland, Cory C.]], [[Lawrence, David M.]], [[Bonan, Gordon B.]]

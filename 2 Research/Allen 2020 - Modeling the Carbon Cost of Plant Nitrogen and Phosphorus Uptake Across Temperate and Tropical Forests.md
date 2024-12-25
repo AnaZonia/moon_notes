@@ -1,3 +1,13 @@
+---
+title:
+author: 
+year:
+tags: 
+summary:
+---
+
+
+
 >[!summary] Summary
 > Estimates of growth by [[FUN]] under carbon fertilization decrease when phosphorus is taken into consideration, as it is a limiting nutrient.
 

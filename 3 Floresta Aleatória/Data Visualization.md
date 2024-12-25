@@ -9,8 +9,6 @@
 
 [The R Graph Gallery – Help and inspiration for R charts (r-graph-gallery.com)](https://r-graph-gallery.com/index.html)
 
-
-
-[Yan Holtz on X: "👋Are you interested in #dataviz? ⭐️I created 8 free online projects on the topic!😀 Please let me introduce them: 🧵.. https://t.co/mNPMMs13ir" / X (twitter.com)](https://twitter.com/R_Graph_Gallery/status/1610265460469006337)
+[Data visualization on twitter](https://twitter.com/R_Graph_Gallery/status/1610265460469006337)
 
 [Plotly r graphing library in R](https://plotly.com/r/)

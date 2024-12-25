@@ -8,6 +8,22 @@ dg-publish: true
 [[Data Analysis]]
 [[Model]]
 
+## Introduction
+
+It is important to regenerate new growth in addition to old growth - [[Flores 2024 - Critical transitions in the Amazon forest system]]
+Secondary forests now make over half of tropical forest cover and over 1/3 are regrowing on agricultural land
+Regrowing naturally is cheaper and better for diversity, but active replanting can be necessary in areas too depleted
+In Brazil, most secondary forests are passive regrowth
+
+
+### Fire impacts
+[[Jakovac 2017 - Spatial and temporal dynamics of shifting cultivation in the middle-Amazonas river - Expansion and intensification]]
+
+
+
+
+
+
 
 ## Main Points
 ### Scale

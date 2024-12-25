@@ -1,15 +1,11 @@
 ---
-aliases:
-  - "@floresCriticalTransitionsAmazon2024"
-stardate: May 26th 2024
-update: Jun 6th 2024
-dg-publish: true
+title:
+author: 
+year:
+tags: 
+summary:
 ---
 
-
->[!summary] 
-
->[!quote] Cited
 ## Authors:
 [[Flores, Bernardo M.]], [[Montoya, Encarni]], [[Sakschewski, Boris]], [[Nascimento, Nathália]], [[Staal, Arie]], [[Betts, Richard A.]], [[Levis, Carolina]], [[Lapola, David M.]], [[Esquível-Muelbert, Adriane]], [[Jakovac, Catarina]], [[Nobre, Carlos A.]], [[Oliveira, Rafael S.]], [[Borma, Laura S.]], [[Nian, Da]], [[Boers, Niklas]], [[Hecht, Susanna B.]], [[ter Steege, Hans]], [[Arieira, Julia]], [[Lucas, Isabella L.]], [[Berenguer, Erika]], [[Marengo, José A.]], [[Gatti, Luciana V.]], [[Mattos, Caio R. C.]], [[Hirota, Marina]]
 

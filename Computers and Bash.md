@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[500 Alexandria]]"
+  - "[[Alexandria]]"
 stardate: Oct 14th 2023
 update: Oct 14th 2023
 ---

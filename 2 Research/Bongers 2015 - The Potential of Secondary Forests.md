@@ -1,3 +1,10 @@
+---
+title: The Potential of Secondary Forests
+author: Bongers
+year: 
+tags: 
+summary: Forests lost more biomass due to mortality but did not gain much due to growth.
+---
 >[!summary] Summary
 >Secondary, logged, managed forests are very important for carbon sequestration and must be quantified
 

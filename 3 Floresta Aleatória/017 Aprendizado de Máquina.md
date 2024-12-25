@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[100 A Floresta Aleatória]]"
+  - "[[A Floresta Aleatória]]"
 stardate: Aug 31st 2023
 update: Nov 24th 2023
 aliases:

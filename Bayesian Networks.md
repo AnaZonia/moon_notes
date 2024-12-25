@@ -1,7 +1,7 @@
 ---
 up:
   - "[[012 Inferência Bayesiana]]"
-  - "[[100 A Floresta Aleatória]]"
+  - "[[A Floresta Aleatória]]"
 stardate: Oct 16th 2023
 update: Oct 16th 2023
 ---

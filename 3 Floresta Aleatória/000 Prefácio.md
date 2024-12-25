@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[100 A Floresta Aleatória]]"
+  - "[[A Floresta Aleatória]]"
 stardate: Aug 23rd 2023
 update: Sep 29th 2023
 ---
@@ -10,7 +10,7 @@ e hoje trabalho com estatística aplicada à ecologia - uma dessas ironias do de
 Ainda assim, eu sei como foi difícil aprender com materiais que não eram feitos para a aplicação que eu queria, ou com detalhes demais que eu aprendi só pra fazer a prova e inevitavelmente esqueci duas semanas depois.
 Esse livro tem a intenção de me ajudar a estudar, já que o processo é eterno e vai seguir o resto da minha vida, e tentar tornar acessível esse assunto tão importante pra cientistas no geral. O foco aqui vai ser em exemplos de ecologia, já que essa é a minha área, mas espero que esse material seja útil tanto pra quem segue ciências da natureza quanto pra eventuais jovens jornalistas frustrados.
 
- > [!quote] Paulo Freire #quote
+ > [!quote] Paulo Freire
 > "Quem ensina aprende ao ensinar e quem aprende ensina ao aprender"
 
 O livro não foca em programação, mas os exemplos são escritos em R.

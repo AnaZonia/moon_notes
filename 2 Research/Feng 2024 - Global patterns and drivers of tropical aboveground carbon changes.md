@@ -1,6 +1,11 @@
->[!summary]
+---
+title:
+author: 
+year:
+tags: 
+summary:
+---
 
->[!quote] Cited
 ## Authors:
 [[Feng, Yu]], [[Ciais, Philippe]], [[Wigneron, Jean-Pierre]], [[Xu, Yidi]], [[Ziegler, Alan D.]], [[van Wees, Dave]], [[Fendrich, Arthur Nicolaus]], [[Spracklen, Dominick V.]], [[Sitch, Stephen]], [[Brandt, Martin]], [[Li, Wei]], [[Fan, Lei]], [[Li, Xiaojun]], [[Wu, Jie]], [[Zeng, Zhenzhong]]
 
