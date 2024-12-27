@@ -7,7 +7,6 @@
 - [[Poetry]]
 - [[Textbooks]]
 - [[Articles]]
-- [[Research Articles]]
 
 ## Article ideas
 ```dataview

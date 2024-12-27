@@ -20,7 +20,5 @@ dg-home: true
 - [[Alexandria]]
 
 [[Amazonia]]
-[[Biodiversity]]
 [[Climate Change]]
-[[Ecosystem Services]]
-[[Nutrient Cycling]]
+

@@ -42,14 +42,13 @@
   "Templates/5 Remote Sensing Product.md": "TiSatellite",
   "002 Data Sources.md": "SiGoogleearthengine",
   "003 People and Networks.md": "LiHeartHandshake",
-  "2 Research": "LiLibrary",
-  "3 Floresta Aleatória": "TiChartHistogram",
-  "3 Floresta Aleatória/Python.md": "TiBrandPython",
-  "3 Floresta Aleatória/Statistics.md": "TiChartHistogram",
-  "3 Floresta Aleatória/R Stats.md": "SiR",
   "001 The Bridge.md": "TiStarTrek",
   "Templates/Legacy/Captain's Log.md": "SiStartrek",
   "Alexandria.md": "LiScroll",
   "A Floresta Aleatória.md": "TiChartHistogram",
-  "Doing Science.md": "LiPenTool"
+  "Doing Science.md": "LiPenTool",
+  "Floresta Aleatória": "TiChartHistogram",
+  "Floresta Aleatória/Python.md": "TiBrandPython",
+  "Floresta Aleatória/R Stats.md": "SiR",
+  "Floresta Aleatória/Statistics.md": "TiChartHistogram"
 }

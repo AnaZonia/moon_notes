@@ -13,72 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Climate Change.md",
+                "file": "000 Chapter 3 - Validation with Plot Data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Climate Change"
-            }
-          },
-          {
-            "id": "2148539b2af85067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Research/Hirota 2022 - Policy Brief - A Call for Global Action to Move the Amazon Forest System Away from Tipping Points (Extended Version).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hirota 2022 - Policy Brief - A Call for Global Action to Move the Amazon Forest System Away from Tipping Points (Extended Version)"
-            }
-          },
-          {
-            "id": "ebb2682099473c40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 Research/Bongers 2015 - The Potential of Secondary Forests.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bongers 2015 - The Potential of Secondary Forests"
-            }
-          },
-          {
-            "id": "393cbd8c186078f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Amazonia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Amazonia"
-            }
-          },
-          {
-            "id": "da2b003d4af1f3b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in Brazil.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "000 Chapter 1 - Predicting Regrowth in Brazil"
+              "title": "000 Chapter 3 - Validation with Plot Data"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,10 +104,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in Brazil.md"
+                "file": "000 Chapter 3 - Validation with Plot Data.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 000 Chapter 1 - Predicting Regrowth in Brazil"
+              "title": "Outline of 000 Chapter 3 - Validation with Plot Data"
             }
           },
           {
@@ -284,12 +227,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in Brazil.md",
+                "file": "000 Chapter 3 - Validation with Plot Data.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 000 Chapter 1 - Predicting Regrowth in Brazil"
+              "title": "Outgoing links from 000 Chapter 3 - Validation with Plot Data"
             }
           }
         ]
@@ -316,13 +259,26 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "da2b003d4af1f3b2",
+  "active": "f5aec6740d750ac5",
   "lastOpenFiles": [
+    "001 The Bridge.md",
+    "Alexandria.md",
+    "Research Articles.md",
+    "Climate Change.md",
+    "Amazonia.md",
+    "2 Research/Wieder 2015 - Effects of model structural uncertainty on carbon cycle projections - biological nitrogen fixation as a case study.md",
+    "2 Research/Wong 2020 - Biological Nitrogen Fixation Does Not Replace Nitrogen Losses After Forest Fires in the Southeastern Amazon.md",
+    "2 Research/Heinrich 2021 - Large carbon sink potential of secondary forests in the Brazilian Amazon to mitigate climate change.md",
+    "2 Research/Allen 2020 - Modeling the Carbon Cost of Plant Nitrogen and Phosphorus Uptake Across Temperate and Tropical Forests.md",
+    "2 Research/Nunes 2020 - Unmasking secondary vegetation dynamics in the Brazilian Amazon.md",
+    "2 Research/Ruiz-Jaen 2011 - Can we predict carbon stocks in tropical ecosystems from tree diversity - Comparing species and functional diversity in a plantation and a natural forest.md",
+    "2 Research/Heinrich 2023 - The carbon sink of secondary and degraded humid tropical forests.md",
+    "2 Research/Flores 2020 - Soil erosion as a resilience drain in disturbed tropical forests.md",
+    "AXA fund to invest $49 million in Brazil reforestation projects.md",
+    "000 Chapter 1 - Predicting Regrowth in Brazil.md",
     "2 Research/Bongers 2015 - The Potential of Secondary Forests.md",
     "2 Research/Hirota 2022 - Policy Brief - A Call for Global Action to Move the Amazon Forest System Away from Tipping Points (Extended Version).md",
     "2 Research/Sinacore 2023 - Mixed success for carbon payments and subsidies in support of forest restoration in the neotropics.md",
-    "000 Chapter 1 - Predicting Regrowth in Brazil.md",
-    "Amazonia.md",
     "The Changing Carbon Balance in Amazonia.md",
     "The Tipping Point.md",
     "Tipos de Mata na Amazônia.md",
@@ -331,20 +287,7 @@
     "Climate Patterns in the Amazon.md",
     "Why is the Amazon important.md",
     "Files/Chapter 1 - Predicting Regrowth in the Amazon.png",
-    "Climate Change.md",
-    "001 The Bridge.md",
     "Articles.md",
-    "Como a Terra Construiu a Amazonia.md",
-    "Virando o jogo - do desmatamento à restauração em larga escala na Amazônia.md",
-    "Monetizar a restauração florestal limita o papel da regeneração natural na Amazônia.md",
-    "Alexandria.md",
-    "Books.md",
-    "You and Your Research.md",
-    "Rationality.md",
-    "3 Floresta Aleatória/000 Prefácio.md",
-    "000 Chapter 3 - Validation with Plot Data.md",
-    "ForestPlots - RAINFOR.md",
-    "Effect of Nitrogen Fixers on Biomass Accumulation.md",
     "Climate Change.canvas",
     "Botany.canvas",
     "Community Ecology.canvas",

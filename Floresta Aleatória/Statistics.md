@@ -74,7 +74,7 @@
    - Análise no Domínio de Frequência
    - Análise Espacial e Geostatística
 
-[[018 Inferência Causal]]
+[[018 Inferência causal]]
 
 [[017 Aprendizado de Máquina]]
     - Introdução ao Aprendizado de Máquina
