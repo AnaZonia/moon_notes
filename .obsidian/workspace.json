@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -161,10 +161,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 Research/Bongers 2015 - The Potential of Secondary Forests.md"
+                "file": "000 Chapter 1 - Predicting Regrowth in Brazil.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Bongers 2015 - The Potential of Secondary Forests"
+              "title": "Outline of 000 Chapter 1 - Predicting Regrowth in Brazil"
             }
           },
           {
@@ -284,12 +284,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 Research/Bongers 2015 - The Potential of Secondary Forests.md",
+                "file": "000 Chapter 1 - Predicting Regrowth in Brazil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bongers 2015 - The Potential of Secondary Forests"
+              "title": "Outgoing links from 000 Chapter 1 - Predicting Regrowth in Brazil"
             }
           }
         ]
@@ -316,8 +316,9 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "ebb2682099473c40",
+  "active": "da2b003d4af1f3b2",
   "lastOpenFiles": [
+    "2 Research/Bongers 2015 - The Potential of Secondary Forests.md",
     "2 Research/Hirota 2022 - Policy Brief - A Call for Global Action to Move the Amazon Forest System Away from Tipping Points (Extended Version).md",
     "2 Research/Sinacore 2023 - Mixed success for carbon payments and subsidies in support of forest restoration in the neotropics.md",
     "000 Chapter 1 - Predicting Regrowth in Brazil.md",
@@ -330,7 +331,6 @@
     "Climate Patterns in the Amazon.md",
     "Why is the Amazon important.md",
     "Files/Chapter 1 - Predicting Regrowth in the Amazon.png",
-    "2 Research/Bongers 2015 - The Potential of Secondary Forests.md",
     "Climate Change.md",
     "001 The Bridge.md",
     "Articles.md",
