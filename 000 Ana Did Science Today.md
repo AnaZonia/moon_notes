@@ -4,22 +4,11 @@ up:
 dg-publish: true
 ---
 
-\section{Consequences for policy and climate modelling} \label{sec3}
-
-Consequences for earth systems modelling \\
-
-Areas of the country of promising regeneration ability \\
-This work considers large scale impacts on policy-relevant scales, and can be applied
-Cite papers that said that forests that are further away from the mature forests will need active reforestation and how we support it \\
 
 
-Where to protect and where to replant - based on surrounding cover and regeneration potential \\
+[[Alemu Gonsamo]]
 
-Previous studies have highlighted that naturally regrowing forests have better biodiversity. For best ecological functioning and financial reasons, we want to have natural regrowth happen as much as possible. \\
 
-Discuss on previous papers that have called that we should not actively restore forests that are close to mature, and just let them regrow naturally.  \\
-
-[Figure 3] - Map highlighting areas that should be actively planted vs let regenerate alone based on the soil quality - prefer active replanting in land with less depleted soil, far from mature forests. \\
 
 
 ### AGU
@@ -39,9 +28,6 @@ Lei Ma: future projections of carbon accumulation would be interesting.
 Lin Xiong: hybrid approach with ICESat-2 and GEDI. ICESat -2 is more useful to fill gaps in boreal forests, gedi does better in the tropics.
 
 
-
-
-Helena Vallicrosa - cesar terrer student
 
 
 MapBiomas Bolivia
