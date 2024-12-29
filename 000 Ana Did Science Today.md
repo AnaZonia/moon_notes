@@ -57,12 +57,6 @@ TAC - Scheffer et al 2012 - measure of forest resilience (lag-1 temporal autocor
 		https://daac.ornl.gov/CMS/guides/CMS_Global_Forest_Age.html
 		https://essopenarchive.org/users/747800/articles/720021-intergovernmental-panel-on-climate-change-ipcc-tier-1-forest-biomass-estimates-from-earth-observation
 https://spatialthoughts.com/2024/02/07/agb-regression-gee/
-## Papers to read
-- [ ] [Wood density](https://www.nature.com/articles/s41559-024-02564-9)
-- [ ] Heinrich papers and Celso ages (understand how they forced the growth curve through zero)
-- [ ] [[Feng 2024 - Global patterns and drivers of tropical aboveground carbon changes
-- [ ] https://phys.org/news/2024-08-nitrogen-deposition-biodiversity-larger-scale.html]]
-- [ ] Jakovac policy brief
 
 ## Nov 17 : Dec - Panama
 
@@ -94,6 +88,7 @@ Plan on asking mcgill for financing to go to Belém from November 10-21st, 2025.
 Ask Jeff:
 - land use history before regrowth
 - whether paja canalera was widespread, and whether that may be a confounding variable that may affect the Amazon comparison
+
 ## Nov 01 : 17 - Pre-travel prep
 - [x] make poster ✅ 2024-11-15
 - [x] prepare data and text for Panama ✅ 2024-11-15

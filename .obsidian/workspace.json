@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "000 Ana Did Science Today"
             }
+          },
+          {
+            "id": "bbee08ad2609009f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 Data Sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "002 Data Sources"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,10 +119,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Ana Did Science Today.md"
+                "file": "002 Data Sources.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 000 Ana Did Science Today"
+              "title": "Outline of 002 Data Sources"
             }
           },
           {
@@ -226,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "002 Data Sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 000 Ana Did Science Today"
+              "title": "Outgoing links from 002 Data Sources"
             }
           }
         ]
@@ -258,10 +273,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "f5aec6740d750ac5",
+  "active": "bbee08ad2609009f",
   "lastOpenFiles": [
-    "Canadian Contributions to Climate Change - Pollution and Mining.md",
     "000 Ana Did Science Today.md",
+    "Canadian Contributions to Climate Change - Pollution and Mining.md",
     "Carbon Tax.md",
     "Alemu Gonsamo.md",
     "000 Chapter 1 - Predicting Regrowth in Brazil.md",
