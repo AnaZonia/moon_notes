@@ -39,8 +39,8 @@ TAC - Scheffer et al 2012 - measure of forest resilience (lag-1 temporal autocor
 
 
 ## Dec 2024 - Jan 2025
-- [ ] Go through Fiona's edits
-- [ ] Send committee form
+- [x] Go through Fiona's edits ✅ 2024-12-29
+- [x] Send committee form ✅ 2024-12-29
 - [ ] Get running on GIC-Green and contact Tim
 - [ ] Contact collaborators in Brazil
 - [ ] Contact Jacob Slusser
