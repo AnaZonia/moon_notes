@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Canadian Contributions to Climate Change - Pollution and Mining.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 Ana Did Science Today"
+              "title": "Canadian Contributions to Climate Change - Pollution and Mining"
             }
           }
         ]
@@ -104,10 +104,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Ana Did Science Today.md"
+                "file": "Canadian Contributions to Climate Change - Pollution and Mining.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 000 Ana Did Science Today"
+              "title": "Outline of Canadian Contributions to Climate Change - Pollution and Mining"
             }
           },
           {
@@ -226,12 +226,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Canadian Contributions to Climate Change - Pollution and Mining.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 000 Ana Did Science Today"
+              "title": "Outgoing links from Canadian Contributions to Climate Change - Pollution and Mining"
             }
           }
         ]
@@ -253,13 +253,16 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
-      "cmdr:Open current tab in new window": false
+      "cmdr:Open current tab in new window": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "f5aec6740d750ac5",
   "lastOpenFiles": [
-    "Alemu Gonsamo.md",
     "000 Ana Did Science Today.md",
+    "Carbon Tax.md",
+    "Alemu Gonsamo.md",
     "000 Chapter 1 - Predicting Regrowth in Brazil.md",
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "000 Chapter 3 - Validation with Plot Data.md",
@@ -283,7 +286,6 @@
     "The Changing Carbon Balance in Amazonia.md",
     "The Tipping Point.md",
     "Tipos de Mata na Amazônia.md",
-    "White Sand.md",
     "Files/Chapter 1 - Predicting Regrowth in the Amazon.png",
     "Climate Change.canvas",
     "Botany.canvas",
