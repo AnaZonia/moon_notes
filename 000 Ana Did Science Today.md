@@ -35,7 +35,7 @@ armando.rodriguez.montellano@gmail.com
 
 
 TAC - Scheffer et al 2012 - measure of forest resilience (lag-1 temporal autocorrelation)
-- can be calculated from Landsat
+- can be calculated from Landsatc
 
 
 ## Dec 2024 - Jan 2025

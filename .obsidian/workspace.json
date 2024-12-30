@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f5aec6740d750ac5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 Ana Did Science Today.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "000 Ana Did Science Today"
-            }
-          },
-          {
             "id": "bbee08ad2609009f",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "002 Data Sources"
+            }
+          },
+          {
+            "id": "f5aec6740d750ac5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 Ana Did Science Today.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "000 Ana Did Science Today"
             }
           }
         ],
@@ -119,10 +119,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 Data Sources.md"
+                "file": "000 Ana Did Science Today.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 002 Data Sources"
+              "title": "Outline of 000 Ana Did Science Today"
             }
           },
           {
@@ -241,12 +241,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002 Data Sources.md",
+                "file": "000 Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 002 Data Sources"
+              "title": "Outgoing links from 000 Ana Did Science Today"
             }
           }
         ]
@@ -268,11 +268,14 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
-      "cmdr:Open current tab in new window": false
+      "cmdr:Open current tab in new window": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "bbee08ad2609009f",
+  "active": "f5aec6740d750ac5",
   "lastOpenFiles": [
+    "002 Data Sources.md",
     "000 Ana Did Science Today.md",
     "Canadian Contributions to Climate Change - Pollution and Mining.md",
     "Carbon Tax.md",
@@ -298,7 +301,6 @@
     "2 Research/Hirota 2022 - Policy Brief - A Call for Global Action to Move the Amazon Forest System Away from Tipping Points (Extended Version).md",
     "2 Research/Sinacore 2023 - Mixed success for carbon payments and subsidies in support of forest restoration in the neotropics.md",
     "The Changing Carbon Balance in Amazonia.md",
-    "The Tipping Point.md",
     "Files/Chapter 1 - Predicting Regrowth in the Amazon.png",
     "Climate Change.canvas",
     "Botany.canvas",
