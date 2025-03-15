@@ -3,36 +3,48 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-# Mar 17 : Mar 23
+## Mar 17, 2025 : Mar 23, 2025
+
+### Weekly Review
+
+### Sunday,  Mar 23, 2025
+### Saturday, Mar 22, 2025
+
+### Friday, Mar 21, 2025
+
+### Thursday, Mar 20, 2025
+
+### Wednesday, Mar 19, 2025
+
+### Tuesday, Mar 18, 2025
+
+### Monday, Mar 17, 2025
+### Weekly Goals
 
 
+## Mar 10 : Mar 16 2025
+
+### Sunday, Mar 16, 2025  
+
+### Saturday, Mar 15, 2025  
 
 
+**Data Analysis**
+- [ ] Testing the outcome with optim-GA
+- [ ] Plot the difference between the lagged model and the same curve forced through zero
 
-# Mar 10 : Mar 16
+**Visualization**
+- [ ] Conceptual diagram / graphical abstract
+- [ ] Feature Importance Barplot
+- [ ] table of r squared
+- [ ] forecast map
 
-## 15/03, Saturday - Research diary setup
-
-
-
-Testing the outcome with optim-GA
-
-Conceptual diagram / graphical abstract
-
-feature importance barplot
-
-table of r squared
-
-forecast map
-
-conceptual diagram (list of main points)
-
-Plot the difference between the lagged model and the same curve forced through zero
+**Writing**
 
 ![[results_march_15.excalidraw]]
 
 
-### Regionality of asymptote matters
+**Regionality of asymptote matters**
 in the Amazon, the nearest mature biomass is a much better predictor than average biomass per ecoregion, which is much better than the average biomass per climatic region (quarter)
 
 ![[000 Ana Did Science Today-8.png]]
@@ -44,7 +56,7 @@ in the Amazon, the nearest mature biomass is a much better predictor than averag
 
 ![|720x376](https://i.imgur.com/rKstY4h.png)
 
-## February
+# Feb 2025
 
 ![](https://i.imgur.com/H33eMuH.png)
 ![](https://i.imgur.com/i7TERKX.jpeg)
@@ -100,7 +112,7 @@ Asymptote
 
 
 
-## Dec 2024 - Jan 2025
+# Nov 2024 - Jan 2025
 - [x] Go through Fiona's edits ✅ 2024-12-29
 - [x] Send committee form ✅ 2024-12-29
 - [ ] Get running on GIC-Green and contact Tim
@@ -145,7 +157,6 @@ Asymptote
 **Other Contacts and Interests**
 
 - **Evan Fricke ([evancfricke@gmail.com](mailto:evancfricke@gmail.com))**:
-    
     - Recovery of soil carbon after biomass.
     - Interest in palm species flexibility to disturbance.
 - **Cesar Terrer**: Recovery of soil carbon.
@@ -153,98 +164,21 @@ Asymptote
 	- MapBiomas Bolivia
 - **Pamela Templer & Gillian Bowser**
     - potential follow-up for future collaboration
-- **Bienvenu Amani & Bruno Herault**:
-    
-    - Lessons from regional approaches (unspecified topic).
+- **Bienvenu Amani & Bruno Herault**
+    - Lessons from regional approaches
+- [[Alemu Gonsamo]]
+- **Elsa (Forest Regrowth)**: Specific details to be added later.
+- **Marcos Longo**: Relevant contributions to be clarified.
+- **White Paper (Table 6)**: Further details on white paper, and look into Avuelo project
+- **Jianing Fang ([jf3423@columbia.edu](mailto:jf3423@columbia.edu))**
+
+
 
 **Modeling and Methods**
 
 - **Noise Addition to Models**: Consideration of adding noise to equations.
 - **Neural Networks in Hybrid Models**:
     - Use of automatic differentiation in hybrid modeling approaches.
-
-**Jianing Fang ([jf3423@columbia.edu](mailto:jf3423@columbia.edu))**: (No specific notes given, potential follow-up for further insights).
-
-**Other People Mentioned**
-
-- **Elsa (Forest Regrowth)**: Specific details to be added later.
-- **Marcos Longo**: Relevant contributions to be clarified.
-- **White Paper (Table 6)**: Further details on white paper, and look into Avuelo project
-
-GEDI for savannas - GEDI has large errors of 50-100% in areas with less than 60 mgc /ha - New GEDI Footprint Level Biomass Models for Southern African Savannas - Wessels et al.
-- developed models to estimate biomass in GEDI footprints that coincide with airborne lidar. Random Forest did very well.
-- wonder how much of this can be done with Agua Salud?
-
-James Kellner - Updated models for release-3 GEDI aboveground biomass density. They are looking for plot-level and airborne lidar data to increase coverage in underrepresented region.
-I would like to ask him about covering better secondary forests.
-- deciduous broadleaf forests of the tropics are not included yet - caatinga?
-
-unveiling biomass discrepancies assessing land carbon
-
-Lei Ma: future projections of carbon accumulation would be interesting.
-
-Lin Xiong: hybrid approach with ICESat-2 and GEDI. ICESat -2 is more useful to fill gaps in boreal forests, gedi does better in the tropics.
-
-
-
-
-MapBiomas Bolivia
-armando.rodriguez.montellano@gmail.com
-
-
-TAC - Scheffer et al 2012 - measure of forest resilience (lag-1 temporal autocorrelation)
-- can be calculated from Landsatc
-
-
-[[Alemu Gonsamo]]
-
-[Evancfricke@gmail.com](mailto:Evancfricke@gmail.com)  
-  
-Evan fricke
-
-Recovery of soil carbon after biomass - Cesar terrer  
-  
-Palms are more flexible to disturbance
-
-https://www.naturebase.org/
-
-
-Pamela templer  
-Gillian bowser
-
-
-
-  Bienvenu Amani , Bruno herault  
-  
-Lessons from a regional.....
-  
-Adding noise to equation?  
-  
-Neural network in hybrid model  
-Automatic differentiation  
-  
-  
-Jianing Fang [jf3423@columbia.edu](mailto:jf3423@columbia.edu)
-
-
-Elsa forest regrowth  
-  
-Marcos longo  
-  
-Table 6 white paper  
-  
-Avuelo
-
------------
-Contest writing and art  
-Saturday Visiter awards  
-  
-Mystery of mysteries - biography Allan poe  
-Mark douidziak  
-  
-More recent Complete work  
-  
-Eapoe website
 
 
 
@@ -287,7 +221,8 @@ Ask Jeff:
 ### Committee Meeting
 Main outcome was contact with [[Potvin, Catherine]] and the participatory mapping data. This seems to offer information on land use history through observation.
 
-# Oct 21 : 28 - Weekly Tasks
+# Oct 2024
+## Oct 21 : 28 - Weekly Tasks
 - [x] Write methods ✅ 2024-11-08
 - [x] make presentation for committee meeting ✅ 2024-11-05
 - [x] write committee meeting report ✅ 2024-11-07
@@ -320,7 +255,6 @@ Results normalizing all data at once:
 
 ![](https://i.imgur.com/SEDeRwk.png)
 
-# Oct 13 : 20 - Weekly Tasks
 
 ## Modelling
 - [x] Email Jeff again about algorithm ✅ 2024-10-16
@@ -350,7 +284,7 @@ I am removing last_LU since through multicollinearity it correlated strongly wit
 This is after sampling. There data is not evenly distributed - can this cause issues?
 
 
-# 01/10 : 13/10 - Weekly Tasks
+
 ## Modelling
 - Incorporate new variables:
 - [x] Slope ✅ 2024-10-13
@@ -453,7 +387,7 @@ EU distributions:
 
 
 
-# September Conclusions
+# Sept 2024
 
 ## Main results
 
@@ -805,6 +739,7 @@ multicollinearity
 - "where should you put your money for maximum carbon bucks?"
 
 - [x] Schedule committee meeting - talk to Catherine about land use classification ✅ 2024-09-10
+# Aug 2024
 ## 30/08, Fri - WEEKLY REVIEW
 
 ### Coding
@@ -869,10 +804,10 @@ Climatic variables should only matter when age is implicit. Careful - included v
 	- fire for Panama, run it with as many categories as we can. Check the differences between running the model with more or less categories.
 - read documentation on MAPBIOMAS
 
+# Jul 2024
 ## 28/07, Mon - Submit abstract
 Realized why nearest mature forest biomass calculations are not running for the whole country.
 
-<!--⚠️Imgur upload failed, check dev console-->
 ![[Ana Did Science Today.png]]
 
 The extents are not the same. Fixing that on GEE.
@@ -1201,7 +1136,7 @@ A limitation of the nearest neighbor algorithm, even after removing edges, is th
 ![[Ana Did Science Today-2.pdf]]
 
 
-
+# Jun 2024
 ## 11/06, Wed - Kriging and interpolation
 
 Would be interesting to start writing the methods this weekend.
@@ -1251,6 +1186,7 @@ nearest few neighbors mature forest from secondary forests.
 
 https://www.naturalearthdata.com/
 
+# May 2024
 ## 31/05, Fri - GEE
 
 Christian Seiler, at Queens - works with Earth System Models and Genetic Algorithms.
@@ -1456,6 +1392,7 @@ So, the goal for this week is to:
 - Ask Fiona about wall art
 - [[Crouzeilles 2017 - Ecological restoration success is higher for natural regeneration than for active restoration in tropical forests]]
 
+# Apr 2024
 ## 29/04/2024, Mon - Chapter 1
 After meeting with Brian, the priorities seem to be to finish organizing the code and writing the summary of the project to send out.
 
@@ -1606,6 +1543,8 @@ So there's good room for collaboration as we work on things that are useful to e
 
 [[PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation]]
 
+
+# Jan : Mar 2024 - Panama and INPA
 ## 25/03/2024 : 07/04/2024 - Organizing and writing
 
 Talked to Olivia Milloway about [[Science Journalism]].
