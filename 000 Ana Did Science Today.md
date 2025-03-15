@@ -21,14 +21,6 @@ dg-publish: true
 ### Monday, Mar 17, 2025
 ### Weekly Goals
 
-
-## Mar 10 : Mar 16 2025
-
-### Sunday, Mar 16, 2025  
-
-### Saturday, Mar 15, 2025  
-
-
 **Data Analysis**
 - [ ] Testing the outcome with optim-GA
 - [ ] Plot the difference between the lagged model and the same curve forced through zero
@@ -40,6 +32,17 @@ dg-publish: true
 - [ ] forecast map
 
 **Writing**
+- [ ] Send abstract to writing class
+- [ ] Send paper to Fiona lab
+
+
+## Mar 10 : Mar 16 2025
+
+### Sunday, Mar 16, 2025  
+
+### Saturday, Mar 15, 2025  
+
+
 
 ![[results_march_15.excalidraw]]
 
@@ -256,17 +259,15 @@ Results normalizing all data at once:
 ![](https://i.imgur.com/SEDeRwk.png)
 
 
-## Modelling
+
 - [x] Email Jeff again about algorithm ✅ 2024-10-16
 
-## Travel prep
 - [x] Talk to Gabriela for mining project ✅ 2024-10-16
 - [x] Email guests ✅ 2024-10-17
 - [x] Assign tasks to Katie for port project ✅ 2024-10-16
 - [x] Check whoever in the ministry of environment we talked to. Consider institutional support from STRI. ✅ 2024-10-15
 - [x] ask jeff hall for agua salud data ✅ 2024-10-16
 - [x] write down expenses to claim with Brian ✅ 2024-10-16
-## Others
 - [x] set up github 2FA ✅ 2024-10-16
 
 

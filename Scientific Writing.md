@@ -7,38 +7,103 @@ update: Nov 25th 2023
 
 - [[Writing Science]]
 
-[STeP Science Communication for Science Advice: How to write a Policy Brief - Part 1 (youtube.com)](https://www.youtube.com/watch?v=JroBF_cEccs)
+
+
+## Article Writing
+
+### General tips
+- One point per paragraph, one paragraph per point.
+- *Write as you would speak* - maybe speak out the text first, and then organize it as it's easier for the words to flow. ChatGPT can help transcribe spoken text to something acceptable.
+- When stuck, *writing by hand can help*.
+- Only use references to help determine amount of detail needed.
+- *Add subheadings* - you can always take them away later.
+
+### Avoid:
+- Using a "back to front" sentence structure, when the verb comes late into the sentence (often involves passive voice)
+- Clauses in the middle of the sentences (phrases nested by two commas)
+- Passive voice
+
+
+
+
+### Outline
+
+
+
+### Title
+- shorter titles that cite results are cited more
+- Interesting to write a title as personifying the object of study, when speaking to the public.
+
+### Abstract
+![[Scientific Writing.png]]
+
+Should follow a similar structure to the entire paper:
+
+**Intro**
+- Introduce baby and werewolf
+- Foreshadow methods
+- Should be clear to any biologist
+- Should be compelling: a "sales pitch".
+**Methods**
+- Introduce broadly the approach and scope of study (what was done where)
+**Results**
+- 1-3 most important results
+- Start with broad summary sentence = paper's take home message
+- easily tie back to methods and baby/werewolf
+**Discussion**
+- Show bigger implications
+
+### Introduction (4-6 paragraphs)
+- Get quickly to the core part of your research - background is good, but making the main point early is helpful.
+
+### Methods (<12 paragraphs)
+
+
+### Results (<10 paragraphs)
+
+
+### Discussion (4-8 paragraphs)
+
+
+## Grant writing
+
+> Who are you writing for? What is their agenda?
+
+They want a **good, feasible** idea.
+
+- Why this question
+- Why this approach
+- Why now
+- Why you (expertise and credibility)
+- What is the product and who is it useful for? (tangible outcome)
+	- Make it **specific and achievable**.
+- Feasibility (time, money)
+
+Often grants require reporting, even 5 years later. Keep track of publicly available data and ways in which your work was used.
+
+What separates really good grants?
+- Past predicts future performance - show evidence of that
+- Well grounded in literature, but looks like a leap forward
+- Do you know what to do even if it fails?
+
+## Useful links
+
+- [OpenAcademics Writing References](https://www.oacommunity.org/resources)
+- [Paperpal - Manuscript checker](https://edit.paperpal.com/documents/de11a755-7810-4717-b3a6-98b3de4351f4)
+- [QuillBot AI - Paraphraser](https://quillbot.com/)
+- [Hemingway Editor](https://hemingwayapp.com/)
+- [STeP Science Communication for Science Advice: How to write a Policy Brief - Part 1 (youtube.com)](https://www.youtube.com/watch?v=JroBF_cEccs)
+- [Tip Sheet for Newcomers to Science Writing - The Open Notebook](https://www.theopennotebook.com/2021/04/13/a-getting-started-guide-for-newcomers-to-science-writing-2/?utm_source=The%20Open%20Notebook&utm_campaign=d06649e26b-AUTOMATION__4&utm_medium=email&utm_term=0_94b4f65b87-d06649e26b-568794870)
+- [Olivia Milloway (olivia-milloway.info)](https://olivia-milloway.info/)
+[Virginia Schutte, Science Media Specialist | Storyteller, Consultant, Trainer](https://www.virginiaschutte.com/)
+- Free website help for minorities
+
 ### Quarto
 - [Making Pretty PDFs with Quarto | Nicola Rennie](https://nrennie.rbind.io/blog/making-pretty-pdf-quarto/)
 - [Tips for Custom Parameterized PDFs in Quarto | Meghan Hall](https://meghan.rbind.io/blog/quarto-pdfs/)
 - [GitHub - mcanouil/awesome-quarto: A curated list of Quarto talks, tools, examples & articles! Contributions welcome!](https://github.com/mcanouil/awesome-quarto)
 - [Quarto - Guide](https://quarto.org/docs/guide/)
-### My Guidelines on Writing
-- One point per paragraph, one paragraph per point.
-- *Write as you would speak* - maybe speak out the text first, and then organize it as it's easier for the words to flow. ChatGPT can help transcribe spoken text to something acceptable.
-- When stuck, *writing by hand can help*.
-- Read/write a little every day.
-- Only use reference to help determine amount of detail needed.
-- *Add subheadings* - you can always take them away later.
-- Interesting to write a title as personifying the object of study, when speaking to the public.
-- Short titles get more attention.
-- Avoid using a "back to front" sentence structure, when the verb comes late into the sentence (often involves passive voice)
-- Also avoid clauses in the middle of the sentences (phrases nested by two commas)
-- Get quickly to the core part of your research - background is good, but making the main point early is helpful.
 
-
-### Useful links
-- [OpenAcademics Writing References](https://www.oacommunity.org/resources)
-- [Paperpal - Manuscript checker](https://edit.paperpal.com/documents/de11a755-7810-4717-b3a6-98b3de4351f4)
-- [QuillBot AI - Paraphraser](https://quillbot.com/)
-- [Hemingway Editor](https://hemingwayapp.com/)
-
-[Tip Sheet for Newcomers to Science Writing - The Open Notebook](https://www.theopennotebook.com/2021/04/13/a-getting-started-guide-for-newcomers-to-science-writing-2/?utm_source=The%20Open%20Notebook&utm_campaign=d06649e26b-AUTOMATION__4&utm_medium=email&utm_term=0_94b4f65b87-d06649e26b-568794870)
-
-[Olivia Milloway (olivia-milloway.info)](https://olivia-milloway.info/)
-[Virginia Schutte, Science Media Specialist | Storyteller, Consultant, Trainer](https://www.virginiaschutte.com/)
-- Free website help for minorities
-Jimena Pitty
 
 **Olivia Milloway's tips**
 - Think of communicating with a 13 year old - that is when most people stop taking science classes.
@@ -52,8 +117,7 @@ Jimena Pitty
 Helpful people:
 Contact Jeff Hall about communicating with rural communities through Agua Salud. Ask for his community engagement material.
 Daniel at Toucan NGO
-
-Guido Beguido from [[Adopta Bosque]] also protested against the mines.
+Jimena Pitty
 
 Futuro NGO
 
@@ -80,30 +144,3 @@ foreigners that come do science in Brazil
 Send stuff to Mongabay! English, Spanish and Portuguese?
 
 [[Pixar Method]]
-
-## Grant writing
-
-> Who are you writing for? What is their agenda?
-
-They want a **good, feasible** idea.
-
-- Why this question
-- Why this approach
-- Why now
-- Why you (expertise and credibility)
-- What is the product and who is it useful for? (tangible outcome)
-	- Make it **specific and achievable**.
-- Feasibility (time, money)
-
-Often grants require reporting, even 5 years later. Keep track of publicly available data and ways in which your work was used.
-
-What separates really good grants?
-- Past predicts future performance - show evidence of that
-- Well grounded in literature, but looks like a leap forward
-- Do you know what to do even if it fails?
-
-## Article Writing
-https://www.nature.com/documents/nature-summary-paragraph.pdf
-
-- shorter titles that cite results are cited more
-- be consistent with order of primary and secondary goals. showing it first is also a good idea
