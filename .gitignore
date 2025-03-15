@@ -5,7 +5,8 @@
 .trash/
 .DS_Store
 
-
+# remove the Files folder
+Files/
 
 
 # Ignore Smart Connections folder

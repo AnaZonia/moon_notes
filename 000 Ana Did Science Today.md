@@ -8,10 +8,15 @@ dg-publish: true
 
 
 
-![[000 Ana Did Science Today-6.png]]![](https://i.imgur.com/OK2qVlS.png)
+![[000 Ana Did Science Today-6.png]]
+
+
+
 
 
 ## Mar 10 : Mar 16
+
+### 15/03, Saturday - Work diary setup
 
 
 ![[results_march_15]]

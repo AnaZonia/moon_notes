@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "000 Ana Did Science Today"
             }
+          },
+          {
+            "id": "ab96399e65251d84",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/results_march_15.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "results_march_15"
+            }
           }
         ]
       }
@@ -217,8 +229,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "f068f42a2a1ada76",
@@ -260,13 +271,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0663c653f74f5d8f",
+  "active": "9f7f1373e05d036e",
   "lastOpenFiles": [
-    "Files/000 Ana Did Science Today-6.png",
-    "Files/000 Ana Did Science Today-5.png",
-    "Files/000 Ana Did Science Today-4.png",
-    "Files/000 Ana Did Science Today.png",
     "Excalidraw/results_march_15.md",
+    "000 Ana Did Science Today.md",
+    "Files/000 Ana Did Science Today-7.png",
+    "000 Chapter 1 - Predicting Regrowth in Brazil.md",
+    "000-ana-did-science-today-7.jpeg",
+    "000 Ana Did Science Today-7.png",
+    "Floresta Aleatória/variáveis-censuradas-e-truncadas-1.png",
+    "Floresta Aleatória/r-stats-1.png",
+    "Floresta Aleatória/012-inferência-bayesiana-1.gif",
+    "000 Ana Did Science Today-1.png",
+    "000-ana-did-science-today-61.png",
+    "000-ana-did-science-today-60.jpg",
+    "000-ana-did-science-today-59.jpg",
     "Excalidraw/Sundried Tomato Pesto.md",
     "Excalidraw/Protein mug cakes.md",
     "Excalidraw/Obsidian.md",
@@ -275,18 +294,9 @@
     "Excalidraw/Avocado sauce.md",
     "Excalidraw/Drawing May 31st 2024.excalidraw.md",
     "Excalidraw/Drawing Aug 17th 2024.excalidraw.md",
-    "Excalidraw/Predicting Regrowth in Central America - Project.svg",
     "Excalidraw/Broccoli Soup.md",
     "Excalidraw/Scripts/Downloaded/Fixed spacing.md",
-    "000 Ana Did Science Today.md",
-    "Files/000 Ana Did Science Today-3.png",
     "Files/Ana Did Science Today.pdf",
-    "Files/Airbus.png",
-    "Files/000 Ana Did Science Today-15.png",
-    "Files/000 Ana Did Science Today-14.png",
-    "000 Chapter 1 - Predicting Regrowth in Brazil.md",
-    "Files/Screenshot from 2025-03-15 12-30-11.png",
-    "Files/Screenshot from 2025-03-15 12-29-44.png",
     "AGU.md",
     "Agudo, Dayana.md",
     "Wright, Joseph.md",
