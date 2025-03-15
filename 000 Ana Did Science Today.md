@@ -41,7 +41,17 @@ conceptual diagram (list of main points)
 ## February
 
 ![[000 Ana Did Science Today-6.png]]
+![[Screenshot from 2025-03-14 21-29-53.png]]
 
+![[Screenshot from 2025-03-15 12-29-44.png]]
+
+![[Screenshot from 2025-03-15 12-30-01.png]]
+
+![[Screenshot from 2025-03-15 12-30-11.png]]
+
+![[Screenshot from 2025-03-15 12-30-18.png]]
+
+![[000 Ana Did Science Today-12.png]]
 ## Meeting with Brian and Jeff Cardille
 
 pick a couple places in EE to visualize how old the regrowth really is
