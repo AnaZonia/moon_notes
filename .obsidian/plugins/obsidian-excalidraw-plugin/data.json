@@ -5,10 +5,14 @@
   "embedUseExcalidrawFolder": false,
   "templateFilePath": "Excalidraw/Template.excalidraw",
   "scriptFolderPath": "Excalidraw/Scripts",
+  "fontAssetsPath": "Excalidraw/CJK Fonts",
+  "loadChineseFonts": false,
+  "loadJapaneseFonts": false,
+  "loadKoreanFonts": false,
   "compress": true,
   "decompressForMDView": false,
   "onceOffCompressFlagReset": true,
-  "onceOffGPTVersionReset": false,
+  "onceOffGPTVersionReset": true,
   "autosave": true,
   "autosaveIntervalDesktop": 15000,
   "autosaveIntervalMobile": 10000,
@@ -21,12 +25,14 @@
   "annotatePrefix": "annotated_",
   "annotatePreserveSize": false,
   "previewImageType": "SVG",
+  "renderingConcurrency": 3,
   "allowImageCache": true,
   "allowImageCacheInScene": true,
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "400",
   "height": "",
+  "overrideObsidianFontSize": false,
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
@@ -36,6 +42,7 @@
   "defaultMode": "normal",
   "defaultPenMode": "mobile",
   "penModeDoubleTapEraser": true,
+  "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": false,
   "renderImageInMarkdownReadingMode": false,
   "renderImageInHoverPreviewForMDNotes": false,
@@ -93,7 +100,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.2.2",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.5.2",
     "libraryItems": [
       {
         "id": "mVbIT55CUXH4OAw0T26xL",
@@ -116,8 +123,8 @@
             "y": 454.831270292208,
             "strokeColor": "transparent",
             "backgroundColor": "#b2f2bb",
-            "width": 190.30303030303017,
-            "height": 209.6969696969695,
+            "width": 190.3030303030302,
+            "height": 209.69696969696946,
             "seed": 614387836,
             "groupIds": [
               "LFPFG2Eo"
@@ -293,7 +300,7 @@
             "strokeColor": "#1e1e1e",
             "backgroundColor": "#ffffff",
             "width": 69.7307951332939,
-            "height": 85.63896132339885,
+            "height": 85.63896132339886,
             "seed": 166131938,
             "groupIds": [
               "XEfyff8G-I2aagfRhDvkj"
@@ -620,7 +627,7 @@
             "strokeColor": "#1e1e1e",
             "backgroundColor": "#1e1e1e",
             "width": 41.48178530950225,
-            "height": 22.936323368818584,
+            "height": 22.93632336881858,
             "seed": 2113133054,
             "groupIds": [
               "huodQ1go7Nx-V3wR4yJra",
@@ -1144,7 +1151,7 @@
             "strokeColor": "#1e1e1e",
             "backgroundColor": "#1e1e1e",
             "width": 26.795800858763993,
-            "height": 39.116819943164145,
+            "height": 39.11681994316414,
             "seed": 605022974,
             "groupIds": [
               "paR4KwIxOhqQ8fHWMHIOV",
@@ -2070,10 +2077,11 @@
     }
   },
   "defaultTrayMode": true,
-  "previousRelease": "2.5.2",
+  "previousRelease": "2.9.2",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
+  "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [
@@ -2723,6 +2731,7 @@
   "areaZoomLimit": 1,
   "longPressDesktop": 500,
   "longPressMobile": 500,
+  "doubleClickLinkOpenViewMode": true,
   "isDebugMode": false,
   "rank": "Bronze",
   "modifierKeyOverrides": [
@@ -2746,6 +2755,15 @@
     }
   ],
   "showSplashscreen": true,
+  "pdfSettings": {
+    "pageSize": "A4",
+    "pageOrientation": "portrait",
+    "fitToPage": 1,
+    "paperColor": "white",
+    "customPaperColor": "#ffffff",
+    "alignment": "center",
+    "margin": "normal"
+  },
   "autosaveInterval": 15000,
   "mathjaxSourceURL": "https://cdn.jsdelivr.net/npm/mathjax@3.2.1/es5/tex-svg.js"
 }

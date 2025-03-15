@@ -14,14 +14,17 @@ resolution: 100m
 time_range: 2010, 2017, 2018, 2019, 2020
 url: https://catalogue.ceda.ac.uk/uuid/af60720c1e404a9e9d2c145d2b2ead4e
 ---
-Summary of [Key Documents](https://climate.esa.int/en/projects/biomass/key-documents/)
+	Summary of [Key Documents](https://climate.esa.int/en/projects/biomass/key-documents/)
 - [Santoro et al. 2021 - The global forest above-ground biomass pool for 2010 estimated from high-resolution satellite observations](https://essd.copernicus.org/articles/13/3927/2021/)
 - [Santoro's presentation explaining the project](https://climate.esa.int/sites/default/files/D1_S1_T3_Santoro.pdf)
 [The ESA BIOMASS mission MOOC](https://eo-college.org/resource/the-esa-biomass-mission/)
 
+
+
 GlobBiomass -> CCI Biomass CORE -> [Biomass](https://www.esa.int/Applications/Observing_the_Earth/FutureEO/Biomass)
 [Key Documents (esa.int)](https://climate.esa.int/fr/projects/biomass/key-documents/)
 ## Introduction to the method
+[More method information](https://dopa.jrc.ec.europa.eu/var/www/app/app/static/dopa/files/factsheets/en/DOPA%20Factsheet%20J2%20EN%20Above-Ground%20Carbon.pdf)
 
 Map was developed using EO as well as in-situ data.
 

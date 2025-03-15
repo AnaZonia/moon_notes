@@ -3,39 +3,83 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## Mar 17 : Mar 23
+
+## Mar 10 : Mar 16
+
+
+Local Minima still haunt us.
+
+Testing the outcome with optim-GA
 
 
 
-[[Alemu Gonsamo]]
+Variance with and without asymptote
+
+Conceptual diagram / graphical abstract
+
+feature importance barplot
+
+table of r squared
+
+forecast map
+
+conceptual diagram (list of main points)
+
+## Meeting with Brian and Jeff Cardille
+
+pick a couple places in EE to visualize how old the regrowth really is
+
+a rule with three algorithms could be useful - we could have confidence over the age of regrowth depending on how many algorithms agree
+
+  
+
+time lag could not be the same for all areas - we could have a time lag map
+
+  
+
+data from disturbed areas from erika berenger - or catherine potvin? - could be useful for disturbance estimates
+
+
+
+
+
+- consider skewness of data
+- consider nearest mature as it was
+- consider whether precipitation predictions are good with TerraClim
+- remove planted data (check heinrich)
+
+- compare delay periods
+- overlay my model with the old ones 
+- run the model by region
+- add susan's data
+- forecast into the future/different climate trajectories and fire projections (maybe, although they're bad)
+
+
+Fix mature forest asymptote.
+- it may be best to scale it to match the average biomass of all mature forests
+- it could still explain better even if the biomass is lower because the time horizon is shorter
+
+Plot the difference between the lagged model and the same curve forced through zero
+
+What about pixels with surrounding areas that are dominated by some type of agriculture?
+
+
+
+
+Asymptote
+- fit or average for the entire region
+- average for 4 region
+- average for ecoregion
+- nearest neighbor
 
 
 
 
 ### AGU
 
-GEDI for savannas - GEDI has large errors of 50-100% in areas with less than 60 mgc /ha - New GEDI Footprint Level Biomass Models for Southern African Savannas - Wessels et al.
-- developed models to estimate biomass in GEDI footprints that coincide with airborne lidar. Random Forest did very well.
-- wonder how much of this can be done with Agua Salud?
+[[AGU]]
 
-James Kellner - Updated models for release-3 GEDI aboveground biomass density. They are looking for plot-level and airborne lidar data to increase coverage in underrepresented region.
-I would like to ask him about covering better secondary forests.
-- deciduous broadleaf forests of the tropics are not included yet - caatinga?
-
-unveiling biomass discrepancies assessing land carbon
-
-Lei Ma: future projections of carbon accumulation would be interesting.
-
-Lin Xiong: hybrid approach with ICESat-2 and GEDI. ICESat -2 is more useful to fill gaps in boreal forests, gedi does better in the tropics.
-
-
-
-
-MapBiomas Bolivia
-armando.rodriguez.montellano@gmail.com
-
-
-TAC - Scheffer et al 2012 - measure of forest resilience (lag-1 temporal autocorrelation)
-- can be calculated from Landsatc
 
 
 ## Dec 2024 - Jan 2025
@@ -57,6 +101,8 @@ TAC - Scheffer et al 2012 - measure of forest resilience (lag-1 temporal autocor
 		https://daac.ornl.gov/CMS/guides/CMS_Global_Forest_Age.html
 		https://essopenarchive.org/users/747800/articles/720021-intergovernmental-panel-on-climate-change-ipcc-tier-1-forest-biomass-estimates-from-earth-observation
 https://spatialthoughts.com/2024/02/07/agb-regression-gee/
+https://www.wdc-climate.de/ui/q?hierarchy_steps_ss=IPCC-AR6_CMIP6
+GROA reforestation
 
 ## Nov 17 : Dec - Panama
 

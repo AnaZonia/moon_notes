@@ -5,6 +5,9 @@ stardate: Nov 17th 2024
 update: Nov 17th 2024
 dg-publish: true
 ---
+Biomass data
+
+
 
 
 ### Land use

@@ -14,3 +14,28 @@ Some quadrants measure all trees above 5 cm, others measure all trees above 1 cm
 - 25 m of resolution for biomass data could explain better relationship with age, as plot age may change within less than 100m. I am curious as to what is the effect of scale of measurement for large trees.
 - Fabaceae can be early species, but usually not pioneers. At what age does nitrogen fixation start to happen and matter?
 - Every plot measures lianas. Number and size of individual branches is measured in each 5x5m quadrant. Liana diversity/abundance changes with age
+- Probability of encountering lianas may not necessarily translate to impact of lianas on regrowth - liana abundance is better, but may be hard to find that data at scale.
+- Liana diversity and size increases with age, but amount diminishes
+- There is a list of species per age
+- Diversity comes with age/biomass, but biomass doesn't necessarily come from diversity.
+- How is biomass calculated from the plot measurements?
+- The forest composition is different from the Amazon - does the frequency of palms make a difference in final biomass?
+
+Reach out to Mikhil - global change biology, uphill and downhill dispersal ability  
+  
+Paper on allometric equations being wrong for secondary forests  
+  
+Kasey cushman is using Agua Salud to calibrate gedi.  
+There's been an overflight a couple years ago  
+  
+Etienne at udem - remote sensing  
+  
+Comarca has swidden fallow.  
+  
+Asynchrony between Amazon and Congo  
+  
+Julie  
+  
+Dry forest is a big opportunity  
+- azuero. Plan their regrowth scenarios  
+- what is the real potential at dry areas?

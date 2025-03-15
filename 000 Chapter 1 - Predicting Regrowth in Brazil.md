@@ -48,8 +48,6 @@ bulk density and N
 
 since EU only has ages up until 1990 it would be useful to compare the same periods with mapbiomas
 
-Remake this plot for EU data
-
 
 
 Northern Amazon is wetter, so it feels less the effect of fire. How does the model incorporate this knowledge?
