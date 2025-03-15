@@ -15,19 +15,57 @@ update: Nov 25th 2023
 - One point per paragraph, one paragraph per point.
 - *Write as you would speak* - maybe speak out the text first, and then organize it as it's easier for the words to flow. ChatGPT can help transcribe spoken text to something acceptable.
 - When stuck, *writing by hand can help*.
-- Only use references to help determine amount of detail needed.
+- Use "mentor papers", papers you liked from the journal you might aim for, as reference. Find out why you liked them and do the same
 - *Add subheadings* - you can always take them away later.
+- Keep terms consistent (avoid synonyms)
+- Paragraphs should connect clearly to paragraph before
 
 ### Avoid:
 - Using a "back to front" sentence structure, when the verb comes late into the sentence (often involves passive voice)
 - Clauses in the middle of the sentences (phrases nested by two commas)
 - Passive voice
+- Weak verbs such as to be and to have (use "tested" instead of "was a test")
+- Abstract nouns (illustration, demonstration, understanding)
+- Starting paragraphs with undefined pronouns (these, this)
+- Starting paragraphs with clauses that are the second part of an argument (nonetheless, however)
+- Paragraphs longer than 15 lines (Times 12pt)
+- Hyperbole (extremely, massive)
+- Self-aggrandizement (exciting, unprecedented)
+- Assumptions (obviously, clearly)
+- Complicated words (prefer use to utilize)
+- Noun strings (no more than 3 nouns in a row - avoid "seed predation intensity", prefer "intensity of predation on seeds")
+- Acronyms (if needed, make them memorable)
 
 
 
 
 ### Outline
+Can help make the paper more clear, concise, and skimmable.
 
+Write down each part of your pitch in 20 words or less:
+- Baby: Motivator (Why do we care?)
+- Werewolf: Problem (Knowledge gap that needs filling)
+- Silver Bullet: Your contribution (How your study fills the gap)
+
+Make the pitch as broad as possible (broadly loveable baby) to appeal to editors/reviewers that come from diverse backgrounds. The outline should make your pitch clear.
+
+Each paragraph point should be:
+- No longer than one line
+- A complete statement (except for methods, in which it's less clear)
+- Not necessarily the same as a topic sentence
+	- Topic sentence: introduces the paragraph
+	- Paragraph point: take-home point of the paragraph
+
+Sections should:
+- Tell the same story
+- Share structure when possible
+
+Topic sentences should:
+- Introduce the paragraph
+- Help skimability
+- Make sense without needing the paragraph before it
+- Be broad enough to cover the entire paragraph
+- Connect clearly to the previous paragraph
 
 
 ### Title
@@ -55,15 +93,36 @@ Should follow a similar structure to the entire paper:
 
 ### Introduction (4-6 paragraphs)
 - Get quickly to the core part of your research - background is good, but making the main point early is helpful.
+- Topics should be introduced in the first paragraph in the same order as they are talked about in the rest of the introduction
+- Issues should be introduced in the same order as questions/methods
+**Context (1-2 paragraphs)**
 
+**Need (1-2 paragraphs)**
+
+**What you did (1-2 paragraphs)**
+- Give enough context to keep readers 
+- Last paragraph: Preview paragraph
 ### Methods (<12 paragraphs)
+- Start by setting the stage ("Study system and species")
+- Break into Experiment 1, 2, 3 or Question 1, 2, 3
+- Start with the why (which all readers care about) before the how (which only some readers care about)
+	"we tested X using Y model" rather than "we used Y model to test X"
 
 
 ### Results (<10 paragraphs)
-
-
+- If possible, maintain same structure from methods (numbered experiments or questions)
+- Most important results go in figures
+- Tell readers how different results relate to each other
+- Remind readers what acronyms are about if you only defined them in intro
+- Explain the biological meaning of results (your paper is not about modelling, it's about biology!)
+	not "the interaction was not significant" but 'the effect of X did not vary with Y"
+- Start with the biology and only after explain details "this had an effect on that (model results)" rather than "model results indicate that ..."
+- Figures are good to show patterns in data
+- Tables are good for comparisons
+- Headings and captions should be biologically meaningful
+- Headings and captions should make sense by themselves (without needing text to explain what that means)
 ### Discussion (4-8 paragraphs)
-
+- Show how results relate to werewolf
 
 ## Grant writing
 
@@ -105,7 +164,8 @@ What separates really good grants?
 - [Quarto - Guide](https://quarto.org/docs/guide/)
 
 
-**Olivia Milloway's tips**
+
+## Olivia Milloway's tips
 - Think of communicating with a 13 year old - that is when most people stop taking science classes.
 	- also useful for interdisciplinary communication!
 - Write personal journal entries - forces you out of 3rd person objective voice. Could work in a blog format.
@@ -143,4 +203,18 @@ foreigners that come do science in Brazil
 
 Send stuff to Mongabay! English, Spanish and Portuguese?
 
-[[Pixar Method]]
+### Pixar Method
+
+Imagine your story as if it was a Pixar movie:
+
+**Once upon a time,** there was a big forest that had been cut down and burned to give space for agriculture.
+
+**Every day,** farms were abandoned so new baby forests could grow on the empty land, but it was hard to predict how quickly they would grow back.
+
+**Then one day,** we decided to learn how the ways in which the land was burned and cropped would change the way the forest grows.
+
+**Because of that** we could consider how the quality of the soil can affect regrowing forests
+
+**And because of that** we can make better predictions of how these forests will grow
+
+**Until finally** we can better plan where reforestation efforts should be implemented to bring the forest back faster
