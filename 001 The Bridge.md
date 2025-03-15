@@ -15,8 +15,6 @@ dg-home: true
 ## Index
 - [[A Floresta Aleatória]]
 - [[Doing Science]]
-- [[Philosophy]]
-
 - [[Alexandria]]
 
 [[Amazonia]]

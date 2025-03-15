@@ -3,38 +3,19 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## Mar 17 : Mar 23
-
-
-
-
-![[000 Ana Did Science Today-6.png]]
+# Mar 17 : Mar 23
 
 
 
 
 
-## Mar 10 : Mar 16
+# Mar 10 : Mar 16
 
-### 15/03, Saturday - Work diary setup
-
-
-![[results_march_15]]
+## 15/03, Saturday - Research diary setup
 
 
-![[000 Ana Did Science Today-3.png]]
-
-
-![](https://i.imgur.com/PRYFa35.png)
-
-![|720x376](https://i.imgur.com/rKstY4h.png)
-Local Minima still haunt us.
 
 Testing the outcome with optim-GA
-
-
-
-Variance with and without asymptote
 
 Conceptual diagram / graphical abstract
 
@@ -46,7 +27,22 @@ forecast map
 
 conceptual diagram (list of main points)
 
+Plot the difference between the lagged model and the same curve forced through zero
 
+![[results_march_15.excalidraw]]
+
+
+### Regionality of asymptote matters
+in the Amazon, the nearest mature biomass is a much better predictor than average biomass per ecoregion, which is much better than the average biomass per climatic region (quarter)
+
+![[000 Ana Did Science Today-8.png]]
+
+![[000 Ana Did Science Today-3.png]]
+
+
+![](https://i.imgur.com/PRYFa35.png)
+
+![|720x376](https://i.imgur.com/rKstY4h.png)
 
 ## February
 
@@ -56,10 +52,6 @@ conceptual diagram (list of main points)
 ![](https://i.imgur.com/PntbO3q.jpeg)
 ![](https://i.imgur.com/fYGK61Y.png)
 ![](https://i.imgur.com/JhBuP35.png)
-
-
-
-
 
 
 ## Meeting with Brian and Jeff Cardille
@@ -75,9 +67,6 @@ time lag could not be the same for all areas - we could have a time lag map
   
 
 data from disturbed areas from erika berenger - or catherine potvin? - could be useful for disturbance estimates
-
-
-
 
 
 - consider skewness of data
@@ -111,13 +100,6 @@ Asymptote
 
 
 
-
-### AGU
-
-[[AGU]]
-
-
-
 ## Dec 2024 - Jan 2025
 - [x] Go through Fiona's edits ✅ 2024-12-29
 - [x] Send committee form ✅ 2024-12-29
@@ -125,20 +107,146 @@ Asymptote
 - [ ] Contact collaborators in Brazil
 - [ ] Contact Jacob Slusser
 - [ ] Falar com [[Costa, Flávia R. C.|Costa, Flavia]] - ask about evapotranspiration in the Amazon. If that doesn't work, talk to Sara Knox through Fiona.
- - [ ] Save data sources:
-		ERA5 = https://developers.google.com/earth-engine/datasets/catalog/ECMWF_ERA5_LAND_MONTHLY_AGGR#bands
-		https://www.sciencedirect.com/science/article/abs/pii/S0924271621001519#preview-section-abstract
-		https://github.com/et-brasil/geeSEBAL/blob/master/Examples/Image_function_geeSEBAL.ipynb
-		https://forobs.jrc.ec.europa.eu/TMF
-		https://www.conservation.org/about/annual-report\
-		Ruth Metzel
-		https://esajournals.onlinelibrary.wiley.com/doi/10.1002/eap.2208
-		http://maps.elie.ucl.ac.be/CCI/viewer/download.php
-		https://daac.ornl.gov/CMS/guides/CMS_Global_Forest_Age.html
-		https://essopenarchive.org/users/747800/articles/720021-intergovernmental-panel-on-climate-change-ipcc-tier-1-forest-biomass-estimates-from-earth-observation
-https://spatialthoughts.com/2024/02/07/agb-regression-gee/
-https://www.wdc-climate.de/ui/q?hierarchy_steps_ss=IPCC-AR6_CMIP6
-GROA reforestation
+ - [x] Save data sources: ✅ 2025-03-15
+
+
+
+## AGU
+
+
+**GEDI and Biomass Estimation**
+
+- **GEDI Errors in Savannas**: Large errors (50-100%) in areas with <60 mgC/ha.
+- **Wessels et al. (New GEDI Footprint Level Biomass Models)**:
+    - Developed models for estimating biomass in GEDI footprints that coincide with airborne lidar data.
+    - Random Forest showed strong performance.
+    - **Question for Application to Agua Salud**: How much of this can be done with Agua Salud data?
+
+**James Kellner (Updated GEDI Models)**
+
+- **GEDI Aboveground Biomass Density Release-3**:
+    - Seeking plot-level and airborne lidar data to improve coverage in underrepresented regions.
+    - **Question**: How can secondary forests be better covered?
+    - **Specific Interest**: Deciduous broadleaf forests of the tropics (e.g., Caatinga) are not yet included.
+
+**Biomass Discrepancies and Carbon Accumulation**
+
+- **Lei Ma**: Discussed future projections of carbon accumulation.
+- **Lin Xiong**: Hybrid approach with ICESat-2 and GEDI.
+    - **Observation**: ICESat-2 is more useful for filling gaps in boreal forests, while GEDI performs better in the tropics.
+
+
+**Forest Resilience and Temporal Autocorrelation**
+
+- **TAC - Scheffer et al. (2012)**:
+    - Temporal autocorrelation (lag-1) as a measure of forest resilience.
+    - Can be calculated using Landsat data.
+
+**Other Contacts and Interests**
+
+- **Evan Fricke ([evancfricke@gmail.com](mailto:evancfricke@gmail.com))**:
+    
+    - Recovery of soil carbon after biomass.
+    - Interest in palm species flexibility to disturbance.
+- **Cesar Terrer**: Recovery of soil carbon.
+- **Armando Rodriguez Montellano** (armando.rodriguez.montellano@gmail.com).
+	- MapBiomas Bolivia
+- **Pamela Templer & Gillian Bowser**
+    - potential follow-up for future collaboration
+- **Bienvenu Amani & Bruno Herault**:
+    
+    - Lessons from regional approaches (unspecified topic).
+
+**Modeling and Methods**
+
+- **Noise Addition to Models**: Consideration of adding noise to equations.
+- **Neural Networks in Hybrid Models**:
+    - Use of automatic differentiation in hybrid modeling approaches.
+
+**Jianing Fang ([jf3423@columbia.edu](mailto:jf3423@columbia.edu))**: (No specific notes given, potential follow-up for further insights).
+
+**Other People Mentioned**
+
+- **Elsa (Forest Regrowth)**: Specific details to be added later.
+- **Marcos Longo**: Relevant contributions to be clarified.
+- **White Paper (Table 6)**: Further details on white paper, and look into Avuelo project
+
+GEDI for savannas - GEDI has large errors of 50-100% in areas with less than 60 mgc /ha - New GEDI Footprint Level Biomass Models for Southern African Savannas - Wessels et al.
+- developed models to estimate biomass in GEDI footprints that coincide with airborne lidar. Random Forest did very well.
+- wonder how much of this can be done with Agua Salud?
+
+James Kellner - Updated models for release-3 GEDI aboveground biomass density. They are looking for plot-level and airborne lidar data to increase coverage in underrepresented region.
+I would like to ask him about covering better secondary forests.
+- deciduous broadleaf forests of the tropics are not included yet - caatinga?
+
+unveiling biomass discrepancies assessing land carbon
+
+Lei Ma: future projections of carbon accumulation would be interesting.
+
+Lin Xiong: hybrid approach with ICESat-2 and GEDI. ICESat -2 is more useful to fill gaps in boreal forests, gedi does better in the tropics.
+
+
+
+
+MapBiomas Bolivia
+armando.rodriguez.montellano@gmail.com
+
+
+TAC - Scheffer et al 2012 - measure of forest resilience (lag-1 temporal autocorrelation)
+- can be calculated from Landsatc
+
+
+[[Alemu Gonsamo]]
+
+[Evancfricke@gmail.com](mailto:Evancfricke@gmail.com)  
+  
+Evan fricke
+
+Recovery of soil carbon after biomass - Cesar terrer  
+  
+Palms are more flexible to disturbance
+
+https://www.naturebase.org/
+
+
+Pamela templer  
+Gillian bowser
+
+
+
+  Bienvenu Amani , Bruno herault  
+  
+Lessons from a regional.....
+  
+Adding noise to equation?  
+  
+Neural network in hybrid model  
+Automatic differentiation  
+  
+  
+Jianing Fang [jf3423@columbia.edu](mailto:jf3423@columbia.edu)
+
+
+Elsa forest regrowth  
+  
+Marcos longo  
+  
+Table 6 white paper  
+  
+Avuelo
+
+-----------
+Contest writing and art  
+Saturday Visiter awards  
+  
+Mystery of mysteries - biography Allan poe  
+Mark douidziak  
+  
+More recent Complete work  
+  
+Eapoe website
+
+
 
 ## Nov 17 : Dec - Panama
 

@@ -28,8 +28,8 @@
   "obsidian-pandoc-reference-list",
   "obsidian-pandoc",
   "dataview",
-  "obsidian-excalidraw-plugin",
   "smart-connections",
   "longform",
-  "image-converter"
+  "image-converter",
+  "obsidian-excalidraw-plugin"
 ]

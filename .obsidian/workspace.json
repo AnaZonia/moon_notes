@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0663c653f74f5d8f",
+            "id": "6887857ed3b9057b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "000 Ana Did Science Today"
-            }
-          },
-          {
-            "id": "ab96399e65251d84",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/results_march_15.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "results_march_15"
             }
           }
         ]
@@ -254,7 +242,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 337.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,44 +260,45 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9f7f1373e05d036e",
+  "active": "6887857ed3b9057b",
   "lastOpenFiles": [
-    "Excalidraw/results_march_15.md",
-    "000 Ana Did Science Today.md",
-    "Files/000 Ana Did Science Today-7.png",
+    "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "000 Chapter 1 - Predicting Regrowth in Brazil.md",
-    "000-ana-did-science-today-7.jpeg",
-    "000 Ana Did Science Today-7.png",
-    "Floresta Aleatória/variáveis-censuradas-e-truncadas-1.png",
-    "Floresta Aleatória/r-stats-1.png",
-    "Floresta Aleatória/012-inferência-bayesiana-1.gif",
-    "000 Ana Did Science Today-1.png",
-    "000-ana-did-science-today-61.png",
-    "000-ana-did-science-today-60.jpg",
-    "000-ana-did-science-today-59.jpg",
-    "Excalidraw/Sundried Tomato Pesto.md",
-    "Excalidraw/Protein mug cakes.md",
-    "Excalidraw/Obsidian.md",
-    "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
-    "Excalidraw/1 - Receitas.md",
-    "Excalidraw/Avocado sauce.md",
-    "Excalidraw/Drawing May 31st 2024.excalidraw.md",
-    "Excalidraw/Drawing Aug 17th 2024.excalidraw.md",
-    "Excalidraw/Broccoli Soup.md",
-    "Excalidraw/Scripts/Downloaded/Fixed spacing.md",
-    "Files/Ana Did Science Today.pdf",
-    "AGU.md",
-    "Agudo, Dayana.md",
-    "Wright, Joseph.md",
-    "Writing Science.md",
-    "WorldCover.md",
-    "WorldClim.md",
-    "Woman the Hunter.md",
-    "Women in academia.md",
-    "Amazonia.md",
+    "000 Ana Did Science Today.md",
+    "000 Chapter 3 - Validation with Plot Data.md",
     "002 Data Sources.md",
-    "Github.md",
-    "Meeting with Jeff Hall and Agua Salud Visit.md",
+    "Untitled 1.md",
+    "ESA CCI Global Land Cover.md",
+    "MAPBIOMAS Forest Age.md",
+    "EU TMF Forest Age.md",
+    "ForC GROA - Global Reforestation Opportunity Assessment.md",
+    "SEBAL Evapotranspiration.md",
+    "IPCC Forest Biomass and age classification (<20 and >20 years old).md",
+    "001 The Bridge.md",
+    "Conferences and Funding.md",
+    "IPCC AR6 CMIP6 - Future projections.md",
+    "ERA5 - Land Monthly Aggregated.md",
+    "Untitled.md",
+    "Excalidraw/results_march_15.excalidraw.md",
+    "AGU.md",
+    "Files/000 Ana Did Science Today-8.png",
+    "Files/Screenshot from 2025-03-14 17-11-00.png",
+    "Files/Screenshot from 2025-03-14 12-25-07.png",
+    "Files/Screenshot from 2025-03-14 12-25-19.png",
+    "000 Ana Did Science Today.svg",
+    "Excalidraw/Nitrogen Cycle Sept 27th 2023.excalidraw.md",
+    "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
+    "Excalidraw/Sundried Tomato Pesto.md",
+    "Files/Screenshot from 2025-03-14 12-24-48.png",
+    "Files/Screenshot from 2025-03-14 12-22-05.png",
+    "Files/Screenshot from 2025-03-13 17-09-51.png",
+    "Files/Screenshot from 2025-03-13 16-37-37.png",
+    "Files/Screenshot from 2025-03-13 16-26-32.png",
+    "With Broadaxe and Firebrand.md",
+    "Climate Change.md",
+    "Philosophy.md",
+    "Pré Socráticos.md",
+    "Files/Ana Did Science Today.pdf",
     "Climate Change.canvas",
     "Botany.canvas",
     "Community Ecology.canvas",
