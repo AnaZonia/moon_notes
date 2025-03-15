@@ -7,7 +7,9 @@ tags: [excalidraw]
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
-# Text Elements
+# Excalidraw Data
+
+## Text Elements
 Breakfast/snacks ^bgeaiEQP
 
 Lunch/Dinner ^Xrl8S2MY
@@ -113,982 +115,118 @@ Healthy Pizza Crusts ^gqfKIQxC
 - [[Sweet Potato]]
 - [[Chickpea Flour]] ^xrirva6U
 
-# Element Links
+## Element Links
 5QdzpMwr: [[Salads]]
+
 QYgh38C4: [[Veggies]]
+
 TEO6v5j6: [[Veggies]]
 
 %%
-# Drawing
-```json
-{
-	"type": "excalidraw",
-	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.1.1",
-	"elements": [
-		{
-			"type": "text",
-			"version": 148,
-			"versionNonce": 576100452,
-			"isDeleted": false,
-			"id": "bgeaiEQP",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -607.3478496619582,
-			"y": -392.8858288285505,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
-			"width": 317.807861328125,
-			"height": 45,
-			"seed": 482509011,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135557,
-			"link": null,
-			"locked": false,
-			"fontSize": 36,
-			"fontFamily": 1,
-			"text": "Breakfast/snacks",
-			"rawText": "Breakfast/snacks",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Breakfast/snacks",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 291,
-			"versionNonce": 1179160540,
-			"isDeleted": false,
-			"id": "Xrl8S2MY",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 225.24678979576026,
-			"y": -407.20857725268405,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
-			"width": 217.43992614746094,
-			"height": 45,
-			"seed": 439387027,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135557,
-			"link": null,
-			"locked": false,
-			"fontSize": 36,
-			"fontFamily": 1,
-			"text": "Lunch/Dinner",
-			"rawText": "Lunch/Dinner",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Lunch/Dinner",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 199,
-			"versionNonce": 204336100,
-			"isDeleted": false,
-			"id": "mVBPfW6Q",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -393.0514387796683,
-			"y": -327.1335159561729,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 216.85989379882812,
-			"height": 35,
-			"seed": 828447005,
-			"groupIds": [
-				"IQPYtSCdbsWLVGIbKWgj3"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135557,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 1,
-			"text": "Fruits and nuts",
-			"rawText": "Fruits and nuts",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Fruits and nuts",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 544,
-			"versionNonce": 115487836,
-			"isDeleted": false,
-			"id": "4PKcn2JI",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -394.25730202268903,
-			"y": -294.6514608183908,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 152.53988647460938,
-			"height": 225,
-			"seed": 481424083,
-			"groupIds": [
-				"IQPYtSCdbsWLVGIbKWgj3"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135557,
-			"link": "[[chia seed jam]]",
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "📍- apples\n- tangerines\n- bananas\n- mangoes\n- pineapple\n- fresh berries\n- nuts\n- raisin\n- chia seed jam",
-			"rawText": "- apples\n- tangerines\n- bananas\n- mangoes\n- pineapple\n- fresh berries\n- nuts\n- raisin\n- [[chia seed jam]]",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "📍- apples\n- tangerines\n- bananas\n- mangoes\n- pineapple\n- fresh berries\n- nuts\n- raisin\n- chia seed jam",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 596,
-			"versionNonce": 1993264996,
-			"isDeleted": false,
-			"id": "VfZOYAqV",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 509.07108522745375,
-			"y": -386.38153903073726,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 348.6278076171875,
-			"height": 280,
-			"seed": 891365139,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135557,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 1,
-			"text": "Bowls/burritos/enchiladas\n- 1 carb\n- 1 protein\n- 1 veggie\n- 1 salad\n- 1 cooked veggie\n- 1 dressing\n",
-			"rawText": "Bowls/burritos/enchiladas\n- 1 carb\n- 1 protein\n- 1 veggie\n- 1 salad\n- 1 cooked veggie\n- 1 dressing\n",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Bowls/burritos/enchiladas\n- 1 carb\n- 1 protein\n- 1 veggie\n- 1 salad\n- 1 cooked veggie\n- 1 dressing\n",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 680,
-			"versionNonce": 1037256924,
-			"isDeleted": false,
-			"id": "RPZ7vjGr",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -37.65923921303988,
-			"y": -290.99691470413825,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 180.2607879638672,
-			"height": 100,
-			"seed": 666044595,
-			"groupIds": [
-				"PckNIfv0YLBfrvWUmW7LI"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135557,
-			"link": "[[Lentil meat]]",
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "📍- Air fried tofu\n- TVP sauce\n- Lentil meat\n- Veggie burger",
-			"rawText": "- Air fried tofu\n- TVP sauce\n- [[Lentil meat]]\n- Veggie burger",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "📍- Air fried tofu\n- TVP sauce\n- Lentil meat\n- Veggie burger",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 433,
-			"versionNonce": 847725284,
-			"isDeleted": false,
-			"id": "rsiUoL56",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -37.65923921303988,
-			"y": -325.24042653753014,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 111.60794067382812,
-			"height": 35,
-			"seed": 1751082269,
-			"groupIds": [
-				"PckNIfv0YLBfrvWUmW7LI"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135558,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 1,
-			"text": "Proteins",
-			"rawText": "Proteins",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Proteins",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 523,
-			"versionNonce": 246271324,
-			"isDeleted": false,
-			"id": "QYgh38C4",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -62.21325736624908,
-			"y": 139.0971432266939,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 166.4598388671875,
-			"height": 150,
-			"seed": 412060285,
-			"groupIds": [
-				"bJBFGKSRSsPmtTbv-HRZJ"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135558,
-			"link": "[[Veggies]]",
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "- Mandioca\n- Yam\n- Sweet potato\n- Chickpea sticks\n- Quinoa\n- Tortilla",
-			"rawText": "- Mandioca\n- Yam\n- Sweet potato\n- Chickpea sticks\n- Quinoa\n- Tortilla",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "- Mandioca\n- Yam\n- Sweet potato\n- Chickpea sticks\n- Quinoa\n- Tortilla",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 322,
-			"versionNonce": 1441089124,
-			"isDeleted": false,
-			"id": "aWgfbV4d",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -62.21325736624908,
-			"y": 107.75301644866084,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 78.17597961425781,
-			"height": 35,
-			"seed": 1527172947,
-			"groupIds": [
-				"bJBFGKSRSsPmtTbv-HRZJ"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135558,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 1,
-			"text": "Carbs",
-			"rawText": "Carbs",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Carbs",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 650,
-			"versionNonce": 1522778588,
-			"isDeleted": false,
-			"id": "TEO6v5j6",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -679.1264857073115,
-			"y": -33.00104423424804,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 349.75970458984375,
-			"height": 75,
-			"seed": 1422454835,
-			"groupIds": [
-				"T1HFX0xDxq5FHk5KLExOy"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135558,
-			"link": "[[Veggies]]",
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "- collard greens/ginger/apple/orange\n- mango/banana/apple/orange\n- melon/mint/spinach/mango/apple",
-			"rawText": "- collard greens/ginger/apple/orange\n- mango/banana/apple/orange\n- melon/mint/spinach/mango/apple",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "- collard greens/ginger/apple/orange\n- mango/banana/apple/orange\n- melon/mint/spinach/mango/apple",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 202,
-			"versionNonce": 1974917604,
-			"isDeleted": false,
-			"id": "ziGqDOSh",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -679.1264857073115,
-			"y": -71.87494009875394,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 221.87188720703125,
-			"height": 35,
-			"seed": 2005773309,
-			"groupIds": [
-				"T1HFX0xDxq5FHk5KLExOy"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135558,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 1,
-			"text": "Smoothies/juices",
-			"rawText": "Smoothies/juices",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Smoothies/juices",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 422,
-			"versionNonce": 153560668,
-			"isDeleted": false,
-			"id": "BOeAbkkE",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -650.080835621348,
-			"y": -265.29394157849595,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 196.03982543945312,
-			"height": 150,
-			"seed": 1190335923,
-			"groupIds": [
-				"PGlqkuFTr8aK-Gn8c5IxA"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135558,
-			"link": "[[Protein mug cakes]]",
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "📍- Tofu scramble\n- Protein mug cakes\n- Protein Waffles\n- Protein chocolate\nbanana smoothie\n- Chickpea omelet",
-			"rawText": "- Tofu scramble\n- [[Protein mug cakes]]\n- [[Protein Waffles]]\n- Protein chocolate\nbanana smoothie\n- [[Chickpea omelet]]",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "📍- Tofu scramble\n- Protein mug cakes\n- Protein Waffles\n- Protein chocolate\nbanana smoothie\n- Chickpea omelet",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 151,
-			"versionNonce": 1560935780,
-			"isDeleted": false,
-			"id": "bZ9oBUVx",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -650.080835621348,
-			"y": -300.49111124617673,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 111.60794067382812,
-			"height": 35,
-			"seed": 756886845,
-			"groupIds": [
-				"PGlqkuFTr8aK-Gn8c5IxA"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135558,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 1,
-			"text": "Proteins",
-			"rawText": "Proteins",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Proteins",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "rectangle",
-			"version": 147,
-			"versionNonce": 626762323,
-			"isDeleted": false,
-			"id": "nYKlhwzq_Kec-UJlChsAY",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -712.7027244339102,
-			"y": -411.71770181853697,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
-			"width": 571.8570592331901,
-			"height": 476.3052617377836,
-			"seed": 551057149,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [],
-			"updated": 1710534747383,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "rectangle",
-			"version": 315,
-			"versionNonce": 1921628435,
-			"isDeleted": false,
-			"id": "8_tXTuwwxCILHsOinUbto",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -112.01587356560367,
-			"y": -421.3932776703414,
-			"strokeColor": "#1971c2",
-			"backgroundColor": "transparent",
-			"width": 1032.695009301639,
-			"height": 728.9483645359558,
-			"seed": 1889810419,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [],
-			"updated": 1710534717420,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 532,
-			"versionNonce": 1319762652,
-			"isDeleted": false,
-			"id": "5QdzpMwr",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 204.84232732677248,
-			"y": 37.904854038561325,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 251.59976196289062,
-			"height": 200,
-			"seed": 1864373619,
-			"groupIds": [
-				"lS6AC_RYpQgPBIEvs0kxc"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135558,
-			"link": "[[Salads]]",
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "- Kale\n- Spinach\n- Cabbage\n- shredded carrots/beets\n- tomatoes\n- avocados\n- red onions\n- bell peppers",
-			"rawText": "- Kale\n- Spinach\n- Cabbage\n- shredded carrots/beets\n- tomatoes\n- avocados\n- red onions\n- bell peppers",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "- Kale\n- Spinach\n- Cabbage\n- shredded carrots/beets\n- tomatoes\n- avocados\n- red onions\n- bell peppers",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 393,
-			"versionNonce": 1160556772,
-			"isDeleted": false,
-			"id": "vOX0xnmL",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 204.84232732677248,
-			"y": -30.994710778125466,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 177.51992797851562,
-			"height": 70,
-			"seed": 15316797,
-			"groupIds": [
-				"lS6AC_RYpQgPBIEvs0kxc"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135558,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 1,
-			"text": "Salads\n(raw veggies)",
-			"rawText": "Salads\n(raw veggies)",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Salads\n(raw veggies)",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 652,
-			"versionNonce": 1977499484,
-			"isDeleted": false,
-			"id": "WnpJaCcA",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -62.232893369096956,
-			"y": -81.84205921251947,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 193.05982971191406,
-			"height": 175,
-			"seed": 1162294781,
-			"groupIds": [
-				"k-LC5Rh3p1gXwlpxUHdHW"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135558,
-			"link": "[[Mashed Potatoes]]",
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "📍- green beans\n- carrots\n- zucchini\n- pumpkin\n- beets\n- shrooms\n- Mashed Potatoes",
-			"rawText": "- green beans\n- carrots\n- zucchini\n- pumpkin\n- beets\n- shrooms\n- [[Mashed Potatoes]]",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "📍- green beans\n- carrots\n- zucchini\n- pumpkin\n- beets\n- shrooms\n- Mashed Potatoes",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 393,
-			"versionNonce": 229438564,
-			"isDeleted": false,
-			"id": "5URwuORE",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -62.232893369096956,
-			"y": -150.43785627134196,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 438.227783203125,
-			"height": 70,
-			"seed": 976870877,
-			"groupIds": [
-				"k-LC5Rh3p1gXwlpxUHdHW"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135559,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 1,
-			"text": "Cooked veggies\n(baked with onions/garlic/spices)",
-			"rawText": "Cooked veggies\n(baked with onions/garlic/spices)",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Cooked veggies\n(baked with onions/garlic/spices)",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 566,
-			"versionNonce": 655750108,
-			"isDeleted": false,
-			"id": "oKN2B7ji",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 500.67572229493123,
-			"y": -69.80508614246469,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 250.69976806640625,
-			"height": 225,
-			"seed": 1796301043,
-			"groupIds": [
-				"vKwJcE0o22QjdCfElozvA"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135559,
-			"link": "[[Avocado sauce]]",
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "📍- Avocado sauce\n- Carrot ginger\n- Hummus\n- Tofu ricotta\n- Vegan mayo\n- Vegan cheese\n- Chinese\n- Fall Spices\n- Sundried Tomato Pesto",
-			"rawText": "- [[Avocado sauce]]\n- [[Carrot ginger]]\n- [[Hummus]]\n- [[Tofu ricotta]]\n- [[Vegan mayo]]\n- [[Vegan cheese]]\n- [[Chinese]]\n- [[Fall Spices]]\n- [[Sundried Tomato Pesto]]",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "📍- Avocado sauce\n- Carrot ginger\n- Hummus\n- Tofu ricotta\n- Vegan mayo\n- Vegan cheese\n- Chinese\n- Fall Spices\n- Sundried Tomato Pesto",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 280,
-			"versionNonce": 1951975396,
-			"isDeleted": false,
-			"id": "ZkyKABSE",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 500.67572229493123,
-			"y": -109.4055911114753,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 209.8319091796875,
-			"height": 70,
-			"seed": 1539092541,
-			"groupIds": [
-				"vKwJcE0o22QjdCfElozvA"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135559,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 1,
-			"text": "Dressings/sides\n",
-			"rawText": "Dressings/sides\n",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Dressings/sides\n",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 751,
-			"versionNonce": 811800668,
-			"isDeleted": false,
-			"id": "LkN59sSR",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 239.3767054732118,
-			"y": -300.16958653116717,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 165.13990783691406,
-			"height": 125,
-			"seed": 853465117,
-			"groupIds": [
-				"UulHzUYg2asICpfnghEXe"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135559,
-			"link": "[[Broccoli Soup]]",
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "📍\n- Broccoli Soup\n- Legume Soup\n- Strogonoff\n- Channa masala",
-			"rawText": "\n- [[Broccoli Soup]]\n- [[Legume Soup]]\n- [[Strogonoff]]\n- [[Channa masala]]",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "📍\n- Broccoli Soup\n- Legume Soup\n- Strogonoff\n- Channa masala",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 389,
-			"versionNonce": 1295919972,
-			"isDeleted": false,
-			"id": "qWP97cWp",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 240.3767054732118,
-			"y": -320.61942869088784,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 185.80792236328125,
-			"height": 35,
-			"seed": 257008829,
-			"groupIds": [
-				"UulHzUYg2asICpfnghEXe"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135559,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 1,
-			"text": "Soups/sauces",
-			"rawText": "Soups/sauces",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Soups/sauces",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 234,
-			"versionNonce": 1301785820,
-			"isDeleted": false,
-			"id": "gqfKIQxC",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 494.33952814082977,
-			"y": 186.35749677010307,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 295.119873046875,
-			"height": 35,
-			"seed": 1199097523,
-			"groupIds": [
-				"Wvr1VGUIcTM_pbLCxGt-2"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135559,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 1,
-			"text": "Healthy Pizza Crusts",
-			"rawText": "Healthy Pizza Crusts",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Healthy Pizza Crusts",
-			"lineHeight": 1.25
-		},
-		{
-			"type": "text",
-			"version": 873,
-			"versionNonce": 984293092,
-			"isDeleted": false,
-			"id": "xrirva6U",
-			"fillStyle": "solid",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 494.33952814082977,
-			"y": 221.02831756903237,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 184.5207977294922,
-			"height": 50,
-			"seed": 1468832861,
-			"groupIds": [
-				"Wvr1VGUIcTM_pbLCxGt-2"
-			],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1713564135559,
-			"link": "[[Sweet Potato]]",
-			"locked": false,
-			"fontSize": 20,
-			"fontFamily": 1,
-			"text": "📍- Sweet Potato\n- Chickpea Flour",
-			"rawText": "- [[Sweet Potato]]\n- [[Chickpea Flour]]",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "📍- Sweet Potato\n- Chickpea Flour",
-			"lineHeight": 1.25
-		}
-	],
-	"appState": {
-		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#e03131",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "solid",
-		"currentItemStrokeWidth": 2,
-		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
-		"currentItemOpacity": 100,
-		"currentItemFontFamily": 1,
-		"currentItemFontSize": 28,
-		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "arrow",
-		"scrollX": 756.0117943489374,
-		"scrollY": 548.8690872643426,
-		"zoom": {
-			"value": 0.75
-		},
-		"currentItemRoundness": "round",
-		"gridSize": null,
-		"gridColor": {
-			"Bold": "#C9C9C9FF",
-			"Regular": "#EDEDEDFF"
-		},
-		"currentStrokeOptions": null,
-		"previousGridSize": null,
-		"frameRendering": {
-			"enabled": true,
-			"clip": true,
-			"name": true,
-			"outline": true
-		}
-	},
-	"files": {}
-}
+## Drawing
+```compressed-json
+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
+
+gcrNAMAGMggBjIQAA===
 ```
 %%

@@ -8,16 +8,21 @@ dg-publish: true
 
 
 
+![[000 Ana Did Science Today-6.png]]![](https://i.imgur.com/OK2qVlS.png)
+
 
 ## Mar 10 : Mar 16
 
+
 ![[results_march_15]]
 
-![[000 Ana Did Science Today-2.png]]
+
 ![[000 Ana Did Science Today-3.png]]
 
-![[000 Ana Did Science Today-4.png]]
-![[000 Ana Did Science Today-5.png]]
+
+![](https://i.imgur.com/PRYFa35.png)
+
+![|720x376](https://i.imgur.com/rKstY4h.png)
 Local Minima still haunt us.
 
 Testing the outcome with optim-GA
@@ -40,18 +45,18 @@ conceptual diagram (list of main points)
 
 ## February
 
-![[000 Ana Did Science Today-6.png]]
-![[Screenshot from 2025-03-14 21-29-53.png]]
+![](https://i.imgur.com/H33eMuH.png)
+![](https://i.imgur.com/i7TERKX.jpeg)
+![](https://i.imgur.com/mx5Pzdw.png)
+![](https://i.imgur.com/PntbO3q.jpeg)
+![](https://i.imgur.com/fYGK61Y.png)
+![](https://i.imgur.com/JhBuP35.png)
 
-![[Screenshot from 2025-03-15 12-29-44.png]]
 
-![[Screenshot from 2025-03-15 12-30-01.png]]
 
-![[Screenshot from 2025-03-15 12-30-11.png]]
 
-![[Screenshot from 2025-03-15 12-30-18.png]]
 
-![[000 Ana Did Science Today-12.png]]
+
 ## Meeting with Brian and Jeff Cardille
 
 pick a couple places in EE to visualize how old the regrowth really is

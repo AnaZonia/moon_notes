@@ -22,7 +22,6 @@
   "obsidian-tagfolder",
   "image-captions",
   "templater-obsidian",
-  "obsidian-imgur-plugin",
   "digitalgarden",
   "obsidian-gallery",
   "better-word-count",
@@ -31,5 +30,7 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "smart-connections",
-  "longform"
+  "longform",
+  "image-converter",
+  "obsidian-imgur-plugin"
 ]

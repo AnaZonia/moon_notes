@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c2b9dcfee22c7904",
+        "id": "fae803707e134320",
         "type": "tabs",
         "children": [
           {
-            "id": "58b3392db146aba4",
+            "id": "0663c653f74f5d8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,18 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "000 Ana Did Science Today"
-            }
-          },
-          {
-            "id": "8db22f7f9389e9d5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/results_march_15.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "results_march_15"
             }
           }
         ]
@@ -132,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Chapter 1 - Predicting Regrowth in Brazil.md",
+                "file": "000 Ana Did Science Today.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -142,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 000 Chapter 1 - Predicting Regrowth in Brazil"
+              "title": "Backlinks for 000 Ana Did Science Today"
             }
           },
           {
@@ -229,7 +217,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "f068f42a2a1ada76",
@@ -254,12 +243,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "digitalgarden:Digital Garden Publication Center": false,
@@ -270,48 +257,48 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "cmdr:Open current tab in new window": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "58b3392db146aba4",
+  "active": "0663c653f74f5d8f",
   "lastOpenFiles": [
-    "Files/000 Ana Did Science Today-12.png",
-    "Files/000 Ana Did Science Today-11.png",
-    "Files/000 Ana Did Science Today-10.png",
-    "Files/000 Ana Did Science Today-9.png",
-    "Files/000 Ana Did Science Today-8.png",
-    "Files/000 Ana Did Science Today-7.png",
-    "000 Ana Did Science Today.jpeg",
-    "000 Ana Did Science Today.png",
-    "000 Ana Did Science Today.md",
-    "000 Ana Did Science Today-13.png",
-    "000 Ana Did Science Today-2.png",
-    "Floresta Aleatória/variáveis-censuradas-e-truncadas-1.png",
-    "Amazonia.md",
+    "Files/000 Ana Did Science Today-6.png",
+    "Files/000 Ana Did Science Today-5.png",
+    "Files/000 Ana Did Science Today-4.png",
+    "Files/000 Ana Did Science Today.png",
     "Excalidraw/results_march_15.md",
+    "Excalidraw/Sundried Tomato Pesto.md",
+    "Excalidraw/Protein mug cakes.md",
+    "Excalidraw/Obsidian.md",
+    "Excalidraw/Boldly Going Sept 29th 2023.excalidraw.md",
+    "Excalidraw/1 - Receitas.md",
+    "Excalidraw/Avocado sauce.md",
+    "Excalidraw/Drawing May 31st 2024.excalidraw.md",
+    "Excalidraw/Drawing Aug 17th 2024.excalidraw.md",
+    "Excalidraw/Predicting Regrowth in Central America - Project.svg",
+    "Excalidraw/Broccoli Soup.md",
+    "Excalidraw/Scripts/Downloaded/Fixed spacing.md",
+    "000 Ana Did Science Today.md",
+    "Files/000 Ana Did Science Today-3.png",
+    "Files/Ana Did Science Today.pdf",
+    "Files/Airbus.png",
+    "Files/000 Ana Did Science Today-15.png",
+    "Files/000 Ana Did Science Today-14.png",
+    "000 Chapter 1 - Predicting Regrowth in Brazil.md",
+    "Files/Screenshot from 2025-03-15 12-30-11.png",
+    "Files/Screenshot from 2025-03-15 12-29-44.png",
+    "AGU.md",
+    "Agudo, Dayana.md",
+    "Wright, Joseph.md",
+    "Writing Science.md",
+    "WorldCover.md",
+    "WorldClim.md",
+    "Woman the Hunter.md",
+    "Women in academia.md",
+    "Amazonia.md",
     "002 Data Sources.md",
     "Github.md",
-    "AGU.md",
     "Meeting with Jeff Hall and Agua Salud Visit.md",
-    "000 Chapter 1 - Predicting Regrowth in Brazil.md",
-    "MAPBIOMAS LULC.md",
-    "Conferences and Funding.md",
-    "ESA CCI Biomass.md",
-    "001 The Bridge.md",
-    "MAPBIOMAS.md",
-    "Floresta Aleatória/010 Modelagem de Efeitos Mistos.md",
-    "Floresta Aleatória/001 Introdução à Estatística.md",
-    "Floresta Aleatória/000 Prefácio.md",
-    "Data Analysis.md",
-    "Google Earth Engine.md",
-    "Excalidraw/Meal plans.md",
-    "Canadian Contributions to Climate Change - Pollution and Mining.md",
-    "Carbon Tax.md",
-    "Alemu Gonsamo.md",
-    "000 Chapter 2 - Predicting Regrowth in Panama.md",
-    "000 Chapter 3 - Validation with Plot Data.md",
-    "Alexandria.md",
     "Climate Change.canvas",
     "Botany.canvas",
     "Community Ecology.canvas",
@@ -328,7 +315,6 @@
     "Files/Prensa Neotropical - Puertos de Panamá.pdf",
     "Files/Ana Did Science Today-1.pdf",
     "Files/REDD+.pdf",
-    "Files/Ana Did Science Today.pdf",
     "Project",
     "Excalidraw/moon.svg.crdownload",
     "moon.svg.crdownload"
