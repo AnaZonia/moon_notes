@@ -5,9 +5,19 @@ dg-publish: true
 ---
 ## Mar 17 : Mar 23
 
+
+
+
+
 ## Mar 10 : Mar 16
 
+![[results_march_15]]
 
+![[000 Ana Did Science Today-2.png]]
+![[000 Ana Did Science Today-3.png]]
+
+![[000 Ana Did Science Today-4.png]]
+![[000 Ana Did Science Today-5.png]]
 Local Minima still haunt us.
 
 Testing the outcome with optim-GA
@@ -25,6 +35,12 @@ table of r squared
 forecast map
 
 conceptual diagram (list of main points)
+
+
+
+## February
+
+![[000 Ana Did Science Today-6.png]]
 
 ## Meeting with Brian and Jeff Cardille
 

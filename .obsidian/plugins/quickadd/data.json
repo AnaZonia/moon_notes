@@ -5,8 +5,8 @@
   "devMode": false,
   "templateFolderPath": "Templates",
   "announceUpdates": true,
-  "version": "1.13.0",
-  "disableOnlineFeatures": true,
+  "version": "1.11.1",
+  "disableOnlineFeatures": false,
   "enableRibbonIcon": false,
   "ai": {
     "defaultModel": "Ask me",
