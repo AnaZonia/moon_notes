@@ -7,6 +7,21 @@ dg-publish: true
 
 ### Weekly Review
 
+### Tasks
+
+**Data Analysis**
+- [ ] Testing the outcome with optim-GA
+- [ ] Plot the difference between the lagged model and the same curve forced through zero - show whether the lag makes the growth trajectory faster
+- [ ] Check if yearly climate improves predictions
+- [ ] Predict future carbon accumulation potential
+
+**Visualization**
+- [ ] Conceptual diagram / graphical abstract
+- [ ] Feature Importance Barplot
+- [ ] table of r squared
+- [ ] forecast map
+- [ ] Regrowth plot with field data with extrapolation to asymptote
+
 ### Sunday,  Mar 23, 2025
 ### Saturday, Mar 22, 2025
 
@@ -19,30 +34,26 @@ dg-publish: true
 ### Tuesday, Mar 18, 2025
 
 ### Monday, Mar 17, 2025
-### Weekly Goals
-
-**Data Analysis**
-- [ ] Testing the outcome with optim-GA
-- [ ] Plot the difference between the lagged model and the same curve forced through zero
-
-**Visualization**
-- [ ] Conceptual diagram / graphical abstract
-- [ ] Feature Importance Barplot
-- [ ] table of r squared
-- [ ] forecast map
-
-**Writing**
-- [ ] Send abstract to writing class
-- [ ] Send paper to Fiona lab
 
 
 ## Mar 10 : Mar 16 2025
 
-### Sunday, Mar 16, 2025  
+### Weekly Review
 
+Finished looking over the modelling code, and it all looks okay. Small issues can be fixed (verifying normalization, constraining lag to make sure results are consistent and avoid local minima).
+It is important to make sure writing is happening in parallel with the code verification. Now everything looks right - I can finish writing, submit, and work on commenting the code/making it publishable later.
+
+### Tasks
+**Writing**
+- [ ] Send abstract to writing class
+- [ ] Send paper to Fiona lab
+
+### Sunday, Mar 16, 2025
+
+Finishing current iteration of the paper, taking into account feedback and content from the writing class. Submitting abstract to writing class this week, and listing tasks for the week (final data confirmation and visualization)
 ### Saturday, Mar 15, 2025  
 
-
+Went over notes from the writing class and started transitioning from working only on coding to working on writing again.
 
 ![[results_march_15.excalidraw]]
 
