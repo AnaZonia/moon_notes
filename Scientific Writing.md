@@ -19,6 +19,14 @@ update: Nov 25th 2023
 - *Add subheadings* - you can always take them away later.
 - Keep terms consistent (avoid synonyms)
 - Paragraphs should connect clearly to paragraph before
+- When you zoom in, explain why (when you talked about human impacts and then mentioned surrounding forest cover, did you say why that matters?)
+- Short sentences for:
+	- The beginning of paragraphs
+	- Highlighting important points (<10 words)
+- Longer sentences for:
+	- Lists
+	- Elaboration of old information
+	- Two part sentences (By doing X, we can Y)
 
 ### Avoid:
 - Using a "back to front" sentence structure, when the verb comes late into the sentence (often involves passive voice)
@@ -29,15 +37,17 @@ update: Nov 25th 2023
 - Starting paragraphs with undefined pronouns (these, this)
 - Starting paragraphs with clauses that are the second part of an argument (nonetheless, however)
 - Paragraphs longer than 15 lines (Times 12pt)
+- Sentences longer than 40 words (keep 15-25 on average)
 - Hyperbole (extremely, massive)
 - Self-aggrandizement (exciting, unprecedented)
 - Assumptions (obviously, clearly)
 - Complicated words (prefer use to utilize)
 - Noun strings (no more than 3 nouns in a row - avoid "seed predation intensity", prefer "intensity of predation on seeds")
 - Acronyms (if needed, make them memorable)
-
-
-
+- Throwing your field under the bus (don't say everyone sucks - say how you are adding to it)
+- Terms whose meaning are not clear ("comprehensive", "systematic", if you don't explain what these terms mean in the given context)
+- Using more than one switch ('however') per paragraph
+- Non-directional words to explain relationships (prefer "increased/decreased with" to "varied, changed, differed")
 
 ### Outline
 Can help make the paper more clear, concise, and skimmable.
@@ -58,7 +68,11 @@ Each paragraph point should be:
 
 Sections should:
 - Tell the same story
-- Share structure when possible
+- Share structure when possible (what is the logic among paragraphs in a section, and among sentences in a paragraph?)
+	- chronological
+	- general to specific
+	- problem to solution
+	- least important to most important
 
 Topic sentences should:
 - Introduce the paragraph
@@ -91,17 +105,23 @@ Should follow a similar structure to the entire paper:
 **Discussion**
 - Show bigger implications
 
-### Introduction (4-6 paragraphs)
+### Introduction (4-6 paragraphs, <1200 words)
 - Get quickly to the core part of your research - background is good, but making the main point early is helpful.
 - Topics should be introduced in the first paragraph in the same order as they are talked about in the rest of the introduction
 - Issues should be introduced in the same order as questions/methods
+  
 **Context (1-2 paragraphs)**
-
+- First paragraph: Baby. Biggest picture. Defines the audience.
+- Establish importance of your topic
+- Broadly explain the werewolf
 **Need (1-2 paragraphs)**
-
+- State need for your work (knowledge gap, werewolf)
 **What you did (1-2 paragraphs)**
-- Give enough context to keep readers 
+- Give enough context to keep readers interested. Establish characters, method, place
 - Last paragraph: Preview paragraph
+	- Mention topics in the same order they came through in the introduction
+
+
 ### Methods (<12 paragraphs)
 - Start by setting the stage ("Study system and species")
 - Break into Experiment 1, 2, 3 or Question 1, 2, 3
@@ -122,7 +142,27 @@ Should follow a similar structure to the entire paper:
 - Headings and captions should be biologically meaningful
 - Headings and captions should make sense by themselves (without needing text to explain what that means)
 ### Discussion (4-8 paragraphs)
-- Show how results relate to werewolf
+- First paragraph
+	- Summarize results and their interpretation
+	- Make clear how separate results relate
+- Show how results relate to werewolf (literature context)
+	- Are they confirmatory? Contradictory?
+- Show importance of results delivering on introduction promises
+- Refer back to the figures that back up each result
+- Don't dwell too much on study limitations
+- Have only one goal per paragraph. Options are things like:
+	- Resolve inconsistent results
+	- Put results in context of literature
+	- Highlight unexpected results
+	- Discuss caveats or limitations
+	- Discuss alternative interpretations
+	- Recap how the needle has moved forward in science
+	- Suggest future avenues
+	- Conclusion (must say something new)
+
+
+
+-----------
 
 ## Grant writing
 
