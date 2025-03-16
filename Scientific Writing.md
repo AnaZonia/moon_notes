@@ -121,13 +121,11 @@ Should follow a similar structure to the entire paper:
 - Last paragraph: Preview paragraph
 	- Mention topics in the same order they came through in the introduction
 
-
 ### Methods (<12 paragraphs)
 - Start by setting the stage ("Study system and species")
 - Break into Experiment 1, 2, 3 or Question 1, 2, 3
 - Start with the why (which all readers care about) before the how (which only some readers care about)
 	"we tested X using Y model" rather than "we used Y model to test X"
-
 
 ### Results (<10 paragraphs)
 - If possible, maintain same structure from methods (numbered experiments or questions)
@@ -141,6 +139,7 @@ Should follow a similar structure to the entire paper:
 - Tables are good for comparisons
 - Headings and captions should be biologically meaningful
 - Headings and captions should make sense by themselves (without needing text to explain what that means)
+
 ### Discussion (4-8 paragraphs)
 - First paragraph
 	- Summarize results and their interpretation
