@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "000 Ana Did Science Today"
             }
+          },
+          {
+            "id": "35bc17ef1d9fe5fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scientific Writing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scientific Writing"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -260,8 +275,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0de53f79c438b4df",
+  "active": "35bc17ef1d9fe5fb",
   "lastOpenFiles": [
+    "000 Ana Did Science Today.md",
     "Scientific Writing.md",
     "Pixar Method.md",
     "Doing Science.md",
@@ -275,7 +291,6 @@
     "Aumentando a Visibilidade da Ciência Latino-Americana.md",
     "How is Bad Science Published.md",
     "Should scientists include their race, gender, or other personal details in papers.md",
-    "000 Ana Did Science Today.md",
     "Templates/Legacy/Research Article - Legacy.md",
     "Templates/Legacy/Captain's Log.md",
     "Templates/Weekly Template.md",
