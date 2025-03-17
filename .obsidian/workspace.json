@@ -35,8 +35,7 @@
               "title": "Scientific Writing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -275,10 +274,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "35bc17ef1d9fe5fb",
+  "active": "0de53f79c438b4df",
   "lastOpenFiles": [
-    "000 Ana Did Science Today.md",
     "Scientific Writing.md",
+    "000 Ana Did Science Today.md",
     "Pixar Method.md",
     "Doing Science.md",
     "001 The Bridge.md",
