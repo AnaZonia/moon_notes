@@ -20,3 +20,5 @@ dg-home: true
 [[Amazonia]]
 [[Climate Change]]
 
+https://www.learningfornature.org/en/courses/biodiversity-finance/
+https://www.learningfornature.org/en/course-offerings/

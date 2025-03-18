@@ -33,16 +33,10 @@ dg-publish: true
 
 ### Tuesday, Mar 18, 2025
 
+
 ### Monday, Mar 17, 2025
 
-
-- neighborhood effect
-- fine scale
-- anthropogenic disturbance
-- fragmentation
-- fire
-
-Predicting fine-scale forest regrowth in a fragmented, burned Amazon
+Title idea: Predicting fine-scale forest regrowth in a fragmented, burned Amazon
 
 
 

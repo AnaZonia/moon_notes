@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "468e7b705159967a",
+            "id": "c9f2f54ea4a0b934",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 318.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -287,13 +286,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "468e7b705159967a",
+  "active": "c9f2f54ea4a0b934",
   "lastOpenFiles": [
     "000 Ana Did Science Today.md",
+    "001 The Bridge.md",
     "Scientific Writing.md",
+    "Excalidraw/results_march_15.excalidraw.md",
+    "Rolling ideas.md",
     "Pixar Method.md",
     "Doing Science.md",
-    "001 The Bridge.md",
     "000 Chapter 1 - Predicting Regrowth in Brazil.md",
     "Amazon Conservation Team.md",
     "Files/Scientific Writing-1.png",
@@ -315,8 +316,6 @@
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "000 Chapter 3 - Validation with Plot Data.md",
     "002 Data Sources.md",
-    "Untitled 1.md",
-    "ESA CCI Global Land Cover.md",
     "Files/000 Ana Did Science Today-8.png",
     "Files/Screenshot from 2025-03-14 17-11-00.png",
     "Files/Screenshot from 2025-03-14 12-25-07.png",
