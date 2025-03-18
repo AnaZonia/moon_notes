@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "c9f2f54ea4a0b934",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/results_march_15.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "results_march_15.excalidraw"
-            }
-          },
-          {
             "id": "35bc17ef1d9fe5fb",
             "type": "leaf",
             "state": {
@@ -286,12 +274,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c9f2f54ea4a0b934",
+  "active": "35bc17ef1d9fe5fb",
   "lastOpenFiles": [
     "000 Ana Did Science Today.md",
-    "001 The Bridge.md",
-    "Scientific Writing.md",
     "Excalidraw/results_march_15.excalidraw.md",
+    "Scientific Writing.md",
+    "001 The Bridge.md",
     "Rolling ideas.md",
     "Pixar Method.md",
     "Doing Science.md",
