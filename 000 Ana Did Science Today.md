@@ -31,9 +31,16 @@ dg-publish: true
 
 ### Wednesday, Mar 19, 2025
 
+[[Susanna Hecht Talk]]
+
+
+![[Results Mar 19th 2025.excalidraw]]
+
 ### Tuesday, Mar 18, 2025
 
+Finished writing paper and abstract in classic format. Later start rewriting abstract in Nature format.
 
+Realized it could be an interesting argument to show how this highlights the importance of secondary forests AND mature forests for forest regrowth.
 ### Monday, Mar 17, 2025
 
 Title idea: Predicting fine-scale forest regrowth in a fragmented, burned Amazon
@@ -49,8 +56,8 @@ It is important to make sure writing is happening in parallel with the code veri
 
 ### Tasks
 **Writing**
-- [ ] Send abstract to writing class
-- [ ] Send paper to Fiona lab
+- [x] Send abstract to writing class ✅ 2025-03-19
+- [x] Send paper to Fiona lab ✅ 2025-03-19
 
 ### Sunday, Mar 16, 2025
 

@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "35bc17ef1d9fe5fb",
+            "id": "7e72bab709ef8362",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scientific Writing.md",
+                "file": "Susanna Hecht Talk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scientific Writing"
+              "title": "Susanna Hecht Talk"
             }
           }
         ],
@@ -274,11 +274,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "35bc17ef1d9fe5fb",
+  "active": "7e72bab709ef8362",
   "lastOpenFiles": [
-    "000 Ana Did Science Today.md",
-    "Excalidraw/results_march_15.excalidraw.md",
     "Scientific Writing.md",
+    "000 Ana Did Science Today.md",
+    "Excalidraw/Results Mar 19th 2025.excalidraw.md",
+    "Susanna Hecht Talk.md",
+    "Files/Pasted Image 20250319151304_064.png",
+    "Files/Pasted Image 20250319151155_498.png",
+    "Files/Pasted Image 20250319150912_550.png",
+    "Files/Screenshot from 2025-03-19 15-05-59.png",
+    "Excalidraw/results_march_15.excalidraw.md",
     "001 The Bridge.md",
     "Rolling ideas.md",
     "Pixar Method.md",
@@ -302,16 +308,10 @@
     "Naturebase.md",
     "The Nature Conservancy.md",
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
-    "000 Chapter 3 - Validation with Plot Data.md",
-    "002 Data Sources.md",
     "Files/000 Ana Did Science Today-8.png",
     "Files/Screenshot from 2025-03-14 17-11-00.png",
     "Files/Screenshot from 2025-03-14 12-25-07.png",
     "Files/Screenshot from 2025-03-14 12-25-19.png",
-    "000 Ana Did Science Today.svg",
-    "Files/Screenshot from 2025-03-14 12-24-48.png",
-    "Files/Screenshot from 2025-03-14 12-22-05.png",
-    "Files/Screenshot from 2025-03-13 17-09-51.png",
     "Files/Ana Did Science Today.pdf",
     "Climate Change.canvas",
     "Botany.canvas",
