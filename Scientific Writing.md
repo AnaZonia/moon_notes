@@ -163,6 +163,26 @@ Should follow a similar structure to the entire paper:
 
 ## Science/Nature-format writing
 
+- Methods (what you did) take a back seat to results/discussion (what you found/what that means)
+	- instead of "here's a cool model", "here's the conclusions about this and why they are exciting"
+- Need a striking result (something that makes you go "wow!")
+	- Here is how much better this model is in comparison with previous models
+	- Here is how much surrounding mature forests are important for regrowth
+- Need beautiful figures
+- Concise writing
+
+Describe your research in six words:
+- Modelling forest regrowth at local scales
+- Predicting forest regrowth given human impact
+
+Describe why your research matters in one sentence:
+- Conserving tropical forests and predicting the impacts of climate change requires reliable local-scale forest regrowth predictions.
+- Local-scale regrowth predictions improve carbon sequestration predictions and help forest management.
+- Current models do not account for local heterogeneity, impacting carbon sequestration predictions and forest management.
+
+
+
+Current tropical forest regrowth models do not account for local heterogeneity, impacting carbon sequestration predictions and forest management. Here, we develop a multivariate process-based model to improve biomass accumulation estimates at local scales in the Brazilian Amazon and Atlantic Forests. Incorporating the biomass of neighboring mature forests as an asymptote, as well as context-specific predictors such as fire frequency and surrounding mature forest cover, more than triples explained variance. Additionally, we estimate a 20-year delay between regrowth onset and its detection by remote sensing algorithms. Accounting for this delay and future climate projections, we estimate that secondary forests in the Brazilian Amazon could sequester approximately X MgC/ha over 15 years, a rate twice as high as would be expected without accounting for the delay. Our findings highlight the importance of secondary forests for carbon sequestration and the role of surrounding mature forests in promoting regrowth.
 
 
 
