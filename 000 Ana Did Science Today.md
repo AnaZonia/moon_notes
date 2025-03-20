@@ -35,6 +35,23 @@ dg-publish: true
 ### Thursday, Mar 20, 2025
 Got feedback and help on writing today.
 
+Noticed the value of the parameters were depending on the number of rows sampled from the dataframe. I am unsure what leads to the samples that make the best predictions.
+
+Noticed that with B0, the dataframe samples that lead to wildly different lag estimates have consistent B0 estimates.
+
+Something about the way that the normalized age data reacts to lag causes wildly different results with slightly different initial conditions.
+
+Is it local minima if you get consistently the same results for the exact same dataframe?
+
+-------
+
+Notice that num_fires decreases with secondary forest age. still, that was not flagged as multicollinear, since age did not explain enough variation in fires
+
+![[000 Ana Did Science Today-10.png]]
+
+
+![[000 Ana Did Science Today-9.png]]
+
 
 ### Wednesday, Mar 19, 2025
 
