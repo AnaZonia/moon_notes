@@ -10,15 +10,21 @@ dg-publish: true
 ### Tasks
 
 **Data Analysis**
-- [ ] Testing the outcome with optim-GA
-- [ ] Plot the difference between the lagged model and the same curve forced through zero - show whether the lag makes the growth trajectory faster
+- [ ] Check results with nearest neighbor asymptote
+	- [ ] finish R squared table
+- [ ] Redo XGBoost training
+- [ ] Finish feature importance calculation
+	- [ ] Feature Importance Barplots
 - [ ] Check if yearly climate improves predictions
 - [ ] Predict future carbon accumulation potential
+- [ ] Testing the outcome with optim-GA
 
 **Visualization**
-- [ ] Conceptual diagram / graphical abstract
-- [ ] Feature Importance Barplot
-- [ ] table of r squared
+- [x] Conceptual diagram / graphical abstract ✅ 2025-03-20
+- [ ] Update data table
+
+
+
 - [ ] forecast map
 - [ ] Regrowth plot with field data with extrapolation to asymptote
 
@@ -28,6 +34,10 @@ dg-publish: true
 ### Friday, Mar 21, 2025
 
 ### Thursday, Mar 20, 2025
+Maybe in the future I should:
+- Do Amazon-wide training
+- Make visual methods flowchart
+
 
 ### Wednesday, Mar 19, 2025
 
