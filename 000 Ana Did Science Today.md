@@ -11,22 +11,21 @@ dg-publish: true
 
 **Data Analysis**
 - [ ] Check results with nearest neighbor asymptote
-	- [ ] finish R squared table
+	- [ ] Finish R squared table
+	- [ ] Regrowth plot with field data with extrapolation to asymptote
 - [ ] Redo XGBoost training
 - [ ] Finish feature importance calculation
 	- [ ] Feature Importance Barplots
 - [ ] Check if yearly climate improves predictions
 - [ ] Predict future carbon accumulation potential
-- [ ] Testing the outcome with optim-GA
+	- [ ] Make forecast map
+- [ ] Test the outcome with optim-GA
+- [ ] Amazon-wide training
 
 **Visualization**
 - [x] Conceptual diagram / graphical abstract ✅ 2025-03-20
 - [ ] Update data table
-
-
-
-- [ ] forecast map
-- [ ] Regrowth plot with field data with extrapolation to asymptote
+- [ ] Visual methods flowchart?
 
 ### Sunday,  Mar 23, 2025
 ### Saturday, Mar 22, 2025
@@ -34,9 +33,7 @@ dg-publish: true
 ### Friday, Mar 21, 2025
 
 ### Thursday, Mar 20, 2025
-Maybe in the future I should:
-- Do Amazon-wide training
-- Make visual methods flowchart
+Got feedback and help on writing today.
 
 
 ### Wednesday, Mar 19, 2025
