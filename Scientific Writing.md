@@ -21,6 +21,7 @@ update: Nov 25th 2023
 - Keep terms consistent (avoid synonyms)
 - Paragraphs should connect clearly to paragraph before
 - When you zoom in, explain why (when you talked about human impacts and then mentioned surrounding forest cover, did you say why that matters?)
+- It can be helpful to change the format of your text (say, from one to two columns) and see if you notice something new that you wouldn't be able to catch otherwise.
 - Short sentences for:
 	- The beginning of paragraphs
 	- Highlighting important points (<10 words)
@@ -173,6 +174,7 @@ Should follow a similar structure to the entire paper:
 - Need beautiful figures
 - Concise writing
 - Focus on ==one key result==: other results are giving only additional information. One main message may break out into sub-findings.
+- You often don't need to say "this is the first xyz" because you often don't know. You can say just why this is cool and exciting and reasonably novel.
 
 
 
