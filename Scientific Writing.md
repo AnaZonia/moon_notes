@@ -161,6 +161,11 @@ Should follow a similar structure to the entire paper:
 
 
 
+## Science/Nature-format writing
+
+
+
+
 -----------
 
 ## Grant writing

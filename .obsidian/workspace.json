@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "7e72bab709ef8362",
+            "id": "86d6e3e01d9792da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Susanna Hecht Talk.md",
+                "file": "Scientific Writing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Susanna Hecht Talk"
+              "title": "Scientific Writing"
             }
           }
         ],
@@ -274,12 +274,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7e72bab709ef8362",
+  "active": "86d6e3e01d9792da",
   "lastOpenFiles": [
-    "Scientific Writing.md",
     "000 Ana Did Science Today.md",
-    "Excalidraw/Results Mar 19th 2025.excalidraw.md",
     "Susanna Hecht Talk.md",
+    "Scientific Writing.md",
+    "Excalidraw/Results Mar 19th 2025.excalidraw.md",
     "Files/Pasted Image 20250319151304_064.png",
     "Files/Pasted Image 20250319151155_498.png",
     "Files/Pasted Image 20250319150912_550.png",
