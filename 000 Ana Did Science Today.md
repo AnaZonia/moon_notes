@@ -32,6 +32,13 @@ dg-publish: true
 
 ### Friday, Mar 21, 2025
 
+#### Meeting with Jeff and Brian
+
+- Do we need someone specialized in biomass data?
+- We can think of a timeline. In May I can start the comparisons with the data that already exists.
+
+
+
 ### Thursday, Mar 20, 2025
 Got feedback and help on writing today.
 
@@ -39,9 +46,49 @@ Noticed the value of the parameters were depending on the number of rows sampled
 
 Noticed that with B0, the dataframe samples that lead to wildly different lag estimates have consistent B0 estimates.
 
-Something about the way that the normalized age data reacts to lag causes wildly different results with slightly different initial conditions.
+Something about the way that the normalized age data reacts to lag causes wildly different results with slightly different initial conditions. Probably local minima with the lag. To try and fix that, I will look into the way the normalized age is getting fit with the lag.
 
-Is it local minima if you get consistently the same results for the exact same dataframe?
+I wonder if adding the lag to age as a direct value and normalizing it afterwards would be a good idea.
+
+trying to normalize just the lag in the growth curve function fixed the wild variation, but is way underestimating the lag when the range of normalization isn't realistic anymore. We should constrain lag values to a max value and normalize in a range from 1 to 35+max value. When doing that is still oscillates, but much less (between 1.7 and 3.11). Still need to think more about it and constrain the local minima with proper normalization.
+
+
+
+With the normalization like this, and lag constrained only as positive on run_optim:
+
+```r
+age <- data[["age"]]
+
+age <- (age - 1)/(65-1)
+
+  
+
+if ("lag" %in% names(pars)) {
+
+pars[["B0"]] <- 0
+
+age <- age + lag
+
+age <- pmin(age, 1)
+
+}
+
+if (length(non_clim_pars) > 0) {
+
+k <- (k + rowSums(sapply(non_clim_pars, function(par) {
+
+pars[[par]] * data[[par]]
+
+}, simplify = TRUE))) * (age)
+
+}
+```
+
+![[000 Ana Did Science Today-11.png]]
+
+I expected that to not be just right, BUT what I thought was interesting is how now the predicted/no lag curve is fitting better the observed biomass in early and late years in comparison to what had been seen before on [[000 Ana Did Science Today#Saturday, Mar 15, 2025]].
+
+Tomorrow, I will clean up this script and send it to Brian for help.
 
 -------
 
