@@ -37,6 +37,7 @@ dg-publish: true
 - Do we need someone specialized in biomass data?
 - We can think of a timeline. In May I can start the comparisons with the data that already exists.
 
+Could we restore forest age from tree coring? So we have a benchmark of how old these trees are?
 
 
 ### Thursday, Mar 20, 2025
@@ -156,7 +157,7 @@ in the Amazon, the nearest mature biomass is a much better predictor than averag
 
 ![](https://i.imgur.com/H33eMuH.png)
 ![](https://i.imgur.com/i7TERKX.jpeg)
-![](https://i.imgur.com/mx5Pzdw.png)
+![|720x375](https://i.imgur.com/mx5Pzdw.png)
 ![](https://i.imgur.com/PntbO3q.jpeg)
 ![](https://i.imgur.com/fYGK61Y.png)
 ![](https://i.imgur.com/JhBuP35.png)
