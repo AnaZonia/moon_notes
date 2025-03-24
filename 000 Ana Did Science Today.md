@@ -3,6 +3,10 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+
+Opportunistic data: 
+
 ## Mar 17, 2025 : Mar 23, 2025
 
 ### Weekly Review
