@@ -5,7 +5,12 @@ dg-publish: true
 ---
 
 
-Opportunistic data: 
+Future planning:
+- future scenarios given land use changes
+- the model fit for the amazon - how well does it fit the atlantic forest?
+	- mention the atlantic forest to understand the effect of land use (quick mention in methods/results) in SI
+
+
 
 ## Mar 17, 2025 : Mar 23, 2025
 
