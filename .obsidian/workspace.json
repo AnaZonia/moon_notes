@@ -47,8 +47,7 @@
               "title": "000 Ana Did Science Today"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +114,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -286,11 +286,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "20976f0c5f80fcdb",
+  "active": "d0ebc9c2331538b0",
   "lastOpenFiles": [
-    "Excalidraw/results_march_15.excalidraw.md",
     "Rolling ideas.md",
     "000 Ana Did Science Today.md",
+    "Excalidraw/results_march_15.excalidraw.md",
     "001 The Bridge.md",
     "Scientific Writing.md",
     "Files/000 Ana Did Science Today-11.png",
