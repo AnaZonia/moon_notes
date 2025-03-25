@@ -3,12 +3,59 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## Mar 24, 2025 : Apr 6, 2025
+
+### Weekly Review
+
+### Sunday,  Apr 6, 2025
+### Saturday, Apr 5, 2025
+
+### Friday, Apr 4, 2025
+
+### Thursday, Apr 3, 2025
+
+### Wednesday, Apr 2, 2025
+
+### Tuesday, Apr 1, 2025
+
+![[000 Ana Did Science Today-14.png]]
+
+r$> calc_r2(norm_data, baseline_pred)
+[1] 0.2733325
+
+Running the same thing with age normalized (top) or unnormalized (bottom) leads to wildly
+different results, although with similar R2 values. One result is much more realistic than the other.
+
+This could be due to the initial parameters for theta, B0, and k0, which are the same for both cases
+during forward selection. Optim + genetic algorithm could be the solution to better search the parameter
+space with varying initial parameters.
 
 
+With the same initial parameters, if the equation is run again, we get wildly different responses as long as age is unnormalized.
+
+
+![[000 Ana Did Science Today-13.png]]
+
+When age is normalized, with the same initial parameters, we get consistent results
+
+![[000 Ana Did Science Today-12.png]]
+
+To be more robust, I will:
+
+- Run the model ten times and get the average and sd for each parameter
+- run it with optim_GA to avoid local minima
+
+
+
+### Monday, Mar 31, 2025
 Future planning:
 - future scenarios given land use changes
 - the model fit for the amazon - how well does it fit the atlantic forest?
 	- mention the atlantic forest to understand the effect of land use (quick mention in methods/results) in SI
+
+
+
+### Weekly Goals
 
 
 
