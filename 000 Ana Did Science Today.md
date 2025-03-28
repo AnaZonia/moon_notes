@@ -16,6 +16,12 @@ dg-publish: true
 
 ### Wednesday, Apr 2, 2025
 
+
+
+[[Elsa Ordway Talk]]
+
+
+
 ### Tuesday, Apr 1, 2025
 
 ![[000 Ana Did Science Today-14.png]]
