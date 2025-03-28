@@ -82,3 +82,7 @@ thinking of landscapes - coordinated ground, tower, airborne, and spaceborne
 
 reforestation - my main question is optimizing cost. big challenges
 regrowth - I see it is a big thing in the white paper.
+
+
+
+trevor keenan
