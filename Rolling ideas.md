@@ -13,3 +13,4 @@
 	- [Pesquisadora dedica a vida a entender a dinâmica do fogo na Amazônia - ((o))eco](https://oeco.org.br/reportagens/pesquisadora-dedica-a-vida-a-entender-a-dinamica-do-fogo-na-amazonia/)
 1. Agroforestry for nature based solutions like slope stabilization from landslides in climate change effected areas of the global south (with Katie's partnerships in El Salvador)
 2. Natural regrowth vs active planting
+3. How does the decline in carbon biomass from the forest edge change across forests (Ordway 2020 PNAS shows 100m in Borneo, I see 1km in the Amazon)
