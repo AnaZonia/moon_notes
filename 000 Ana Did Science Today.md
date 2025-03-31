@@ -3,6 +3,24 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## Apr 7, 2025 : Apr 13, 2025
+
+### Weekly Review
+
+### Sunday,  Apr 13, 2025
+### Saturday, Apr 12, 2025
+
+### Friday, Apr 11, 2025
+
+### Thursday, Apr 10, 2025
+
+### Wednesday, Apr 9, 2025
+
+### Tuesday, Apr 8, 2025
+
+### Monday, Apr 7, 2025
+### Weekly Goals
+
 ## Mar 24, 2025 : Apr 6, 2025
 
 ### Weekly Review
@@ -14,7 +32,7 @@ dg-publish: true
 
 ### Thursday, Apr 3, 2025
 
-### Wednesday, Apr 2, 2025
+### Friday, Mar 28, 2025
 
 
 
@@ -22,7 +40,7 @@ dg-publish: true
 
 
 
-### Tuesday, Apr 1, 2025
+### Tuesday, Mar 25, 2025
 
 ![[000 Ana Did Science Today-14.png]]
 
@@ -53,7 +71,7 @@ To be more robust, I will:
 
 
 
-### Monday, Mar 31, 2025
+### Monday, Mar 24, 2025
 Future planning:
 - future scenarios given land use changes
 - the model fit for the amazon - how well does it fit the atlantic forest?
@@ -76,8 +94,8 @@ Future planning:
 	- [ ] Finish R squared table
 	- [ ] Regrowth plot with field data with extrapolation to asymptote
 - [ ] Redo XGBoost training
-- [ ] Finish feature importance calculation
-	- [ ] Feature Importance Barplots
+- [x] Finish feature importance calculation ✅ 2025-03-31
+	- [x] Feature Importance Barplots ✅ 2025-03-31
 - [ ] Check if yearly climate improves predictions
 - [ ] Predict future carbon accumulation potential
 	- [ ] Make forecast map
