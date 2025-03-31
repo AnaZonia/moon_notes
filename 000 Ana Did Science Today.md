@@ -21,7 +21,8 @@ dg-publish: true
 ### Monday, Apr 7, 2025
 ### Weekly Goals
 
-## Mar 24, 2025 : Apr 6, 2025
+
+## Mar 31, 2025 : Apr 6, 2025
 
 ### Weekly Review
 
@@ -32,13 +33,26 @@ dg-publish: true
 
 ### Thursday, Apr 3, 2025
 
+### Wednesday, Apr 2, 2025
+
+### Tuesday, Apr 1, 2025
+
+### Monday, Mar 31 2025
+
+
+
+
+
+### Weekly Goals
+
+
+
+
+## Mar 24, 2025 : Apr 6, 2025
+
 ### Friday, Mar 28, 2025
 
-
-
 [[Elsa Ordway Talk]]
-
-
 
 ### Tuesday, Mar 25, 2025
 
