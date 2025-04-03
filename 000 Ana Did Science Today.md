@@ -3,6 +3,9 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+Google scholar alerts
+
+
 ## Apr 7, 2025 : Apr 13, 2025
 
 ### Weekly Review
