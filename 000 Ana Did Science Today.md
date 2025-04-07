@@ -15,31 +15,6 @@ write down future ideas
 - recomendations policy
 
 
-draft 3 letters - brian, michelle, fred
-
-
-brian
-- modelling of her project is rigorous
-- she has a lot of ideas
-- she takes initiative and goes after the things she is interested in
-- in the future shows the signs of a promising scientist and has potential for leadership in the field
-- Panama work and is passionate about work in Latin America
-
-
-michelle
-- her project is cool, two supervisors who complement each other's knowledge well
-- biologically complex system and very complex work
-- I can see her returning to Brazil to be a leader in this field and she is in contact also with people across the global north and south 
-
-
-fred
-- known her since undergrad and she tried really hard
-- she is an elite phd program and I recommended her to the phd program
-- got a fancy provincial fellowship
-- she came straight from undergrad and did one year of rotations in the beginning, and there were delays due to COVID.
-
-
-
 ## Apr 7, 2025 : Apr 13, 2025
 
 ### Weekly Review
