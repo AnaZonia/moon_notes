@@ -5,6 +5,19 @@ dg-publish: true
 ---
 Google scholar alerts
 
+write down future ideas
+- unified biomass product, and unified age product?
+
+
+- brazil model
+- techy paper
+- panama model
+- recomendations policy
+
+
+
+
+
 
 ## Apr 7, 2025 : Apr 13, 2025
 
