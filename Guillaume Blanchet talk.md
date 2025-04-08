@@ -4,7 +4,7 @@ stardate: Apr 8th 2025
 update: Apr 8th 2025
 dg-publish: true
 ---
-- Postdoc in sustainable resource management - am curious to hear about it.
+- PhD in renewable resources - am curious to hear about it.
 
 Metacommunity Ecology - Leibold & Chase (main text in metacommunity ecology)
 
@@ -24,7 +24,6 @@ only space -> neutral patch
 both -> species sorting or mass effect
 
 *Partial canonical ordinations* are used to test fractions.
-
 
 Hard to know how co-distribution doesn't mean interaction -> 
 
@@ -50,3 +49,6 @@ Multivariate hierarchical model, we can link the parameters from theory to data.
 Theoretically interpretable parameters.
 
 Theory can help inform the limits to the ecology that you can infer from your system
+
+Data integration -> use different types of data together to build a better model.
+- May be able to integrate collar tracking and sighting data.
