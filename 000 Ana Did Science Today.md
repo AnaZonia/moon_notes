@@ -15,6 +15,14 @@ write down future ideas
 - recomendations policy
 
 
+
+
+
+[[Guillaume Blanchet talk]]
+
+
+
+
 ## Apr 7, 2025 : Apr 13, 2025
 
 ### Weekly Review
