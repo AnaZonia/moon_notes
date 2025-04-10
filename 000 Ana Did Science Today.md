@@ -3,16 +3,35 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-Google scholar alerts
+
+
+David Vasseur - Yale University
+Tried to understand how population dynamics in temperature change would depend on temperature acclimation. They did a cool experiment with green algae acclimated at different temperatures to see if they can predict the growth rates based on temperature. There usually is a right-skewed distribution in temperature vs resource relationships. That distribution may be due to a gaussian curve of energy obtained subtracting an exponentially increasing metabolic cost curve.
+
+Under limited resources, the curves narrow and shift to colder temperatures. I wonder why.
+
+If resource availability changes with temperature, that could explain shifts in the curve due to acclimation. Uptake < assimilation of resources depends on temperature.
+
+- How to connect thermal performance curves to a population-dynamics-based assessment of extinction risk?
+
+Population models assume constant density-dependence (carrying capacity = K), but K changes with temperature. It follows a trajectory that matches that of the growth rate (unimodal, right-skewed), with the same x-intercepts.
+
+![[000 Ana Did Science Today-15.png]]
+
+
+This work can help estimate at which values, given acclimated temperature, where are the boundaries where temperature change may bring certain extinction, likely extinction, or unlikely extinction.
+
+Really cool job at predicting the boundary within temperatures where populations of paramecium would go extinct and where they would persist. They make theoretical models, and then experiments in labs for testing their models.
+
+I wonder where would this work go next.
+- what happens at higher temperatures, where they don't have data for yet
+- the fre
+
+
+
 
 write down future ideas
 - unified biomass product, and unified age product?
-
-
-- brazil model
-- techy paper
-- panama model
-- recomendations policy
 
 
 
