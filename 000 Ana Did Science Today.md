@@ -23,9 +23,7 @@ This work can help estimate at which values, given acclimated temperature, where
 
 Really cool job at predicting the boundary within temperatures where populations of paramecium would go extinct and where they would persist. They make theoretical models, and then experiments in labs for testing their models.
 
-I wonder where would this work go next.
-- what happens at higher temperatures, where they don't have data for yet
-- the fre
+I wonder where would this work go next. One is what happens at higher temperatures, where they don't have data for yet.
 
 
 
