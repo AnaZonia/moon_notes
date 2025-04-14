@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "000 Ana Did Science Today"
             }
+          },
+          {
+            "id": "da7ff3aff77f03d6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing Apr 14th 2025.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing Apr 14th 2025.excalidraw"
+            }
           }
         ]
       }
@@ -260,8 +272,10 @@
   },
   "active": "d0ebc9c2331538b0",
   "lastOpenFiles": [
-    "Templates/Weekly Template.md",
+    "Excalidraw/Drawing Apr 14th 2025.excalidraw.md",
     "000 Ana Did Science Today.md",
+    "Files/Pasted Image 20250414124640_795.png",
+    "Templates/Weekly Template.md",
     "Files/000 Ana Did Science Today-15.png",
     "Elsa Ordway Talk.md",
     "Guillaume Blanchet talk.md",
@@ -277,7 +291,6 @@
     "Files/Pasted Image 20250325135520_268.png",
     "Files/Pasted Image 20250325135427_702.png",
     "Files/Pasted Image 20250325134605_738.png",
-    "Files/Pasted Image 20250325134605_667.png",
     "Scientific Writing.md",
     "A pillar of the climate-smart agriculture movement is on shaky ground.md",
     "Susanna Hecht Talk.md",
@@ -294,7 +307,6 @@
     "Templates/Legacy/Research Article - Legacy.md",
     "Templates/Legacy/Captain's Log.md",
     "Templates/2 New Scroll.md",
-    "Templates/3 Data Source.md",
     "Files/Ana Did Science Today.pdf",
     "Climate Change.canvas",
     "Botany.canvas",

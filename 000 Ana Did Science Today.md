@@ -4,9 +4,11 @@ up:
 dg-publish: true
 ---
 
+
+[[Drawing Apr 14th 2025.excalidraw]]
+
 deforestation model
 - presidents can change behaviors. would that change the relative probability of deforestation?
-
 
 rates are different in different places
 
@@ -21,16 +23,10 @@ point out in discussion to biodiversity
 
 what about future economic scenarios?
 - what if the demand for beef drops by 30%?
-- 
-
 
 - catherine potvin has looked at places good for agroforestry - considering slope and such.
 
-
-
 check whether some of the young forests are being missed by mapbiomas 
-
-
 
 write down future ideas
 - unified biomass product, and unified age product?
