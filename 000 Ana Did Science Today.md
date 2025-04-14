@@ -4,6 +4,55 @@ up:
 dg-publish: true
 ---
 
+deforestation model
+- presidents can change behaviors. would that change the relative probability of deforestation?
+
+
+rates are different in different places
+
+make regrowth potential map
+- everything that is currently pasture
+- everything that is pasture near a mature forest
+
+top 20% percentile of regrowth potential and turns that to forest
+vs 20 random %, what is the difference in outcome?
+
+point out in discussion to biodiversity
+
+what about future economic scenarios?
+- what if the demand for beef drops by 30%?
+- 
+
+
+- catherine potvin has looked at places good for agroforestry - considering slope and such.
+
+
+
+check whether some of the young forests are being missed by mapbiomas 
+
+
+
+write down future ideas
+- unified biomass product, and unified age product?
+
+
+
+
+% all results with theta = 1 and optim gm
+% fit secondarily with the field data
+% get R2 with predicted values for field plots
+% climate history and future projections
+
+
+
+
+
+
+
+
+
+
+
 
 David Vasseur - Yale University
 Tried to understand how population dynamics in temperature change would depend on temperature acclimation. They did a cool experiment with green algae acclimated at different temperatures to see if they can predict the growth rates based on temperature. There usually is a right-skewed distribution in temperature vs resource relationships. That distribution may be due to a gaussian curve of energy obtained subtracting an exponentially increasing metabolic cost curve.
@@ -24,12 +73,6 @@ This work can help estimate at which values, given acclimated temperature, where
 Really cool job at predicting the boundary within temperatures where populations of paramecium would go extinct and where they would persist. They make theoretical models, and then experiments in labs for testing their models.
 
 I wonder where would this work go next. One is what happens at higher temperatures, where they don't have data for yet.
-
-
-
-
-write down future ideas
-- unified biomass product, and unified age product?
 
 
 
