@@ -39,8 +39,9 @@ write down future ideas
 % get R2 with predicted values for field plots
 % climate history and future projections
 
+can't say yet that it is associated with faster regrowth because I have not added information on the direction of the parameter. Showing that the parameter is strongly positive could be an interesting addition
 
-
+do a quick t-test with few points just to see if there is a difference between biomass per age inside and outside protected areas and indigenous areas
 
 
 
