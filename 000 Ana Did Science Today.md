@@ -5,6 +5,29 @@ dg-publish: true
 ---
 
 
+
+
+
+With optim_ga,
+
+r$> ini_par
+        B0       k0    theta
+1  80.0000 1.000000 2.000000
+2 154.8099 1.643084 1.441856
+3 104.6313 1.457548 1.035528
+4 129.9172 1.786601 2.950063
+
+this was the initial parameters and this was the output
+
+        lk           B0       k0   theta
+5571.213 5.868354e-07 2.946227 4.49288
+
+
+Keeping theta as 1 and moving on with the same method as before.
+
+
+
+
 [[Drawing Apr 14th 2025.excalidraw]]
 
 deforestation model
