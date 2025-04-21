@@ -3,10 +3,59 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## Apr 28, 2025 : May 4, 2025
+
+### Sunday, May 4, 2025
+### Saturday, May 3, 2025
+
+### Friday, May 2, 2025
+
+### Thursday, May 1, 2025
+
+### Wednesday, Apr 30, 2025
+
+### Tuesday, Apr 29, 2025
+### Monday, Apr 28, 2025
+
+### Weekly Goals
+
+## Apr 21 : Apr 27, 2025
+
+### Sunday, Apr 27, 2025
+### Saturday, Apr 26, 2025
+
+### Friday, Apr 25, 2025
+
+### Thursday, Apr 24, 2025
+
+#### Talk to Hannah
+Smaller groups within PANGEA – depending on interest/background/research area (africa/neotropics) 
+
+People out of the biological sciences – interdisciplinary work – may feel less included. 
+
+Shared repository of people names and backgrounds and interests. 
+
+Repository of resources for funding and spreadsheets 
+
+The idea is to help people from the global south feel less intimidated. 
+
+ESA Water Cooler Chat – themed conversations  
+
+Office hours with later career person about the CAREER, not as much about the work they do. 
+
+Undergrad looking at forest gain
+
+### Wednesday, Apr 23, 2025
+
+### Tuesday, Apr 22, 2025
+### Monday, Apr 21, 2025
+
+### Weekly Goals
 
 
 
 
+## Apr 6 : Apr 21, 2025 
 
 With optim_ga,
 
@@ -75,7 +124,7 @@ GIC grant
 
 
 
-David Vasseur - Yale University
+#### David Vasseur - Yale University
 Tried to understand how population dynamics in temperature change would depend on temperature acclimation. They did a cool experiment with green algae acclimated at different temperatures to see if they can predict the growth rates based on temperature. There usually is a right-skewed distribution in temperature vs resource relationships. That distribution may be due to a gaussian curve of energy obtained subtracting an exponentially increasing metabolic cost curve.
 
 Under limited resources, the curves narrow and shift to colder temperatures. I wonder why.
@@ -100,51 +149,6 @@ I wonder where would this work go next. One is what happens at higher temperatur
 
 
 [[Guillaume Blanchet talk]]
-
-
-
-
-## Apr 7, 2025 : Apr 13, 2025
-
-### Weekly Review
-
-### Sunday,  Apr 13, 2025
-### Saturday, Apr 12, 2025
-
-### Friday, Apr 11, 2025
-
-### Thursday, Apr 10, 2025
-
-### Wednesday, Apr 9, 2025
-
-### Tuesday, Apr 8, 2025
-
-### Monday, Apr 7, 2025
-### Weekly Goals
-
-
-## Mar 31, 2025 : Apr 6, 2025
-
-### Weekly Review
-
-### Sunday,  Apr 6, 2025
-### Saturday, Apr 5, 2025
-
-### Friday, Apr 4, 2025
-
-### Thursday, Apr 3, 2025
-
-### Wednesday, Apr 2, 2025
-
-### Tuesday, Apr 1, 2025
-
-### Monday, Mar 31 2025
-
-
-
-
-
-### Weekly Goals
 
 
 

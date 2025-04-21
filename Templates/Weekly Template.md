@@ -1,17 +1,35 @@
-## <% tp.date.now("MMM D, YYYY", 2 - tp.date.now("d", 1)) %> : <% tp.date.now("MMM D, YYYY", ((8 - tp.date.now("d")) % 7 || 7) + 6) %>
+<%*
+const today = tp.date.now("YYYY-MM-DD");
+const dayOfWeek = tp.date.now("d"); // 0=Sunday, 1=Monday, ..., 6=Saturday
 
-### Weekly Review
+// Calculate days until next Monday
+// If today is Monday (1), next Monday is 7 days later
+const daysUntilNextMonday = (8 - dayOfWeek) % 7 || 7;
 
-### Sunday,  <% tp.date.now("MMM D, YYYY", ((8 - tp.date.now("d")) % 7 || 7) + 6) %>
-### Saturday, <% tp.date.now("MMM D, YYYY", ((8 - tp.date.now("d")) % 7 || 7) + 5) %>
+// Get next Monday date
+const nextMonday = tp.date.now("YYYY-MM-DD", daysUntilNextMonday);
 
-### Friday, <% tp.date.now("MMM D, YYYY", ((8 - tp.date.now("d")) % 7 || 7) + 4) %>
+// Get next Sunday date (6 days after next Monday)
+const nextSunday = tp.date.now("YYYY-MM-DD", daysUntilNextMonday + 6);
 
-### Thursday, <% tp.date.now("MMM D, YYYY", ((8 - tp.date.now("d")) % 7 || 7) + 3) %>
+// Format range string
+const startRange = tp.date.now("MMM D, YYYY", daysUntilNextMonday);
+const endRange = tp.date.now("MMM D, YYYY", daysUntilNextMonday + 6);
+const weekRange = `${startRange} : ${endRange}`;
+%>
 
-### Wednesday, <% tp.date.now("MMM D, YYYY", ((8 - tp.date.now("d")) % 7 || 7) + 2) %>
+## <%* tR += weekRange %>
 
-### Tuesday, <% tp.date.now("MMM D, YYYY", ((8 - tp.date.now("d")) % 7 || 7) + 1) %>
+### Sunday, <%* tR += tp.date.now("MMM D, YYYY", daysUntilNextMonday + 6) %>
+### Saturday, <%* tR += tp.date.now("MMM D, YYYY", daysUntilNextMonday + 5) %>
 
-### Monday, <% tp.date.now("MMM D, YYYY", (8 - tp.date.now("d")) % 7 || 7) %>
+### Friday, <%* tR += tp.date.now("MMM D, YYYY", daysUntilNextMonday + 4) %>
+
+### Thursday, <%* tR += tp.date.now("MMM D, YYYY", daysUntilNextMonday + 3) %>
+
+### Wednesday, <%* tR += tp.date.now("MMM D, YYYY", daysUntilNextMonday + 2) %>
+
+### Tuesday, <%* tR += tp.date.now("MMM D, YYYY", daysUntilNextMonday + 1) %>
+### Monday, <%* tR += tp.date.now("MMM D, YYYY", daysUntilNextMonday) %>
+
 ### Weekly Goals
