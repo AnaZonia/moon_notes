@@ -33,7 +33,8 @@
               "title": "Drawing Apr 14th 2025.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -117,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Excalidraw/Drawing Apr 14th 2025.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000 Ana Did Science Today"
+              "title": "Outline of Drawing Apr 14th 2025.excalidraw"
             }
           },
           {
@@ -242,12 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Excalidraw/Drawing Apr 14th 2025.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 000 Ana Did Science Today"
+              "title": "Outgoing links from Drawing Apr 14th 2025.excalidraw"
             }
           }
         ]
@@ -270,10 +272,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d0ebc9c2331538b0",
+  "active": "da7ff3aff77f03d6",
   "lastOpenFiles": [
-    "Excalidraw/Drawing Apr 14th 2025.excalidraw.md",
     "000 Ana Did Science Today.md",
+    "Excalidraw/Drawing Apr 14th 2025.excalidraw.md",
     "Files/Pasted Image 20250414124640_795.png",
     "Templates/Weekly Template.md",
     "Files/000 Ana Did Science Today-15.png",
