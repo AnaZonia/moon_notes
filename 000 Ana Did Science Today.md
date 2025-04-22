@@ -49,7 +49,22 @@ Undergrad looking at forest gain
 
 ### Tuesday, Apr 22, 2025
 
-If we just reforest the best 20% vs random 20%
+- Organize 0_groa_field_data
+	- get the values aggregated by age (mean and spread, check the plots)
+	- check area of each plot and how that compares to 30m mapbiomas resolution
+	- check whether the average biomass per age really is that close to the model predictions
+	- check whether the predicted agbd values for each pixel are also all so much greater than the observed for all pixels
+- Get table of R2 values for the paper with different included factors
+- Check whether inclusion of climate history makes a difference
+- Make predictions for the future
+	- prepare CMIP6 data
+	- select 20% pasturelands with best growth potential
+	- select random 20% pasturelands
+	- make predictions for 3 climate scenarios and 3 potentials (pasture1, pasture2, and secondary)
+	- for those, make maps and get total values
+
+
+
 
 
 
