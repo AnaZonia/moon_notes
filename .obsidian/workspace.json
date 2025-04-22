@@ -22,18 +22,21 @@
             }
           },
           {
-            "id": "da7ff3aff77f03d6",
+            "id": "2815608161119244",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing Apr 14th 2025.excalidraw.md"
+                "file": "Github.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing Apr 14th 2025.excalidraw"
+              "icon": "lucide-file",
+              "title": "Github"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Github.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000 Ana Did Science Today"
+              "title": "Outline of Github"
             }
           },
           {
@@ -242,12 +245,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 000 Ana Did Science Today"
+              "title": "Outgoing links from Github"
             }
           }
         ]
@@ -270,10 +273,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d0ebc9c2331538b0",
+  "active": "2815608161119244",
   "lastOpenFiles": [
-    "Templates/Weekly Template.md",
     "000 Ana Did Science Today.md",
+    "Templates/Weekly Template.md",
     "Excalidraw/Drawing Apr 14th 2025.excalidraw.md",
     "Files/Pasted Image 20250414124640_795.png",
     "Files/000 Ana Did Science Today-15.png",
