@@ -48,6 +48,11 @@ Undergrad looking at forest gain
 ### Wednesday, Apr 23, 2025
 
 ### Tuesday, Apr 22, 2025
+
+If we just reforest the best 20% vs random 20%
+
+
+
 ### Monday, Apr 21, 2025
 
 ### Weekly Goals
