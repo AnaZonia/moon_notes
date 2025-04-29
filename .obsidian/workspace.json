@@ -35,8 +35,7 @@
               "title": "Github"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Github.md",
+                "file": "000 Ana Did Science Today.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Github"
+              "title": "Outline of 000 Ana Did Science Today"
             }
           },
           {
@@ -245,12 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Github.md",
+                "file": "000 Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Github"
+              "title": "Outgoing links from 000 Ana Did Science Today"
             }
           }
         ]
@@ -273,8 +272,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2815608161119244",
+  "active": "d0ebc9c2331538b0",
   "lastOpenFiles": [
+    "Github.md",
     "000 Ana Did Science Today.md",
     "Templates/Weekly Template.md",
     "Excalidraw/Drawing Apr 14th 2025.excalidraw.md",
