@@ -12,22 +12,6 @@ dg-publish: true
 
 ### Thursday, May 1, 2025
 
-### Wednesday, Apr 30, 2025
-
-### Tuesday, Apr 29, 2025
-### Monday, Apr 28, 2025
-
-### Weekly Goals
-
-## Apr 21 : Apr 27, 2025
-
-### Sunday, Apr 27, 2025
-### Saturday, Apr 26, 2025
-
-### Friday, Apr 25, 2025
-
-### Thursday, Apr 24, 2025
-
 #### Talk to Hannah
 Smaller groups within PANGEA – depending on interest/background/research area (africa/neotropics) 
 
@@ -44,8 +28,21 @@ ESA Water Cooler Chat – themed conversations  
 Office hours with later career person about the CAREER, not as much about the work they do. 
 
 Undergrad looking at forest gain
+### Wednesday, Apr 30, 2025
 
-### Wednesday, Apr 23, 2025
+### Tuesday, Apr 29, 2025
+
+Quarter average as asymptote
+**![[000 Ana Did Science Today-18.png]]**
+Ecoreg average as asymptote
+![[000 Ana Did Science Today-16.png]]
+
+Nearest neighbor as asymptote
+
+![[000 Ana Did Science Today-19.png]]
+### Weekly Goals
+
+## Apr 21 : Apr 27, 2025
 
 ### Tuesday, Apr 22, 2025
 
