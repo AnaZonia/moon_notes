@@ -37,9 +37,23 @@ Quarter average as asymptote
 Ecoreg average as asymptote
 ![[000 Ana Did Science Today-16.png]]
 
-Nearest neighbor as asymptote
+Nearest neighbor as asymptote (same results were observed with and without 5-fold cross validation)
 
 ![[000 Ana Did Science Today-19.png]]
+
+#### Field data
+Out of the 582 measurements in Brazil, 244 come from plots measured more than once:
+ 2  4 10 12 28 (n measurements)
+18  3 10  1  3 (n plots)
+
+![[000 Ana Did Science Today-20.png]]
+
+
+^from plots with repeated measurements
+
+![[000 Ana Did Science Today-21.png]]
+^from all plots in Brazil (red dots are averages per age)
+
 ### Weekly Goals
 
 ## Apr 21 : Apr 27, 2025
