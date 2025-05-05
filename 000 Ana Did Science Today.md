@@ -3,12 +3,16 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+
+
+- only adding new predictors changes ONLY the growth rate, not the asymptote. that is an untrue asumption, and it could be interesting to find papers that explain that there is reason to expect max biomass to vary below the level of the RESOLVE ecoregions. (explain why not autocorrelation)
+- Advantages of illustrating asymptote first vs feature importance first: barchart with increase in variance explained by each added predictor.
+	- the model with just the increase in variance explained by local predictors, although it captures some variation in the first years, it will settle all curves at the SAME FINAL VALUE which is just incorrect. It is fair to expect that a forest will look like its old neighbors once it's old.
+
+
+
 ## Apr 28, 2025 : May 4, 2025
-
-### Sunday, May 4, 2025
-### Saturday, May 3, 2025
-
-### Friday, May 2, 2025
 
 ### Thursday, May 1, 2025
 
