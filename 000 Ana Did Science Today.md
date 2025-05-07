@@ -6,6 +6,21 @@ dg-publish: true
 
 
 
+- communication needs to be done in a way to match what the person you're speaking to can understand
+- more budget cuts mean less money for curiosity-driven science - need to invest around for a target outcome. keeping a balance between uncertain exploreation around a target.
+- there is research around what is the best way to communicate climate with people. following that research can be helpful
+- most scientists don't know how to put their science out there (take it out of the bookshelf)
+- people rely on people from their own community - having people within to communicate can be really helpful.
+- building trust in science is important - can be a cultural thing
+- solutions that make financial sense may not be backed by subsidies and structures.
+- quantifying the positive results of efforts like debt for nature swaps can help keep the money coming and well spent and preventing greenwashing. She did an interview on harvard business review about it. Andy's GeoBON is helpful for that.
+- making sustainable alternatives profitable. other concerns coming up, money becoming more strict for this research. there needs to be new structures and some ability for return. there needs to be 
+
+
+
+
+
+
 - only adding new predictors changes ONLY the growth rate, not the asymptote. that is an untrue asumption, and it could be interesting to find papers that explain that there is reason to expect max biomass to vary below the level of the RESOLVE ecoregions. (explain why not autocorrelation)
 - Advantages of illustrating asymptote first vs feature importance first: barchart with increase in variance explained by each added predictor.
 	- the model with just the increase in variance explained by local predictors, although it captures some variation in the first years, it will settle all curves at the SAME FINAL VALUE which is just incorrect. It is fair to expect that a forest will look like its old neighbors once it's old.
