@@ -4,7 +4,7 @@ up:
 stardate: Sep 30th 2023
 update: Oct 8th 2023
 ---
-
+azon
 ## First steps
 - Always have a virtual environment. Conda is a sort of a manager for packages and virtual environments, but it's unnecessary - everything can be managed easily with pip and venv.
 
