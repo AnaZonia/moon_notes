@@ -9,6 +9,9 @@ I want to save a file compiling the parameters that are NOT included as a list.
 
 - how should I handle categorical variables and yearly predictors in the AIC?
 
+Make a solid map of regrowth capacity for the entire Amazon. Pick one value per 10km since that is what shows well in the map.
+
+
 Checked if AIC is performing the way it should. What seemed strange to me is that the climatic variables that are always important did not show as being some of the first picks - will confirm if the aligning of the data is right, if other data works better. AIC and feature selection seems to be working fine.
 
 Will confirm if the script that adds climatic variables yearly is correct in the growth_curve function. it seems like no climatic predictors are being included when sur_cover is included, which could explain why we see no improvement when adding yearly climatic predictors.
