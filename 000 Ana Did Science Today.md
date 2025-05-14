@@ -3,8 +3,11 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+Need older history to include climate in years before 1985 if the lag is greater for the latest years
 
+I want to save a file compiling the parameters that are NOT included as a list.
 
+- how should I handle categorical variables and yearly predictors in the AIC?
 
 Checked if AIC is performing the way it should. What seemed strange to me is that the climatic variables that are always important did not show as being some of the first picks - will confirm if the aligning of the data is right, if other data works better. AIC and feature selection seems to be working fine.
 
