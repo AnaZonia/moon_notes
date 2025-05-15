@@ -3,6 +3,13 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+
+Book computer time at GIC
+
+Transfer files
+
+
 Need older history to include climate in years before 1985 if the lag is greater for the latest years
 
 I want to save a file compiling the parameters that are NOT included as a list.
