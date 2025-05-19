@@ -7,7 +7,12 @@ dg-publish: true
 
 Main goal for today is still to get the maps for the Amazon and the pastureland. getting started on Amazon-wide map, and writing points to discuss with Brian later.
 
-
+Visualization scripts
+- feature importance plots
+- intercept/lag comparison
+- barplots(20% best pasture, random 20% pasture, all secondary, all protected areas)
+- field curve comparing lag vs intercept results
+	- observed vs predicted
 
 
 
