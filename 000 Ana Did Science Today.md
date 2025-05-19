@@ -5,9 +5,10 @@ dg-publish: true
 ---
 
 
-Book computer time at GIC
+Main goal for today is still to get the maps for the Amazon and the pastureland. getting started on Amazon-wide map, and writing points to discuss with Brian later.
 
-Transfer files
+
+
 
 
 Need older history to include climate in years before 1985 if the lag is greater for the latest years
