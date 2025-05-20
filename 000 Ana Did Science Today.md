@@ -3,7 +3,7 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-Pasture_area needs to be improved with a grid. that's a future problem.
+Later check if normalization is being done correctly for yearly climate data
 
 Main goal for today is still to get the maps for the Amazon and the pastureland. getting started on Amazon-wide map, and writing points to discuss with Brian later.
 
