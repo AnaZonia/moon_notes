@@ -3,9 +3,51 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-Later check if normalization is being done correctly for yearly climate data
 
-Main goal for today is still to get the maps for the Amazon and the pastureland. getting started on Amazon-wide map, and writing points to discuss with Brian later.
+
+
+## May 26, 2025 : Jun 1, 2025
+
+### Sunday, Jun 1, 2025
+### Saturday, May 31, 2025
+
+### Friday, May 30, 2025
+
+### Thursday, May 29, 2025
+
+### Wednesday, May 28, 2025
+
+### Tuesday, May 27, 2025
+### Monday, May 26, 2025
+
+### Weekly Goals
+
+
+
+
+
+
+- save coefficients of climatic factors with different asymptotes
+- improve asymptote (check areas of "boundaries" and how to smooth them over)
+
+is more error found in:
+- slower areas?
+ - areas of lower initial biomass?
+
+Yearly climate data
+- Get older history for TerraClim
+- Check if units are correct for CMIP6 data
+- Check normalization/addition into growth curve
+
+  
+
+Last few questions for Brian
+- how should I handle categorical variables and yearly predictors in the AIC?
+- I want to save a file compiling the parameters that are NOT included as a list - make sure that it is behaving as expected.
+
+
+
+
 
 Visualization scripts
 - feature importance plots
@@ -16,11 +58,11 @@ Visualization scripts
 
 
 
-Need older history to include climate in years before 1985 if the lag is greater for the latest years
 
-I want to save a file compiling the parameters that are NOT included as a list.
 
-- how should I handle categorical variables and yearly predictors in the AIC?
+
+
+Main goal for today is still to get the maps for the Amazon and the pastureland. getting started on Amazon-wide map, and writing points to discuss with Brian later.
 
 Make a solid map of regrowth capacity for the entire Amazon. Pick one value per 10km since that is what shows well in the map.
 
@@ -34,10 +76,10 @@ Will confirm if the script that adds climatic variables yearly is correct in the
 
 
 
-
+### Talk with 
 
 - communication needs to be done in a way to match what the person you're speaking to can understand
-- more budget cuts mean less money for curiosity-driven science - need to invest around for a target outcome. keeping a balance between uncertain exploreation around a target.
+- more budget cuts mean less money for curiosity-driven science - need to invest around for a target outcome. keeping a balance between uncertain exploration around a target.
 - there is research around what is the best way to communicate climate with people. following that research can be helpful
 - most scientists don't know how to put their science out there (take it out of the bookshelf)
 - people rely on people from their own community - having people within to communicate can be really helpful.
@@ -49,11 +91,6 @@ Will confirm if the script that adds climatic variables yearly is correct in the
 
 
 
-
-
-- only adding new predictors changes ONLY the growth rate, not the asymptote. that is an untrue asumption, and it could be interesting to find papers that explain that there is reason to expect max biomass to vary below the level of the RESOLVE ecoregions. (explain why not autocorrelation)
-- Advantages of illustrating asymptote first vs feature importance first: barchart with increase in variance explained by each added predictor.
-	- the model with just the increase in variance explained by local predictors, although it captures some variation in the first years, it will settle all curves at the SAME FINAL VALUE which is just incorrect. It is fair to expect that a forest will look like its old neighbors once it's old.
 
 
 
@@ -122,16 +159,6 @@ Out of the 582 measurements in Brazil, 244 come from plots measured more than on
 	- select random 20% pasturelands
 	- make predictions for 3 climate scenarios and 3 potentials (pasture1, pasture2, and secondary)
 	- for those, make maps and get total values
-
-
-
-
-
-
-### Monday, Apr 21, 2025
-
-### Weekly Goals
-
 
 
 
