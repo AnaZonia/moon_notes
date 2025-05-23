@@ -3,9 +3,6 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-
-
-
 ## May 26, 2025 : Jun 1, 2025
 
 ### Sunday, Jun 1, 2025
@@ -26,41 +23,55 @@ dg-publish: true
 
 
 
+## May 23, 2025 : May 26, 2025
 
-- save coefficients of climatic factors with different asymptotes
-- improve asymptote (check areas of "boundaries" and how to smooth them over)
+### Sunday, May 25, 2025
 
-is more error found in:
-- slower areas?
- - areas of lower initial biomass?
+### Friday, May 23, 2025
 
-Yearly climate data
-- Get older history for TerraClim
-- Check if units are correct for CMIP6 data
-- Check normalization/addition into growth curve
+- [ ] save coefficients of climatic factors with different asymptotes
+- [ ] improve asymptote (check areas of "boundaries" and how to smooth them over
+- [ ] understand how feature importance is being calculated and how that can be compared with asymptote barplot
+- [ ] Is more error found in:
+	- [ ] slower areas?
+	- [ ] areas of lower initial biomass?
+- [ ] Yearly climate data
+	- [ ] Get older history for TerraClim
+	- [ ] Check if units are correct for CMIP6 data
+	- [ ] Check normalization/addition into growth curve
+	- [ ] check if different scenarios should be included in results
 
-  
+### Visualization scripts
+
+**Good asymptote matters**
+- average per quarter does worse
+- average per ecoregion is okay
+- NN is ideal
+
+**Surrounding forest cover and number of fires are important for growth rate**
+- feature importance plot
+
+**Lag matters**
+- Field data is properly fit by lag, not intercept
+
+![[000 Ana Did Science Today-22.png]]
+
+**Future predictions**
+- Map 1 - with regrowth potential/rate
+- Map 2 - total carbon by 2050 in secondary forests
+- barplot with total C saved (ensure same area)
+	(20% best pasture, random 20% pasture, all secondary, all pasture/secondary in protected areas)
+
 
 Last few questions for Brian
 - how should I handle categorical variables and yearly predictors in the AIC?
 - I want to save a file compiling the parameters that are NOT included as a list - make sure that it is behaving as expected.
 
+Writing
+- only adding new predictors changes ONLY the growth rate, not the asymptote. that is an untrue asumption, and it could be interesting to find papers that explain that there is reason to expect max biomass to vary below the level of the RESOLVE ecoregions. (explain why not autocorrelation)
+- the model with just the increase in variance explained by local predictors, although it captures some variation in the first years, it will settle all curves at the SAME FINAL VALUE which is just incorrect. It is fair to expect that a forest will look like its old neighbors once it's old.
 
-
-
-
-Visualization scripts
-- feature importance plots
-- intercept/lag comparison
-- barplots(20% best pasture, random 20% pasture, all secondary, all protected areas)
-- field curve comparing lag vs intercept results
-	- observed vs predicted
-
-
-
-
-
-
+## May 4, 2025 : May 23, 2025
 
 Main goal for today is still to get the maps for the Amazon and the pastureland. getting started on Amazon-wide map, and writing points to discuss with Brian later.
 
@@ -72,11 +83,12 @@ Checked if AIC is performing the way it should. What seemed strange to me is tha
 Will confirm if the script that adds climatic variables yearly is correct in the growth_curve function. it seems like no climatic predictors are being included when sur_cover is included, which could explain why we see no improvement when adding yearly climatic predictors.
 
 
+### Error
 
+Absolute error is normally distributed, but percent error is not. I guess this means that 
+![[000 Ana Did Science Today-24.png]]
 
-
-
-### Talk with 
+### Talk with Sarah Kapnick
 
 - communication needs to be done in a way to match what the person you're speaking to can understand
 - more budget cuts mean less money for curiosity-driven science - need to invest around for a target outcome. keeping a balance between uncertain exploration around a target.
@@ -182,9 +194,12 @@ this was the initial parameters and this was the output
 Keeping theta as 1 and moving on with the same method as before.
 
 
+![[000 Ana Did Science Today-23.png]]
+
+This is the biomass x age trends for 10 field plots in the Amazon,
+measured between 2001 and 2005.
 
 
-[[Drawing Apr 14th 2025.excalidraw]]
 
 deforestation model
 - presidents can change behaviors. would that change the relative probability of deforestation?

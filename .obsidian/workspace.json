@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f89be2c5dc6a5ccf",
+            "id": "d28e050cf6ba90ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -243,7 +242,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 337.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,9 +259,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f89be2c5dc6a5ccf",
+  "active": "d28e050cf6ba90ab",
   "lastOpenFiles": [
+    "Files/000 Ana Did Science Today-24.png",
+    "Excalidraw/Drawing Apr 14th 2025.excalidraw.md",
     "000 Ana Did Science Today.md",
+    "Files/000 Ana Did Science Today-23.png",
+    "Files/000 Ana Did Science Today-22.png",
+    "Excalidraw/Drawing May 23rd 2025.excalidraw.md",
+    "Files/Pasted Image 20250523164207_770.png",
     "Amazonia.md",
     "Google Earth Engine.md",
     "Github.md",
@@ -276,17 +282,13 @@
     "Files/000 Ana Did Science Today-17.png",
     "Files/000 Ana Did Science Today-16.png",
     "Templates/Weekly Template.md",
-    "Excalidraw/Drawing Apr 14th 2025.excalidraw.md",
     "Files/Pasted Image 20250414124640_795.png",
-    "Files/000 Ana Did Science Today-15.png",
     "Elsa Ordway Talk.md",
     "Guillaume Blanchet talk.md",
     "Excalidraw/results_march_15.excalidraw.md",
     "Rolling ideas.md",
     "001 The Bridge.md",
     "Excalidraw/Drawing Mar 25th 2025.excalidraw.md",
-    "Files/000 Ana Did Science Today-14.png",
-    "Files/000 Ana Did Science Today-13.png",
     "Scientific Writing.md",
     "A pillar of the climate-smart agriculture movement is on shaky ground.md",
     "Susanna Hecht Talk.md",
@@ -295,8 +297,6 @@
     "Doing Science.md",
     "000 Chapter 1 - Predicting Regrowth in Brazil.md",
     "Amazon Conservation Team.md",
-    "Science in Latin America.md",
-    "A Amazônia e o território intelectual brasileiro.md",
     "Files/Ana Did Science Today.pdf",
     "Climate Change.canvas",
     "Botany.canvas",
