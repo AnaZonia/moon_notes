@@ -85,7 +85,7 @@ Will confirm if the script that adds climatic variables yearly is correct in the
 
 ### Error
 
-Absolute error is normally distributed, but percent error is not. I guess this means that 
+Absolute error is normally distributed, but percent error is not. I guess this means that small biomasses can have larger errors in percentages (which makes sense) but the model is generally accurate.
 ![[000 Ana Did Science Today-24.png]]
 
 ### Talk with Sarah Kapnick
