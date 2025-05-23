@@ -20,6 +20,20 @@ dg-publish: true
 ### Weekly Goals
 
 
+- [ ] save coefficients of climatic factors with different asymptotes
+- [x] improve asymptote (check areas of "boundaries" and how to smooth them over ✅ 2025-05-23
+- [ ] understand how feature importance is being calculated and how that can be compared with asymptote barplot
+- [ ] Is more error found in:
+	- [ ] slower areas?
+	- [ ] areas of lower initial biomass?
+- [ ] Yearly climate data
+	- [x] Get older history for TerraClim ✅ 2025-05-23
+	- [x] Check if units are correct for CMIP6 data ✅ 2025-05-23
+	- [ ] Check normalization/addition into growth curve
+	- [ ] check if different scenarios should be included in results
+- [ ] Final tasks
+	- [ ] Different land use aggregations - show that land use doesn't work
+	- [ ] Atlantic forest estimates
 
 
 
@@ -29,17 +43,7 @@ dg-publish: true
 
 ### Friday, May 23, 2025
 
-- [ ] save coefficients of climatic factors with different asymptotes
-- [ ] improve asymptote (check areas of "boundaries" and how to smooth them over
-- [ ] understand how feature importance is being calculated and how that can be compared with asymptote barplot
-- [ ] Is more error found in:
-	- [ ] slower areas?
-	- [ ] areas of lower initial biomass?
-- [ ] Yearly climate data
-	- [ ] Get older history for TerraClim
-	- [ ] Check if units are correct for CMIP6 data
-	- [ ] Check normalization/addition into growth curve
-	- [ ] check if different scenarios should be included in results
+- Asymptote can be a bit harsh for areas that are very distant from mature forests - will get a 10km regional average to "smooth out" the borders
 
 ### Visualization scripts
 
