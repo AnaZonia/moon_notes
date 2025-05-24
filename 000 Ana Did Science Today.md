@@ -43,7 +43,8 @@ dg-publish: true
 
 ### Friday, May 23, 2025
 
-- Asymptote can be a bit harsh for areas that are very distant from mature forests - will get a 10km regional average to "smooth out" the borders
+- Asymptote can be a bit harsh for areas that are very distant from mature forests - got a 3-pixel regional average to "smooth out" the borders
+- Confirmed pastureland and secondary forest area estimates are legit. can calculate total estimated biomass from that
 
 ### Visualization scripts
 
@@ -54,6 +55,7 @@ dg-publish: true
 
 **Surrounding forest cover and number of fires are important for growth rate**
 - feature importance plot
+- separate predictors by categories and show increase in R2 by addition of each predictor
 
 **Lag matters**
 - Field data is properly fit by lag, not intercept
