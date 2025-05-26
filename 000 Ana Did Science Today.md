@@ -23,6 +23,12 @@ Supervisory/Lab meeting
 - Show first maps
 - 
 
+- since secondary forest biomass is low in comparison to the asymptote, there is less chance of autocorrelation (say 5% vs 95%)
+- make projections with NN and without, and with and without climate change
+- write asymptote submodel on ideas note
+
+
+
 ### Weekly Goals
 
 - [ ] save coefficients of climatic factors with different asymptotes
