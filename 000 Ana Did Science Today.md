@@ -27,6 +27,10 @@ Supervisory/Lab meeting
 - make projections with NN and without, and with and without climate change
 - write asymptote submodel on ideas note
 
+- pie chart with proportions
+- bar chart with % added with each predictor with quarters and % added with NN
+- type 1 model
+
 
 
 ### Weekly Goals
