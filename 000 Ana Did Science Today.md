@@ -17,8 +17,13 @@ dg-publish: true
 ### Tuesday, May 27, 2025
 ### Monday, May 26, 2025
 
-### Weekly Goals
+Supervisory/Lab meeting
 
+- Make first barplots
+- Show first maps
+- 
+
+### Weekly Goals
 
 - [ ] save coefficients of climatic factors with different asymptotes
 - [x] improve asymptote (check areas of "boundaries" and how to smooth them over ✅ 2025-05-23
@@ -39,7 +44,6 @@ dg-publish: true
 
 ## May 23, 2025 : May 26, 2025
 
-### Sunday, May 25, 2025
 
 ### Friday, May 23, 2025
 
