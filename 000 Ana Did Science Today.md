@@ -23,8 +23,30 @@ Over the past couple of days I tried to streamline the process of
 Checked if it was:
 - the grid/way it was sampled
 	- same data with the different grids yielded same results
+- the smoothing of nearest mature data (which looks like it can be improved)
 - the source of ESA data
-- the smoothing of nearest mature data
+
+In the end, only age/biomass/nearest_mature already made a difference int he result, and the only variable that was significantly different was biomass. The two sources (the one I originally downloaded vs. the one now available at Earth Engine) are quite different - I remember having seen that before.
+
+I am now re-checking it to see if that is what changed the two biomass estimates, and if that is the main difference between the two.
+
+For the two ESA data sources, these are the distributions for the same 10k points:
+
+![[000 Ana Did Science Today-26.png]]
+
+The new biomass product has much higher biomass values (183) than the old biomass values (161)
+
+And that's it - in fact, the new ESA_CCI data increases R2 by quite a bit! WIth just age, R2=0.25 with old ESA_CCI, and R2=0.33 with new ESA_CCI.
+
+Now I'm checking to make sure nearest_mature is being gotten from the right ESA CCI data.
+
+Oh okay - nearest_mature is gotten from the new data, so clearly using the old data with it would lead to nasty results, and vice versa.
+
+Perfect: now checking:
+- smoothing over nearest neighbor also helps (0.28 R2 with unsmoothed nearest_mature, and 0.35 with smoothed)
+- whether old ESA_CCI or new ESA_CCI is best (applied properly with matching on asymptote and response): indeed new_ESA_CCI is better (R2 = 0.35 rather than 0.30)
+
+# .35 with new nearest_mature (smoothed))
 
 ### Monday, May 26, 2025
 
