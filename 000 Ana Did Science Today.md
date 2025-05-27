@@ -17,12 +17,9 @@ dg-publish: true
 ### Tuesday, May 27, 2025
 ### Monday, May 26, 2025
 
-Supervisory/Lab meeting
+Lab meeting was very helpful to draft Nature format.
 
-- Make first barplots
-- Show first maps
-- 
-
+First barplots were made with biomass in pastureland 
 - since secondary forest biomass is low in comparison to the asymptote, there is less chance of autocorrelation (say 5% vs 95%)
 - make projections with NN and without, and with and without climate change
 - write asymptote submodel on ideas note
@@ -30,6 +27,11 @@ Supervisory/Lab meeting
 - pie chart with proportions
 - bar chart with % added with each predictor with quarters and % added with NN
 - type 1 model
+
+
+![[000 Ana Did Science Today-25.png]]
+
+
 
 
 
