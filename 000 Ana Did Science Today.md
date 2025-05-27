@@ -15,6 +15,17 @@ dg-publish: true
 ### Wednesday, May 28, 2025
 
 ### Tuesday, May 27, 2025
+
+Trying to find out what went wrong with the new data sampling that it has lower R2 than the previous dataframe. Lesson learned for the future - check the R2 every step of the way when you clean the data to make sure nothing is getting broken!
+
+Over the past couple of days I tried to streamline the process of 
+
+Checked if it was:
+- the grid/way it was sampled
+	- same data with the different grids yielded same results
+- the source of ESA data
+- the smoothing of nearest mature data
+
 ### Monday, May 26, 2025
 
 Lab meeting was very helpful to draft Nature format.
