@@ -55,6 +55,11 @@ Last bit of old tasks:
 
 Soon I should be able to finish all the tasks in the list and go back to writing the paper. Will hand draw the plots before I make them and add them where they should be.
 
+- When the nearest mature forest estimates are smoothed over to avoid harsh boundaries, the R2 is also increased by about 2% (probably because they are better representatives of the real asymptote)
+#### Coefficients of climatic predictors with different asymptotes
+
+- confirmed that nearest mature has less need for climatic predictors.
+
 
 ### Monday, May 26, 2025
 
@@ -78,7 +83,7 @@ First barplots were made with biomass in pastureland
 
 ### Weekly Goals
 
-- [ ] save coefficients of climatic factors with different asymptotes
+- [x] save coefficients of climatic factors with different asymptotes ✅ 2025-05-27
 - [x] improve asymptote (check areas of "boundaries" and how to smooth them over ✅ 2025-05-23
 - [x] understand how feature importance is being calculated and how that can be compared with asymptote barplot ✅ 2025-05-27
 - [ ] Is more error found in:
