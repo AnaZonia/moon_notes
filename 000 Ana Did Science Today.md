@@ -46,7 +46,15 @@ Perfect: now checking:
 - smoothing over nearest neighbor also helps (0.28 R2 with unsmoothed nearest_mature, and 0.35 with smoothed)
 - whether old ESA_CCI or new ESA_CCI is best (applied properly with matching on asymptote and response): indeed new_ESA_CCI is better (R2 = 0.35 rather than 0.30)
 
-# .35 with new nearest_mature (smoothed))
+Doing a bit more confirmation of whether nearest_neighbor/smoothing is being done correctly/as expected.
+
+Last bit of old tasks:
+- Export land use dataframes to show that land use doesn't make a difference
+- Export data for Atlantic Forest
+- Projections based on yearly climate with terraclim
+
+Soon I should be able to finish all the tasks in the list and go back to writing the paper. Will hand draw the plots before I make them and add them where they should be.
+
 
 ### Monday, May 26, 2025
 
@@ -72,7 +80,7 @@ First barplots were made with biomass in pastureland
 
 - [ ] save coefficients of climatic factors with different asymptotes
 - [x] improve asymptote (check areas of "boundaries" and how to smooth them over ✅ 2025-05-23
-- [ ] understand how feature importance is being calculated and how that can be compared with asymptote barplot
+- [x] understand how feature importance is being calculated and how that can be compared with asymptote barplot ✅ 2025-05-27
 - [ ] Is more error found in:
 	- [ ] slower areas?
 	- [ ] areas of lower initial biomass?
