@@ -20,6 +20,8 @@ Last bit of old tasks:
 - Export data for Atlantic Forest
 - Projections based on yearly climate with terraclim
 
+Very tired from bad night of sleep. will compensate tomorrow
+
 #### Kei Koizumi talk
 
 He was also minister of science - helped push forward a new law:
