@@ -14,6 +14,29 @@ dg-publish: true
 
 ### Wednesday, May 28, 2025
 
+- Do a bit more confirmation of whether nearest_neighbor/smoothing is being done correctly/as expected.
+Last bit of old tasks:
+- Export land use dataframes to show that land use doesn't make a difference
+- Export data for Atlantic Forest
+- Projections based on yearly climate with terraclim
+
+#### Kei Koizumi talk
+
+He was also minister of science - helped push forward a new law:
+https://www.nsf.gov/chips
+
+Policy toolkit - economic as well as non-economic goals considered
+
+Wrote 10 technology focus areas and wrote methods to rethink those areas every 5 years to reexamine if the challenges targeted stay relevant throughout time
+
+Reviews need to be built in and evaluations must be robust through time (CHIPS and science has that written in)
+
+some people that did science and tech fellowships (that went into his office to work in national policy) were scientists by training
+
+important to communicate in the language and format that your desired audience is used to and will hear well - 2-3 page memos tend to be good for policymakers in north america
+
+he learned to hide social and environmental innovation behind economic innovation, to avoid political challenges from the goddamn right wing. no surprise there
+
 ### Tuesday, May 27, 2025
 
 Trying to find out what went wrong with the new data sampling that it has lower R2 than the previous dataframe. Lesson learned for the future - check the R2 every step of the way when you clean the data to make sure nothing is getting broken!
@@ -46,12 +69,7 @@ Perfect: now checking:
 - smoothing over nearest neighbor also helps (0.28 R2 with unsmoothed nearest_mature, and 0.35 with smoothed)
 - whether old ESA_CCI or new ESA_CCI is best (applied properly with matching on asymptote and response): indeed new_ESA_CCI is better (R2 = 0.35 rather than 0.30)
 
-Doing a bit more confirmation of whether nearest_neighbor/smoothing is being done correctly/as expected.
 
-Last bit of old tasks:
-- Export land use dataframes to show that land use doesn't make a difference
-- Export data for Atlantic Forest
-- Projections based on yearly climate with terraclim
 
 Soon I should be able to finish all the tasks in the list and go back to writing the paper. Will hand draw the plots before I make them and add them where they should be.
 
@@ -59,6 +77,10 @@ Soon I should be able to finish all the tasks in the list and go back to writing
 #### Coefficients of climatic predictors with different asymptotes
 
 - confirmed that nearest mature has less need for climatic predictors.
+[[Climate pars by asymptote]]
+
+
+
 
 
 ### Monday, May 26, 2025
