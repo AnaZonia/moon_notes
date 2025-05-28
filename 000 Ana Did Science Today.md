@@ -37,6 +37,8 @@ important to communicate in the language and format that your desired audience i
 
 he learned to hide social and environmental innovation behind economic innovation, to avoid political challenges from the goddamn right wing. no surprise there
 
+
+
 ### Tuesday, May 27, 2025
 
 Trying to find out what went wrong with the new data sampling that it has lower R2 than the previous dataframe. Lesson learned for the future - check the R2 every step of the way when you clean the data to make sure nothing is getting broken!
