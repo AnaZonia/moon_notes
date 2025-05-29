@@ -118,7 +118,7 @@ First barplots were made with biomass in pastureland
 - [ ] Yearly climate data
 	- [x] Get older history for TerraClim ✅ 2025-05-23
 	- [x] Check if units are correct for CMIP6 data ✅ 2025-05-23
-	- [ ] Check normalization/addition into growth curve
+	- [x] Check normalization/addition into growth curve ✅ 2025-05-28
 	- [ ] check if different scenarios should be included in results
 - [ ] Final tasks
 	- [ ] Different land use aggregations - show that land use doesn't work
