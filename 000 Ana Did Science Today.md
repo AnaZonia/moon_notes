@@ -26,7 +26,7 @@ dg-publish: true
 	- [ ] Different land use aggregations - show that land use doesn't work
 	- [ ] Atlantic forest estimates
 	- [ ] Do a bit more confirmation of whether nearest_neighbor/smoothing is being done correctly/as expected.
-- [ ] Is more error found in:
+- [ ] Check error patterns. Is there more error found in:
 	- [ ] slower areas?
 	- [ ] areas of lower initial biomass?
 
@@ -43,6 +43,7 @@ dg-publish: true
 
 
 Tasks for the weekend:
+- Finish export of CMIP6 data, converted properly, along with terraclim
 - Make figures from conversation with Fiona
 - Start adding them to writing
 
