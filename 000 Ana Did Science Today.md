@@ -38,6 +38,7 @@ dg-publish: true
 
 - Finalizing the export of CMIP6 past and future climate data
 	- Having issues with terra since R update. Trying to reinstall terra.
+		- Needed to give up on renv to use terra (seems like multiple gdal versions together was getting confusing with conda)
 - Confirming the average climate estimate for the years of estimated growth
 
 
@@ -48,7 +49,15 @@ Tasks for the weekend:
 #### Climate
 Adjusted mean = mean over the years in which we estimate regrowth to have occurred.
 
+Realized after changing the values that the means were taken BEFORE normalization!
 
+So that means:
+- I have a dataframe with rows indicating pixels and columns for the climate in each year say aet_1985, aet_1986, ..., aet_2019
+- I get the average of all of them.
+- I then normalize all columns from 1985-2019 from 0-1 (lowest of all time zero, highest of all time 1) and normalize the averages from 0-1 (0 lowest average, 1 highest average)
+- and then averaging the NORMALIZED VALUES - that will give a different result.
+
+Okay - will discuss this with Brian on Monday. for now, moving on to making figures and writing the paper.
 
 
 
@@ -57,18 +66,18 @@ Adjusted mean = mean over the years in which we estimate regrowth to have occurr
 
 #### Climate parameter
 
-| Model Type        | Parameter | Climate Scale | R²        | Climatic Variables    |
-| ----------------- | --------- | ------------- | --------- | --------------------- |
-| NN Asymptote      | Intercept | Fixed mean    | 0.3217656 | srad, temp, def, pdsi |
-|                   |           | Yearly        | 0.3185027 | —                     |
-|                   | Lag       | Fixed mean    | 0.3722530 | srad, temp, def, pdsi |
-|                   |           | Yearly        | 0.3717537 | —                     |
-| Quarter Asymptote | Intercept | Fixed mean    | 0.2048436 | —                     |
-|                   |           | Adjusted mean | 0.2003852 | pdsi, srad, def, vpd  |
-|                   |           | Yearly        | 0.1914865 | —                     |
-|                   | Lag       | Fixed mean    | 0.2396335 | srad, aet, def, pdsi  |
-|                   |           | Adjusted mean |           |                       |
-|                   |           | Yearly        | 0.1825901 | —                     |
+| Model Type        | Parameter | Climate Scale | R²        | Climatic Variables        |
+| ----------------- | --------- | ------------- | --------- | ------------------------- |
+| NN Asymptote      | Intercept | Fixed mean    | 0.3217656 | srad, temp, def, pdsi     |
+|                   |           | Yearly        | 0.3185027 | —                         |
+|                   | Lag       | Fixed mean    | 0.3722530 | srad, temp, def, pdsi     |
+|                   |           | Yearly        | 0.3717537 | —                         |
+| Quarter Asymptote | Intercept | Fixed mean    | 0.2048436 | —                         |
+|                   |           | Adjusted mean | 0.2003852 | pdsi, srad, def, vpd      |
+|                   |           | Yearly        | 0.1914865 | —                         |
+|                   | Lag       | Fixed mean    | 0.2396335 | srad, aet, def, pdsi      |
+|                   |           | Adjusted mean | 0.2321523 | srad, def, aet, temp, vpd |
+|                   |           | Yearly        | 0.1825901 | —                         |
 
 
 Means here are the fixed climatic means from 1985 to 2020.
