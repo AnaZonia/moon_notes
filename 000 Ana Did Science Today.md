@@ -3,64 +3,86 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+
+
+## Jun 2, 2025 : Jun 8, 2025
+
+### Sunday, Jun 8, 2025
+### Saturday, Jun 7, 2025
+
+### Friday, Jun 6, 2025
+
+### Thursday, Jun 5, 2025
+
+### Wednesday, Jun 4, 2025
+
+### Tuesday, Jun 3, 2025
+### Monday, Jun 2, 2025
+
+### Weekly Goals
+
+- [ ] Final tasks
+	- [ ] Different land use aggregations - show that land use doesn't work
+	- [ ] Atlantic forest estimates
+	- [ ] Do a bit more confirmation of whether nearest_neighbor/smoothing is being done correctly/as expected.
+- [ ] Is more error found in:
+	- [ ] slower areas?
+	- [ ] areas of lower initial biomass?
+
+
 ## May 26, 2025 : Jun 1, 2025
 
 ### Sunday, Jun 1, 2025
 ### Saturday, May 31, 2025
 
-### Friday, May 30, 2025
+- Finalizing the export of CMIP6 past and future climate data
+	- Having issues with terra since R update. Trying to reinstall terra.
+- Confirming the average climate estimate for the years of estimated growth
+
+
+Tasks for the weekend:
+- Make figures from conversation with Fiona
+- Start adding them to writing
+
+#### Climate
+Adjusted mean = mean over the years in which we estimate regrowth to have occurred.
+
+
+
+
+
 
 ### Thursday, May 29, 2025
 
-
 #### Climate parameter
 
-  
-  
+| Model Type        | Parameter | Climate Scale | R²        | Climatic Variables    |
+| ----------------- | --------- | ------------- | --------- | --------------------- |
+| NN Asymptote      | Intercept | Fixed mean    | 0.3217656 | srad, temp, def, pdsi |
+|                   |           | Yearly        | 0.3185027 | —                     |
+|                   | Lag       | Fixed mean    | 0.3722530 | srad, temp, def, pdsi |
+|                   |           | Yearly        | 0.3717537 | —                     |
+| Quarter Asymptote | Intercept | Fixed mean    | 0.2048436 | —                     |
+|                   |           | Adjusted mean | 0.2003852 | pdsi, srad, def, vpd  |
+|                   |           | Yearly        | 0.1914865 | —                     |
+|                   | Lag       | Fixed mean    | 0.2396335 | srad, aet, def, pdsi  |
+|                   |           | Adjusted mean |           |                       |
+|                   |           | Yearly        | 0.1825901 | —                     |
 
-NN asymptote
 
-  
+Means here are the fixed climatic means from 1985 to 2020.
 
-intercept
+This shows how there could be:
+- some local minima due to the addition of the yearly predictors, which lowers the R2 a bit with intercept
+- that this could be made worse with the fact that the lag is adding even more columns (adding age + lag columns)
+- that the effect of climate predictors is proportionally smaller with NN asymptote than with quarter asymptote.
 
-mean_climatic - 0.3217656 (srad, temp, def, pdsi)
-
-yearly - 0.3185027
-
-lag
-
-mean_climatic - 0.372253 (srad, temp, def, pdsi)
-
-yearly - 0.3717537
-
-  
-  
-
-quarter asymptote
-
-intercept
-
-mean_climatic - 0.2048436
-
-yearly - 0.1914865
-
-lag
-
-mean_climatic - 0.2396335 (srad, aet, def, pdsi)
-
-yearly - 0.1825901
+There is the possibility to introduce a fixed climatic mean as a parameter for the columns during which we expect regrowth to be actually happening.
+- makes sense on why there would be confusion with the additions, as there are more years to be added up. the total sum increases with lag. The mean however should remain relatively stable
 
 
 ### Wednesday, May 28, 2025
-
-- Do a bit more confirmation of whether nearest_neighbor/smoothing is being done correctly/as expected.
-Last bit of old tasks:
-- Export land use dataframes to show that land use doesn't make a difference
-- Export data for Atlantic Forest
-- Projections based on yearly climate with terraclim
-
-Very tired from bad night of sleep. will compensate tomorrow
 
 #### Kei Koizumi talk
 
@@ -152,18 +174,17 @@ First barplots were made with biomass in pastureland
 - [x] save coefficients of climatic factors with different asymptotes ✅ 2025-05-27
 - [x] improve asymptote (check areas of "boundaries" and how to smooth them over ✅ 2025-05-23
 - [x] understand how feature importance is being calculated and how that can be compared with asymptote barplot ✅ 2025-05-27
-- [ ] Is more error found in:
-	- [ ] slower areas?
-	- [ ] areas of lower initial biomass?
-- [ ] Yearly climate data
+- [x] Yearly climate data ✅ 2025-05-31
 	- [x] Get older history for TerraClim ✅ 2025-05-23
 	- [x] Check if units are correct for CMIP6 data ✅ 2025-05-23
 	- [x] Check normalization/addition into growth curve ✅ 2025-05-28
-	- [ ] check if different scenarios should be included in results
+	- [x] check if different scenarios should be included in results ✅ 2025-05-31
 - [ ] Final tasks
 	- [ ] Different land use aggregations - show that land use doesn't work
 	- [ ] Atlantic forest estimates
-
+- [ ] Is more error found in:
+	- [ ] slower areas?
+	- [ ] areas of lower initial biomass?
 
 
 ## May 23, 2025 : May 26, 2025
