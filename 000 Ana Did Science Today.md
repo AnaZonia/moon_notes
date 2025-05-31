@@ -58,7 +58,37 @@ So that means:
 - I then normalize all columns from 1985-2019 from 0-1 (lowest of all time zero, highest of all time 1) and normalize the averages from 0-1 (0 lowest average, 1 highest average)
 - and then averaging the NORMALIZED VALUES - that will give a different result.
 
+The question is how to handle the 0-1 scaling of the climatic variables that then need to be looked at one by one - how to add and average in the growth_curve function such that the scaling makes sense and the averages/sums are real values?
+
 Okay - will discuss this with Brian on Monday. for now, moving on to making figures and writing the paper.
+
+Main modelling scripts:
+- R2 comparisons
+	- Different data inclusions
+	- Different formats (lag, intercept)
+	- Different ecosystems (Amazon, Atlantic)
+	- Yearly vs. mean climate (up to 2020)
+	- Different asymptotes (NN, ecoreg, quarter)
+	- Different methods of land use aggregation (5 yr, 15 yr, all, aggregated)
+	- Saves the best model.
+
+- R2_field
+	- Gets the best model from R2_comparisons
+	- Fits it to field data and gets R2.
+
+
+Visualization
+
+- 1_model_performance
+
+- 2_lag_field
+
+- 3_future_predictions
+	- Gets the best model from R2_comparisons
+	- Predicts future biomass
+		- for pastureland (20% best, 20% random, all in APA) and secondary forests
+	- Makes biomass barplot
+	- Makes maps for visualization and exporting to GEE
 
 
 
