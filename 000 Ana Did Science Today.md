@@ -12,6 +12,46 @@ dg-publish: true
 
 ### Thursday, May 29, 2025
 
+
+#### Climate parameter
+
+  
+  
+
+NN asymptote
+
+  
+
+intercept
+
+mean_climatic - 0.3217656 (srad, temp, def, pdsi)
+
+yearly - 0.3185027
+
+lag
+
+mean_climatic - 0.372253 (srad, temp, def, pdsi)
+
+yearly - 0.3717537
+
+  
+  
+
+quarter asymptote
+
+intercept
+
+mean_climatic - 0.2048436
+
+yearly - 0.1914865
+
+lag
+
+mean_climatic - 0.2396335 (srad, aet, def, pdsi)
+
+yearly - 0.1825901
+
+
 ### Wednesday, May 28, 2025
 
 - Do a bit more confirmation of whether nearest_neighbor/smoothing is being done correctly/as expected.
