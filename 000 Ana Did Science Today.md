@@ -34,6 +34,11 @@ dg-publish: true
 ## May 26, 2025 : Jun 1, 2025
 
 ### Sunday, Jun 1, 2025
+
+- Finalizing the export of CMIP6 past and future climate data
+
+
+
 ### Saturday, May 31, 2025
 
 - Finalizing the export of CMIP6 past and future climate data
@@ -46,6 +51,8 @@ Tasks for the weekend:
 - Finish export of CMIP6 data, converted properly, along with terraclim
 - Make figures from conversation with Fiona
 - Start adding them to writing
+
+Also realized today that 1.1 is a better theta value to fit the points in the early years - talk to Brian about how to address that. Should probably refit theta with the field data and go with that.
 
 #### Climate
 Adjusted mean = mean over the years in which we estimate regrowth to have occurred.
@@ -61,6 +68,8 @@ So that means:
 The question is how to handle the 0-1 scaling of the climatic variables that then need to be looked at one by one - how to add and average in the growth_curve function such that the scaling makes sense and the averages/sums are real values?
 
 Okay - will discuss this with Brian on Monday. for now, moving on to making figures and writing the paper.
+
+#### Organizing scripts
 
 Main modelling scripts:
 - R2 comparisons
@@ -78,11 +87,8 @@ Main modelling scripts:
 
 
 Visualization
-
 - 1_model_performance
-
 - 2_lag_field
-
 - 3_future_predictions
 	- Gets the best model from R2_comparisons
 	- Predicts future biomass
@@ -92,7 +98,6 @@ Visualization
 
 Scripts are coming together and figures are starting to look good.
 Tomorrow I finish writing the scripts, get the numbers, and draft the paper and methods.
-
 
 ### Thursday, May 29, 2025
 
