@@ -61,7 +61,7 @@ Looks like CMIP6 and terraclim aren't terribly different:
 the other predictors are in different units, so I'm just using precipitation to confirm
 looks like CMIP6 varies less.
 
-Preliminarily, it looks like all the terraclim results are more helpful than the CMIP6 ones: 0.33 R2 for CMIP6, 0.366 for terraclim.
+Preliminarily, it looks like terraclim or CMIP6 end up being about the same to predict biomass. Doesn't change the R2 much to use one or the other. Now using the quarter_asymptote to confirm (since the nearest neighbor is correlated and may hide some of the climate effects)
 
 granted, there are more predictors with terraclim; now I will compare the multicollinearity of both and find if I can use both somehow.
 Highly correlated feature pairs:
@@ -79,6 +79,16 @@ mean_def and mean_sdsr :  0.64
 mean_nsat and mean_nssh :  0.63 
 
 removing srad, pr and def from terraclim due to redundancy with CMIP6
+
+Confirmed - with all predictors, and quarter_mature asymptote, comparing R2 came to
+terraclim only: 0.23649
+CMIP6 only: 0.229
+both (all included): 0.25516
+both (remove sdsr, nssh): 0.251314
+both(remove srad, def): 0.244607
+
+based on this, for now, I will keep all. but will ask Brian tomorrow
+
 
 ### Saturday, May 31, 2025
 
