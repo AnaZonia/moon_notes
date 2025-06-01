@@ -37,7 +37,17 @@ dg-publish: true
 
 - Finalizing the export of CMIP6 past and future climate data
 
+Remember that the upload needs to be done through a Google Cloud bucket!
 
+For the last figure I need just to:
+- check whether pastureland area is there
+- make the barplots
+- export the maps as image to QGIS
+
+Another piece of data I want to include is:
+- the R2 of the field data with the satellite-trained model
+- the difference between terraclim and the climate variables from CMIP6
+- make some plots from CMIP6 data to see if the trends are behaving as expected
 
 ### Saturday, May 31, 2025
 
