@@ -90,7 +90,8 @@ Visualization
 	- Makes biomass barplot
 	- Makes maps for visualization and exporting to GEE
 
-
+Scripts are coming together and figures are starting to look good.
+Tomorrow I finish writing the scripts, get the numbers, and draft the paper and methods.
 
 
 ### Thursday, May 29, 2025
