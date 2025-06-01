@@ -25,7 +25,7 @@ dg-publish: true
 - [ ] Final tasks
 	- [ ] Different land use aggregations - show that land use doesn't work
 	- [ ] Atlantic forest estimates
-	- [ ] Do a bit more confirmation of whether nearest_neighbor/smoothing is being done correctly/as expected.
+	- [x] Do a bit more confirmation of whether nearest_neighbor/smoothing is being done correctly/as expected. ✅ 2025-06-01
 - [ ] Check error patterns. Is there more error found in:
 	- [ ] slower areas?
 	- [ ] areas of lower initial biomass?
@@ -48,6 +48,11 @@ Another piece of data I want to include is:
 - the R2 of the field data with the satellite-trained model
 - the difference between terraclim and the climate variables from CMIP6
 - make some plots from CMIP6 data to see if the trends are behaving as expected
+
+#### Confirmed the smoothed-over asymptote seems to work well
+There are less extremes but the distribution isn't ridiculously different. it's fine
+![[000 Ana Did Science Today-27.png]]
+
 
 ### Saturday, May 31, 2025
 
