@@ -64,7 +64,21 @@ looks like CMIP6 varies less.
 Preliminarily, it looks like all the terraclim results are more helpful than the CMIP6 ones: 0.33 R2 for CMIP6, 0.366 for terraclim.
 
 granted, there are more predictors with terraclim; now I will compare the multicollinearity of both and find if I can use both somehow.
+Highly correlated feature pairs:
+asymptote and mean_def :  -0.68 
+asymptote and mean_nssh :  0.6 
+asymptote and mean_sdsr :  -0.61 
+mean_srad and mean_def :  0.66 
+mean_srad and mean_sdsr :  0.89 
+mean_temp and mean_aet :  0.63 
+mean_temp and mean_nsat :  0.6 
+mean_vpd and mean_def :  0.65 
+mean_vpd and mean_nssh :  -0.61 
+mean_def and mean_nssh :  -0.82 (near_surface_specific_humidity and water deficit)
+mean_def and mean_sdsr :  0.64 
+mean_nsat and mean_nssh :  0.63 
 
+removing srad, pr and def from terraclim due to redundancy with CMIP6
 
 ### Saturday, May 31, 2025
 
