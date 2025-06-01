@@ -54,6 +54,18 @@ There are less extremes but the distribution isn't ridiculously different. it's 
 ![[000 Ana Did Science Today-27.png]]
 
 
+Looks like CMIP6 and terraclim aren't terribly different:
+
+![[000 Ana Did Science Today-28.png]]
+
+the other predictors are in different units, so I'm just using precipitation to confirm
+looks like CMIP6 varies less.
+
+Preliminarily, it looks like all the terraclim results are more helpful than the CMIP6 ones: 0.33 R2 for CMIP6, 0.366 for terraclim.
+
+granted, there are more predictors with terraclim; now I will compare the multicollinearity of both and find if I can use both somehow.
+
+
 ### Saturday, May 31, 2025
 
 - Finalizing the export of CMIP6 past and future climate data
