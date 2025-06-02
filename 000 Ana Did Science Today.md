@@ -22,6 +22,27 @@ dg-publish: true
 
 - type 1 for the barplot : add the one that explains the most, one at a time, until you get the max R2 value
 
+Next point:
+- lag may not be the same everywhere
+	- is it variable by greeness?
+	- model lag based on asymptote
+	- comparisons of different datasets
+- asymptote submodel (future climate change)
+	- how can we predict changes in asymptote if drier/wetter places react differently to climate change?
+
+
+
+
+
+
+Force the data through zero - for the asymptote it doesn't matter if the values are negative
+
+Can't keep losing mature forests
+can't just rely on secondary forests - need to add young forests to the conservation area
+
+By losing surrounding forest cover and increasing fires the regrowth potential will decrease - 
+
+
 ### Weekly Goals
 
 - [ ] Final tasks
