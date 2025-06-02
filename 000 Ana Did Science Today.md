@@ -43,6 +43,9 @@ can't just rely on secondary forests - need to add young forests to the conserva
 By losing surrounding forest cover and increasing fires the regrowth potential will decrease - 
 
 
+
+- how to answer intersting questions in statistics?? could be a cool idea for a series of lab meetings
+
 ### Weekly Goals
 
 - [ ] Final tasks
