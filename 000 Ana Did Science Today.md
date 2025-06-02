@@ -20,6 +20,8 @@ dg-publish: true
 ### Tuesday, Jun 3, 2025
 ### Monday, Jun 2, 2025
 
+- type 1 for the barplot : add the one that explains the most, one at a time, until you get the max R2 value
+
 ### Weekly Goals
 
 - [ ] Final tasks
@@ -29,6 +31,7 @@ dg-publish: true
 - [ ] Check error patterns. Is there more error found in:
 	- [ ] slower areas?
 	- [ ] areas of lower initial biomass?
+- [ ] Check R2 with different levels of sampling (1k, 10k)
 
 
 ## May 26, 2025 : Jun 1, 2025
@@ -87,9 +90,51 @@ both (all included): 0.25516
 both (remove sdsr, nssh): 0.251314
 both(remove srad, def): 0.244607
 
-based on this, for now, I will keep all. but will ask Brian tomorrow
+based on this, for now, I will keep all. but will ask Brian tomorrow.
+
+But when considering the nearest mature forest, even with the higher R2, there is not really much climate (one or another appears randomly as you run it)
+def, mean_srad, mean_pr, mean_aet, mean_pdsi"
+[1] 0.401337
+$par
+        num_fires              dist 
+    -6.830590e-03     -7.218997e-03 
+        sur_cover              sand 
+     2.232869e-02      7.320321e-03 
+floodable_forests         mean_temp 
+     3.731000e-03     -1.623372e-03 
+       ecoreg_473        ecoreg_474 
+     7.945079e-03      6.481883e-05 
+       ecoreg_476        ecoreg_480 
+    -8.995444e-04     -9.173549e-03 
+       ecoreg_481        ecoreg_482 
+    -2.997216e-03     -2.248189e-03 
+       ecoreg_496        ecoreg_497 
+     1.247982e-02      2.645628e-03 
+       ecoreg_505        ecoreg_507 
+     1.949592e-02      1.172750e-03 
+       ecoreg_508        ecoreg_511 
+     5.359614e-03     -1.103356e-02 
+       ecoreg_518        ecoreg_529 
+     9.745276e-04     -3.896401e-03 
+       ecoreg_540        ecoreg_567 
+     3.150532e-03     -1.506637e-03 
+       ecoreg_570     topography_21 
+    -1.716232e-02      2.060563e-05 
+    topography_24     topography_31 
+     2.623069e-04      1.740249e-04 
+    topography_34     topography_41 
+     1.030921e-03      1.062516e-03 
+    topography_42                k0 
+     1.409360e-03      3.240837e-02 
+              lag 
+     2.725570e+01 
 
 
+So I will also need to discuss tomorrow how to include climate in future projections.
+
+#### difference in R2 between grids
+
+I noticed that the R2 estimated with the 10k grid is higher (0.41) than the same thing estimated with 1k grid (0.35). this is really important to check ASAP!!!!
 ### Saturday, May 31, 2025
 
 - Finalizing the export of CMIP6 past and future climate data
