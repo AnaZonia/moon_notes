@@ -38,4 +38,3 @@ dg-publish: true
 - [Conservation International Fellowships](https://www.conservation.org/about/fellowships)
 - Fellowship AAAs science policy
 - https://www.agu.org/honors/voices-for-science
-- [Outreach Grants - British Ecological Society](https://www.britishecologicalsociety.org/funding/launching-our-new-grants-programme/outreach-grants/)
