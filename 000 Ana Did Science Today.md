@@ -17,10 +17,9 @@ dg-publish: true
 
 ### Wednesday, Jun 4, 2025
 
+https://developers.google.com/earth-engine/datasets/catalog/NASA_ORNL_global_forest_classification_2020_V1#bands
+
 ### Tuesday, Jun 3, 2025
-
-
-
 
 ### Monday, Jun 2, 2025
 
