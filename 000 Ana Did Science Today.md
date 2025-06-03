@@ -18,6 +18,10 @@ dg-publish: true
 ### Wednesday, Jun 4, 2025
 
 ### Tuesday, Jun 3, 2025
+
+
+
+
 ### Monday, Jun 2, 2025
 
 - type 1 for the barplot : add the one that explains the most, one at a time, until you get the max R2 value
@@ -29,9 +33,6 @@ Next point:
 	- comparisons of different datasets
 - asymptote submodel (future climate change)
 	- how can we predict changes in asymptote if drier/wetter places react differently to climate change?
-
-
-
 
 
 

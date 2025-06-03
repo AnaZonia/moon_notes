@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d28e050cf6ba90ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conferences and Funding.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conferences and Funding"
-            }
-          },
-          {
             "id": "a4e3ab9bef2eef07",
             "type": "leaf",
             "state": {
@@ -273,10 +259,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d28e050cf6ba90ab",
+  "active": "a4e3ab9bef2eef07",
   "lastOpenFiles": [
-    "000 Ana Did Science Today.md",
     "Conferences and Funding.md",
+    "000 Ana Did Science Today.md",
     "001 The Bridge.md",
     "Files/000 Ana Did Science Today-28.png",
     "Files/000 Ana Did Science Today-27.png",
