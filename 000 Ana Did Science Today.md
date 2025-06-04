@@ -17,28 +17,28 @@ dg-publish: true
 
 ### Wednesday, Jun 4, 2025
 
-- start writing Nature version of paper
-- start with methods
+- Preparing next steps - have organized the goals from Monday to prioritize tasks.
 
+Will pause on checking results, and focus on organizing things and writing the paper. Really narrowing down on the last tasks to be done so that the code and the paper are ready to be sent off.
+Updated README so it can be used to plan how the last tasks will be done and to use it as reference for the methods of the article.
 
 
 ### Monday, Jun 2, 2025
 
 Lab meeting and supervisory meeting
-- realized that since there is less influence of climate on NN asymptotes, 
+- realized that since there is less influence of climate on NN asymptotes, future predictions will need to be independent of climate change. That changes some of the final messages: instead of trying to affirm that the expected values are true (they are not!) just use them to compare different scenarios and argue for the importance of considering these regional trends and show the larger regrowth potential than previously estimated based on exclusively previous conditions.
 
 
-By losing surrounding forest cover and increasing fires the regrowth potential will decrease - Can't keep losing mature forests
-can't just rely on secondary forests - need to add young forests to the conservation area
 
 ### Weekly Goals
 
-- Last expansions
-	- [ ] Different land use aggregations - show that land use doesn't work
-	- [ ] Atlantic forest estimates
-- Check error patterns. Is there more error found in:
-	- [ ] slower areas?
-	- [ ] areas of lower initial biomass?
+- Writing
+	- [ ] methods - start from README and write methods
+	- [ ] skeleton - draft main points per paragraph
+	- [ ] introduction
+	- [ ] model performance
+	- [ ] lag and field data
+	- [ ] future predictions
 - Final checking
 	- [ ] Check R2 with different levels of sampling (1k, 10k)
 	- [ ] Check whether the behavior of the inclusion of yearly climatic data is making sense
@@ -47,15 +47,12 @@ can't just rely on secondary forests - need to add young forests to the conserva
 - Visualizations
 	- [ ] Force the data through zero - for the asymptote it doesn't matter if the values are negative
 	- [ ] type 1 for the barplot : add the one that explains the most, one at a time, until you get the max R2 value
-- Writing
-	- [ ] methods - start from README and write methods
-	- [ ] skeleton - draft main points per paragraph
-	- [ ] introduction
-	- [ ] model performance
-	- [ ] lag and field data
-	- [ ] future predictions
-
-
+- Check error patterns. Is there more error found in:
+	- [ ] slower areas?
+	- [ ] areas of lower initial biomass?
+- Last expansions
+	- [ ] Different land use aggregations - show that land use doesn't work
+	- [ ] Atlantic forest estimates
 
 ## May 26, 2025 : Jun 1, 2025
 
