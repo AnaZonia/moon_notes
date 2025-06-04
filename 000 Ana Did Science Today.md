@@ -22,44 +22,39 @@ dg-publish: true
 
 
 
-
-### Tuesday, Jun 3, 2025
-
 ### Monday, Jun 2, 2025
 
-- type 1 for the barplot : add the one that explains the most, one at a time, until you get the max R2 value
-
-Next point:
-- lag may not be the same everywhere
-	- is it variable by greeness?
-	- model lag based on asymptote
-	- comparisons of different datasets
-- asymptote submodel (future climate change)
-	- how can we predict changes in asymptote if drier/wetter places react differently to climate change?
+Lab meeting and supervisory meeting
+- realized that since there is less influence of climate on NN asymptotes, 
 
 
-
-Force the data through zero - for the asymptote it doesn't matter if the values are negative
-
-Can't keep losing mature forests
+By losing surrounding forest cover and increasing fires the regrowth potential will decrease - Can't keep losing mature forests
 can't just rely on secondary forests - need to add young forests to the conservation area
-
-By losing surrounding forest cover and increasing fires the regrowth potential will decrease - 
-
-
-
-- how to answer intersting questions in statistics?? could be a cool idea for a series of lab meetings
 
 ### Weekly Goals
 
-- [ ] Final tasks
+- Last expansions
 	- [ ] Different land use aggregations - show that land use doesn't work
 	- [ ] Atlantic forest estimates
-	- [x] Do a bit more confirmation of whether nearest_neighbor/smoothing is being done correctly/as expected. ✅ 2025-06-01
-- [ ] Check error patterns. Is there more error found in:
+- Check error patterns. Is there more error found in:
 	- [ ] slower areas?
 	- [ ] areas of lower initial biomass?
-- [ ] Check R2 with different levels of sampling (1k, 10k)
+- Final checking
+	- [ ] Check R2 with different levels of sampling (1k, 10k)
+	- [ ] Check whether the behavior of the inclusion of yearly climatic data is making sense
+	- [x] Check multicollinearity (organic carbon density vs bulk carbon density?) ✅ 2025-06-04
+	- [x] Do a bit more confirmation of whether nearest_neighbor/smoothing is being done correctly/as expected. ✅ 2025-06-04
+- Visualizations
+	- [ ] Force the data through zero - for the asymptote it doesn't matter if the values are negative
+	- [ ] type 1 for the barplot : add the one that explains the most, one at a time, until you get the max R2 value
+- Writing
+	- [ ] methods - start from README and write methods
+	- [ ] skeleton - draft main points per paragraph
+	- [ ] introduction
+	- [ ] model performance
+	- [ ] lag and field data
+	- [ ] future predictions
+
 
 
 ## May 26, 2025 : Jun 1, 2025
