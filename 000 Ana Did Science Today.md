@@ -21,7 +21,8 @@ dg-publish: true
 
 Will pause on checking results, and focus on organizing things and writing the paper. Really narrowing down on the last tasks to be done so that the code and the paper are ready to be sent off.
 Updated README so it can be used to plan how the last tasks will be done and to use it as reference for the methods of the article.
-
+Writing structure of methods and results based on README.
+Also adding to extended data the maps and plots I want to add there.
 
 ### Monday, Jun 2, 2025
 
@@ -32,21 +33,26 @@ Lab meeting and supervisory meeting
 
 ### Weekly Goals
 
-- Writing
-	- [ ] methods - start from README and write methods
-	- [ ] skeleton - draft main points per paragraph
-	- [ ] introduction
-	- [ ] model performance
-	- [ ] lag and field data
-	- [ ] future predictions
 - Final checking
 	- [ ] Check R2 with different levels of sampling (1k, 10k)
 	- [ ] Check whether the behavior of the inclusion of yearly climatic data is making sense
+	- [ ] Should I estimate delta based on observed biomass in 2020 or expected?
+	- [ ] Should I remove from analyses pasturelands with more than 50-100 Mg/ha (which are probably undetected secondary forests anyways?)
+	- [ ] Understand whether categorical variable filtering and removing columns with less than 100 entries is doing the same thing
+	- [ ] Introduce multicollinearity filtering into data import.
+	- [ ] Check whether distance is to be included as distance to nearest mature or distance to deep mature
 	- [x] Check multicollinearity (organic carbon density vs bulk carbon density?) ✅ 2025-06-04
 	- [x] Do a bit more confirmation of whether nearest_neighbor/smoothing is being done correctly/as expected. ✅ 2025-06-04
 - Visualizations
 	- [ ] Force the data through zero - for the asymptote it doesn't matter if the values are negative
 	- [ ] type 1 for the barplot : add the one that explains the most, one at a time, until you get the max R2 value
+	- [ ] Determine whether it's best to aggregate to 10km for visualization by averaging or by picking one random pixel per 10km.
+	- [ ] Should I keep theta = 1 or 1.1?
+- Extended data
+	- [ ] Observed vs. predicted plots (for satellite and field, lag-corrected and uncorrected, with R2)
+	- [ ] predicted vs observed trajectories for the field plots with series data
+	- [ ] predicted vs observed values for all field plots
+	- [ ] R2 for all 4 asymptote aggregations
 - Check error patterns. Is there more error found in:
 	- [ ] slower areas?
 	- [ ] areas of lower initial biomass?
