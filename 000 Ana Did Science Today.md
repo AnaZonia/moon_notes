@@ -10,6 +10,8 @@ dg-publish: true
 
 ### Sunday, Jun 8, 2025
 Looking into the R2 with the different grids.
+- the alignment looks correct - checked by exporting the feature collections and seeing if there were big discrepancies. At first there were, then I specified CRS in reduceRegions and that seems to have fixed the issue.
+- Also was helpful to print the values for specific coordinates in addition to mapping, since the geemap inspector tool can aggregate values for visualizing
 
 ### Wednesday, Jun 4, 2025
 
