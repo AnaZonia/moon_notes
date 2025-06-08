@@ -9,11 +9,7 @@ dg-publish: true
 ## Jun 2, 2025 : Jun 8, 2025
 
 ### Sunday, Jun 8, 2025
-### Saturday, Jun 7, 2025
-
-### Friday, Jun 6, 2025
-
-### Thursday, Jun 5, 2025
+Looking into the R2 with the different grids.
 
 ### Wednesday, Jun 4, 2025
 
