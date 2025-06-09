@@ -6,11 +6,79 @@ dg-publish: true
 
 
 
+
+## Jun 16, 2025 : Jun 22, 2025
+
+### Sunday, Jun 22, 2025
+### Saturday, Jun 21, 2025
+
+### Friday, Jun 20, 2025
+
+### Thursday, Jun 19, 2025
+
+### Wednesday, Jun 18, 2025
+
+### Tuesday, Jun 17, 2025
+### Monday, Jun 16, 2025
+
+### Weekly Goals
+
+
+
+## Jun 9, 2025 : Jun 15, 2025
+
+### Sunday, Jun 15, 2025
+### Saturday, Jun 14, 2025
+
+### Friday, Jun 13, 2025
+
+### Thursday, Jun 12, 2025
+
+### Wednesday, Jun 11, 2025
+
+### Tuesday, Jun 10, 2025
+### Monday, Jun 9, 2025
+
+- Taking a quick break to read Jorge's writing for lab meeting, and to prepare for supervisory meeting today.
+	- Ask Brian about theta = 1 or 1.1
+	- I am bringing up the Atlantic Forest in the model performance although it is not a major point.
+
+- check how many plots are immediately very close to each other
+- check if anyone got something off by a factor of 10
+- 
+
+### Weekly Goals
+
+- Final checking
+	- [ ] Check whether the behavior of the inclusion of yearly climatic data is making sense
+	- [ ] Should I estimate delta based on observed biomass in 2020 or expected?
+	- [ ] Should I remove from analyses pasturelands with more than 50-100 Mg/ha (which are probably undetected secondary forests anyways?)
+	- [ ] Understand whether categorical variable filtering and removing columns with less than 100 entries is doing the same thing
+	- [ ] Introduce multicollinearity filtering into data import.
+	- [ ] Check whether distance is to be included as distance to nearest mature or distance to deep mature
+- Visualizations
+	- [ ] Force the data through zero - for the asymptote it doesn't matter if the values are negative
+	- [ ] type 1 for the barplot : add the one that explains the most, one at a time, until you get the max R2 value
+	- [ ] Determine whether it's best to aggregate to 10km for visualization by averaging or by picking one random pixel per 10km.
+	- [ ] Should I keep theta = 1 or 1.1?
+- Extended data
+	- [ ] Observed vs. predicted plots (for satellite and field, lag-corrected and uncorrected, with R2)
+	- [ ] predicted vs observed trajectories for the field plots with series data
+	- [ ] predicted vs observed values for all field plots
+	- [ ] R2 for all 4 asymptote aggregations
+- Check error patterns. Is there more error found in:
+	- [ ] slower areas?
+	- [ ] areas of lower initial biomass?
+- Last expansions
+	- [ ] Different land use aggregations - show that land use doesn't work
+	- [ ] Atlantic forest estimates
+
+
 ## Jun 2, 2025 : Jun 8, 2025
 
 ### Sunday, Jun 8, 2025
 Looking into the R2 with the different grids.
-- the alignment looks correct - checked by exporting the feature collections and seeing if there were big discrepancies. At first there were, then I specified CRS in reduceRegions and that seems to have fixed the issue.
+- the alignment looks correct - checked by exporting the feature collections and seeing if there were big discrepancies. ==By looking at the exported value, I could see there is a discrepancy in the average biomass value in both samples.== Need to determine how to make sure biomass is exported correctly and why is it different with the different grids.
 - Also was helpful to print the values for specific coordinates in addition to mapping, since the geemap inspector tool can aggregate values for visualizing
 
 ### Wednesday, Jun 4, 2025
@@ -32,7 +100,7 @@ Lab meeting and supervisory meeting
 ### Weekly Goals
 
 - Final checking
-	- [ ] Check R2 with different levels of sampling (1k, 10k)
+	- [x] Check R2 with different levels of sampling (1k, 10k) ✅ 2025-06-09
 	- [ ] Check whether the behavior of the inclusion of yearly climatic data is making sense
 	- [ ] Should I estimate delta based on observed biomass in 2020 or expected?
 	- [ ] Should I remove from analyses pasturelands with more than 50-100 Mg/ha (which are probably undetected secondary forests anyways?)
