@@ -43,7 +43,14 @@ dg-publish: true
 	- Will fit theta = 1 or 1.1 based on field data
 	- I am bringing up the Atlantic Forest in the model performance although it is not a major point - keep it short.
 
+I went back to check what is wrong with the export of biomass data.
 
+I can tell it's something with reproject - when reproject wasn't done and the export was based on only the original crs and transform of biomass data, the result table got the values of the unreprojected data.
+Reprojecting biomass to the extent of age before exporting reduces R2 - it is best to select it right away from the grid without changing the resolution at all.
+
+realized I need to reduce ESA_CCI at its original 100m resolution and age at its original 30m resolution separately to make the csv files.
+
+trying to get over that issue by reducing images separately and then merging them into a single csv file.
 
 ### Weekly Goals
 
