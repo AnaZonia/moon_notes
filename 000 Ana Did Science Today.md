@@ -52,6 +52,9 @@ realized I need to reduce ESA_CCI at its original 100m resolution and age at its
 
 trying to get over that issue by reducing images separately and then merging them into a single csv file.
 
+Figured it out: it really had to do with the capacity of GEE to export large feature collections, it was about computation. It was simplifying it too much, and with increasing tileScale and reducing the data feature by feature that worked out well to ensure precision.
+
+
 ### Weekly Goals
 
 - Final checking
