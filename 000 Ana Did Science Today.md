@@ -40,12 +40,10 @@ dg-publish: true
 ### Monday, Jun 9, 2025
 
 - Taking a quick break to read Jorge's writing for lab meeting, and to prepare for supervisory meeting today.
-	- Ask Brian about theta = 1 or 1.1
-	- I am bringing up the Atlantic Forest in the model performance although it is not a major point.
+	- Will fit theta = 1 or 1.1 based on field data
+	- I am bringing up the Atlantic Forest in the model performance although it is not a major point - keep it short.
 
-- check how many plots are immediately very close to each other
-- check if anyone got something off by a factor of 10
-- 
+
 
 ### Weekly Goals
 
@@ -54,13 +52,16 @@ dg-publish: true
 	- [ ] Should I estimate delta based on observed biomass in 2020 or expected?
 	- [ ] Should I remove from analyses pasturelands with more than 50-100 Mg/ha (which are probably undetected secondary forests anyways?)
 	- [ ] Understand whether categorical variable filtering and removing columns with less than 100 entries is doing the same thing
-	- [ ] Introduce multicollinearity filtering into data import.
+	- [ ] Introduce multicollinearity filtering into data import
+	- [ ] Decide whether to use Pearson's correlation r or VIF
 	- [ ] Check whether distance is to be included as distance to nearest mature or distance to deep mature
+	- [ ] Refit theta with field data
+	- [ ] Check if field plots with outlier values could be off by a factor of 10 (are they all in the same area? do they come from the same study?)
 - Visualizations
 	- [ ] Force the data through zero - for the asymptote it doesn't matter if the values are negative
 	- [ ] type 1 for the barplot : add the one that explains the most, one at a time, until you get the max R2 value
 	- [ ] Determine whether it's best to aggregate to 10km for visualization by averaging or by picking one random pixel per 10km.
-	- [ ] Should I keep theta = 1 or 1.1?
+	- [x] Should I keep theta = 1 or 1.1? ✅ 2025-06-09
 - Extended data
 	- [ ] Observed vs. predicted plots (for satellite and field, lag-corrected and uncorrected, with R2)
 	- [ ] predicted vs observed trajectories for the field plots with series data
@@ -72,7 +73,6 @@ dg-publish: true
 - Last expansions
 	- [ ] Different land use aggregations - show that land use doesn't work
 	- [ ] Atlantic forest estimates
-
 
 ## Jun 2, 2025 : Jun 8, 2025
 
