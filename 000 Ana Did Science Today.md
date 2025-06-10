@@ -63,6 +63,8 @@ Somehow the issue remains:
 not sure why 10k grid sampling is showing systematically larger biomass values than the 1k grid sampling. Will figure that out tomorrow.
 
 So far my best bet is to pick one value per 100m (using the projection of ESA_CCI and just transform for each pixel to the geography of the 30m pixel)
+
+somehow the issue remains. It is making things with the 1k grid have systematically lower biomass than the 10k grid. I have no idea why but I will have to rethink resampling and exporting the data as csv.
 ### Weekly Goals
 
 - Final checking
