@@ -54,7 +54,15 @@ trying to get over that issue by reducing images separately and then merging the
 
 Figured it out: it really had to do with the capacity of GEE to export large feature collections, it was about computation. It was simplifying it too much, and with increasing tileScale and reducing the data feature by feature that worked out well to ensure precision.
 
+- note that using sampleRegions instead of mapping reduceRegion somehow is slower! No idea why.
+- it takes longer to export the csv files with high tileScale, but it is more precise, so it is what it is.
 
+Somehow the issue remains:
+![[000 Ana Did Science Today-29.png]]
+
+not sure why 10k grid sampling is showing systematically larger biomass values than the 1k grid sampling. Will figure that out tomorrow.
+
+So far my best bet is to pick one value per 100m (using the projection of ESA_CCI and just transform for each pixel to the geography of the 30m pixel)
 ### Weekly Goals
 
 - Final checking
