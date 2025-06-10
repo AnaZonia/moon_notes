@@ -41,6 +41,7 @@ dg-publish: true
 Learned the scale needs to match - sampling a 100m resolution image at 30m resolution just won't work.
 
 Trying to reduce the resolution of everything to 30m before sampling at the grid.
+DONE: It was just a matter of making sure the grid was being sampled at the correct projection, and that the image that the grid would overlay was also at the correct projection AND scale. Need to be really deliberate about every step and have mapbiomas_2020 as the reference image.
 ### Monday, Jun 9, 2025
 
 - Taking a quick break to read Jorge's writing for lab meeting, and to prepare for supervisory meeting today.
