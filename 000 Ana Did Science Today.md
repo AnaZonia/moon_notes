@@ -38,7 +38,9 @@ dg-publish: true
 
 ### Tuesday, Jun 10, 2025
 
+Learned the scale needs to match - sampling a 100m resolution image at 30m resolution just won't work.
 
+Trying to reduce the resolution of everything to 30m before sampling at the grid.
 ### Monday, Jun 9, 2025
 
 - Taking a quick break to read Jorge's writing for lab meeting, and to prepare for supervisory meeting today.
