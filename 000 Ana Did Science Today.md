@@ -37,6 +37,8 @@ dg-publish: true
 ### Wednesday, Jun 11, 2025
 
 ### Tuesday, Jun 10, 2025
+
+
 ### Monday, Jun 9, 2025
 
 - Taking a quick break to read Jorge's writing for lab meeting, and to prepare for supervisory meeting today.
