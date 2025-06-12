@@ -36,6 +36,10 @@ dg-publish: true
 
 ### Wednesday, Jun 11, 2025
 
+Finished exporting grid, amazon and land use data. Ready to make last comparisons and data exports.
+
+Tried to do what Brian recommended, the iterative addition of predictors in order of the one who explains the most R2 by itself at first, but then it's overwhelmingly sur_cover (0.39) and the others are way less important in comparison. Keeping permutation importance and the percentage of that as a better representation, if it isn't misleading.
+
 ### Tuesday, Jun 10, 2025
 
 Learned the scale needs to match - sampling a 100m resolution image at 30m resolution just won't work.
