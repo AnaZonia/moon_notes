@@ -34,6 +34,16 @@ dg-publish: true
 
 ### Thursday, Jun 12, 2025
 
+Now I am concerned that I see different orders of importance for different parameters if I fit the data twice in the same exact way.
+![[000 Ana Did Science Today-30.png]]
+![[000 Ana Did Science Today-31.png]]
+
+these are two sucessive runs of the same script - in different times, they are similar, but solar radiation, climate and phh20 have different effects. This could be due to local minima?
+
+I could check this by running it repeatedly, saving the relative importance for each iteration, and seeing how it changes over time. Maybe averaging it would be a good idea? Should ask Brian.
+
+Particularly, for amazon-wide asymptote, it looks like the most important factor varies from phh20 to mean climatic water deficit.
+
 ### Wednesday, Jun 11, 2025
 
 Finished exporting grid, amazon and land use data. Ready to make last comparisons and data exports.
