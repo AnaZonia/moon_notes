@@ -44,6 +44,10 @@ I could check this by running it repeatedly, saving the relative importance for 
 
 Particularly, for amazon-wide asymptote, it looks like the most important factor varies from phh20 to mean climatic water deficit.
 
+
+- do not include error bars for historical data - explain it was removed for clarity of visualization
+- change line texture
+
 ### Wednesday, Jun 11, 2025
 
 Finished exporting grid, amazon and land use data. Ready to make last comparisons and data exports.
