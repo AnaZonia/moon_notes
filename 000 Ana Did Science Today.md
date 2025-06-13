@@ -32,6 +32,14 @@ dg-publish: true
 
 ### Friday, Jun 13, 2025
 
+I do not know why the previous curve looks better than the one we have now.
+
+![[000 Ana Did Science Today-32.png]]
+
+![[000 Ana Did Science Today-33.png]]
+
+I remember when doing that curve that sometimes it would work out and sometimes it wouldn't. I think it's because of theta - maybe adjusting it, it would look better. Random chance led me to the right place.
+
 ### Thursday, Jun 12, 2025
 
 Now I am concerned that I see different orders of importance for different parameters if I fit the data twice in the same exact way.
@@ -101,8 +109,8 @@ somehow the issue remains. It is making things with the 1k grid have systematica
 	- [ ] Refit theta with field data
 	- [ ] Check if field plots with outlier values could be off by a factor of 10 (are they all in the same area? do they come from the same study?)
 - Visualizations
-	- [ ] Force the data through zero - for the asymptote it doesn't matter if the values are negative
-	- [ ] type 1 for the barplot : add the one that explains the most, one at a time, until you get the max R2 value
+	- [x] Force the data through zero - for the asymptote it doesn't matter if the values are negative ✅ 2025-06-13
+	- [x] type 1 for the barplot : add the one that explains the most, one at a time, until you get the max R2 value ✅ 2025-06-13
 	- [ ] Determine whether it's best to aggregate to 10km for visualization by averaging or by picking one random pixel per 10km.
 	- [x] Should I keep theta = 1 or 1.1? ✅ 2025-06-09
 - Extended data

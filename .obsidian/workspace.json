@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -261,6 +262,8 @@
   },
   "active": "a4e3ab9bef2eef07",
   "lastOpenFiles": [
+    "Files/000 Ana Did Science Today-33.png",
+    "Files/000 Ana Did Science Today-32.png",
     "Files/000 Ana Did Science Today-31.png",
     "Files/000 Ana Did Science Today-30.png",
     "Files/000 Ana Did Science Today-29.png",
@@ -279,9 +282,7 @@
     "Files/000 Ana Did Science Today-24.png",
     "Excalidraw/Drawing Apr 14th 2025.excalidraw.md",
     "Files/000 Ana Did Science Today-23.png",
-    "Files/000 Ana Did Science Today-22.png",
     "Excalidraw/Drawing May 23rd 2025.excalidraw.md",
-    "Files/Pasted Image 20250523164207_770.png",
     "Amazonia.md",
     "Google Earth Engine.md",
     "Github.md",
