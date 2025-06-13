@@ -40,6 +40,18 @@ I do not know why the previous curve looks better than the one we have now.
 
 I remember when doing that curve that sometimes it would work out and sometimes it wouldn't. I think it's because of theta - maybe adjusting it, it would look better. Random chance led me to the right place.
 
+Okayyyyy we were including the atlantic forest by accident!!!! Excluding it we get:
+
+average biomass per year
+![[000 Ana Did Science Today-34.png]]
+
+
+average biomass per site, per year (for repeated plots per site)
+![[000 Ana Did Science Today-36.png]]
+
+all points in the Amazon
+![[000 Ana Did Science Today-35.png]]
+
 ### Thursday, Jun 12, 2025
 
 Now I am concerned that I see different orders of importance for different parameters if I fit the data twice in the same exact way.
@@ -105,9 +117,10 @@ somehow the issue remains. It is making things with the 1k grid have systematica
 	- [ ] Understand whether categorical variable filtering and removing columns with less than 100 entries is doing the same thing
 	- [ ] Introduce multicollinearity filtering into data import
 	- [ ] Decide whether to use Pearson's correlation r or VIF
-	- [ ] Check whether distance is to be included as distance to nearest mature or distance to deep mature
+	- [ ] Check whether distance is to be included as distance to nearest mature or distance to deep mature (also check the maximum distance 32767)
 	- [ ] Refit theta with field data
 	- [ ] Check if field plots with outlier values could be off by a factor of 10 (are they all in the same area? do they come from the same study?)
+	- [ ] Check why terraclim is not being exported with field.csv
 - Visualizations
 	- [x] Force the data through zero - for the asymptote it doesn't matter if the values are negative ✅ 2025-06-13
 	- [x] type 1 for the barplot : add the one that explains the most, one at a time, until you get the max R2 value ✅ 2025-06-13
