@@ -24,6 +24,13 @@ dg-publish: true
 - check whether type 1 model building or permutation importance are better for figure 1
 - clarify in the legend what is nearest neighbor asymptote
 - distribution of age across climate is not completely random - 
+
+Predicted vs observed with theta = 1: show how some of the initial values are missed a bit and we need to fit again to get a proper value with the 
+
+for our projections, we use all the data and theta turns out to be 1.1.
+
+fit theta again and see how it goes. - discuss how it changes things after 10-20 years.
+
 ### Weekly Goals
 
 
