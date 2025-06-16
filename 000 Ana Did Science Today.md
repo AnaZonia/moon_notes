@@ -21,6 +21,9 @@ dg-publish: true
 ### Tuesday, Jun 17, 2025
 ### Monday, Jun 16, 2025
 
+- check whether type 1 model building or permutation importance are better for figure 1
+- clarify in the legend what is nearest neighbor asymptote
+- distribution of age across climate is not completely random - 
 ### Weekly Goals
 
 
