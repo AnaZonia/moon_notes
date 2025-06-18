@@ -37,9 +37,6 @@ fit theta again and see how it goes. - discuss how it changes things after 10-20
 
 ## Jun 9, 2025 : Jun 15, 2025
 
-### Sunday, Jun 15, 2025
-### Saturday, Jun 14, 2025
-
 ### Friday, Jun 13, 2025
 
 I do not know why the previous curve looks better than the one we have now.
