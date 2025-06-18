@@ -18,7 +18,18 @@ dg-publish: true
 
 ### Wednesday, Jun 18, 2025
 
+Got the figures to a point where editing more won't make a difference. From now on, it's just writing.
+
+Still noticed some inconsistencies between the 1k grid and the 10k grid:
+![[000 Ana Did Science Today-37.png]]
+
+This is with the 1k grid. why??
+
+well, it does seem to fit better the average biomass of the remote sensing curve - I do not know why it is so much different from 10k though. Gotta look into that
 ### Tuesday, Jun 17, 2025
+
+Katie's help with QGIS has been invaluable!!!
+
 ### Monday, Jun 16, 2025
 
 - check whether type 1 model building or permutation importance are better for figure 1
