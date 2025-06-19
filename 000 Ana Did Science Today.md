@@ -16,6 +16,50 @@ dg-publish: true
 
 ### Thursday, Jun 19, 2025
 
+#### Flavio Affinito's Exit Seminar
+
+Pereira Science 2024 - Ecosystem Services
+Leclere 2020 Nature
+Affinito 2024 Nature Eco Evo - global monitoring framework
+Chaplin-Kramer 2022 Nat evo eco
+
+Monitoring systems
+- Organize data
+	- repositories, standards, interoperability
+- Analyse change (need people working on the right questions)
+	- estimate trends, detect change, attribute cause
+- Interpret
+	- predict trends, estimate uncertainty
+- Decide
+	- policy making
+
+Flavio worked on the different steps of implementation of ecosystem monitoring systems.
+
+##### Organize
+
+Ontologies should allow models to be INTEROPERABLE. Very important for people do be able to work together to make a result rather than a bunch of independent isolated little maps!!!
+
+Ontologies are conceptual frameworks that can apply to multiple ecosystem services (affinito 2025). This can help organize data.
+
+![[000 Ana Did Science Today-38.png]]
+
+Essential Variables: critical for observing and understanding a part of the Earth System (like tree canopy cover)
+
+##### Analyse and interpret
+Model to predict consumer demand and instrumental value based on ecological supply and vice versa
+
+Market fluctuations drive the price up and hide the decline in salmon population.
+
+Modelled abundance of fish. Tried a bayesian approach with multiple levels (including or not certain variables for example). 
+
+ES monitoring is compromised at the local scale because of poor planning of research and disconnected work.
+
+**[Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services](https://ipbes.net/) (IPBES)**
+
+
+
+
+
 ### Wednesday, Jun 18, 2025
 
 Got the figures to a point where editing more won't make a difference. From now on, it's just writing.
