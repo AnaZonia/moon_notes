@@ -16,6 +16,11 @@ dg-publish: true
 
 ### Thursday, Jun 19, 2025
 
+
+also land use isn't randomly distributed (correlated with some of the other variables)
+discuss relationship between land use and surrounding forest cover (possible in the Atlantic forest, but it's quick to test for it so I'm not going to discuss it as a possibility)
+
+
 #### Flavio Affinito's Exit Seminar
 
 Pereira Science 2024 - Ecosystem Services
