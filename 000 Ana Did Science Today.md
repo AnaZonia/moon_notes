@@ -14,6 +14,10 @@ dg-publish: true
 
 ### Friday, Jun 20, 2025
 
+Carmen's research group on indigenous peoples: https://cicada.world/
+
+
+
 ### Thursday, Jun 19, 2025
 
 also land use isn't randomly distributed (correlated with some of the other variables)
