@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "000 Ana Did Science Today"
             }
+          },
+          {
+            "id": "06d3c1082521178c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Panama DEM 30m Raster.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Panama DEM 30m Raster"
+            }
+          },
+          {
+            "id": "bc4f01fe555b071f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 Data Sources.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "002 Data Sources"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5,
-    "collapsed": true
+    "width": 318.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -260,8 +288,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a4e3ab9bef2eef07",
+  "active": "06d3c1082521178c",
   "lastOpenFiles": [
+    "002 Data Sources.md",
+    "Panama DEM 30m Raster.md",
+    "000 Ana Did Science Today.md",
     "Files/000 Ana Did Science Today-38.png",
     "Files/000 Ana Did Science Today-37.png",
     "Files/000 Ana Did Science Today-36.png",
@@ -276,10 +307,8 @@
     "000 Chapter 1 - Predicting Regrowth in Brazil.md",
     "Model.md",
     "Data Analysis.md",
-    "000 Ana Did Science Today.md",
     "Conferences and Funding.md",
     "001 The Bridge.md",
-    "Files/000 Ana Did Science Today-28.png",
     "Climate pars by asymptote.md",
     "Excalidraw/Drawing Apr 14th 2025.excalidraw.md",
     "Excalidraw/Drawing May 23rd 2025.excalidraw.md",
@@ -287,7 +316,6 @@
     "Google Earth Engine.md",
     "Github.md",
     "Floresta Aleatória/Python.md",
-    "002 Data Sources.md",
     "ESA CCI Global Land Cover.md",
     "WorldCover.md",
     "Templates/Weekly Template.md",

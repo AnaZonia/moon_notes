@@ -21,6 +21,16 @@ discuss relationship between land use and surrounding forest cover (possible in 
 
 make total biomass maps and barplots with total carbon in mature forests, secondary and pasturelands.
 
+---
+up: 
+authors: 
+type: 
+url: 
+stardate: Mar 15th 2025
+dg-publish: true
+---
+> [!note] Summary
+
 #### Flavio Affinito's Exit Seminar
 
 Pereira Science 2024 - Ecosystem Services

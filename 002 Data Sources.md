@@ -48,10 +48,10 @@ WHERE contains(type, "climate")
 SORT type ASC
 ```
 
-## Soil
+## Soil/topography
 ```dataview
 TABLE WITHOUT ID link(file.link, file.name) AS "Title", mission AS "Mission", time_range AS "Time Range"
-WHERE contains(type, "soil")
+WHERE contains(type, "soil") OR contains(type, "topography")
 SORT file.name ASC
 ```
 
