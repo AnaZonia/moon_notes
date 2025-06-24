@@ -7,33 +7,75 @@ dg-publish: true
 
 
 
-## Jun 16, 2025 : Jun 22, 2025
 
-### Sunday, Jun 22, 2025
-### Saturday, Jun 21, 2025
+## Jun 30, 2025 : Jul 6, 2025
+
+### Sunday, Jul 6, 2025
+### Saturday, Jul 5, 2025
+
+### Friday, Jul 4, 2025
+
+### Thursday, Jul 3, 2025
+
+### Wednesday, Jul 2, 2025
+
+### Tuesday, Jul 1, 2025
+### Monday, Jun 30, 2025
+
+### Weekly Goals
+
+
+
+
+## Jun 23, 2025 : Jul 29, 2025
+
+### Sunday, Jun 29, 2025
+### Saturday, Jun 28, 2025
+
+### Friday, Jun 27, 2025
+
+### Thursday, Jun 26, 2025
+
+### Wednesday, Jun 25, 2025
+
+### Tuesday, Jun 24, 2025
+Sent out full version of manuscript and have some version of the CSEE talk that needs further reviewing and comments.
+
+### Weekly Goals
+
+- Final checking
+	- [ ] Check whether the behavior of the inclusion of yearly climatic data is making sense
+	- [ ] Should I remove from analyses pasturelands with more than 50-100 Mg/ha (which are probably undetected secondary forests anyways?)
+	- [ ] Understand whether categorical variable filtering and removing columns with less than 100 entries is doing the same thing
+	- [ ] Introduce multicollinearity filtering into data import
+	- [ ] Decide whether to use Pearson's correlation r or VIF
+	- [ ] Check whether distance is to be included as distance to nearest mature or distance to deep mature (also check the maximum distance 32767)
+	- [ ] Refit theta with field data
+	- [ ] Check why terraclim is not being exported with field.csv
+- Extended data
+	- [ ] Observed vs. predicted plots (for satellite and field, lag-corrected and uncorrected, with R2)
+	- [ ] predicted vs observed trajectories for the field plots with series data
+	- [ ] predicted vs observed values for all field plots
+	- [ ] R2 for all 4 asymptote aggregations
+- Check error patterns. Is there more error found in:
+	- [ ] slower areas?
+	- [ ] areas of lower initial biomass?
+- Last expansions
+	- [ ] Different land use aggregations - show that land use doesn't work
+	- [ ] Atlantic forest estimates
+
+
+## Jun 16, 2025 : Jun 22, 2025
 
 ### Friday, Jun 20, 2025
 
 Carmen's research group on indigenous peoples: https://cicada.world/
-
-
-
 ### Thursday, Jun 19, 2025
 
 also land use isn't randomly distributed (correlated with some of the other variables)
 discuss relationship between land use and surrounding forest cover (possible in the Atlantic forest, but it's quick to test for it so I'm not going to discuss it as a possibility)
 
 make total biomass maps and barplots with total carbon in mature forests, secondary and pasturelands.
-
----
-up: 
-authors: 
-type: 
-url: 
-stardate: Mar 15th 2025
-dg-publish: true
----
-> [!note] Summary
 
 #### Flavio Affinito's Exit Seminar
 
