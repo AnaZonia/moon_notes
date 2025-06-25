@@ -38,6 +38,10 @@ dg-publish: true
 
 ### Wednesday, Jun 25, 2025
 
+Look at the histogram of biomass for pasturelands - how many of them are regrowing forests?
+
+Plot age vs area - histogram is a negative exponential
+
 ### Tuesday, Jun 24, 2025
 Sent out full version of manuscript and have some version of the CSEE talk that needs further reviewing and comments.
 
