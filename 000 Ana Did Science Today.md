@@ -25,8 +25,6 @@ dg-publish: true
 ### Weekly Goals
 
 
-
-
 ## Jun 23, 2025 : Jul 29, 2025
 
 ### Sunday, Jun 29, 2025
