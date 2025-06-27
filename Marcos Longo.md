@@ -11,7 +11,7 @@ location:
   - PANGEA
 dg-publish: true
 ---
-Elsa recommended talking to him and Charlie Coven for having 
+Elsa recommended talking to him and Charlie Coven for having planned the regrowth section of the PANGEA white paper
 ```dataview
 LIST
 FROM "2 Research" AND [[]]
