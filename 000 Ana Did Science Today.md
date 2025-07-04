@@ -15,24 +15,11 @@ dg-publish: true
 
 ### Friday, Jul 4, 2025
 
-### Thursday, Jul 3, 2025
-
-### Wednesday, Jul 2, 2025
-
-### Tuesday, Jul 1, 2025
-### Monday, Jun 30, 2025
-
-### Weekly Goals
+Robinson and Cook Patton's work considers a lot of environmental covariates. I guess the main point we have is that remote sensing allows to capture different conditions across the Amazon.
 
 
 ## Jun 23, 2025 : Jul 29, 2025
 
-### Sunday, Jun 29, 2025
-### Saturday, Jun 28, 2025
-
-### Friday, Jun 27, 2025
-
-### Thursday, Jun 26, 2025
 
 ### Wednesday, Jun 25, 2025
 
