@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "000 Chapter 2 - Predicting Regrowth in Panama.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 Ana Did Science Today"
+              "title": "000 Chapter 2 - Predicting Regrowth in Panama"
             }
           }
         ]
@@ -261,9 +261,9 @@
   },
   "active": "a4e3ab9bef2eef07",
   "lastOpenFiles": [
+    "000 Ana Did Science Today.md",
     "003 People and Networks.md",
     "Marcos Longo.md",
-    "000 Ana Did Science Today.md",
     "Tree Atlas of Panama.md",
     "002 Data Sources.md",
     "Panama DEM 30m Raster.md",

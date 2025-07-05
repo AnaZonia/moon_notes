@@ -15,10 +15,7 @@ dg-publish: true
 
 ### Friday, Jul 4, 2025
 
-Robinson and Cook Patton's work considers a lot of environmental covariates. I guess the main point we have is that remote sensing allows to capture different conditions across the Amazon.
-
-Saturation of biomass detection algorithms could mean the asymptotes are higher and regrowth rates could continue high for more years into the future, so it's hard to know for forests over 60 years old/over 250 MgC/ha
-
+Could be interesting to fit the model separately for wet and dry tropical forests within the Amazon
 
 ## Jun 23, 2025 : Jul 29, 2025
 

@@ -10,7 +10,7 @@ Next point:
 - asymptote submodel (future climate change)
 	- how can we predict changes in asymptote if drier/wetter places react differently to climate change?
 
-
+Could be interesting to fit the model separately for wet and dry tropical forests (Jakovac 2016, page 1125)
 
 ### Fragmentation/human impact
 Model probability of disturbance in Panama.
