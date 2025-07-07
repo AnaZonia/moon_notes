@@ -3,12 +3,6 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-
-
-
-
-
-
 ## Jul 7, 2025 : Jul 13, 2025
 
 ### Monday, Jul 7, 2025
@@ -23,10 +17,33 @@ dg-publish: true
 
 [Bennett and Reyers](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10611) - People WITH nature: expands on Mace 2014.
 
-When
+Cool plot showing the presence of different tree species vs. the amount of times the trees are mentioned by people around Montreal - much more mentions of trees like ash and apple in relation to their abundance!
+
+==What is the shape of the relationship between natural and human drivers of ecosystem services provision?==
+
+==Rieb et al 2023== - Compare natural capital (say native pollinators) and human capital (say honeybee hives). Understanding how those two insect populations interact, if they compete, can avoid management surprises and help plan land use better (if you want max pollination, what should you go for?)
+
+==Comberti et al 2015== - Services to Ecosystems: How can people enhance soil quality, restore ecosystems
+
+==Locatelli 2014== - Mental wellbeing as an ecosystem service
+
+==Normyle 2022== - What nature does for people isn't separable from what people do for nature
+
+==Stoecki 2021== - Nature and people are interconnected - and we get wellbeing from taking care of the environment! that's a benefit
+
+Braiding sweetgrass talks about benefits that nature provides for people.
+
+Galang (her phd student) is working on how the local people participating in workshops with researchers are helpful for people to have a better idea of how their lives are intertwined with the local nature.
+
+**Conclusion: Her research is on how relationships change landscapes AND people.**
+- what are the interactions between human and natural capital
+- how do people enhance ecosystems
+- what indirect benefits can be gotten (mental wellbeing)
+
+**Resnet** - canadian network to monitor and manage ecosystem services in Canada
 
 
-
+[Society for Social Ecological Systems](https://socses.org/) - New international network!!!!!
 
 ## Jun 30, 2025 : Jul 6, 2025
 
