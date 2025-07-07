@@ -45,6 +45,54 @@ Galang (her phd student) is working on how the local people participating in wor
 
 [Society for Social Ecological Systems](https://socses.org/) - New international network!!!!!
 
+
+#### Statistical Ecology
+
+CCSE - Canadian community of statistical ecology (links members of SSC and CSEE)
+
+simon.bonner@uwo.ca - ask about membership and dinner at baton rouge
+
+Did not mention PhD students in it - postdoc and on.
+
+Most important developments in statistical ecology
+- latent variable models (spline and additive, mixed, discrete (hidden markov))
+
+Problems in ecological stats
+- lots of data - how to turn it into knowledge?
+- standardize analysis so it's easy to replicate
+- how to tell causal relationships in complex systems?
+
+How will statistical ecology change
+- more interdisciplinary (more engineers/comp scientists)
+- more dificsion between data-intensive (deep learning) and mechanistic methods (causal inference)
+
+#### Sofia Ruiz Suarez - Informed AI
+
+==How to incorporate knowledge of the system into the structure of a pattern recognition/classification task?==
+
+**Informed AI** - hybrid of data-based and prior knowledge.
+
+Can be useful for:
+- smaller datasets
+- poor-quality data
+
+Methods are:
+- adding extra input data
+- add a new knowledge based penalty term to the loss function
+- change network architecture
+	- bayesian - use of priors (constrain parameters)
+	- Transfer learning: can introduce priors when data is scarce
+- final hypothesis - output evaluating against existing knowledge
+
+This has been used to classify copepod images into species for example
+
+sofiars.quarto.pub/informedai
+
+
+
+
+
+
 ## Jun 30, 2025 : Jul 6, 2025
 
 ### Friday, Jul 4, 2025
