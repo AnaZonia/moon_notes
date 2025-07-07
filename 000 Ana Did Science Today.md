@@ -8,10 +8,27 @@ dg-publish: true
 
 
 
-## Jun 30, 2025 : Jul 6, 2025
 
-### Sunday, Jul 6, 2025
-### Saturday, Jul 5, 2025
+## Jul 7, 2025 : Jul 13, 2025
+
+### Monday, Jul 7, 2025
+
+#### Elena Bennett
+
+**Socioecological systems ecologist** - science not done in isolation (by groups with different expertises)
+
+==Emergent properties== - when interactions make something new and interesting happen in a system (the snow melt causes decrease in albedo and higher temperatures, for example)
+
+[Mace 2014](https://www.science.org/doi/10.1126/science.1254704?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed) - talks about integrating frameworks with people and nature.
+
+[Bennett and Reyers](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10611) - People WITH nature: expands on Mace 2014.
+
+When
+
+
+
+
+## Jun 30, 2025 : Jul 6, 2025
 
 ### Friday, Jul 4, 2025
 
