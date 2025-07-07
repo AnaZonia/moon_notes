@@ -89,6 +89,30 @@ This has been used to classify copepod images into species for example
 sofiars.quarto.pub/informedai
 
 
+#### Pedro Peres Neto - Larger and more sophisticated models for biodiversity science
+
+- Not much variance can be explained by our models!!
+
+Need models to be BIGGER and/or MORE SOPHISTICATED.
+
+There are a ton of models that look at very different predictors. A bunch of them correlate!
+
+**Interpretation can be challenging:** temperature can limit physiology at colder ends of the range, but limit food availability at higher ends of the range!
+
+How can that be improved?
+- Higher order interactions - can build complicated models with simple data
+- Collaboration and sharing - common platform to share interpretation
+- From interpretation to decision-making
+- Models need to be validated, not just novel
+- Integrate mechanistic insights and complex models for causal inference
+	- we use underlie, highlight, correlate, mediate - but never CAUSE!
+
+Big models need to be interpretable and actionable!!
+
+**Hidden Markov HMM** are useful for identifying ecological time series
+- probability of observations over time
+
+**Mixture models** have groupings (for example, long lived vs. short lived species)
 
 
 
