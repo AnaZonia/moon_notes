@@ -5,6 +5,24 @@ dg-publish: true
 ---
 ## Jul 7, 2025 : Jul 13, 2025
 
+### Tuesday, Jul 8th, 2025
+
+Different herbivores target trees at different ages. I wonder how much that affects regrowth at small scales in the Amazon today.
+
+Genotype-environment relationships
+- redundancy analysis
+- LFMM - latent factor mixed model
+
+Beautiful way of showing methods - divided slide in 4 quarters
+
+genetics used to determine the range of adaptation of subpopulations in a species
+
+Variable partitioning - look into this to try to explain the relative contribution of different predictors in the regrowth model
+
+
+
+
+
 ### Monday, Jul 7, 2025
 
 #### Elena Bennett
@@ -113,7 +131,9 @@ Big models need to be interpretable and actionable!!
 - probability of observations over time
 
 **Mixture models** have groupings (for example, long lived vs. short lived species)
+#### Evolution
 
+Graham Bell said that physics/chemistry are the first science, while evolution/economics/linguistics are the second science and 
 
 
 
