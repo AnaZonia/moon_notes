@@ -5,6 +5,20 @@ dg-publish: true
 ---
 ## Jul 7, 2025 : Jul 13, 2025
 
+
+### Wednesday, July 9th, 2025
+Yavinder Mahli
+Robin Chazdon
+Jeff Chambers
+Lawrence Poorter
+Maria Uriate 
+katrin fleisher
+Catarina Jakovac
+luciana gatti
+Susan Cook-Patton
+Heinrich
+
+
 ### Tuesday, Jul 8th, 2025
 
 Different herbivores target trees at different ages. I wonder how much that affects regrowth at small scales in the Amazon today.
