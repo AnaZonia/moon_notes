@@ -39,4 +39,5 @@ dg-publish: true
 - QLS
 - GREAT
 - QCBS
+- https://www.cef-cfr.ca/pmwiki.php?n=CEF.BoursesDuCEF
 
