@@ -6,6 +6,15 @@ dg-publish: true
 ## Jul 7, 2025 : Jul 13, 2025
 
 
+
+
+
+Show the distribution of plot sites in the Amazon and the ecoregions that are underrepresented
+
+The asymptote captures and is driven by the variation in climate.
+
+Directionality of coefficients - Parameter table
+
 ### Wednesday, July 9th, 2025
 Yavinder Mahli
 Robin Chazdon
