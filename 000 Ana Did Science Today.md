@@ -7,18 +7,9 @@ dg-publish: true
 
 
 
-
-
-Show the distribution of plot sites in the Amazon and the ecoregions that are underrepresented
-
-The asymptote captures and is driven by the variation in climate.
+### Friday, July 11th, 2025
 
 Directionality of coefficients - Parameter table
-Map of where field plots are
-
-Growth rate within each age class - 
-
-
 
 Time of fastest growth rate - 27 years ??? that could be due to the fixed m value at 0.67 - that gives theta = 3, which is not what we saw.
 
@@ -29,23 +20,28 @@ our fits are very good within age classes.
 Our conclusion is different - we fit m for the Amazon and it's smaller. our results add to the literature in different and substantial ways.
 
 - field plots are not spread homogeneously across the Amazon - remote sensing is super broad and needed given limitations of sampling.
+	- Show the distribution of plot sites in the Amazon and the ecoregions that are underrepresented
 - remote sensing has limitations and needs to be well understood there is a plot. There is a non-zero intercept in field data (robinson) but it could be worse in remote sensing
 - we find good fits at early stages using remote sensing by introducing the lag - our R2 at the first 10 years would be higher than 0.22.
 
+main conclusion of their paper (27 year old) may be an artifact of an assumption they made with the m parameter.
 
-main conclusion of their paper (27 year old) may be an artifact of an assumption they made
 
 
 
 ### Wednesday, July 9th, 2025
-Yavinder Mahli
 Robin Chazdon
-Jeff Chambers
 Lawrence Poorter
-Maria Uriate 
-katrin fleisher
+Luciana Gatti
+Bernardo Strassburg
+Pedro Brancalion
 Catarina Jakovac
-luciana gatti
+Marcos Longo
+Maria Uriate
+Yadvinder Malhi
+Jeff Chambers
+katrin fleisher
+
 Susan Cook-Patton
 Heinrich
 

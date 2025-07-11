@@ -242,8 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5,
-    "collapsed": true
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,11 +260,11 @@
   },
   "active": "a4e3ab9bef2eef07",
   "lastOpenFiles": [
+    "003 People and Networks.md",
+    "000 Ana Did Science Today.md",
     "Conferences and Funding.md",
     "001 The Bridge.md",
-    "000 Ana Did Science Today.md",
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
-    "003 People and Networks.md",
     "Marcos Longo.md",
     "Tree Atlas of Panama.md",
     "002 Data Sources.md",
