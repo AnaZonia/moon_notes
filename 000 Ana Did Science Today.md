@@ -20,11 +20,27 @@ our fits are very good within age classes.
 Our conclusion is different - we fit m for the Amazon and it's smaller. our results add to the literature in different and substantial ways.
 
 - field plots are not spread homogeneously across the Amazon - remote sensing is super broad and needed given limitations of sampling.
-	- Show the distribution of plot sites in the Amazon and the ecoregions that are underrepresented
+	- Show the distribution of plot sites in the Amazon and the ecoregions that are underrepresented - add to SI
 - remote sensing has limitations and needs to be well understood there is a plot. There is a non-zero intercept in field data (robinson) but it could be worse in remote sensing
 - we find good fits at early stages using remote sensing by introducing the lag - our R2 at the first 10 years would be higher than 0.22.
 
 main conclusion of their paper (27 year old) may be an artifact of an assumption they made with the m parameter.
+
+
+
+
+it has been shown that secondary forests are important  (mean it as a strength)
+- here is how we build on it: it's a hot topic and we have done the new next thing on this topic
+most of our understanding of forest dynamics comes from the global north, from ara with many years of data - remote sensing is specially important for this locations
+
+remote sensing DOES capture intermediate regrowth rates!!!
+
+
+Ask brian for cover letter suggestions from nature
+
+
+
+Err on the side of confidence
 
 
 
@@ -36,14 +52,15 @@ Luciana Gatti
 Bernardo Strassburg
 Pedro Brancalion
 Catarina Jakovac
+Katrin Fleisher
 Marcos Longo
 Maria Uriate
 Yadvinder Malhi
 Jeff Chambers
-katrin fleisher
+
 
 Susan Cook-Patton
-Heinrich
+
 
 
 ### Tuesday, Jul 8th, 2025
