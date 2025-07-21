@@ -26,14 +26,19 @@ dg-publish: true
 - is my use of the word regrowth too repetitive? is it bad that I am interchanging regrowth and regeneration sometimes?
 
 
-Write out alternatives and think of pros and cons across them. consider possibilities of how to illustrate it.
+
 
 Approach that other people have taken when you scale down to local.
 
 Time signal is barely observable until you consider the regional variation in conditions. Cite Robinson when talking about variability being important.
 
 
-write a paragraph about why their methods aren't as good - m value, shape forced. and remote sensing is still important
+Write a paragraph about why Robinson's methods aren't as good - m value, shape forced. And remote sensing is still important.
+
+Their asymptote doesnt exist for the amazon, no plots that old.
+
+Their R2 for early years in the Amazon is very low - probably lack of data points? I wonder how many were used to train the model at that scale.
+
 
 
 
