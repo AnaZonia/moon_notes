@@ -3,7 +3,34 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+
+
+## Jul 28, 2025 : Aug 3, 2025
+
+### Sunday, Aug 3, 2025
+### Saturday, Aug 2, 2025
+
+### Friday, Aug 1, 2025
+
+### Thursday, Jul 31, 2025
+
+### Wednesday, Jul 30, 2025
+
+### Tuesday, Jul 29, 2025
+### Monday, Jul 28, 2025
+
+#### Questions for supervisory meeting
+
+- the delay is 27 on average with the NN asymptote, but not with others - is that a concern? should that be considered?
+
+
+### Weekly Goals
+
+
 ## Jul 21, 2025 : 
+
+
 
 ### Monday, July 21st, 2025
 
