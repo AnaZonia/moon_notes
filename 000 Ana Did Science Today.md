@@ -26,10 +26,26 @@ dg-publish: true
 - is my use of the word regrowth too repetitive? is it bad that I am interchanging regrowth and regeneration sometimes?
 
 
+Write out alternatives and think of pros and cons across them. consider possibilities of how to illustrate it.
+
+Approach that other people have taken when you scale down to local.
+
+Time signal is barely observable until you consider the regional variation in conditions. Cite Robinson when talking about variability being important.
+
+
+write a paragraph about why their methods aren't as good - m value, shape forced. and remote sensing is still important
+
+
+
 ### Weekly Goals
 
 
 ## Jul 21, 2025 : 
+
+
+With and without randomized age - with the single asymptote, how is age not so important? if it's multiplied by everything, how come doesn't it change things, why?
+
+compare with normal age vs randomized age plot.
 
 
 
@@ -55,6 +71,7 @@ Our conclusion is different - we fit m for the Amazon and it's smaller. our resu
 
 - field plots are not spread homogeneously across the Amazon - remote sensing is super broad and needed given limitations of sampling.
 	- Show the distribution of plot sites in the Amazon and the ecoregions that are underrepresented - add to SI
+	- could be added to the main text with environmental layers too
 - remote sensing has limitations and needs to be well understood there is a plot. There is a non-zero intercept in field data (robinson) but it could be worse in remote sensing
 - we find good fits at early stages using remote sensing by introducing the lag - our R2 at the first 10 years would be higher than 0.22.
 
