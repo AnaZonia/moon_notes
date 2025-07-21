@@ -3,9 +3,15 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## Jul 21, 2025 : 
+
+### Monday, July 21st, 2025
+
+Dr Madhur Anand at University of Guelph does really cool work with socioecological systems. I met her PhD candidate Jessica Guezen. Should look into her work
+https://anand-lab-globalecochange.uoguelph.ca/projects/
+
+
 ## Jul 7, 2025 : Jul 13, 2025
-
-
 
 ### Friday, July 11th, 2025
 
