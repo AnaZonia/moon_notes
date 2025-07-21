@@ -23,6 +23,7 @@ dg-publish: true
 #### Questions for supervisory meeting
 
 - the delay is 27 on average with the NN asymptote, but not with others - is that a concern? should that be considered?
+- is my use of the word regrowth too repetitive? is it bad that I am interchanging regrowth and regeneration sometimes?
 
 
 ### Weekly Goals
