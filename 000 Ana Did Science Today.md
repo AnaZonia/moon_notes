@@ -24,6 +24,9 @@ dg-publish: true
 
 - the delay is 27 on average with the NN asymptote, but not with others - is that a concern? should that be considered?
 - is my use of the word regrowth too repetitive? is it bad that I am interchanging regrowth and regeneration sometimes?
+- add 37% belowground biomass to estimates
+- one mature biomass estimate for 10km - why that?
+- is the climate data explanations in the table good enough? do I need to write them out loud as well in the methods?
 
 
 
