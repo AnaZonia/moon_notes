@@ -16,8 +16,49 @@ dg-publish: true
 ### Thursday, Jul 31, 2025
 
 ### Wednesday, Jul 30, 2025
-
-### Tuesday, Jul 29, 2025
+r$> # Identify highly correlated features
+    find_highly_correlated(corr_matrix, threshold = 0
+    .3)
+Highly correlated feature pairs:
+asymptote and biomass :  0.32 
+asymptote and phh2o :  -0.47 
+asymptote and sand :  -0.35 
+asymptote and mean_srad :  -0.48 
+asymptote and mean_vpd :  -0.42 
+asymptote and mean_def :  -0.62 
+biomass and phh2o :  -0.4 
+biomass and mean_srad :  -0.41 
+biomass and mean_def :  -0.4 
+nitro and ocd :  0.52 
+nitro and sand :  -0.32 
+nitro and soc :  0.4 
+phh2o and sand :  0.39 
+phh2o and clay :  -0.37 
+phh2o and cfvo :  0.35 
+phh2o and mean_srad :  0.58 
+phh2o and mean_vpd :  0.38 
+phh2o and mean_def :  0.67 
+ocd and sand :  -0.45 
+ocd and clay :  0.38 
+ocd and soc :  0.44 
+cec and sand :  -0.32 
+cec and soc :  0.31 
+cec and mean_def :  -0.4 
+sand and clay :  -0.59 
+sand and mean_srad :  0.33 
+sand and mean_vpd :  0.46 
+sand and mean_def :  0.6 
+clay and mean_vpd :  -0.38 
+clay and mean_def :  -0.38 
+cfvo and mean_srad :  0.59 
+cfvo and mean_soil :  0.42 
+cfvo and mean_aet :  0.47 
+mean_srad and mean_soil :  0.41 
+mean_srad and mean_vpd :  0.32 
+mean_srad and mean_aet :  0.53 
+mean_srad and mean_def :  0.65 
+mean_temp and mean_aet :  0.62 
+mean_vpd and mean_def :  0.64 
 ### Monday, Jul 28, 2025
 
 #### Questions for supervisory meeting
@@ -27,6 +68,11 @@ dg-publish: true
 - add 37% belowground biomass to estimates
 - one mature biomass estimate for 10km - why that?
 - is the climate data explanations in the table good enough? do I need to write them out loud as well in the methods?
+- Make predictions based on the latest processed data by Mapbiomas (Collection 9, 2023)
+- add how much is expected to be active reforestation?
+- Sensitivity analyses - pastureland assuming all are 0 years old or all are 27 years old. Upper and lower bounds can be shown with an error bar on the barplot.
+- X % of pasturelands are above Y MgC/ha
+
 
 
 
