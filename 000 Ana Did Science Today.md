@@ -15,7 +15,21 @@ dg-publish: true
 
 ### Thursday, Jul 31, 2025
 
+With age as the only predictor and climatic region asymptote defined, R2 is 10\%. With age and whole amazon, it's 2\%.
+x
+Asymptote and surrounding forest cover change everything.
+
+the locally estimated asymptote model improved R² from 31\% to 42\% with all predictors included (\autoref{fig:figure_2_model_performance.png}).
+
+We would miss on the very important signal of age if we are considering climatic variation across the entire basin, because then we are pretty much just modelling variation in biomass across the basin
+
+
+
+
+
+
 ### Wednesday, Jul 30, 2025
+
 r$> # Identify highly correlated features
     find_highly_correlated(corr_matrix, threshold = 0
     .3)
