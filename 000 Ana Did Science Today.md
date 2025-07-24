@@ -86,6 +86,7 @@ mean_vpd and mean_def :  0.64
 - add how much is expected to be active reforestation?
 - Sensitivity analyses - pastureland assuming all are 0 years old or all are 27 years old. Upper and lower bounds can be shown with an error bar on the barplot.
 - X % of pasturelands are above Y MgC/ha
+- Should I cite TMF as well as Mapbiomas as an example of binary classification?
 
 
 
