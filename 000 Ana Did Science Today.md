@@ -19,7 +19,7 @@ the locally estimated asymptote model improved R² from 31\% to 42\% with all pr
 
 We would miss on the very important signal of age if we are considering climatic variation across the entire basin, because then we are pretty much just modelling variation in biomass across the basin
 
-
+Screenshots from satellites figure 1
 
 
 
