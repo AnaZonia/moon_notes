@@ -8,15 +8,11 @@ dg-publish: true
 
 ## Jul 28, 2025 : Aug 3, 2025
 
-### Sunday, Aug 3, 2025
-### Saturday, Aug 2, 2025
-
-### Friday, Aug 1, 2025
-
 ### Thursday, Jul 31, 2025
 
 With age as the only predictor and climatic region asymptote defined, R2 is 10\%. With age and whole amazon, it's 2\%.
-x
+
+
 Asymptote and surrounding forest cover change everything.
 
 the locally estimated asymptote model improved R² from 31\% to 42\% with all predictors included (\autoref{fig:figure_2_model_performance.png}).
