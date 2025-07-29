@@ -8,6 +8,9 @@ dg-publish: true
 
 ## Jul 28, 2025 : Aug 3, 2025
 
+
+How to add the magnitude of the effect (positive or negative)?
+
 ### Thursday, Jul 31, 2025
 
 With age as the only predictor and climatic region asymptote defined, R2 is 10\%. With age and whole amazon, it's 2\%.
@@ -78,15 +81,11 @@ mean_vpd and mean_def :  0.64
 - add 37% belowground biomass to estimates
 - one mature biomass estimate for 10km - why that?
 - is the climate data explanations in the table good enough? do I need to write them out loud as well in the methods?
-- Make predictions based on the latest processed data by Mapbiomas (Collection 9, 2023)
 - add how much is expected to be active reforestation?
 - Sensitivity analyses - pastureland assuming all are 0 years old or all are 27 years old. Upper and lower bounds can be shown with an error bar on the barplot.
 - X % of pasturelands are above Y MgC/ha
 - Should I cite TMF as well as Mapbiomas as an example of binary classification?
 - How to explain the scale - the model was trained with ages at 30m resolution and biomass at 100m resolution, and then predictions are made at 1km resolution.
-
-
-
 
 
 Approach that other people have taken when you scale down to local.
