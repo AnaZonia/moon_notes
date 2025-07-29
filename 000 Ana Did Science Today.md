@@ -9,6 +9,12 @@ dg-publish: true
 ## Jul 28, 2025 : Aug 3, 2025
 
 
+Realized that some of the difference between the 10k sampled dataframes and 1k sampled dataframes is the way that data processing is treating it.
+
+After data processing, the difference was mean biomass = 183 for 10k, and 
+
+
+
 How to add the magnitude of the effect (positive or negative)?
 - shows slowing down and asymptote after 60 years on average (matches xy study)
 - Accounting for the time lag in regrowth detection, we estimate that secondary forests in the Brazilian Amazon are actually more extensive (due to the likley presence of many undetected regrowing areas) and grow faster (due to under accounting for the accelerated early growth phase ) than previously expected. 
