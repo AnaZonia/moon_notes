@@ -11,7 +11,7 @@ dg-publish: true
 
 Realized that some of the difference between the 10k sampled dataframes and 1k sampled dataframes is the way that data processing is treating it.
 
-After data processing, the difference was mean biomass = 183 for 10k, and 
+I think the issue with the differences in 1k and 10k is the resolution and projection and the image, and resolution and projection of sampleRegions. I am exporting a reprojected version of the image, and will make more tests tomorrow to make sure the reprojection, resolution and everything matches with the sampling and the image so there are no inconsistencies.
 
 
 
