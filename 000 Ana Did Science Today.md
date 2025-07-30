@@ -4,6 +4,8 @@ up:
 dg-publish: true
 ---
 
+straight "sample" would work but it is too heavy. Can't sample them all
+
 
 
 ## Jul 28, 2025 : Aug 3, 2025
