@@ -90,11 +90,16 @@ mean_vpd and mean_def :  0.64
 - is my use of the word regrowth too repetitive? is it bad that I am interchanging regrowth and regeneration sometimes?
 - add 37% belowground biomass to estimates
 - one mature biomass estimate for 10km - why that?
+	- good enough. also didn't do a sensitivity analysis.
 - is the climate data explanations in the table good enough? do I need to write them out loud as well in the methods?
+	- write a list of the variables in the main text.
 - add how much is expected to be active reforestation?
+	- active reforestation is so limited that we don't care (cite something)
+	- don't mention that
 - Sensitivity analyses - pastureland assuming all are 0 years old or all are 27 years old. Upper and lower bounds can be shown with an error bar on the barplot.
 - X % of pasturelands are above Y MgC/ha
 - Should I cite TMF as well as Mapbiomas as an example of binary classification?
+	- the same happens with EU TMF
 - How to explain the scale - the model was trained with ages at 30m resolution and biomass at 100m resolution, and then predictions are made at 1km resolution.
 
 
