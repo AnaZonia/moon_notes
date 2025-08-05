@@ -106,7 +106,10 @@ mean_srad and mean_vpd :  0.32
 mean_srad and mean_aet :  0.53 
 mean_srad and mean_def :  0.65 
 mean_temp and mean_aet :  0.62 
-mean_vpd and mean_def :  0.64 
+mean_vpd and mean_def :  0.64
+
+
+
 ### Monday, Jul 28, 2025
 
 #### Questions for supervisory meeting
