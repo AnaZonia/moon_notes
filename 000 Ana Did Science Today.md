@@ -8,6 +8,31 @@ straight "sample" would work but it is too heavy. Can't sample them all
 
 
 
+
+- When to argue that the Amazon is the correct region to do this work on - do I need to do that at all?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Jul 28, 2025 : Aug 3, 2025
 
 
