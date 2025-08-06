@@ -16,7 +16,7 @@ straight "sample" would work but it is too heavy. Can't sample them all
 
 
 
-
+run the figures again after fitting theta
 
 
 
