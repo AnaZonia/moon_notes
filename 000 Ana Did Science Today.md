@@ -7,6 +7,40 @@ dg-publish: true
 
 
 
+## Aug 11, 2025 : Aug 17, 2025
+
+### Sunday, Aug 17, 2025
+### Saturday, Aug 16, 2025
+
+### Friday, Aug 15, 2025
+
+### Thursday, Aug 14, 2025
+
+### Wednesday, Aug 13, 2025
+
+### Tuesday, Aug 12, 2025
+### Monday, Aug 11, 2025
+
+### Weekly Goals
+
+
+
+
+
+### Thursday, Aug 7, 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
 fit theta separately -  make new script for that.
 
 type 3 model - show R2 per variable (on a table)
