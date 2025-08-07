@@ -4,6 +4,38 @@ up:
 dg-publish: true
 ---
 
+
+
+
+fit theta separately -  make new script for that.
+
+type 3 model - show R2 per variable (on a table)
+- land use comparisons with atlantic forest and amazon
+
+make sure code is reproducible - edit everything in Janus
+
+write Methods
+- field data cleaning
+
+take Fiona's edits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 straight "sample" would work but it is too heavy. Can't sample them all
 
 
