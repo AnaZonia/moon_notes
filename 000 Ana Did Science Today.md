@@ -3,26 +3,8 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-Catarina Jakovac
-Elsa Ordway
-Greg Asner
-Robin Chazdon
-Kristina Anderson-Teixeira
-
-Lawrence Poorter
-Luciana Gatti
-Bernardo Strassburg
-Pedro Brancalion
-
-Katrin Fleisher
-Marcos Longo
-Maria Uriate
-
-Yadvinder Malhi
-
-Jeff Chambers
-
-Susan Cook-Patton
+GWR - how is that different from mechanistic?
+how would this perform with early years?
 
 
 ## Aug 11, 2025 : Aug 17, 2025
