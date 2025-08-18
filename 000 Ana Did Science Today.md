@@ -8,28 +8,25 @@ how would this perform with early years?
 
 
 
-impact of sand on mangroves and corals - what do you expect?
+### Monday, Aug 18, 2025
 
 
-## Aug 11, 2025 : Aug 17, 2025
+Finalizing GEE - sampling and reprojecting.
 
-### Sunday, Aug 17, 2025
-### Saturday, Aug 16, 2025
+Realized that extracting with pixels from a grid works just fine - only what happens is there is an overrepresentation of isolated pixels vs. aggregated pixels when you sample at very high resolutions (say 1km).
 
-### Friday, Aug 15, 2025
+When sampling at 10km (pixels below) you avoid resampling the same agglomerate (which have the same history) while also avoiding overrepresenting isolated pixels.
 
-### Thursday, Aug 14, 2025
-
-### Wednesday, Aug 13, 2025
-
-### Tuesday, Aug 12, 2025
-### Monday, Aug 11, 2025
-
-### Weekly Goals
+That's the sweet spot for proper representation of the secondary forests.
 
 
+![[000 Ana Did Science Today-39.png]]
 
+Also I realized I can't sample per UTM zone because they divide the amazon in quarters and end up oversampling dense areas if we are sampling an equal number of points per UTM zone:
 
+![[000 Ana Did Science Today-40.png]]
+
+so we should use the 10km grid, 1km grid, and go with it the way it was before.
 
 ### Thursday, Aug 7, 2025
 
