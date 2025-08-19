@@ -6,8 +6,9 @@ dg-publish: true
 GWR - how is that different from mechanistic?
 how would this perform with early years?
 
+two sites in the Amazon have repeated measurements - that is not enough to add to the paper, so I just took note and am moving on.
 
-
+![[000 Ana Did Science Today-41.png]]
 ### Monday, Aug 18, 2025
 
 
