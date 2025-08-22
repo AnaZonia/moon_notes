@@ -6,6 +6,28 @@ dg-publish: true
 GWR - how is that different from mechanistic?
 how would this perform with early years?
 
+## Friday, Aug 22, 2025
+
+
+- Removed B0 because it is not used in the analysis. the average biomass for year 1 for secondary forests is 5 (very low!), so the intercept is unnecessary.
+
+
+### Fitting field and satellite simultaneously
+
+I am noticing that theta and lag have an interaction. The value of lag depends on the value of theta. To find what is the most likely real lag in regrowth, I should use both.
+
+I picked the average biomass per age for the satellite to obtain this curve ()
+
+![[000 Ana Did Science Today-42.png]]
+
+
+
+
+
+The lag value that maximizes R² for the satellite data is 28 (theta is )
+The theta value that maximizes R² for the field data is  (lag is)
+
+
 
 
 - can't just fit theta independently from the satellite data because it could affect the results
@@ -15,10 +37,10 @@ how would this perform with early years?
 
 
 
-removing B0 because it is not used in the analysis. the average biomass for year 1 for secondary forests is 5 (very low!)
 
+### Field sites
 
-two sites in the Amazon have repeated measurements - that is not enough to add to the paper, so I just took note and am moving on.
+Two sites in the Amazon have repeated measurements - that is not enough to add to the paper, so I just took note and am moving on.
 
 ![[000 Ana Did Science Today-41.png]]
 ### Monday, Aug 18, 2025
