@@ -6,6 +6,9 @@ dg-publish: true
 GWR - how is that different from mechanistic?
 how would this perform with early years?
 
+removing B0 because it is not used in the analysis. the average biomass for year 1 for secondary forests is 5 (very low!)
+
+
 two sites in the Amazon have repeated measurements - that is not enough to add to the paper, so I just took note and am moving on.
 
 ![[000 Ana Did Science Today-41.png]]
