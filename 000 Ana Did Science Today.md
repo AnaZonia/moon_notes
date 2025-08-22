@@ -6,6 +6,15 @@ dg-publish: true
 GWR - how is that different from mechanistic?
 how would this perform with early years?
 
+
+
+- can't just fit theta independently from the satellite data because it could affect the results
+- can't just fit lag without theta because theta affects lag
+- can't fit both together because satellite has much more datapoints, so the effect of the field data becomes less important.
+- restricting data to smaller values doesn't work (still causes local minima)
+
+
+
 removing B0 because it is not used in the analysis. the average biomass for year 1 for secondary forests is 5 (very low!)
 
 
