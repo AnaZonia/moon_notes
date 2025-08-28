@@ -3,8 +3,75 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+r$> print(vif_df)
+                                  Feature       VIF
+mean_def                         mean_def 21.408903
+mean_srad                       mean_srad 16.466512
+mean_aet                         mean_aet 11.639771
+mean_vpd                         mean_vpd  4.983875
+phh2o                               phh2o  3.928777
+mean_pr                           mean_pr  3.448477
+mean_temp                       mean_temp  3.249350
+nearest_mature             nearest_mature  2.882327
+cfvo                                 cfvo  2.813902
+ocd                                   ocd  2.700906
+sand                                 sand  2.675421
+clay                                 clay  2.342810
+ocs                                   ocs  2.330510
+mean_soil                       mean_soil  1.858630
+distance_deep_forest distance_deep_forest  1.828729
+nitro                               nitro  1.659590
+soc                                   soc  1.659462
+cec                                   cec  1.655185
+sur_cover                       sur_cover  1.652367
+floodable_forests       floodable_forests  1.499755
+ecoreg                             ecoreg  1.480908
+mean_pdsi                       mean_pdsi  1.365531
+num_fires                       num_fires  1.247060
+protec                             protec  1.149776
+indig                               indig  1.146306
+age                                   age  1.114676
+topography                     topography  1.087841
 
 
+
+Highly correlated feature pairs:
+distance_deep_forest and nearest_mature :  -0.51 
+distance_deep_forest and phh2o :  0.47 
+distance_deep_forest and mean_srad :  0.41 
+biomass and nearest_mature :  0.57 
+biomass and mean_def :  -0.4 
+biomass and mean_srad :  -0.42 
+nearest_mature and phh2o :  -0.6 
+nearest_mature and mean_vpd :  -0.45 
+nearest_mature and mean_def :  -0.68 
+nearest_mature and mean_srad :  -0.6 
+cec and mean_def :  -0.42 
+cec and mean_pr :  0.4 
+clay and sand :  -0.6 
+cfvo and mean_soil :  0.43 
+cfvo and mean_srad :  0.59 
+cfvo and mean_aet :  0.47 
+nitro and ocd :  0.52 
+nitro and soc :  0.41 
+ocd and ocs :  0.58 
+ocd and sand :  -0.46 
+ocd and soc :  0.45 
+ocs and mean_pr :  0.41 
+phh2o and mean_def :  0.67 
+phh2o and mean_srad :  0.58 
+phh2o and mean_pr :  -0.55 
+phh2o and ecoreg :  0.41 
+sand and mean_vpd :  0.47 
+sand and mean_def :  0.61 
+sand and mean_pr :  -0.42 
+mean_soil and mean_srad :  0.41 
+mean_vpd and mean_def :  0.65 
+mean_temp and mean_aet :  0.62 
+mean_def and mean_srad :  0.65 
+mean_def and mean_pr :  -0.63 
+mean_srad and mean_aet :  0.52 
+mean_pr and mean_aet :  0.45 
 
 
 
@@ -13,7 +80,7 @@ dg-publish: true
 - get predictions based on 2023 ages
 - I wonder if the model will predict well the biomass from ESA CCI for 2022
 
-
+email rees
 
 
 
