@@ -9,7 +9,9 @@ dg-publish: true
 
 
 
-
+- get feature importance with land use
+- get predictions based on 2023 ages
+- I wonder if the model will predict well the biomass from ESA CCI for 2022
 
 
 
