@@ -9,7 +9,7 @@ check if it's different with the same dataset or if sampling more than 10k may h
 
 remove one predictor at a time and use age as a fixed constant to see the relative importance of each predictor.
 
-
+set time to 1 or ise mean
 
 
 
