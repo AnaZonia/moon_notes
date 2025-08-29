@@ -3,6 +3,16 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+check if it's different with the same dataset or if sampling more than 10k may help
+
+
+remove one predictor at a time and use age as a fixed constant to see the relative importance of each predictor.
+
+
+
+
+
 r$> print(vif_df)
                                   Feature       VIF
 mean_def                         mean_def 21.408903
