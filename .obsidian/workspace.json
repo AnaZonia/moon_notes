@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4e3ab9bef2eef07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Floresta Aleatória/R Stats.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "R Stats"
-            }
-          },
-          {
             "id": "6b82a3b702808c37",
             "type": "leaf",
             "state": {
@@ -117,13 +103,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Floresta Aleatória/R Stats.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of R Stats"
+              "title": "Outline"
             }
           },
           {
@@ -242,12 +227,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Floresta Aleatória/R Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from R Stats"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -270,8 +254,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a4e3ab9bef2eef07",
+  "active": "6b82a3b702808c37",
   "lastOpenFiles": [
+    "Floresta Aleatória/Untitled.base",
+    "Floresta Aleatória/R Stats.base",
+    "Floresta Aleatória/R Stats.md",
     "000 Ana Did Science Today.md",
     "Github.md",
     "Files/000 Ana Did Science Today-43.png",
@@ -306,7 +293,6 @@
     "Templates/Weekly Template.md",
     "Elsa Ordway Talk.md",
     "Guillaume Blanchet talk.md",
-    "Excalidraw/results_march_15.excalidraw.md",
     "Files/Ana Did Science Today.pdf",
     "Climate Change.canvas",
     "Botany.canvas",
@@ -325,7 +311,6 @@
     "Files/Ana Did Science Today-1.pdf",
     "Files/REDD+.pdf",
     "Project",
-    "Excalidraw/moon.svg.crdownload",
-    "moon.svg.crdownload"
+    "Excalidraw/moon.svg.crdownload"
   ]
 }
