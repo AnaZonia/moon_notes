@@ -11,12 +11,14 @@
             "id": "6b82a3b702808c37",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "Floresta Aleatória/R Stats.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "R Stats"
             }
           }
         ]
@@ -103,12 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Floresta Aleatória/R Stats.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of R Stats"
             }
           },
           {
@@ -227,11 +230,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Floresta Aleatória/R Stats.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from R Stats"
             }
           }
         ]
@@ -256,6 +260,11 @@
   },
   "active": "6b82a3b702808c37",
   "lastOpenFiles": [
+    "002 Data Sources.md",
+    "003 People and Networks.md",
+    "001 The Bridge.md",
+    "Templates/Research article.md",
+    "Templates/Weekly Template.md",
     "Floresta Aleatória/Untitled.base",
     "Floresta Aleatória/R Stats.base",
     "Floresta Aleatória/R Stats.md",
@@ -266,13 +275,10 @@
     "Files/000 Ana Did Science Today-41.png",
     "Files/000 Ana Did Science Today-40.png",
     "Files/000 Ana Did Science Today-39.png",
-    "003 People and Networks.md",
     "Conferences and Funding.md",
-    "001 The Bridge.md",
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "Marcos Longo.md",
     "Tree Atlas of Panama.md",
-    "002 Data Sources.md",
     "Panama DEM 30m Raster.md",
     "Files/000 Ana Did Science Today-38.png",
     "Files/000 Ana Did Science Today-37.png",
@@ -290,7 +296,6 @@
     "Floresta Aleatória/Python.md",
     "ESA CCI Global Land Cover.md",
     "WorldCover.md",
-    "Templates/Weekly Template.md",
     "Elsa Ordway Talk.md",
     "Guillaume Blanchet talk.md",
     "Files/Ana Did Science Today.pdf",
@@ -310,7 +315,6 @@
     "Files/Prensa Neotropical - Puertos de Panamá.pdf",
     "Files/Ana Did Science Today-1.pdf",
     "Files/REDD+.pdf",
-    "Project",
-    "Excalidraw/moon.svg.crdownload"
+    "Project"
   ]
 }

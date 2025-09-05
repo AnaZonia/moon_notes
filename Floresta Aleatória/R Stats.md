@@ -4,6 +4,7 @@
 - [QCBS R Workshops](https://r.qcbs.ca/workshops/)
 - [Pipes in R Tutorial For Beginners | Discover %>% with magrittr](https://www.datacamp.com/tutorial/pipe-r-tutorial)
 - [Get Started with Clean Coding in R | Earth Data Science - Earth Lab](https://www.earthdatascience.org/workshops/clean-coding-tidyverse-intro/importance-of-clean-code/)
+- https://uw.pressbooks.pub/appliedmultivariatestatistics/
 ## Next
 - [SDS 375: Data Visualization in R](https://wilkelab.org/SDS375/syllabus.html)
 - [Advanced R book](https://adv-r.hadley.nz/)
