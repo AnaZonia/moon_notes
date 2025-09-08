@@ -4,6 +4,11 @@ up:
 dg-publish: true
 ---
 
+
+https://news.mongabay.com/2025/09/new-study-pinpoints-tree-planting-hotspots-for-climate-and-biodiversity-gains/
+
+
+
 check if it's different with the same dataset or if sampling more than 10k may help
 
 
