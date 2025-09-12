@@ -5,6 +5,32 @@ dg-publish: true
 ---
 
 
+
+
+
+#### Evan Gora - lightning and giant tree death in a changing world
+
+with increasing droughts, dont lightining cause fires in the tropics?
+
+each strike damages over 20 trees!
+
+16% of carbon lost in a tropical forest (BCI) is due to lightning strikes
+
+what could be confounding variables for lightning frequency vs biomass - rainfall? more rainfall means more biomass though!
+
+Brienen 2015 Nature - mortality increase
+
+Temperature is important (Sullivan 2020) but storms must be considered too (confounding)
+
+
+
+
+
+
+
+
+
+
 https://news.mongabay.com/2025/09/new-study-pinpoints-tree-planting-hotspots-for-climate-and-biodiversity-gains/
 
 
