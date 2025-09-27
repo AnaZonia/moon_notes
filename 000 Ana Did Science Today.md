@@ -158,8 +158,9 @@ The theta value that maximizes R² for the field data is  (lag is)
 - restricting data to smaller values doesn't work (still causes local minima)
 
 
+![[100.png]]![[5.png]]![[20.png]]
 
-
+![[no_subsampling.png]]![[field_fit.png]]
 ### Field sites
 
 Two sites in the Amazon have repeated measurements - that is not enough to add to the paper, so I just took note and am moving on.
