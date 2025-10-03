@@ -4,7 +4,8 @@ up:
 dg-publish: true
 ---
 
-
+Past land use type is probably most often mosaic of land use, other perennial, other annual.
+Why may it be wrong? why is this classification what it is - neighboring types?
 
 
 
