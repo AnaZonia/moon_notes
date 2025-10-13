@@ -22,6 +22,32 @@
             }
           },
           {
+            "id": "05394fc543ca55bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "1642d89448c567e3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing Oct 12th 2025.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing Oct 12th 2025.excalidraw"
+            }
+          },
+          {
             "id": "6b82a3b702808c37",
             "type": "leaf",
             "state": {
@@ -35,7 +61,8 @@
               "title": "R Stats"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -120,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Excalidraw/Drawing Oct 12th 2025.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000 Ana Did Science Today"
+              "title": "Outline of Drawing Oct 12th 2025.excalidraw"
             }
           },
           {
@@ -245,12 +271,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Excalidraw/Drawing Oct 12th 2025.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 000 Ana Did Science Today"
+              "title": "Outgoing links from Drawing Oct 12th 2025.excalidraw"
             }
           }
         ]
@@ -273,8 +299,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "64d6c20491dacf1f",
+  "active": "1642d89448c567e3",
   "lastOpenFiles": [
+    "Files/WhatsApp Image 2025-10-12 at 16.18.47.jpeg",
+    "Untitled.md",
+    "Excalidraw/Drawing Oct 12th 2025.excalidraw.md",
+    "000 Ana Did Science Today.md",
     "Files/no_subsampling.png",
     "Files/000 Ana Did Science Today-45.png",
     "Files/100.png",
@@ -288,7 +318,6 @@
     "Templates/Weekly Template.md",
     "Floresta Aleatória/Untitled.base",
     "Floresta Aleatória/R Stats.base",
-    "000 Ana Did Science Today.md",
     "Github.md",
     "Files/000 Ana Did Science Today-43.png",
     "Files/000 Ana Did Science Today-42.png",
@@ -300,7 +329,6 @@
     "Marcos Longo.md",
     "Tree Atlas of Panama.md",
     "Panama DEM 30m Raster.md",
-    "Files/000 Ana Did Science Today-38.png",
     "000 Chapter 1 - Predicting Regrowth in Brazil.md",
     "Model.md",
     "Data Analysis.md",
@@ -311,8 +339,6 @@
     "Google Earth Engine.md",
     "Floresta Aleatória/Python.md",
     "ESA CCI Global Land Cover.md",
-    "WorldCover.md",
-    "Elsa Ordway Talk.md",
     "Files/Ana Did Science Today.pdf",
     "Climate Change.canvas",
     "Botany.canvas",
