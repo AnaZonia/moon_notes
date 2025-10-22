@@ -4,6 +4,10 @@ up:
 dg-publish: true
 ---
 
+ask fiona about what to do for bieler
+
+
+
 
 how come rio has more diversity than manaus??? weird
 
