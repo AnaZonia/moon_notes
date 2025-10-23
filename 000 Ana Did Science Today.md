@@ -4,6 +4,37 @@ up:
 dg-publish: true
 ---
 
+
+## Thursday, Oct 23rd (Solvathon)
+
+There was fake news on a "coming ice age" back in the 70s.
+
+The undergraduate conservative organizations tried to get people angry to get dramatic videos to post online.
+
+The Greening of the Planet Earth: you're always able to find "specialists" that will be just wrong. Or scientists that can get what they say out of context.
+
+Shifting goalpost: there is no warming... if it exists it's negligible... not manmade.... if manmade it's a positive?...
+
+Denial kept the logic with all the other beliefs -> if you are against government regulation, for family and god and progress and capitalism, then of course climate is fine
+- environmentalism is a "trojan horse" for communism!
+
+What changed a denialist?
+- higher education (phd program)
+- changing social groups
+- changed political and religious
+
+
+
+
+
+
+
+
+
+
+
+
+
 ask fiona about what to do for bieler
 
 
