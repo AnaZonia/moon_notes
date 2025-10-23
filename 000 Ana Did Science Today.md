@@ -21,7 +21,30 @@ Denial kept the logic with all the other beliefs -> if you are against governmen
 What changed a denialist?
 - higher education (phd program)
 - changing social groups
-- changed political and religious
+- changed political and religious ideology one issue at a time (first noticed that there were entire systems that kept people poor, that poverty wasn't a result of lack of virtue. then felt empathy for a gay undergrad that got kicked out of their home)
+- took years to undo the opinions on poverty, gay marriage, war on drugs, until they got to climate change. Once that happened, he stopped looking exclusively at the denialist sources and started consuming more diverse media sources.
+
+Solutions
+- offering a better community
+- make arguments about climate change a more appealing narrative - tell a story, and bring down one point at a time.
+
+All scholars in Columbus time knew the world was round, and large - meanwhile Columbus thought the world was "pear shaped" and smaller. Denialists today however say "Columbus alone thought the world was round when the consensus at his time was that it is flat" meaning "well if you disagree with everyone else maybe you're just smart and special?"
+
+
+GPT - Generative Pre-trained Transformer
+
+Currently, small nuclear power plants are still not viable for AI demands.
+
+Regulation of misinformation may require judicial intervention - Alexandre de Moraes "Inquérito das Fake News".
+
+Digital Sovereignty: more data centers in the country. Data centers however do not mean sovereignty, and there is much more attack to the vulnerable people in a country by building data centers.
+
+Public concerns about climate misinformation:
+- hipocrisy - "they talk about climate but they take private jets to the COP"
+- "Canadian oil is more ethical than the others"
+
+Increasing palpability of the climate crisis isn't leading up to more action.
+
 
 
 
