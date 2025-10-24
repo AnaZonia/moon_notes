@@ -42,11 +42,26 @@ Digital Sovereignty: more data centers in the country. Data centers however do n
 Public concerns about climate misinformation:
 - hipocrisy - "they talk about climate but they take private jets to the COP"
 - "Canadian oil is more ethical than the others"
+- Climate action is expensive (but governments could afford it but give tax breaks to banks instead)
 
 Increasing palpability of the climate crisis isn't leading up to more action.
 
 
+Uncertainty is important politically - it can make people pause. When people are at risk and have lost things, they want certainty.
 
+Do we need more policy or just, idk, a judge/prosecuter that will make the law work?? maybe we already have policy?
+
+Advice:
+- learn to communicate
+- keep a thick skin
+- let people express where they are coming from
+
+Solastalgia -> loss of a place while being in that place
+
+
+
+- Brazilian working on forest restoration. I am working in an interdisciplinary field
+- It would be awesome to learn from the UNFCCC. I have confidence in my science background but would like to have a stronger base in policy, and understanding how to translate my work to be applied. I am preparing to attend COP30 in Belém
 
 
 
