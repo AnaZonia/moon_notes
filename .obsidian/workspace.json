@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Conferences and Funding.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 Ana Did Science Today"
+              "title": "Conferences and Funding"
             }
           },
           {
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fellowship",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,12 +98,12 @@
               "title": "VIEW_TYPE_LONGFORM_EXPLORER"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -120,13 +120,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Conferences and Funding.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000 Ana Did Science Today"
+              "title": "Outline of Conferences and Funding"
             }
           },
           {
@@ -245,12 +245,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Conferences and Funding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 000 Ana Did Science Today"
+              "title": "Outgoing links from Conferences and Funding"
             }
           }
         ]
@@ -275,10 +275,10 @@
   },
   "active": "64d6c20491dacf1f",
   "lastOpenFiles": [
+    "000 Ana Did Science Today.md",
     "Untitled.md",
     "Excalidraw/Drawing Oct 12th 2025.excalidraw.md",
     "Files/WhatsApp Image 2025-10-12 at 16.18.47.jpeg",
-    "000 Ana Did Science Today.md",
     "Files/no_subsampling.png",
     "Files/000 Ana Did Science Today-45.png",
     "Files/100.png",

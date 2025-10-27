@@ -33,6 +33,7 @@ dg-publish: true
 - https://www.conservation.org/about/fellowships (email to inquire)
 - https://www.agu.org/honors/voices-for-science
 - https://www.oas.org/en/spa/depm/escuelagob/cursos_diplomado-oea-2020.asp
+- https://careers.unu.edu/o/unfccc-unu-early-career-climate-fellowship-programme-1
 ### Travel Awards
 - [Travel Awards Program | PGSS](https://pgss.mcgill.ca/en/pgss-travel-grants?utm_medium=email&utm_campaign=Nov-Newswire&utm_source=Envoke-Nov-2023-Regular-%2B-Law-%2B-Med&utm_term=PGSS-Newsletter---Increases-to-funding-for-Travel-Awards)
 - GIC travel awards - just email Tim!
