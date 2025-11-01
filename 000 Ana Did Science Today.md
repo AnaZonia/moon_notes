@@ -4,6 +4,18 @@ up:
 dg-publish: true
 ---
 
+including climate change to the regrowth model
+
+use maps of drought probablity to determine where regrowth will happen and there is less probability of drought
+- how good are they? are the IPCC maps 1k x 1k?
+
+machine learning - fits super well but doesn't estimate the lag
+
+
+
+
+
+
 
 ## Thursday, Oct 23rd (Solvathon)
 
