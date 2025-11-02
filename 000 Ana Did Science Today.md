@@ -3,7 +3,7 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-
+out
 including climate change to the regrowth model
 
 use maps of drought probablity to determine where regrowth will happen and there is less probability of drought
