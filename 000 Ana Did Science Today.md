@@ -3,6 +3,12 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+Compare the performance of the model on Atlantic Rainforest vs
+Amazonia, and how much worse does one do when trained on one, but
+tested on the other. Discuss what that may mean for extrapolation to
+different tropical forests in the Neotropics
+
+
 out
 including climate change to the regrowth model
 
