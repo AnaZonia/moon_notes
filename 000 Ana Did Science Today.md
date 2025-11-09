@@ -3,6 +3,45 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+Regulamentação dos fundos para reflorestamento é prioridade. Segurança pra quem financia.
+
+Fabricio Ferreira (Embrapa Amazonia Oriental)
+lider to GT Silvicultura de Espécies Nativas
+
+Monitoramento de projetos de reflorestamento - dados de satélite?
+
+Focos de silvicultura iniciados, mas nunca consolidados -> como assim?
+
+Marlucia Martins (MPEG)
+Lider do GT Pesquisa e Extensão
+- pesquisa com ciencias humanas (como trabalhar com o agricultor)
+- que espécies?
+- como considerar fatores economicos para restauração em escala?
+
+Fatores principais
+- Ecologia
+	- aspectos funcionais das interações entre espécies (plantas, polinizadores, herbívoros)
+- Etnoecologia
+	- a floresta é cultural. o manejo da floresta é milenar. como o manejo das pessoas afeta a floresta
+- Tecnologia
+	- é difícil reproduzir certas espécies. como resolver isso pra apoiar a diversidade?
+- Socioeconomia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Compare the performance of the model on Atlantic Rainforest vs
 Amazonia, and how much worse does one do when trained on one, but
 tested on the other. Discuss what that may mean for extrapolation to
