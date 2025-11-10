@@ -10,7 +10,6 @@ Fabricio Ferreira (Embrapa Amazonia Oriental)
 lider to GT Silvicultura de Espécies Nativas
 
 Monitoramento de projetos de reflorestamento - dados de satélite?
-
 Focos de silvicultura iniciados, mas nunca consolidados -> como assim?
 
 Marlucia Martins (MPEG)
@@ -28,7 +27,7 @@ Fatores principais
 	- é difícil reproduzir certas espécies. como resolver isso pra apoiar a diversidade?
 - Socioeconomia
 
-
+FAPs - FAPERJ, FAPESP, FAPEAM
 
 
 
