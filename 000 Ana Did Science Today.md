@@ -3,6 +3,56 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+### Bernardo Strassburg, COP30 Green Zone
+
+IIS - fez o Planaveg, e também planos de restauração para estados do RJ, PA, ES
+
+Ciencia/políticas públicas
+
+Primeira organizacao do sul global que lidera pra ONU uma analise global (global priority areas for ecosystem restoration)
+- PLANGEA é resultado desse artigo
+- envolve a priorização de restauração/conservação
+
+From RIO 1992 SUMMIT:
+- Climate COP
+- Biodiversity
+- desertification/degradation
+
+
+18 milhoes de hectares na mata atlantica onde pode haver restauração (não são produtivas) mas são complicadas por diversos motivos:
+
+
+![[000 Ana Did Science Today.jpeg]]
+
+10-20 mil reais é o custo por hectare pra restaurar!
+
+sequestro de carbono subóptimo - isso é por floresta secas?
+
+baixa capacidade de modelagem dinâmica da restauração
+
+Joice - que critérios o estado pode usar pra considerar se a restauração já foi bem sucedida ou não?
+
+Como usar as informações de satélite parametrizadas com o solo
+
+Modelagem do zero é uma questão importante.
+
+Programa de Inteligência Natural
+- centro cientifco e tecnologico pra escalar a restauração do mundo
+
+2500 hectares de experimentos na mata atlantica!!
+- Inspiração na Organização para Estudos Tropicais na Costa Rica (OTS)
+
+Objetivos
+- Redução de custos
+- escalar para áreas desafiadoras (declivosas e alagáveis)
+- aumentar qualidade da restauração (biodiversa e integrada)
+
+Um dos motivos do BNDES colocar a restauração como projeto de alto risco é a alta incerteza nas previsões de sequestro de carbono. **Diminuir incerteza é importantíssimo.**
+
+
+
+
+
 
 Regulamentação dos fundos para reflorestamento é prioridade. Segurança pra quem financia.
 
