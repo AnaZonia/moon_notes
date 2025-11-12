@@ -50,6 +50,26 @@ Objetivos
 Um dos motivos do BNDES colocar a restauração como projeto de alto risco é a alta incerteza nas previsões de sequestro de carbono. **Diminuir incerteza é importantíssimo.**
 
 
+#### Planaveg
+
+Thiago, geógrafo, responsável pelo Planaveg. responsável por florestas do ministerio do meio ambiente.
+
+18, 1:45, zona verde, lançar áreas de prioridade pra restauração da Amazonia
+
+Regeneração natural pode ser assistida ou não
+
+Parte do plano é fomentar uma rede de pesquisa, e inteligencia espacial/monitoramento.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
