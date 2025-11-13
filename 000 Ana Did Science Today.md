@@ -3,6 +3,13 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+Option 1: run things with the edges.
+Option 2: Just stick with what we have. Say we restricted to those that growth is over a hectare
+Option 3: Extrapolate the model to the full 25%.
+
+
+
 ### Bernardo Strassburg, COP30 Green Zone
 
 IIS - fez o Planaveg, e também planos de restauração para estados do RJ, PA, ES
