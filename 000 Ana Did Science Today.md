@@ -4,6 +4,18 @@ up:
 dg-publish: true
 ---
 
+keep track of arguments. different datasets that have different estimations.
+
+sanity check again the area estimation method
+select a smaller area just to compare the different buffer levels - how much do they change the storyline?
+
+see whether those added points change the fit of the model.
+
+add a binary flag for edge vs non-edge
+
+
+
+
 Option 1: run things with the edges.
 Option 2: Just stick with what we have. Say we restricted to those that growth is over a hectare
 Option 3: Extrapolate the model to the full 25%.
