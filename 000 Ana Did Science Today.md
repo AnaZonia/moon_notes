@@ -3,6 +3,9 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+Compare with mask  = mapbiomas_2020 and mask from the kernel (why are there weird gaps in mapbiomas_2020?) 
+
+
 
 keep track of arguments. different datasets that have different estimations.
 
