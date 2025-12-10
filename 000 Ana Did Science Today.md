@@ -3,6 +3,10 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+https://cihr-irsc.gc.ca/e/54312.html#a7
+https://cihr-irsc.gc.ca/e/54340.html
+
+
 Compare with mask  = mapbiomas_2020 and mask from the kernel (why are there weird gaps in mapbiomas_2020?) 
 
 

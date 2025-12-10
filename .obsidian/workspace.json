@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 The Bridge.md",
+                "file": "000 Ana Did Science Today.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 The Bridge"
+              "title": "000 Ana Did Science Today"
             }
           }
         ]
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "001 The Bridge.md",
+                "file": "000 Ana Did Science Today.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001 The Bridge"
+              "title": "Outline of 000 Ana Did Science Today"
             }
           },
           {
@@ -230,12 +230,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "001 The Bridge.md",
+                "file": "000 Ana Did Science Today.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 001 The Bridge"
+              "title": "Outgoing links from 000 Ana Did Science Today"
             }
           }
         ]
@@ -260,8 +260,8 @@
   },
   "active": "64d6c20491dacf1f",
   "lastOpenFiles": [
-    "Personal Statements.md",
     "001 The Bridge.md",
+    "Personal Statements.md",
     "Conferences and Funding.md",
     "003 People and Networks.md",
     "002 Data Sources.md",
