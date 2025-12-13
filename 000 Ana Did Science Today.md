@@ -7,25 +7,17 @@ https://cihr-irsc.gc.ca/e/54312.html#a7
 https://cihr-irsc.gc.ca/e/54340.html
 
 
-Compare with mask  = mapbiomas_2020 and mask from the kernel (why are there weird gaps in mapbiomas_2020?) 
+Ideas for future projects
+
+- Model all of Latin America - or all of the Tropics
+- Predict future of forest regrowth under climate change
+	- Asymptote submodel
+- AI submodel
+- Check differences in secondary forest extent and age x biomass estimates
 
 
 
 keep track of arguments. different datasets that have different estimations.
-
-sanity check again the area estimation method
-select a smaller area just to compare the different buffer levels - how much do they change the storyline?
-
-see whether those added points change the fit of the model.
-
-add a binary flag for edge vs non-edge
-
-
-
-
-Option 1: run things with the edges.
-Option 2: Just stick with what we have. Say we restricted to those that growth is over a hectare
-Option 3: Extrapolate the model to the full 25%.
 
 
 
