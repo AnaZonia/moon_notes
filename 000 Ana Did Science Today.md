@@ -14,7 +14,7 @@ Ideas for future projects
 - AI submodel
 - Check differences in secondary forest extent and age x biomass estimates
 
-
+Meet with SocSES
 
 keep track of arguments. different datasets that have different estimations.
 
