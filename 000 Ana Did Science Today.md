@@ -6,7 +6,6 @@ dg-publish: true
 https://cihr-irsc.gc.ca/e/54312.html#a7
 https://cihr-irsc.gc.ca/e/54340.html
 
-
 Ideas for future projects
 
 - Model all of Latin America - or all of the Tropics
