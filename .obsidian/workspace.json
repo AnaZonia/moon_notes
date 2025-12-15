@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "fellowship",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +126,8 @@
               "title": "VIEW_TYPE_LONGFORM_EXPLORER"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -300,7 +301,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "64d6c20491dacf1f",
+  "active": "fa4b3fde43a02b69",
   "lastOpenFiles": [
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "Rolling ideas.md",
