@@ -3,6 +3,23 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+
+
+EU TMF has a very weird distinction between mature and secondary forests. It still has a lot of fragmented area for secondary forests
+![[000 Ana Did Science Today-46.png]]
+But check out this weeeeird boundary:
+![[000 Ana Did Science Today-47.png]]
+
+And this is Panama:
+
+![[000 Ana Did Science Today-48.png]]
+
+Now, RESOLVE Ecoregions classifies both Panama and Caatinga as tropical dry forests, but those are completely different.
+I think I'll have central american dry forests as their own category until otherwise specified.
+![[000 Ana Did Science Today-49.png]]
+
+
 https://cihr-irsc.gc.ca/e/54312.html#a7
 https://cihr-irsc.gc.ca/e/54340.html
 
