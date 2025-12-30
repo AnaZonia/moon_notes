@@ -6,6 +6,18 @@ dg-publish: true
 
 
 
+
+
+[[Profix]]
+
+
+
+
+
+
+
+
+
 EU TMF has a very weird distinction between mature and secondary forests. It still has a lot of fragmented area for secondary forests
 ![[000 Ana Did Science Today-46.png]]
 But check out this weeeeird boundary:
