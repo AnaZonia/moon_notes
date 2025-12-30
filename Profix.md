@@ -7,11 +7,14 @@ dg-publish: true
 
 
 ## UFPB
+https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1973701
 
+https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1162706
 
-
+https://sigaa.ufpb.br/sigaa/public/docente/pesquisa.jsf?siape=2677667
 
 ## UFPE
+
 
 ### UFRN
 
