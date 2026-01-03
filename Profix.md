@@ -6,7 +6,11 @@ dg-publish: true
 ---
 
 
-## 
+## Jan 2nd, 2025
+
+I would like to check how different are ESA CCI biomass estimates from field estimates. It is hard to do with GROA field because the coordinates are off and not many of them have measurements for the years for which we have biomass measurements, but I can do that with Agua Salud.
+
+
 
 ## UFPB
 https://sigaa.ufpb.br/sigaa/public/docente/portal.jsf?siape=1973701
