@@ -3,6 +3,10 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## Jan 2nd, 2025
+
+I would like to check how different are ESA CCI biomass estimates from field estimates. It is hard to do with GROA field because the coordinates are off and not many of them have measurements for the years for which we have biomass measurements, but I can do that with Agua Salud.
+
 
 
 
@@ -627,15 +631,7 @@ Their R2 for early years in the Amazon is very low - probably lack of data point
 
 
 
-### Weekly Goals
 
-
-## Jul 21, 2025 : 
-
-
-With and without randomized age - with the single asymptote, how is age not so important? if it's multiplied by everything, how come doesn't it change things, why?
-
-compare with normal age vs randomized age plot.
 
 
 
@@ -643,6 +639,11 @@ compare with normal age vs randomized age plot.
 
 Dr Madhur Anand at University of Guelph does really cool work with socioecological systems. I met her PhD candidate Jessica Guezen. Should look into her work
 https://anand-lab-globalecochange.uoguelph.ca/projects/
+
+
+With and without randomized age - with the single asymptote, how is age not so important? if it's multiplied by everything, how come doesn't it change things, why?
+
+compare with normal age vs randomized age plot.
 
 
 ## Jul 7, 2025 : Jul 13, 2025
