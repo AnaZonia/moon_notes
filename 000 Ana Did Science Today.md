@@ -7,20 +7,7 @@ dg-publish: true
 
 I would like to check how different are ESA CCI biomass estimates from field estimates. It is hard to do with GROA field because the coordinates are off and not many of them have measurements for the years for which we have biomass measurements, but I can do that with Agua Salud.
 
-
-there is a government map of tree species for panama, but we dont know if that includes biomasses.
-
-
-
 [[Profix]]
-
-
-
-
-
-
-
-
 
 EU TMF has a very weird distinction between mature and secondary forests. It still has a lot of fragmented area for secondary forests
 ![[000 Ana Did Science Today-46.png]]
