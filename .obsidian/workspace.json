@@ -77,7 +77,8 @@
               "title": "Untitled 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Relatório Bienal de Transparência.md",
+                "file": "003 People and Networks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Relatório Bienal de Transparência"
+              "title": "Outline of 003 People and Networks"
             }
           },
           {
@@ -286,12 +287,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Relatório Bienal de Transparência.md",
+                "file": "003 People and Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Relatório Bienal de Transparência"
+              "title": "Outgoing links from 003 People and Networks"
             }
           }
         ]
@@ -314,10 +315,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5c4b466a6ca75e2d",
+  "active": "b6a7c1812c833336",
   "lastOpenFiles": [
-    "000 Ana Did Science Today.md",
     "Relatório Bienal de Transparência.md",
+    "000 Ana Did Science Today.md",
     "001 The Bridge.md",
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "Rolling ideas.md",
