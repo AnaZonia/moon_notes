@@ -41,16 +41,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "003 People and Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 Ana Did Science Today"
+              "title": "003 People and Networks"
+            }
+          },
+          {
+            "id": "15ac54b7df485fce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Capacream.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Capacream"
+            }
+          },
+          {
+            "id": "fa61471332a6a299",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conservação Internacional.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conservação Internacional"
+            }
+          },
+          {
+            "id": "9e6de8b6b42adef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -117,8 +159,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -135,13 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Untitled 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000 Ana Did Science Today"
+              "title": "Outline of Untitled 1"
             }
           },
           {
@@ -260,12 +301,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 000 Ana Did Science Today"
+              "title": "Outgoing links from Untitled 1"
             }
           }
         ]
@@ -288,11 +329,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b6a7c1812c833336",
+  "active": "9e6de8b6b42adef3",
   "lastOpenFiles": [
+    "Conservação Internacional.md",
+    "Untitled 1.md",
+    "Capacream.md",
+    "003 People and Networks.md",
+    "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
+    "INPA.md",
+    "PARTNERS.md",
+    "000 Ana Did Science Today.md",
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "Rolling ideas.md",
-    "000 Ana Did Science Today.md",
     "000 Chapter 3 - Validation with Plot Data.md",
     "Profix.md",
     "Files/000 Ana Did Science Today-49.png",
@@ -303,7 +351,6 @@
     "Chapter 3 - Incorporating Biodiversity.md",
     "Personal Statements.md",
     "Conferences and Funding.md",
-    "003 People and Networks.md",
     "002 Data Sources.md",
     "Floresta Aleatória/R Stats.md",
     "Files/000 Ana Did Science Today.jpeg",
@@ -322,12 +369,6 @@
     "Marcos Longo.md",
     "Tree Atlas of Panama.md",
     "Panama DEM 30m Raster.md",
-    "000 Chapter 1 - Predicting Regrowth in Brazil.md",
-    "Model.md",
-    "Data Analysis.md",
-    "Climate pars by asymptote.md",
-    "Excalidraw/Drawing Apr 14th 2025.excalidraw.md",
-    "Excalidraw/Drawing May 23rd 2025.excalidraw.md",
     "Files/Ana Did Science Today.pdf",
     "Climate Change.canvas",
     "Botany.canvas",
