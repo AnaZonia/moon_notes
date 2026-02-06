@@ -4,7 +4,6 @@ stardate: Oct 2nd 2023
 update: Nov 24th 2023
 dg-publish: true
 ---
-
 ## Research Networks
 ```dataview
 TABLE WITHOUT ID link(file.link, file.name) AS "Name", at-a-glance, up 
