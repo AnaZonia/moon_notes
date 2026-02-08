@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "9e6de8b6b42adef3",
+            "id": "a4a4aea218415816",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 People and Networks.md",
+                "file": "Untitled 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 003 People and Networks"
+              "title": "Outline of Untitled 1"
             }
           },
           {
@@ -287,12 +287,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "003 People and Networks.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 003 People and Networks"
+              "title": "Outgoing links from Untitled 1"
             }
           }
         ]
@@ -315,17 +315,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b6a7c1812c833336",
+  "active": "a4a4aea218415816",
   "lastOpenFiles": [
+    "Conservação Internacional.md",
+    "Untitled 1.md",
+    "Mateus Macul.md",
+    "Diogo Ferraz e Castro.md",
+    "Capacream.md",
+    "003 People and Networks.md",
     "Relatório Bienal de Transparência.md",
     "000 Ana Did Science Today.md",
     "001 The Bridge.md",
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "Rolling ideas.md",
-    "003 People and Networks.md",
-    "Untitled 1.md",
-    "Conservação Internacional.md",
-    "Capacream.md",
     "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
     "INPA.md",
     "PARTNERS.md",
@@ -353,8 +355,6 @@
     "Floresta Aleatória/Untitled.base",
     "Floresta Aleatória/R Stats.base",
     "Github.md",
-    "Marcos Longo.md",
-    "Tree Atlas of Panama.md",
     "Files/Ana Did Science Today.pdf",
     "Climate Change.canvas",
     "Botany.canvas",
