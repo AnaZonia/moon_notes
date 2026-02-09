@@ -14,6 +14,316 @@ dg-publish: true
 COP NOTES
 
 
+
+
+Aliança
+
+CI
+
+WRI
+
+TNC
+
+WWF
+
+  
+
+Pacto Mata Atlântica
+
+  
+  
+
+Propensão a incendio
+
+Essa área melhora a segurança hídrica?
+
+Usa muito o contexto territorial. A paisagem é importante.
+
+  
+
+Cross plot ages with mapbiomas ages
+
+  
+  
+
+Paulo Henrique Amaral 
+
+Amazon institute of people and the environment (Imazon)
+
+  
+
+Dados de vegetação securanda do sistema FloreSer/Imazon???
+
+  
+
+Os seis primeiros anos são "pousio" e não consideram como vegetação secundaria 
+
+  
+
+O estado com mais florestas secundárias é o Pará
+
+  
+
+O que seriam essas ações conta o fogo que podem ser incluídas?
+
+  
+
+3.4 milhões de hectares de regeneração - quanto disso é regeneração ativa? Conferir esses dados com Paulo Henrique, IMAZON, IIS
+
+  
+
+O Pará é um grande laboratório, o que funcionar aqui funciona nos outros estados.
+
+  
+
+WRI - Global Nature Watch
+
+(Dados de cobertura de florestas, cobertura de pastagem, biodiversidade)
+
+[https://www.globalnaturewatch.org/](https://www.globalnaturewatch.org/)
+
+  
+
+A maior parte das áreas com potencial de regeneração natural assistida não tem potencial agricola
+
+  
+
+MST Restaura Amazonia
+
+  
+
+Jussara atrai polinizador e promove regeneração na mata atlântica
+
+Forest Trends Association
+
+  
+
+A mata atlântica é o primeiro bioma brasileiro que está em regeneração
+
+O que funcionou lá é que congregou todas as etapas (tecnologia, sociedade civil, também a crise hídrica em São Paulo)
+
+  
+
+Tem aceleradores, start ups. Falta escalar.
+
+  
+
+Rede Observatório de Pagamento de Serviços Ambientais
+
+- encontro 4-6 da tarde hoje
+
+  
+
+[pamaral@imazon.org.br](mailto:pamaral@imazon.org.br)
+
+  
+
+Precisa destravar o processo de produção de mudas - o ministério da agricultura coloca cultivar de especies nativas no mesmo patamar de especies exóticas! Precisa apoiar o produtor pequeno que faz mudas e vende pra coisas como re.green
+
+  
+
+Longevidade de políticas.
+
+  
+
+Framework for ecosystem restoration monitoring FERN da FAO. O Planaveg é referência.
+
+  
+
+Pescadores artesanais plantam árvores frutíferas que são necessárias pra pescar
+
+  
+
+MMA põe BNDES como gestor do Fundo Clima. 261 milhões de reais para três projetos em floresta.
+
+Empresas de tamanho diferentes. Bioterra é uma startup. Já está em bilhões de investimento. Se mantiver o mesmo ritmo, daqui a pouco vai ser um mercado de dez bilhões de reais.
+
+  
+
+INSA - Instituto Nacional do Semiárido
+
+  
+
+Abordagem multifacetada: empresas grandes como a ré.green mas também produtores pequenos
+
+  
+
+Essa COP tá tendo muitos resultados. Antes era muito focado em desafios e oportunidades, agora já estamos a dez mil pés e é voo direto.
+
+  
+
+1a stocktake global: acordo de Paris
+
+  
+
+Eixo 2: florestas
+
+Eixo 3: agricultura
+
+  
+
+The expectations are high for the next presidency. No Brasil, nós temos um estado querendo fazer acontecer.
+
+  
+
+Um pequeno produtor quer reflorestar para fazer um bom microclima - manter água e temperatura mais amena.
+
+  
+
+Artigo 6: boa maneira de catalisar recursos para a restauração
+
+  
+  
+
+MAPBIOMAS
+
+Divides the work between  groups (one group does just pasture/non pasture, one does just mangrove/non mangrove, and so on)
+
+Maybe I can reach out to the forest team?
+
+  
+
+Every year the maps are remade (new collection).
+
+  
+
+2008 moratorium - agreement to not buy soy from areas that were deforested after 2008.  
+  
+  
+  
+  
+  
+  
+  
+Ask how to watch the press conferences and negotiations
+
+  
+
+The presidency wanted to push through some of the political issues but that hasn't worked out so far. Also not many updates on that.
+
+  
+
+Some parties want the adaptation part to be a stronger part of the text.
+
+EU, Canadá don't want it to be said explicitly, but to be included.
+
+Japan is very against it.
+
+Adaptation is about article 9.1. clear that developed countries should support developing countries - they don't want so much responsibility, when developing countries want more. Arab groups are very much for adaptation even if they are donors, maybe because they want to dominate the conversation?
+
+  
+
+Africa group is pushing for adaptation finance before indicators. EU and Canada want finance before indicators. Africa are worried that they may not be able to provide info on indicators so that would shut off funding.
+
+  
+
+Just Transition: transform agricultural/economic system is important so there is a need to monitor the entire system.
+
+  
+
+Arab countries are against the climate/gender funding part (no surprise)
+
+  
+
+COP presidencies may have decisions like TFFF that are not part of the COP treaties, and those may not be a part of the negotiations.
+
+  
+
+BAM - Belem Action
+
+  
+
+Mutirão: 4 items proposed to be in the agenda.
+
+  
+
+The cop president put letters out, one of them to explain what the concept is of mutirão.
+
+  
+
+Countries can individually add agenda items.
+
+Article 9.1
+
+Tax put on countries that restrict carbon usages
+
+A space to talk about NDC systhesis report
+
+A space to talk about BTR - biannual transparency report
+
+  
+  
+
+The Brazilian agenda took these 4 items into the presidency consultation\negotiation session.
+
+  
+
+Mutirão decision: results of these negotiations on these 4 agenda items. Coming together on these more complex items.
+
+  
+  
+
+There was a nice press conference with a mix of global North and South calling to phase out fossil fuels. Still the few countries who produce a lot of oil aren't involved
+
+  
+
+Lula is very directly involved in the negotiations, which is unusual.
+
+  
+
+Mecanismo de tecnologia: help transfer of technology to developing countries at their request
+
+  
+
+BAM - Belem Action Mechanism
+
+Plan for Just Transition
+
+  
+  
+
+Dados de ciência pro relatori
+
+Iris
+
+[iris.roitman@undp.com](mailto:iris.roitman@undp.com)
+
+  
+
+[Juliana.davis@undp.com  
+  
+  
+](mailto:Juliana.davis@undp.com)Joyce Ferreira Capoeira
+
+  
+
+Ima Emilio Goeldi
+
+Catarina Jakovac
+
+  
+  
+
+IRegenera
+
+Sociobio
+
+Central do cerrado
+
+  
+  
+
+Avenida perimetral 1901
+
+Campus de pesquisa do Museu Goeldi
+
+19h
+
+
+
+
+
+
 Amazônia 4.0 - impulsionar bioeconomia com pesquisa (quarta revolução industrial)
 
 
