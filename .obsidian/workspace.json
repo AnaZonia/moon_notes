@@ -48,23 +48,8 @@
               "icon": "lucide-file",
               "title": "Capacream"
             }
-          },
-          {
-            "id": "fa61471332a6a299",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Conservação Internacional.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Conservação Internacional"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "untitl",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +112,8 @@
               "title": "VIEW_TYPE_LONGFORM_EXPLORER"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -148,13 +134,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Conservação Internacional.md",
+                "file": "Relatório Bienal de Transparência.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Conservação Internacional"
+              "title": "Outline of Relatório Bienal de Transparência"
             }
           },
           {
@@ -273,12 +259,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Conservação Internacional.md",
+                "file": "Relatório Bienal de Transparência.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Conservação Internacional"
+              "title": "Outgoing links from Relatório Bienal de Transparência"
             }
           }
         ]
@@ -301,12 +287,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fa61471332a6a299",
+  "active": "5c4b466a6ca75e2d",
   "lastOpenFiles": [
-    "CRIA - Centro de Referência em Informação Ambiental.md",
-    "Conservação Internacional.md",
     "003 People and Networks.md",
     "Capacream.md",
+    "Thais Rosan.md",
+    "Untitled 1.md",
+    "Conservação Internacional.md",
+    "CRIA - Centro de Referência em Informação Ambiental.md",
     "Mateus Macul.md",
     "Diogo Ferraz e Castro.md",
     "Relatório Bienal de Transparência.md",
@@ -329,7 +317,6 @@
     "002 Data Sources.md",
     "Floresta Aleatória/R Stats.md",
     "Files/000 Ana Did Science Today.jpeg",
-    "Untitled.md",
     "Excalidraw/Drawing Oct 12th 2025.excalidraw.md",
     "Files/WhatsApp Image 2025-10-12 at 16.18.47.jpeg",
     "Files/no_subsampling.png",
@@ -340,7 +327,6 @@
     "Templates/Weekly Template.md",
     "Floresta Aleatória/Untitled.base",
     "Floresta Aleatória/R Stats.base",
-    "Github.md",
     "Files/Ana Did Science Today.pdf",
     "Climate Change.canvas",
     "Botany.canvas",
