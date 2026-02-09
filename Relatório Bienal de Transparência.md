@@ -9,3 +9,5 @@ Documento enviado à ONU pelo brasil pra relatar o que ocorre no país de acordo
 DataClima + Sistema Nacional de Transparência Climática
 IBGE - Inventário de Serviços Florestais
 Sinapse MCTI - Simulador
+
+![[Relatório Bienal de Transparência-1.jpeg]]![[Relatório Bienal de Transparência.jpeg]]

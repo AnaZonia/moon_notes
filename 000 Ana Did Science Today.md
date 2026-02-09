@@ -6,6 +6,307 @@ dg-publish: true
 
 [[Relatório Bienal de Transparência]]
 
+
+
+
+
+
+COP NOTES
+
+
+Amazônia 4.0 - impulsionar bioeconomia com pesquisa (quarta revolução industrial)
+
+
+A castanha do pará é geralmente coletada da floresta, não é plantada como monocultura.
+
+  
+
+Centro de Bionegócios da Amazônia em Manaus
+
+
+
+
+
+Desmatamento zero
+
+Concessão florestal
+
+Muito dinheiro em combater incêndios. Mas realmente é complicado, enxugar gelo
+
+Concessoes florestais e manejo florestal diminuem o desmatamento
+
+Really scaling up is the issue. We need public private partnerships
+
+Estabelecer modelos de restauração replicaveis
+
+There are big companies but also small local colectivos como o pacto para a restauração da mata atlântica que precisam trabalhar juntos
+
+É necessário que haja parcerias pra escalar de 140 mil pra 12 milhões 
+
+
+  
+
+IIS tem uma parceria sistemática com a PUC Rio
+
+Crescimento de vagas de trabalho em sustentabilidade do Brasil
+
+1 milhão de vagas novas até 2027
+
+10% dos empregos verdes no mundo
+
+  
+
+É possível ter dupla titulação em sustentabilidade e geografia
+
+
+  
+
+ITV é bioeconomia
+
+Denominação de origem fortalece cadeias de produção
+
+O envio do tucupi pra outros lugares é dificultado pela falta de conhecimento dos microorganismos relacionados
+
+Há muitas lacunas de conhecimento sobre o processo de produção de cacau e tucupi (polinadores, agrofloresta, comunidades bacterianas)
+
+Subpolinização afeta muito a produção de cacau!!!!
+
+  
+
+Conhecimento da diversidade genética de especies que são extraídas é importante pra garantir que tem extração sustentável (peixes e tartarugas) 
+
+  
+
+Bioeconomia gera MUITO mais emprego
+
+Many more jobs are projected to be lost by lack of investment in sociobioeconomy
+
+Most sociobioeconomy jobs are invisible because they are informal
+
+Challenges:
+
+- statistical invisibility (lack of data - what is the real scale of sociobioeconomy in the Amazon?)
+
+- insolvencia economica: produtos de alto valor que são perdidos por falta de infraestrutura (como o pirarucu)
+
+- ilegalidade, invasões, crime organizado. 1200 comunidades manejam pirarucu. Falta segurança 
+
+  
+
+Ima Vieira
+
+INCTNexus - recuperação pós degradação 
+
+Como vocês determinam que área está degradada demais para regenerar sozinha?
+
+  
+
+Os jovens não querem mais ser camponeses
+
+  
+
+Indígenas ainda vão usar o fogo. Erika propôs o defeso para incentivar a 
+
+  
+
+A meta de biodiversidade é mais difícil que a de carbono. Carbono tem que ser feito com portfolios diversos (ativos em comparação a passivos)
+
+  
+
+Programa PROSPERA de apoio à bioeconomia.
+
+  
+
+  
+
+Christopher Wood
+
+  
+  
+
+Adalberto Val
+
+[dalval.inpa@gmail.com](mailto:dalval.inpa@gmail.com)
+
+  
+  
+
+André Giles
+
+REGENERA
+
+  
+
+Pergunte nomes e maneiras de conectar com a Ima
+
+[vieira.ima@gmail.com](mailto:vieira.ima@gmail.com)
+
+  
+
+Raúl Protazio
+
+Concessão do governo de terra é uma boa maneira
+
+Precisa segurança física e fundiária
+
+Precisa investimento público em pesquisa e desenvolvimento 
+
+  
+
+In carbon credits, you must have a system where you are allowed to fail
+
+The demand for carbon credits is growing
+
+Countries are now buying a ton of carbon credits. The demand is higher than the offer
+
+  
+
+O que é compliance e o que isso tem a ver com mercados de carbono
+
+  
+
+World Bank: Debt for development swap - swap Dept for commitments on development (open fiscal space in the governments)
+
+  
+
+O pequeno e médio produtor tem uma dificuldade grande em acessar fundos do Fundo Clima
+
+  
+
+Muito dinheiro do fundo Bezos e BNDES pra silvicultura de especies nativas
+
+  
+
+A restauração pode ser facilitada pela filantropia no começo, quando o risco ainda é alto demais pro capital privado
+
+  
+
+Pequenos produtores se sentem sós e não tem ferramentas para ajudá-los com informações técnicas - tem um LLM da Salesforce que ajuda a informar os 
+
+  
+
+TFFF dá dinheiro constante ao longo do tempo e não entra carbono, é por hectare de floresta em pé
+
+And 20% is for indigenous peoples, so it's made to be easy for small iniciatives to access
+
+  
+
+Combina capital público e privado
+
+  
+
+It's not a donation, it's a loan. Norway put conditions to make sure it gets some of its money back 
+
+  
+
+Norway makes medications with contents that are grown in tropical forests. I wonder how they are harvested
+
+  
+
+Colombia also wants climate swaps for fiscal space. Making changes in the financial structure
+
+  
+
+Prevent the commoditization and privatization of forests (indeed the wood becomes property of the funder - the indigenous can't use the wood for example)
+
+  
+
+Norway's International Climate and Forest Initiative (NICFI)
+
+  
+
+A Noruega disse que viu que há risco em participar no TFFF mas o risco de não participar é maior
+
+  
+
+O fundo dá liberdade a cada país de gastar como quiser. Mais de 20% pode ser enviado, se cada país decidir. Os países enviam um plano nacional anual de como usar esses recursos.
+
+  
+
+O Brasil tem ido muito bem nas negociações. É um líder em soluções também.
+
+  
+
+João Rezende  
+  
+Small companies make small amounts. Is that a problem?
+
+  
+
+Non timber Forest products - can they help? 
+
+  
+
+Mombak: In a trump context, are you scared there may be a decrease in value of carbon credits?
+
+  
+
+Brazil lacks lands to be restored safely/easily.
+
+There is still too much risk.  
+  
+Aline Soterroni
+
+  
+
+O texto é um avanço em finanças de adaptação
+
+  
+
+O texto final está sendo negociado agora
+
+  
+
+We're at 12% reduction of emissions by 2035
+
+  
+  
+  
+  
+
+Clientes querem indústria a grande escala
+
+  
+
+Burocracia de cada país pode ser um problema difícil
+
+  
+
+Directorios de cooperativas
+
+Aliança global
+
+GIZ, WWF
+
+  
+
+Carbon market is an older market
+
+New actives will be more rentáveis no futuro
+
+Agrofloresta é difícil de escalar
+
+Ativos culturais de agrofloresta - não NTFP?
+
+  
+
+SPSTA - negotiations
+
+  
+  
+  
+  
+
+Clima e saúde no Belém 10+ quinta feira dia 19 15h da manhã
+
+James com projeto da Poly
+
+
+
+
+
+
+
 ## Jan 2nd, 2025
 
 I would like to check how different are ESA CCI biomass estimates from field estimates. It is hard to do with GROA field because the coordinates are off and not many of them have measurements for the years for which we have biomass measurements, but I can do that with Agua Salud.
