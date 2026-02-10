@@ -11,4 +11,8 @@ IBGE - Inventário de Serviços Florestais
 Sinapse MCTI - Simulador
 https://www.gov.br/mcti/pt-br/acompanhe-o-mcti/sirene/dados-e-ferramentas/sinapse
 
+FunBio - Fundo Brasileiro para a Biodiversidade
+https://www.greenclimate.fund/ae/funbio
+
+
 ![[Relatório Bienal de Transparência-1.jpeg]]![[Relatório Bienal de Transparência.jpeg]]
