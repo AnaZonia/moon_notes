@@ -11,12 +11,18 @@ dg-publish: true
 
 
 
+
+
+
+
+
+
 COP NOTES
 
 
 
 
-Aliança
+Aliança / Pacto Mata Atlântica / Araticum
 
 CI
 
@@ -28,49 +34,20 @@ WWF
 
   
 
-Pacto Mata Atlântica
 
-  
-  
-
-Propensão a incendio
-
-Essa área melhora a segurança hídrica?
-
-Usa muito o contexto territorial. A paisagem é importante.
-
-  
-
-Cross plot ages with mapbiomas ages
-
-  
   
 
 Paulo Henrique Amaral 
 
 Amazon institute of people and the environment (Imazon)
 
-  
-
 Dados de vegetação securanda do sistema FloreSer/Imazon???
-
-  
 
 Os seis primeiros anos são "pousio" e não consideram como vegetação secundaria 
 
-  
-
 O estado com mais florestas secundárias é o Pará
 
-  
-
-O que seriam essas ações conta o fogo que podem ser incluídas?
-
-  
-
-3.4 milhões de hectares de regeneração - quanto disso é regeneração ativa? Conferir esses dados com Paulo Henrique, IMAZON, IIS
-
-  
+3.4 milhões de hectares de regeneração - quanto disso é regeneração ativa? Conferir esses dados com Paulo Henrique, IMAZON, IIS [pamaral@imazon.org.br](mailto:pamaral@imazon.org.br)
 
 O Pará é um grande laboratório, o que funcionar aqui funciona nos outros estados.
 
@@ -86,23 +63,15 @@ WRI - Global Nature Watch
 
 A maior parte das áreas com potencial de regeneração natural assistida não tem potencial agricola
 
-  
-
 MST Restaura Amazonia
-
-  
 
 Jussara atrai polinizador e promove regeneração na mata atlântica
 
 Forest Trends Association
 
-  
-
 A mata atlântica é o primeiro bioma brasileiro que está em regeneração
 
 O que funcionou lá é que congregou todas as etapas (tecnologia, sociedade civil, também a crise hídrica em São Paulo)
-
-  
 
 Tem aceleradores, start ups. Falta escalar.
 
@@ -110,25 +79,15 @@ Tem aceleradores, start ups. Falta escalar.
 
 Rede Observatório de Pagamento de Serviços Ambientais
 
-- encontro 4-6 da tarde hoje
-
   
 
-[pamaral@imazon.org.br](mailto:pamaral@imazon.org.br)
+
 
   
 
 Precisa destravar o processo de produção de mudas - o ministério da agricultura coloca cultivar de especies nativas no mesmo patamar de especies exóticas! Precisa apoiar o produtor pequeno que faz mudas e vende pra coisas como re.green
 
-  
-
-Longevidade de políticas.
-
-  
-
 Framework for ecosystem restoration monitoring FERN da FAO. O Planaveg é referência.
-
-  
 
 Pescadores artesanais plantam árvores frutíferas que são necessárias pra pescar
 
@@ -181,21 +140,12 @@ Divides the work between  groups (one group does just pasture/non pasture, one 
 
 Maybe I can reach out to the forest team?
 
-  
-
 Every year the maps are remade (new collection).
-
-  
 
 2008 moratorium - agreement to not buy soy from areas that were deforested after 2008.  
   
   
-  
-  
-  
-  
-  
-Ask how to watch the press conferences and negotiations
+
 
   
 
