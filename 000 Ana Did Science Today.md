@@ -8,8 +8,8 @@ dg-publish: true
 
 
 
-
-
+New data for global forest age - overestimates for young growth.
+https://www.nature.com/articles/s41559-025-02821-5
 
 
 
