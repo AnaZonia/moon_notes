@@ -4,6 +4,34 @@ up:
 dg-publish: true
 ---
 
+
+
+hierarchical model potentially - evidence of departure from mean trend
+
+gotta test the model with climate to make sure that the R2 is not too low
+what are the right predictors to add - VPD? frequency of droughts?
+what do people think are the right predictors?
+
+Monthly is better than yearly - summary statistics
+
+Random forest climate and mature forest biomass.
+- including resilience may be too hard
+
+Intensity or frequency of droughts is getting worse?
+
+Can we incorporate tipping points?
+
+discriminant analysis - see what contexts are possible if there are transitions in species composition.
+
+CMIP6 data summary - what are the data sources
+net carbon sink vs source - someone may have linked that to growth
+
+fluxnet or ameriflux papers may say what are the main predictors that affect growth
+
+
+
+
+
 [[Relatório Bienal de Transparência]]
 
 
