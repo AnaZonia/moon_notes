@@ -6,6 +6,13 @@ dg-publish: true
 
 
 
+planet subscription for following years
+high rez data sources????
+
+
+
+
+
 hierarchical model potentially - evidence of departure from mean trend
 
 gotta test the model with climate to make sure that the R2 is not too low
