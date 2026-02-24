@@ -8,6 +8,7 @@ dg-publish: true
 
 planet subscription for following years
 high rez data sources????
+how are the probabilities estimated?
 
 
 
