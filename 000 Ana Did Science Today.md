@@ -12,6 +12,11 @@ how are the probabilities estimated?
 
 
 
+surrounding forest biomass takes into account fertility and climate
+so I need soil type anyways.
+solar radiation. soil moisture. precipitation. AET. drought length.
+should I look 
+
 
 
 hierarchical model potentially - evidence of departure from mean trend
