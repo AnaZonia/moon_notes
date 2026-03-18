@@ -3,6 +3,12 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+
+![[000 Ana Did Science Today-50.png]]
+
+GEDI over secondary forests detected by EU TMF and MapBiomas
+
 weekend tasks
 unite google earth engine projects and start to unite google account
 organize obsidian and tasks for phd and life
