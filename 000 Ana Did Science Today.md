@@ -3,7 +3,9 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-
+weekend tasks
+unite google earth engine projects and start to unite google account
+organize obsidian and tasks for phd and life
 
 
 planet subscription for following years
