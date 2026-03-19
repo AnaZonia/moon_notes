@@ -3,7 +3,8 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-
+for tomorrow - add amazon feature to gedi heights comparison
+map mature forests by mapbiomas and get random forest with the climatic variables for them
 
 ![[000 Ana Did Science Today-50.png]]
 
