@@ -3,6 +3,8 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+apply for GEE Partner tier
+
 for tomorrow - add amazon feature to gedi heights comparison
 map mature forests by mapbiomas and get random forest with the climatic variables for them
 
