@@ -4,6 +4,29 @@ up:
 dg-publish: true
 ---
 
+find which pixels will be out of range (unprecedented conditions) that will cause random forest a problem.
+careful with the areas that are beyond the training data for GAMS and 
+
+why dont they use multiple indices?
+
+Alto can help us put in contact with people to get regrowth areas
+
+Ask people for data after 2015
+
+We need to make projections for 2100
+
+The ecoregion is a static dummy variable?
+Should I make predictions for each ecoregion independently?
+
+
+How has this be done in temperate forests? is there a similar model done there?
+
+The same traits that are used to predict stability is a function of environmental conditions and forest height. we are considering how those things will be incorporated in the model.
+
+
+
+
+
 ask about comparing 1985-2015 and then 2015-2025 for BULC-D
 
 elevation
