@@ -3,6 +3,15 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+ask about comparing 1985-2015 and then 2015-2025 for BULC-D
+
+elevation
+soil
+total annual rainfall
+
+
+
 apply for GEE Partner tier
 
 for tomorrow - add amazon feature to gedi heights comparison
