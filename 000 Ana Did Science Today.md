@@ -4,6 +4,44 @@ up:
 dg-publish: true
 ---
 
+doing a "dive" into roots is cool!
+a bit long intro in the phosphatase slide (unless it's foreshadowing?)
+
+Nut acquisition traits
+write enzyme activity
+respiration rates
+micorrhyz association
+
+diff between ecto and arbo not super clear but does it matter?
+
+evidence of P partitioning slide very good!!!!
+
+maybe the uglytable could be removed?if the info is better explained right after
+
+ she said towards the end that phosphate -> phytate is in order of ease of acquisition? that would be interesting to know the figure before she starts to tell the content of the figure
+
+what are the a-b-c-b-ab pairs in the phosphate uptake plots?
+
+why show shoot P total when it is resulted of biomass?
+
+what is PME, PHY
+
+**how much would the lower AM inoculation influence your results?**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 find which pixels will be out of range (unprecedented conditions) that will cause random forest a problem.
 careful with the areas that are beyond the training data for GAMS and 
 
