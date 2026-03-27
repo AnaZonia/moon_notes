@@ -4,6 +4,15 @@ up:
 dg-publish: true
 ---
 
+forestgeo and plotnet (carbon assessment)
+rainfor
+
+2ndfor - where are secondary forests and when did they start regrowing?
+
+robin and pedro - 2ndfor
+
+
+
 doing a "dive" into roots is cool!
 
 
