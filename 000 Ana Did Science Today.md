@@ -3,6 +3,11 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## Mon, April 13, 2025
+
+Got reviews back. I need to compare the GEDI and ESA CCI datasets and see how the lag estimate varies. The main concern is that GEDI systematically underestimates the biomass in general for secondary forests in the Amazon, so the long-term implications of the lower intercept in the plot are unclear.
+
+My first attempt at running the model with GEDI led to an estimated lag of 16, but I need to add more datapoints and ensure that it was done correctly because the average biomass ended up quite low (33, when from the previous tests I had done it was in the 60s)
 
 
 
