@@ -3,6 +3,11 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## Fri, April 15, 2025
+
+Get the mature forest biomass estimates from GEDI to re-run the asymptote reference values!
+
+
 ## Mon, April 13, 2025
 
 Got reviews back. I need to compare the GEDI and ESA CCI datasets and see how the lag estimate varies. The main concern is that GEDI systematically underestimates the biomass in general for secondary forests in the Amazon, so the long-term implications of the lower intercept in the plot are unclear.
