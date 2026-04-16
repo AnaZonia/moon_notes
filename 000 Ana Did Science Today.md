@@ -3,7 +3,31 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
-## Fri, April 15, 2025
+
+## Thu, Apr 16, 2025
+
+Taking one day to take a step back and organize my work and my goals.
+
+1) Work on the daily research journal on Obsidian
+2) Make tasklist for the reply to comments on article
+3) Make otherwise work tasklist
+4) Organize files
+5) Organize code
+
+### Work tasklist
+- apply for GEE Partner tier
+- email Jeff Cardille
+
+
+## Reply to comments tasklist
+
+- make plot with sd per mean age - write down arguments, research the poisson distribution
+- estimate lag from GEDI data
+- estimate lag with ages extracted from average biomass per polygon
+- read paper that was recommended
+
+
+## Wed, April 15, 2025
 
 Get the mature forest biomass estimates from GEDI to re-run the asymptote reference values!
 
@@ -14,11 +38,12 @@ Got reviews back. I need to compare the GEDI and ESA CCI datasets and see how th
 
 My first attempt at running the model with GEDI led to an estimated lag of 16, but I need to add more datapoints and ensure that it was done correctly because the average biomass ended up quite low (33, when from the previous tests I had done it was in the 60s)
 
+I have confirmed that the data available for version 6 of ESA CCI Biomass is the same when obtained through google earth engine or downloaded from the website directly.
 
 
 
 
-
+### Committee meeting - who can I reach for that can help me get field data?
 
 forestgeo and plotnet (carbon assessment)
 rainfor
@@ -26,19 +51,6 @@ rainfor
 2ndfor - where are secondary forests and when did they start regrowing?
 
 robin and pedro - 2ndfor
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -69,7 +81,7 @@ The same traits that are used to predict stability is a function of environmenta
 
 
 
-ask about comparing 1985-2015 and then 2015-2025 for BULC-D
+ask about comparing 1985-2015 and then 2015-2025 for BULC-D (to make sure there are no incompatibilities as you change landsat satellites)
 
 elevation
 soil
@@ -77,7 +89,6 @@ total annual rainfall
 
 
 
-apply for GEE Partner tier
 
 for tomorrow - add amazon feature to gedi heights comparison
 map mature forests by mapbiomas and get random forest with the climatic variables for them
@@ -143,9 +154,7 @@ https://www.nature.com/articles/s41559-025-02821-5
 
 
 
-COP NOTES
-
-
+## COP NOTES
 
 
 Aliança / Pacto Mata Atlântica / Araticum
@@ -157,8 +166,6 @@ WRI
 TNC
 
 WWF
-
-  
 
 
   
@@ -375,9 +382,6 @@ Iris
 
 Ima Emilio Goeldi
 
-Catarina Jakovac
-
-  
   
 
 IRegenera
@@ -387,16 +391,6 @@ Sociobio
 Central do cerrado
 
   
-  
-
-Avenida perimetral 1901
-
-Campus de pesquisa do Museu Goeldi
-
-19h
-
-
-
 
 
 
@@ -678,8 +672,6 @@ Ativos culturais de agrofloresta - não NTFP?
 
 SPSTA - negotiations
 
-  
-  
   
   
 
