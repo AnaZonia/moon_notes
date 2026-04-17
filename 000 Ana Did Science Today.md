@@ -5,15 +5,11 @@ dg-publish: true
 ---
 
 ## Fri, Apr 17
-
 Looking into how to estimate the mature forest biomass in the surrounding area for the asymptote. I could get the average GEDI L4A footprints, because L4B averages out for forest and non-forest pixels within 1km.
-
-
 
 ## Thu, Apr 16, 2025
 
 Taking one day to take a step back and organize my work and my goals.
-
 1) Work on the daily research journal on Obsidian
 2) Make tasklist for the reply to comments on article
 3) Make otherwise work tasklist
@@ -25,17 +21,16 @@ Taking one day to take a step back and organize my work and my goals.
 - email Jeff Cardille
 - get SocSES membership - see if worth it
 
-
 ## Reply to comments tasklist
-
-- make plot with sd per mean age - write down arguments, research the poisson distribution
+- make plot with sd per mean age - write down arguments, research the poisson distribution (done)
+- make plot of mean biomass per age with different sampling methods
 - estimate lag from GEDI data
 - estimate lag with ages extracted from average biomass per polygon
+- estimate lag per ecoregion
 - read paper that was recommended
-
+- make future projections with new dataset
 
 ## Wed, April 15, 2025
-
 Get the mature forest biomass estimates from GEDI to re-run the asymptote reference values!
 
 
