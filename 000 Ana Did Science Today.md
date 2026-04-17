@@ -4,6 +4,12 @@ up:
 dg-publish: true
 ---
 
+## Fri, Apr 17
+
+Looking into how to estimate the mature forest biomass in the surrounding area for the asymptote. I could get the average GEDI L4A footprints, because L4B averages out for forest and non-forest pixels within 1km.
+
+
+
 ## Thu, Apr 16, 2025
 
 Taking one day to take a step back and organize my work and my goals.
@@ -17,6 +23,7 @@ Taking one day to take a step back and organize my work and my goals.
 ### Work tasklist
 - apply for GEE Partner tier
 - email Jeff Cardille
+- get SocSES membership - see if worth it
 
 
 ## Reply to comments tasklist
