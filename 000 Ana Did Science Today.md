@@ -4,6 +4,11 @@ up:
 dg-publish: true
 ---
 
+## Mon, Apr 20
+Future projections with the new dataset.
+- 
+
+
 ## Fri, Apr 17
 Looking into how to estimate the mature forest biomass in the surrounding area for the asymptote. I could get the average GEDI L4A footprints, because L4B averages out for forest and non-forest pixels within 1km.
 
