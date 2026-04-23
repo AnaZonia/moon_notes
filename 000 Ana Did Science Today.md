@@ -4,9 +4,13 @@ up:
 dg-publish: true
 ---
 
-## Mon, Apr 20
-Future projections with the new dataset.
+## Thu, Apr 23
 
+Organized the code so I can see clearly what I was doing. Clearly the problem is solved by taking Vyvanse and coming to lab.
+
+The GEDI data is much more sparse than ESA CCI Biomass - still trying to understand why the function to get the nearest mature neighbor did not work with GEDI data.
+
+Now I have ready script to aggregate and export the data with GEDI biomass and the age pixels that are within the 1ha patches.
 
 
 ## Fri, Apr 17
