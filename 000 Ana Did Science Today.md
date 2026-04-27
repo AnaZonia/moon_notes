@@ -10,6 +10,7 @@ Okay now we are ON. Getting the lag with GEDI, while selecting only the pixels n
 GEDI pixels are extracted from every mapbiomas secondary forest pixel, including those without nearest mature forest measurements.
 - it is still weird to me how the nearest mature forest measurement was not possible to get wall-to-wall with GEDI. That needs to be 
 
+fill out expense report and get refunded for qcbs
 
 
 ## Thu, Apr 23
