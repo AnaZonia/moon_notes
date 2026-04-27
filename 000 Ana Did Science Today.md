@@ -4,6 +4,13 @@ up:
 dg-publish: true
 ---
 
+## Mon, Apr 27
+Okay now we are ON. Getting the lag with GEDI, while selecting only the pixels near mature forests that have any GEDI measurements.
+
+
+
+
+
 ## Thu, Apr 23
 
 Organized the code so I can see clearly what I was doing. Clearly the problem is solved by taking Vyvanse and coming to lab.
