@@ -18,6 +18,18 @@ so I will confirm if that is really the case - if it is I will just argue that G
 
 Also noticed that the feature collection of ages over 1ha in area only makes sense for comparisons with ESA CCI, not GEDI (the whole issue is the downsampling)
 
+Sampling GEDI NEEDS to be done with very small grid cells because there is a ton of autocorrelation with multiple sampling of the same plot.
+
+OK - can't understand how in 2014 I found comparable (or superior) relationships between age and GEDI biomass, but right now it looks waaaaaay inferior to ESA CCI. I had found 1.5% for both - now I find 3-7% with ESA CCI and consistently less than 1% for GEDI.
+
+That makes it quite clear how the model cannot really be fit with GEDI. Which surprises me, but still goes with the argument. Now I will fit the model with ESA CCI for each feature in the feature collection and see what happens. From there, I make my final conclusions and start to wrap up the responses to reviewers.
+
+I concluded this after sampling GEDI with 1 grid cell per 10km but also stratifiedSample over the entire Amazon. it is definitely correct.
+
+Sampling one pixel per feature collection will be hard, and it may take all night, but I will set it off now and see it in the morning. In the meanwhile I can comment code/write responses to reviewers/plan forecast code, and we are good to go.
+
+Over this weekend I think I can take some heavier Vyvanse and focus for real on wrapping this up.
+
 ## Mon, Apr 27
 Okay now we are ON. Getting the lag with GEDI, while selecting only the pixels near mature forests that have any GEDI measurements.
 
