@@ -16,6 +16,8 @@ However there is still an interesting plot when you get the mean biomass by age 
 
 so I will confirm if that is really the case - if it is I will just argue that GEDI is not as useful for this as ESA CCI Biomass, and this may have to do with some property of radar data.
 
+Also noticed that the feature collection of ages over 1ha in area only makes sense for comparisons with ESA CCI, not GEDI (the whole issue is the downsampling)
+
 ## Mon, Apr 27
 Okay now we are ON. Getting the lag with GEDI, while selecting only the pixels near mature forests that have any GEDI measurements.
 
