@@ -3,6 +3,18 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## Wed, Apr 29
+Age is just not as well related to biomass when you consider GEDI in comparison with ESA CCI. That is interesting.
+
+The lag with GEDI data is showing around 70 years, which I don't believe. Also the most important predictor became AET and surrounding cover was less important.
+
+However I went to check the R2 of a linear relationship between just age and biomass and the R2 for ESA CCI is 7.8% but with GEDI is 0.3%. So biomass and age are basically uncorrelated.
+
+However there is still an interesting plot when you get the mean biomass by age for GEDI, so that leads me to assume that the spread is just much larger.
+
+![[000 Ana Did Science Today-51.png]]
+
+so I will confirm if that is really the case - if it is I will just argue that GEDI is not as useful for this as ESA CCI Biomass, and this may have to do with some property of radar data.
 
 ## Mon, Apr 27
 Okay now we are ON. Getting the lag with GEDI, while selecting only the pixels near mature forests that have any GEDI measurements.
