@@ -3,6 +3,11 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## Fri, May 1
+
+Time to move on to writing. When I get blocked like this it's because it's time to set up a deadline and just finish it.
+I will have a version finished by next week so they can review it and we can make last alterations before sending it off before the June 9th deadline.
+
 ## Wed, Apr 29
 Age is just not as well related to biomass when you consider GEDI in comparison with ESA CCI. That is interesting.
 
