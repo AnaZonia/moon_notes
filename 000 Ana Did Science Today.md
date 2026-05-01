@@ -10,6 +10,9 @@ I will have a version finished by next week so they can review it and we can mak
 
 Check whether all grids are really needed for the final figure/which are for the reviewer only and should be in the review folder
 
+Realized the model has been using the distance to DEEP mature forest (1000m in) rather than distance to edge mature forest. I will run the model with both to try and tell if there is a difference.
+
+
 
 ## Wed, Apr 29
 Age is just not as well related to biomass when you consider GEDI in comparison with ESA CCI. That is interesting.
