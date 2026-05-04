@@ -3,6 +3,14 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## Mon, May 4
+
+Organizing the code/writing README has been a great use of time. It is helpful to get the project to be manageable and to finish it this week.
+
+So far, trying to decide what to include in the code that will be published with the paper and what to keep only in the revisions file.
+
+
+
 ## Fri, May 1
 
 Time to move on to writing. When I get blocked like this it's because it's time to set up a deadline and just finish it.
