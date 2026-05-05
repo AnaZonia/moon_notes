@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Google Earth Engine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 Ana Did Science Today"
+              "title": "Google Earth Engine"
             }
           },
           {
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -120,13 +119,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Google Earth Engine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000 Ana Did Science Today"
+              "title": "Outline of Google Earth Engine"
             }
           },
           {
@@ -245,12 +244,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Ana Did Science Today.md",
+                "file": "Google Earth Engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 000 Ana Did Science Today"
+              "title": "Outgoing links from Google Earth Engine"
             }
           }
         ]
@@ -275,11 +274,12 @@
   },
   "active": "b6a7c1812c833336",
   "lastOpenFiles": [
+    "Github.md",
+    "000 Ana Did Science Today.md",
     "Files/000 Ana Did Science Today-51.png",
     "Files/000 Ana Did Science Today-50.png",
     "003 People and Networks.md",
     "Templates/4 People and networks.md",
-    "000 Ana Did Science Today.md",
     "000 Chapter 3 - Validation with Plot Data.md",
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
     "Capacream.md",
@@ -310,7 +310,6 @@
     "Chapter 3 - Incorporating Biodiversity.md",
     "Personal Statements.md",
     "Conferences and Funding.md",
-    "Files/000 Ana Did Science Today.jpeg",
     "Floresta Aleatória/Untitled.base",
     "Floresta Aleatória/R Stats.base",
     "Files/Ana Did Science Today.pdf",

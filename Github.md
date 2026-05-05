@@ -3,6 +3,7 @@ up:
   - "[[A Floresta Aleatória]]"
 stardate: Sep 24th 2023
 update: Sep 24th 2023
+dg-publish: true
 ---
 
 ```bash
