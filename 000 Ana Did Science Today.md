@@ -8,6 +8,10 @@ dg-publish: true
 The extended data/plotting maps code is an absolute mess.
 I would like to wrap up the README and revisions code today and move on to writing tomorrow. Looks like by the end of today I will be able to have the code finished for the revisions and can send it to Brian for him to check before moving on to writing responses/editing the methods section.
 
+Bezerra sampling - picking 10 random points per 10km² grid cell. Some of those will end up being in mature forests, therefore surrounded by mature forests and the results will be skewed like that.
+I could sample only 10 points among what is now non-forest, but that may not also be realistic - we would be assuming there would be 0 deforestation in those patches, which is not true.
+In the end, we can just **discuss** how those predictions are skewed because we don't know about the distribution of deforestation and how that will affect the regrowth capacity in those 10km cells.
+
 
 
 ## Mon, May 4
