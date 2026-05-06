@@ -3,6 +3,13 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+## Tasklist before submitting
+- visualization extended data code
+- atlantic forest grid/data for land use comparisons
+- edge removed/all pixels distinction
+- utils.py
+
 ## Wed, May 6
 
 The extended data/plotting maps code is an absolute mess.
