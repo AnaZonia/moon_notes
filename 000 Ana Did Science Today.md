@@ -3,6 +3,13 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+## Wed, May 6
+
+The extended data/plotting maps code is an absolute mess.
+I would like to wrap up the README and revisions code today and move on to writing tomorrow. Looks like by the end of today I will be able to have the code finished for the revisions and can send it to Brian for him to check before moving on to writing responses/editing the methods section.
+
+
+
 ## Mon, May 4
 
 Organizing the code/writing README has been a great use of time. It is helpful to get the project to be manageable and to finish it this week.
