@@ -9,6 +9,10 @@ dg-publish: true
 - atlantic forest grid/data for land use comparisons
 - edge removed/all pixels distinction
 - utils.py
+- figure out why there are still gaps in nearest_mature_GEDI
+- redo patch 309 same-age
+
+Write bash script for Sam to install everything in her new laptop
 
 ## Wed, May 6
 
