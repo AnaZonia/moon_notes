@@ -9,8 +9,14 @@ dg-publish: true
 - atlantic forest grid/data for land use comparisons
 - edge removed/all pixels distinction
 - utils.py
-- figure out why there are still gaps in nearest_mature_GEDI
+- figure out why there are still gaps in nearest_mature_GEDI (and check if the sampling is getting too many of these pixels)
 - redo patch 309 same-age
+- organize objects.ipynb
+
+
+## Thu, May 7
+
+May be helpful to have a script with just the files like age_edge_removed and biomass, that are used repeatedly, to ensure consistency.
 
 Write bash script for Sam to install everything in her new laptop
 
