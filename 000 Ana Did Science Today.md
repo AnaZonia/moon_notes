@@ -8,6 +8,9 @@ dg-publish: true
 The reviewers don't need the code for addressing the reviews themselves.
 
 
+Uncertainty propagation - have the sd for all biomass pixels and bootstrap - run the model 100 times and plot a distribution 
+
+
 ## Tasklist before submitting
 - visualization extended data code
 - atlantic forest grid/data for land use comparisons
