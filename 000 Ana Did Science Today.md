@@ -9,10 +9,13 @@ dg-publish: true
 - atlantic forest grid/data for land use comparisons
 - edge removed/all pixels distinction
 - utils.py
-- figure out why there are still gaps in nearest_mature_GEDI (and check if the sampling is getting too many of these pixels)
 - redo patch 309 same-age
-- organize objects.ipynb
 
+Priorities
+- organize objects.ipynb
+- check why the Bezerra grid is still not working well
+- figure out why there are still gaps in nearest_mature_GEDI (and check if the sampling is getting too many of these pixels)
+- figure out why we can't export one single image with the GEDI data aggregated to 10km²
 
 ## Thu, May 7
 
