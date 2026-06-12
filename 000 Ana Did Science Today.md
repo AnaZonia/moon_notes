@@ -4,6 +4,26 @@ up:
 dg-publish: true
 ---
 
+- [ ] Reviewer 2, question 1
+	- [ ] explain how the error propagation has been incorporated into the paper and the lag remains.
+	- [ ] Give them the R², and make sure the code is updated. Back up old CV function and update everything to bootstrapping.
+	- [ ] Run error_propagation again with old grid (without including only pixels with all the same age as neighbors)
+	- [ ] redo fitting to field data with error-propagated curve
+- [ ] Reviewer 2, question 2
+	- [ ] explain why the sampling method without excluding edges is suspicious and could artificially lower the biomass
+	- [ ] show how we did a new resample that is even more rigorous - we included only pixels that are surrounded by all pixels of the same age - and the values remained the same. Maybe part of the reason why this happened is that the secondary forest pixels are also spatially autocorrelated (usually pixels of the same age could be aggregated together - although we did not test this, since was not necessary). Keep the code for this separate.
+	- [ ] explain the isolated pixels removed are the ones in very small patches, of less than 1 hectare. the only difference is that we removed the edges too.
+	- [ ] explain how we also created a mask to remove the age pixels in the boundary between two esa cci biomass pixels, and the values also remained the same, so that is not the solution.
+- [ ] reviewer 2, final recommendations
+	- [ ] did that, explained in the previous comment.
+	- [ ] considered GEDI, and it in fact had worse overall correlations with forest age.
+	- [ ] mention that we introduced the figure with the spatially-specific lag
+
+- [ ]
+ 
+
+
+
 
 
 
