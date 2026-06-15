@@ -19,7 +19,6 @@ dg-publish: true
 	- [ ] considered GEDI, and it in fact had worse overall correlations with forest age.
 	- [ ] mention that we introduced the figure with the spatially-specific lag
 
-- [ ]
  
 
 
