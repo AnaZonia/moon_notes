@@ -24,6 +24,8 @@ dg-publish: true
 
 
 
+\hl{Though we fit the detection lag as a single average value for the entire Amazon basin, we expect the lag to vary spatially given the locally-specific trajectories supported by our model. To examine this spatial variability, we fit the model for 10,000 randomly selected regrowing pixels in each of four major ecoregions of the Amazon (in the deforestation arc, with enough secondary forest cover and diversity to fit the model)}~\ref{fig:figure_4_lag_ecoregions}. \hl{Across these regions, estimated detection lag varies from 22.6 to 40.3 years, reflecting regional differences in regrowth rates and illustrating the complexity of detecting regrowth in a diverse Amazonian landscape. For example, the Madeira–Tapajós Moist Forest ecoregion (with a 40.3 year detection lag) has an intensely fragmented matrix. Because MapBiomas requires a pixel to have at least two neighboring pixels of the same class to be labeled as forest, fragmentation in this region likely prolongs detection.}
+
 
 
 Show that GEDI doesn't do well for the predictions.
