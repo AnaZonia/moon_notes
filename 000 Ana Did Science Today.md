@@ -4,6 +4,15 @@ up:
 dg-publish: true
 ---
 
+
+contact jorge, jeff hall and catherine potvin on plots after 2015
+
+
+
+
+
+
+
 - [ ] Reviewer 2, question 1
 	- [ ] explain how the error propagation has been incorporated into the paper and the lag remains.
 	- [ ] Give them the R², and make sure the code is updated. Back up old CV function and update everything to bootstrapping.
