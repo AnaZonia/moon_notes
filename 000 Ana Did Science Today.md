@@ -5,12 +5,17 @@ dg-publish: true
 ---
 
 
-
-
 Chapter 3
 
+Climate Change
+
+Include climatic predictors as a submodel for mature forest biomass, and infer how the drought will affect the biomass and regrowth rates of 
 
 
+
+
+Management
+Brazil? Panama?
 
 
 
