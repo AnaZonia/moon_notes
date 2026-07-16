@@ -7,16 +7,19 @@ dg-publish: true
 
 
 
+Chapter 3
+
+
+
+
 
 
 
 Done with the revisions. Plan the next tasks
 - check on code to finish commenting
-- check on reprojections by samantha
 - contact jorge, jeff hall and catherine potvin on plots after 2015
 - give brian the email to ask for plots from 2nd for
 - check on the refund
-- make report to send to Jeff Cardille about detection
 
 
 
