@@ -16,6 +16,9 @@ Include climatic predictors as a submodel for mature forest biomass, and infer h
 
 Management
 Brazil? Panama?
+We investigate the main ways in which forest regrowth models may help inform 
+
+
 
 
 
