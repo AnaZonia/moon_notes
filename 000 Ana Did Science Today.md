@@ -5,18 +5,43 @@ dg-publish: true
 ---
 
 
+
+
+
+
+
+
+
 Chapter 3
 
-Climate Change
+Climate Change - Include climatic predictors as a submodel for mature forest biomass, and infer how the drought will affect the biomass and regrowth rates by 2100.
 
-Include climatic predictors as a submodel for mature forest biomass, and infer how the drought will affect the biomass and regrowth rates of 
+Cons
+Hornet's nest: contentious topic
+
+Oversimplified: May not be realistic to say that the asymptote will change directly in relation to climate
+
+Drought frequency: How are these dynamics going to change under unprecedented droughts?
+
+Pros:
+Mechanicalistically simple - "SDM" with the regrowth model into it.
+Interesting topic - maybe bigger paper?
+
+
+Methods:
+Could use someone else's model for future forest vs savanna cover
 
 
 
 
-Management
-Brazil? Panama?
-We investigate the main ways in which forest regrowth models may help inform 
+
+Management: We investigate the main ways in which forest regrowth models may help inform reforestation
+
+Cons:
+Shakier idea: Brazil? Panama?
+
+Pros:
+More interesting?
 
 
 
