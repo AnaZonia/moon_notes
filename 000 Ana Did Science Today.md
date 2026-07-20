@@ -8,40 +8,63 @@ dg-publish: true
 
 
 
-
+Chapter 2 - machine learning could have explained it really well and the predictions would have all been wrong.
+All the algorithms suck.
 
 
 
 Chapter 3
 
-Climate Change - Include climatic predictors as a submodel for mature forest biomass, and infer how the drought will affect the biomass and regrowth rates by 2100.
+==Climate Change - Include climatic predictors as a submodel for mature forest biomass, and infer how the drought will affect the biomass and regrowth rates by 2100.==
 
-Cons
+**Cons**
 Hornet's nest: contentious topic
-
 Oversimplified: May not be realistic to say that the asymptote will change directly in relation to climate
-
 Drought frequency: How are these dynamics going to change under unprecedented droughts?
 
-Pros:
+**Pros:**
 Mechanicalistically simple - "SDM" with the regrowth model into it.
 Interesting topic - maybe bigger paper?
 
-
-Methods:
+**Reading:**
 Could use someone else's model for future forest vs savanna cover
+Regional climate forecast models for the Amazon
+Asymptote climate models - how much is mature forest biomass going to change (borrow)
+Land cover models/dynamic vegetation models
+Fire models? (borrow)
+State transitions?
+Surrounding mature forest cover?
+Forest persistence is actually the most important factor.
+
+Forest area is more important than the SSP changes
 
 
 
 
 
-Management: We investigate the main ways in which forest regrowth models may help inform reforestation
 
-Cons:
-Shakier idea: Brazil? Panama?
 
-Pros:
+==Management: We investigate the main ways in which forest regrowth models may help inform reforestation==
+
+**Cons:**
+Shakier idea:
+Brazil? Panama?
+We may be reinventing the wheel. Who has done this better?
+
+**Pros:**
 More interesting?
+
+Protected areas around the Amazon (large scale) vs surrounding cover/fire (small scale)
+Redeforestation
+Not all land use is equally likely to be converted back to secondary forests (pasture vs soy)
+large small models may not be useful at smaller scales - maybe models can't help at smaller scales
+
+
+
+
+
+
+
 
 
 
