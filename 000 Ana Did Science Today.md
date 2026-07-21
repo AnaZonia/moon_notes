@@ -6,15 +6,8 @@ dg-publish: true
 
 
 
-lidar and radar for land use change, get papers for jeff cardille
-Ecological informatics for chapter 2
 
 
-
-
-
-Chapter 2 - machine learning could have explained it really well and the predictions would have all been wrong.
-All the algorithms suck.
 
 
 
