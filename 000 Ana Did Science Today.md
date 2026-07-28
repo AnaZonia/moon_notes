@@ -8,6 +8,20 @@ dg-publish: true
 
 There are two CMIP6 sources in the Climate Data Store. First thing to do is to organize those and make sure that I am reaching to the correct value.
 
+Exporting average historical data for mature forests and the equivalent value for 2074. Unsure if I should average the future predictors, and what would that be the consequence.
+
+Want to later run the mature forest model to 1) fit the model for current forests with the mature forest asymptote submodel and 2) make future predictions based on that data. Could do that using a GAM or random forest, unsure whether to think of some way to make the predictions considering the gradual warming of climate, and if not whether that could make ecological sense to just consider the final asymptote (kinda makes sense that the final value is what it is)
+
+The other thing to consider is the mature forest biomass estimate because of the yearly "noise" - I could get the average over all the years for which we have ESA CCI. Honestly I don't think much would change, but it could be interesting to compare the predictions with 2020 biomass with an average of multiple years for example.
+confirmed the average is better!
+
+this is the average:
+![[000 Ana Did Science Today-53.png]]
+
+the values before have way more satellite tracks and visible noise (pixels with extremely large or low values). these averages are more reliable
+
+
+After that's done, I can look into tipping areas and transitions into savanna.
 
 
 

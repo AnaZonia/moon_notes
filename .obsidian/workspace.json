@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -260,6 +261,8 @@
   },
   "active": "fbbb2f293fa1374c",
   "lastOpenFiles": [
+    "Files/000 Ana Did Science Today-53.png",
+    "Files/000 Ana Did Science Today-52.png",
     "Floresta Aleatória/Python.md",
     "000 Ana Did Science Today.md",
     "Capacream.md",
@@ -294,8 +297,6 @@
     "Files/000 Ana Did Science Today-49.png",
     "Files/000 Ana Did Science Today-48.png",
     "Files/000 Ana Did Science Today-47.png",
-    "Files/000 Ana Did Science Today-46.png",
-    "Chapter 3 - Incorporating Biodiversity.md",
     "Floresta Aleatória/Untitled.base",
     "Floresta Aleatória/R Stats.base",
     "Files/Ana Did Science Today.pdf",
