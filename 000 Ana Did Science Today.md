@@ -6,6 +6,19 @@ dg-publish: true
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 There are two CMIP6 sources in the Climate Data Store. First thing to do is to organize those and make sure that I am reaching to the correct value.
 
 Exporting average historical data for mature forests and the equivalent value for 2074. Unsure if I should average the future predictors, and what would that be the consequence.
