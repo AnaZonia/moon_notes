@@ -15,6 +15,12 @@ Ok - tomorrow I would like to take some time to think over my notetaking process
 
 Right now I set a 25-min pomodoro timer and with this I will make the predictions with random forest and export them into a map to show, and have three maps of mature forest biomass (for the three scenarios) and ready to incorporate into the secondary forest model as a submodel for the asymptote
 
+Unsure if the best way forward is to keep the mature climate fit as its own script and then export it,  or export the mature climate predictors as well.
+
+Ok now in this session I will add the mature forest predictors to the secondary forest data and get the asymptote like that. Minimizes exports. I will let this current export finish though just for ease of getting results quickly.
+
+Also, later I need to look into both CMIP6 data sources and get them both into one proper CSV (check resolutions and such).
+
 
 
 
