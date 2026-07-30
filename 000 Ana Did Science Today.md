@@ -7,7 +7,13 @@ dg-publish: true
 
 
 
+I believe it can't be random forest because some of the future readings are out of the range of what is currently observed in the Brazilian Amazon.
 
+At the same time, rf had the highest r2 estimated, so not sure what to do here.
+
+Ok - tomorrow I would like to take some time to think over my notetaking process and my pomodoro system so I have one task per block. I can get overwhelmed with the amount of things to do and the open-ended time period. breaking down the task into time chunks is ideal
+
+Right now I set a 25-min pomodoro timer and with this I will make the predictions with random forest and export them into a map to show, and have three maps of mature forest biomass (for the three scenarios) and ready to incorporate into the secondary forest model as a submodel for the asymptote
 
 
 
