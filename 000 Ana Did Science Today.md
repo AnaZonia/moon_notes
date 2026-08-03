@@ -3,8 +3,14 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+
 download 2075 - 2100 data
 look into flavia costa work vs carlos nobre turnover regrowth
+how much change we will see by 2100 if there is regrowth - 
+compare with bioclim - see which variables have been used a lot and are reasonable beyond the raw CMIP6 data.
+get the models combined
+
 
 add media section to CV/personal websites
 add talk in cop (cancelled due to fire)
