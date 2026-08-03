@@ -3,8 +3,11 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+download 2075 - 2100 data
+look into flavia costa work vs carlos nobre turnover regrowth
 
-
+add media section to CV/personal websites
+add talk in cop (cancelled due to fire)
 
 
 I believe it can't be random forest because some of the future readings are out of the range of what is currently observed in the Brazilian Amazon.
