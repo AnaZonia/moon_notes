@@ -13,6 +13,8 @@ get the models combined
 
 expand from the amazon biome to the amazon basin
 
+https://brasil.mongabay.com/2026/07/amazonia-nao-e-uma-so-e-enfrenta-processos-diferentes-diz-ecologa-do-inpa/
+
 
 add media section to CV/personal websites
 add talk in cop (cancelled due to fire)
