@@ -5,7 +5,12 @@ dg-publish: true
 ---
 
 
-download 2075 - 2100 data
+
+
+Some pixels have formação campestre as the final class. Some misclassification. I am tending to call "savanna" everything under the cerrado biome.
+![[image.png]]
+
+
 look into flavia costa work vs carlos nobre turnover regrowth
 how much change we will see by 2100 if there is regrowth - 
 compare with bioclim - see which variables have been used a lot and are reasonable beyond the raw CMIP6 data.
