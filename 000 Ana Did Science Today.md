@@ -39,12 +39,20 @@ Ok now in this session I will add the mature forest predictors to the secondary 
 
 Also, later I need to look into both CMIP6 data sources and get them both into one proper CSV (check resolutions and such).
 
-
-
-
-- uniting CMIP6 data
 - check proportion of savanna/forest, check sampling
-- 
+- uniting CMIP6 data (TODAY)
+- time budgets for everything - esa cci biomass
+- what approch did flores use to find the transition/uncertainty/bistable zones (look into the literature a little bit - brian is uncertain about the bistability classification)
+- make maps of savanna transition based on environmental predictors. Later think if there are feedbacks and such, that could be considered.
+
+15% of time chapter 2, 15% of time reading for arguments for chapter 3. Think of writing slowly and it will give us time to think though these problems
+
+- could we use a probability distribution
+- landtrendr
+- ccdc
+- bulc-d
+
+
 
 
 
