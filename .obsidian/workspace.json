@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "000 Ana Did Science Today"
             }
-          },
-          {
-            "id": "ddf2483ec7df9f88",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,7 +261,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ddf2483ec7df9f88",
+  "active": "fbbb2f293fa1374c",
   "lastOpenFiles": [
     "Files/000 Ana Did Science Today-54.png",
     "Files/000 Ana Did Science Today-53.png",

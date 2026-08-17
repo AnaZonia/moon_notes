@@ -42,6 +42,10 @@ Also, later I need to look into both CMIP6 data sources and get them both into o
 
 
 
+- uniting CMIP6 data
+- check proportion of savanna/forest, check sampling
+- 
+
 
 
 
