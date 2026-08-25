@@ -4,8 +4,28 @@ up:
 dg-publish: true
 ---
 
+## Thesis
+
+- [ ] Chapter 2
+	- [ ] Check with Jeff whether the algorithms can be fixed
+	- [ ] Try out to detect regrowth with ESA CCI Biomass for after 2015
+	- [ ] Write paper - the differences between the regrowth algorithms and how we need to improve the methods of detecting regrowth
+- [ ] Chapter 3
+	- [ ] Check whether random forest will work out with the full Amazon spread - see if I observe the same pattern that Flores did with rainfall across savannas and forests
+	- [ ] Build first predictive model of regrowth given the asymptote submodel with climate change
+	- [ ] Make the first prediction maps
+	- [ ] Write paper - the climate change future scenarios will affect the carbon sequestration potential of the Amazon
 
 
+## 2026/08/25
+
+Setting up my tasks per chapter and per time interval to avoid overwhelm.
+Finished uploading the climate change data to google earth engine - now it's just exporting the dataframe based on that to build the model.
+
+Realizing I need 
+
+
+## 2026/07
 
 Some pixels have formação campestre as the final class. Some misclassification. I am tending to call "savanna" everything under the cerrado biome.
 ![[image.png]]
@@ -51,10 +71,6 @@ Also, later I need to look into both CMIP6 data sources and get them both into o
 - landtrendr
 - ccdc
 - bulc-d
-
-
-
-
 
 
 
