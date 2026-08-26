@@ -22,7 +22,7 @@ dg-publish: true
 Setting up my tasks per chapter and per time interval to avoid overwhelm.
 Finished uploading the climate change data to google earth engine - now it's just exporting the dataframe based on that to build the model.
 
-Realizing I need 
+
 
 
 ## 2026/07
