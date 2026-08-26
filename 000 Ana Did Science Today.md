@@ -17,13 +17,20 @@ dg-publish: true
 	- [ ] Write paper - the climate change future scenarios will affect the carbon sequestration potential of the Amazon
 
 
+## 2026/08/26
+Not sure why exporting one pixel per grid cell is not working. Would have been the best option. Wondering now if I should move on without it.
+
+Exporting one mature forest cell per secondary forest cell wouldn't work well either - should just export the future climate data per secondary forest cell to make the three possible asymptotes, and train the model with the historical data (means from 1985-2014) with the mature forest. So there are two dataframes to be exported, one with historical + mature and one with future + secondary.
+
+How to handle the three different types - forest, bistable, savanna? I will just ignore those categories for now in the training but I will have the classification as a layer in the data to identify the type of forest in the future and see.
+
+Ok - ignored it to use it for sampling 
+
+
 ## 2026/08/25
 
 Setting up my tasks per chapter and per time interval to avoid overwhelm.
 Finished uploading the climate change data to google earth engine - now it's just exporting the dataframe based on that to build the model.
-
-
-
 
 ## 2026/07
 
