@@ -3,6 +3,29 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+Continuous variables for soils
+Could it be that the main variable really is precipitation/rainfall?
+Explaining 60% is already pretty legit.
+
+The additional predictor variables : soil gradients, phosphorus (cation exchange capacity). Do it with continuous soil.
+
+Read the papers they sent.
+What other variables 
+How do we think the remainder is interacting? the remainder could just be error from GEDI.
+
+How do we think the 40% of unexplained variation may be shifting?
+
+Soil moisture.
+Check simple elevation and slope just to see.
+Check phosphorus map across the Amazon
+
+How does CEC match phosphorus?
+
+Residual overshoot - what other factors would affect the biomass.
+
+Now the variation is different - see if including the environmental predictors into the growth rate would make a difference.
+
+Check if the correlation between soil moisture, precipitation and solar radiation stays in the future.
 
 ## Thesis
 
