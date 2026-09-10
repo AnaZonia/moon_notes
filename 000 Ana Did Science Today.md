@@ -3,6 +3,36 @@ up:
   - "[[001 The Bridge]]"
 dg-publish: true
 ---
+
+
+## Thesis
+
+- [ ] Chapter 2
+	- [ ] Check with Jeff whether the algorithms can be fixed
+	- [ ] Try out to detect regrowth with ESA CCI Biomass for after 2015
+	- [ ] Write paper - the differences between the regrowth algorithms and how we need to improve the methods of detecting regrowth
+- [ ] Chapter 3
+	- [x] Check whether random forest will work out with the full Amazon spread - see if I observe the same pattern that Flores did with rainfall across savannas and forests ✅ 2026-09-10
+	- [x] Build first predictive model of regrowth given the asymptote submodel with climate change ✅ 2026-09-10
+	- [ ] Make the first prediction maps
+	- [ ] Write paper - the climate change future scenarios will affect the carbon sequestration potential of the Amazon
+
+## 2026/09/10
+fit_asymptote - show the R² and predictors included with forward selection through polynomial, GAM and random forest with all pixels included (forest and savanna). Then show the R² with only forest pixels.
+
+Finally, we will stick with the asymptote being random forest only with soil moisture, it seems like. So, would the only climatic factor that we care about changing be soil moisture?
+
+I guess I can then use this asymptote to fit the regrowth model for 2022 and see which historical climatic predictors actually matter at that time.
+
+For now, however, I will not do that. I will leave that for a second iteration of the model. I will go ahead and finish the pipeline on fit_secondary, making the future predictions of secondary forest biomass for 2100.
+
+However, for that, I need the expected cover in each scenario. I don't really see the point of this paper right now, honestly. I guess it's a way to indicate that we must consider climate change and how it will affect carbon sequestration - for that, I can pick one scenario for land cover (say SSP1) and see how the final carbon accumulated will change depending on 
+
+
+
+
+
+## 2026/09/08
 Continuous variables for soils
 Could it be that the main variable really is precipitation/rainfall?
 Explaining 60% is already pretty legit.
@@ -27,21 +57,6 @@ Now the variation is different - see if including the environmental predictors i
 
 Check if the correlation between soil moisture, precipitation and solar radiation stays in the future.
 
-## Thesis
-
-- [ ] Chapter 2
-	- [ ] Check with Jeff whether the algorithms can be fixed
-	- [ ] Try out to detect regrowth with ESA CCI Biomass for after 2015
-	- [ ] Write paper - the differences between the regrowth algorithms and how we need to improve the methods of detecting regrowth
-- [ ] Chapter 3
-	- [ ] Check whether random forest will work out with the full Amazon spread - see if I observe the same pattern that Flores did with rainfall across savannas and forests
-	- [ ] Build first predictive model of regrowth given the asymptote submodel with climate change
-	- [ ] Make the first prediction maps
-	- [ ] Write paper - the climate change future scenarios will affect the carbon sequestration potential of the Amazon
-
-
-
-
 ## 2026/09/02
 The transition happens below 2000 precipitation.
 
@@ -62,7 +77,7 @@ see how the transitions will affect the biomass of secondary forests
 
 bistability/uncertainty - how large is this area where it's neither sure to be forest nor savanna? does that range change in the future? How much is expected to transition to begin with.
 
-# do those areas match the areas where we expect regrowth to happen in the only area where
+do those areas match the areas where we expect regrowth to happen in the only area where
 
   
 
