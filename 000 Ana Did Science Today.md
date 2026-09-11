@@ -17,6 +17,12 @@ dg-publish: true
 	- [ ] Make the first prediction maps
 	- [ ] Write paper - the climate change future scenarios will affect the carbon sequestration potential of the Amazon
 
+## 2026/09/11
+Found the map!! https://www.nature.com/articles/s41597-023-02637-7#Sec6
+JK - it founds a weird increase in cropland under SSP1 because of assuming the Brazilian government will expand the sugar cane plantations. Looking into other maps at 1km resolution.
+
+
+
 ## 2026/09/10
 fit_asymptote - show the R² and predictors included with forward selection through polynomial, GAM and random forest with all pixels included (forest and savanna). Then show the R² with only forest pixels.
 
@@ -26,7 +32,9 @@ I guess I can then use this asymptote to fit the regrowth model for 2022 and see
 
 For now, however, I will not do that. I will leave that for a second iteration of the model. I will go ahead and finish the pipeline on fit_secondary, making the future predictions of secondary forest biomass for 2100.
 
-However, for that, I need the expected cover in each scenario. I don't really see the point of this paper right now, honestly. I guess it's a way to indicate that we must consider climate change and how it will affect carbon sequestration - for that, I can pick one scenario for land cover (say SSP1) and see how the final carbon accumulated will change depending on 
+However, for that, I need the expected cover in each scenario. I don't really see the point of this paper right now, honestly. I guess it's a way to indicate that we must consider climate change and how it will affect carbon sequestration - for that, I can pick one scenario for land cover (say SSP1) and see how the final carbon accumulated will change depending on climate change only, controlling for area.
+
+Need to choose the dataset for the final land cover.
 
 
 
