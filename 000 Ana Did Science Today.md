@@ -20,7 +20,13 @@ dg-publish: true
 ## 2026/09/11
 Found the map!! https://www.nature.com/articles/s41597-023-02637-7#Sec6
 JK - it founds a weird increase in cropland under SSP1 because of assuming the Brazilian government will expand the sugar cane plantations. Looking into other maps at 1km resolution.
+Changed to this one from scientific data https://zenodo.org/records/4584775
 
+To get regrowth, since it doesn't have area percentage (just forest/non forest at 1km resolution) I considered as regrowth the pixels that the same dataset did NOT consider to be forest in 2020 but considered to be forest in 2100.
+
+It is interesting how different are these methods - one finds cropland to increase under SSP1, another one finds basically no regowth under SSP5 (Bezerra), and now this one finds at least some regrowth in all scenarios.
+
+My main concern is whether the regrowth will be considered realistic if the current cover is at 1km resolution, so it misses out on the fine dynamics of secondary forests. Honestly though that could be the least of the concerns/limitations of this model...
 
 
 ## 2026/09/10
