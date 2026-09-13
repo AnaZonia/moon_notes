@@ -17,6 +17,10 @@ dg-publish: true
 	- [ ] Make the first prediction maps
 	- [ ] Write paper - the climate change future scenarios will affect the carbon sequestration potential of the Amazon
 
+## 2026/09/12
+
+
+
 ## 2026/09/11
 Found the map!! https://www.nature.com/articles/s41597-023-02637-7#Sec6
 JK - it founds a weird increase in cropland under SSP1 because of assuming the Brazilian government will expand the sugar cane plantations. Looking into other maps at 1km resolution.
