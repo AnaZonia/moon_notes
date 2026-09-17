@@ -19,6 +19,9 @@ dg-publish: true
 
 ## 2026/09/17
 
+good outcomes today - organized the scripts and am starting to make proper future predictions.
+main problem: somehow nssh is higher under 2100 in ssp 585? there is something wrong over there. I will check other data, and see if somehow I am interpreting it incorrectly.
+
 I am setting up a bet with myself that I will **start work at 9 AM.** Any day that I don't, I pay $5. Starting tomorrow because today it's already late but I will get there as much as I can.
 
 Today I am taking a second to rethink my life and organize my code with the info I got from Noah this Monday. I just want to have results ASAP.
