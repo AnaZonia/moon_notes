@@ -17,8 +17,30 @@ dg-publish: true
 	- [ ] Make the first prediction maps
 	- [ ] Write paper - the climate change future scenarios will affect the carbon sequestration potential of the Amazon
 
-## 2026/09/12
+## 2026/09/17
 
+I am setting up a bet with myself that I will **start work at 9 AM.** Any day that I don't, I pay $5. Starting tomorrow because today it's already late but I will get there as much as I can.
+
+Today I am taking a second to rethink my life and organize my code with the info I got from Noah this Monday. I just want to have results ASAP.
+  
+
+add water table data as additional to precipitation. how much is it related to precipitation now?
+
+what measures of water table - depth and amount
+
+by 2050 we are in the middle of the curve, but by 2100 it will be asymptote. by then climate change will start counting.
+
+consider precipitation difference between today and 2050.
+
+check savannification by 2050. the difference between 2050 and 2020 is interesting enough.
+
+regrowth in the short term might be a very important climate mitigation factor because it grows the fastest by then
+
+- do 2050
+
+- check water tables
+
+- write alternative messages
 
 
 ## 2026/09/11
