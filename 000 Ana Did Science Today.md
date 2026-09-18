@@ -27,6 +27,11 @@ However, if we correlate this with mature forest biomass, it would expect a maxi
 This raises the question of which predictor to include - I will have precipitation for now as I expect it to be the one to actually decrease with future climate in a pattern that should match the change in biomass.
 
 Ok now I am unsure about the meaning of the R2 here. I want the fit of the predicted secondary forest biomass given the CURRENT asymptote for sure, since the future asymptote isn't here yet. So now I'm splitting my code in two - I will get the R2 with the current asymptote and then make predictions for each scenario using the future_scenarios_area data from Bezerra et al.
+
+Ok, got the results for 2050 - as expected, not much difference between the scenarios
+![[000 Ana Did Science Today-56.png]]
+
+So for 2050, the difference between the scenarios won't be interesting. But what would be interesting is the difference between these scenarios and the historical precipitation. checking that right now.
 ## 2026/09/17
 
 good outcomes today - organized the scripts and am starting to make proper future predictions.
