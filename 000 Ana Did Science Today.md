@@ -26,7 +26,7 @@ Interesting - nssh is expected to counterintuitively increase with warming becau
 However, if we correlate this with mature forest biomass, it would expect a maximum forest biomass to increase with climate change - the opposite trend than soil moisture.
 This raises the question of which predictor to include - I will have precipitation for now as I expect it to be the one to actually decrease with future climate in a pattern that should match the change in biomass.
 
-
+Ok now I am unsure about the meaning of the R2 here. I want the fit of the predicted secondary forest biomass given the CURRENT asymptote for sure, since the future asymptote isn't here yet. So now I'm splitting my code in two - I will get the R2 with the current asymptote and then make predictions for each scenario using the future_scenarios_area data from Bezerra et al.
 ## 2026/09/17
 
 good outcomes today - organized the scripts and am starting to make proper future predictions.
