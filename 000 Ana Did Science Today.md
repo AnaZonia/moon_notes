@@ -17,6 +17,13 @@ dg-publish: true
 	- [ ] Make the first prediction maps
 	- [ ] Write paper - the climate change future scenarios will affect the carbon sequestration potential of the Amazon
 
+## 2026/09/18
+Figuring out what is wrong with nssh. How could it be higher in the worst scenario?
+Interesting - nssh is expected to counterintuitively increase with warming because warmer air holds more moisture. Soil moisture, however, will decrease.
+![[000 Ana Did Science Today-55.png]]However, if we correlate this with mature forest biomass, it would expect a maximum forest biomass to increase with climate change - the opposite trend than soil moisture.
+This raises the question of which predictor to include - I will have soil moisture for now as I expect it to be the one to actually decrease with future climate in a pattern that should match the change in biomass.
+
+
 ## 2026/09/17
 
 good outcomes today - organized the scripts and am starting to make proper future predictions.
@@ -150,7 +157,7 @@ Finished uploading the climate change data to google earth engine - now it's jus
 ## 2026/07
 
 Some pixels have formação campestre as the final class. Some misclassification. I am tending to call "savanna" everything under the cerrado biome.
-![[image.png]]
+![[000 Ana Did Science Today-55.png]]
 
 
 look into flavia costa work vs carlos nobre turnover regrowth
