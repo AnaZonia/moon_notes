@@ -32,6 +32,20 @@ Ok, got the results for 2050 - as expected, not much difference between the scen
 ![[000 Ana Did Science Today-56.png]]
 
 So for 2050, the difference between the scenarios won't be interesting. But what would be interesting is the difference between these scenarios and the historical precipitation. checking that right now.
+
+![[000 Ana Did Science Today-57.png]]
+
+This is the result of the Tukey test:
+                         diff        lwr         upr     p adj
+ssp126-historical -26.9268552 -28.068283 -25.7854277 0.0000000
+ssp246-historical  -0.1862031  -1.327631   0.9552243 0.9752356
+ssp585-historical -48.7946663 -49.936094 -47.6532388 0.0000000
+ssp246-ssp126      26.7406520  25.599225  27.8820795 0.0000000
+ssp585-ssp126     -21.8678111 -23.009239 -20.7263837 0.0000000
+ssp585-ssp246     -48.6084631 -49.749891 -47.4670357 0.0000000
+
+so somehow the historical is not significantly different from 246. Not sure why 246 is higher than 126. need to verify that tomorrow
+
 ## 2026/09/17
 
 good outcomes today - organized the scripts and am starting to make proper future predictions.
