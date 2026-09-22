@@ -17,6 +17,36 @@ dg-publish: true
 	- [ ] Make the first prediction maps
 	- [ ] Write paper - the climate change future scenarios will affect the carbon sequestration potential of the Amazon
 
+## 2026/09/22
+
+Making figure with the changing growth rate per year.
+
+I fit the model with the historical data to get the coefficients. Those are fit with the historical asymptote.
+From these, I use the growth_rate derivative to get the growth rate year by year with the updated, changing asymptote and with the climatic conditions of each year, using the fit parameters of the historical data. This will get the growth rates of each age, with the conditions of the land when it reaches that age.
+then, given the chapman-richards equation for that region, I get the conditions from year one, and from then one update dAGB/dt given the changing conditions to find what is the following year's AGB given age and climate change, since the growth conditions are no longer constant.
+I will fit one set of parameters for the history, and then use them to make three trajectories, one per SSP.
+Then I make two plots - one with cumulative AGB, one with growth rate per year.
+
+for scenario in (ssp1, ssp2, ssp3):
+	select the columns with that ssp for the predictors that are included (either precipitation, for the asymptote, or as predictors for k)
+	starting_agb <- agb for year 2021, assuming lands are abandoned in 2020
+	df_agb <- data.frame(2021 = starting_agb)
+	df_rates <- data.frame()
+	age = 0
+	for year in (2022, 2100):
+		get the growth rate for that year
+		age = age + 1
+		predictors_year <- columns of df with the year in the name
+		k = sum(coefficients * predictors) (use same code from growth_curve function)
+		year_rate = Ake ⁽-k * age)
+		df_rates$year = year_rate
+		from that growth rate, estimate the year's agb
+		year_agb
+		df_agb$year = year_agb
+		
+
+
+
 ## 2026/09/18
 Figuring out what is wrong with nssh. How could it be higher in the worst scenario?
 Interesting - nssh is expected to counterintuitively increase with warming because warmer air holds more moisture. Soil moisture, however, will decrease.
