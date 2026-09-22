@@ -41,8 +41,9 @@ for scenario in (ssp1, ssp2, ssp3):
 		year_rate = Ake ⁽-k * age)
 		df_rates$year = year_rate
 		from that growth rate, estimate the year's agb
-		year_agb
+		year_agb = df$agb[[year - 1]]
 		df_agb$year = year_agb
+		
 		
 
 
