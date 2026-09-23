@@ -17,6 +17,16 @@ dg-publish: true
 	- [ ] Make the first prediction maps
 	- [ ] Write paper - the climate change future scenarios will affect the carbon sequestration potential of the Amazon
 
+## 2026/09/23
+Life will be organized around phd, housework, friends, family, and exercise.
+Random ad-hoc tasks sprinkled in as needed (errands).
+While in Montreal, try to focus in lab on mondays and tuesdays as much as possible. Can take the ride with Newaz on monday early morning if needed.
+Wed, Thu, Fri, Sat in Ottawa to get phd/housework/exercise done.
+Only things on the side are 2 hours per week of Farsi and RFFL, pre-scheduled from 5-6PM on weekdays.
+
+
+
+
 ## 2026/09/22
 
 Making figure with the changing growth rate per year.
@@ -29,7 +39,7 @@ Then I make two plots - one with cumulative AGB, one with growth rate per year.
 
 for scenario in (ssp1, ssp2, ssp3):
 	select the columns with that ssp for the predictors that are included (either precipitation, for the asymptote, or as predictors for k)
-	starting_agb <- agb for year 2021, assuming lands are abandoned in 2020
+	starting_agb <- agb for year 2021, assuming lands are abandoned in 2020 (A(1-e^kt))
 	df_agb <- data.frame(2021 = starting_agb)
 	df_rates <- data.frame()
 	age = 0
@@ -41,7 +51,7 @@ for scenario in (ssp1, ssp2, ssp3):
 		year_rate = Ake ⁽-k * age)
 		df_rates$year = year_rate
 		from that growth rate, estimate the year's agb
-		year_agb = df$agb[[year - 1]] + growth_rate
+		year_agb = df_agb$year - 1 + growth_rate
 		df_agb$year = year_agb
 		
 		
