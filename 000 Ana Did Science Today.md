@@ -17,6 +17,9 @@ dg-publish: true
 	- [ ] Make the first prediction maps
 	- [ ] Write paper - the climate change future scenarios will affect the carbon sequestration potential of the Amazon
 
+## 2026/09/24
+
+I'm noticing how I really should organize this script. Comment things so I don't get lost. It's easy to get confused with all the different predictors, ssps, and historical info.
 ## 2026/09/23
 Life will be organized around phd, housework, friends, family, and exercise.
 Random ad-hoc tasks sprinkled in as needed (errands).
@@ -24,8 +27,7 @@ While in Montreal, try to focus in lab on mondays and tuesdays as much as possib
 Wed, Thu, Fri, Sat in Ottawa to get phd/housework/exercise done.
 Only things on the side are 2 hours per week of Farsi and RFFL, pre-scheduled from 5-6PM on weekdays.
 
-
-
+Spent some time incorporating the pseudocode as code.
 
 ## 2026/09/22
 
