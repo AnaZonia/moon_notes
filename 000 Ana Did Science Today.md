@@ -17,6 +17,13 @@ dg-publish: true
 	- [ ] Make the first prediction maps
 	- [ ] Write paper - the climate change future scenarios will affect the carbon sequestration potential of the Amazon
 
+
+we are considering the effects of mature forest biomass changes on secondary forest growth through the asymptote
+
+
+
+
+
 ## 2026/09/24
 
 I'm noticing how I really should organize this script. Comment things so I don't get lost. It's easy to get confused with all the different predictors, ssps, and historical info.
