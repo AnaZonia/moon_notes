@@ -20,6 +20,9 @@ dg-publish: true
 
 we are considering the effects of mature forest biomass changes on secondary forest growth through the asymptote
 
+think of how to incorporate negative growth rates due to the decrease in asymptote
+
+
 
 
 
