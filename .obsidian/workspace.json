@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "right": {
     "id": "6dd32e945d853b19",
@@ -261,10 +260,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fbbb2f293fa1374c",
+  "active": "73760276f664cd91",
   "lastOpenFiles": [
-    "year - 1.md",
+    "001 The Bridge.md",
+    "Rolling ideas.md",
+    "Personal Statements.md",
+    "Conferences and Funding.md",
+    "003 People and Networks.md",
     "000 Ana Did Science Today.md",
+    "year - 1.md",
     "Files/000 Ana Did Science Today-57.png",
     "Files/000 Ana Did Science Today-56.png",
     "Files/000 Ana Did Science Today-55.png",
@@ -277,11 +281,9 @@
     "Github.md",
     "Files/000 Ana Did Science Today-51.png",
     "Files/000 Ana Did Science Today-50.png",
-    "003 People and Networks.md",
     "Templates/4 People and networks.md",
     "000 Chapter 3 - Validation with Plot Data.md",
     "000 Chapter 2 - Predicting Regrowth in Panama.md",
-    "001 The Bridge.md",
     "Relatório Bienal de Transparência.md",
     "Filipe França.md",
     "INCT SINBIAM.md",
@@ -294,11 +296,8 @@
     "CRIA - Centro de Referência em Informação Ambiental.md",
     "Mateus Macul.md",
     "Diogo Ferraz e Castro.md",
-    "Rolling ideas.md",
     "PANGEA - PAN tropical investigation of bioGeochemistry and Ecological Adaptation.md",
     "INPA.md",
-    "PARTNERS.md",
-    "Profix.md",
     "Floresta Aleatória/Untitled.base",
     "Floresta Aleatória/R Stats.base",
     "Files/Ana Did Science Today.pdf",

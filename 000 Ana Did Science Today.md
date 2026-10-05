@@ -25,8 +25,6 @@ think of how to incorporate negative growth rates due to the decrease in asympto
 
 
 
-
-
 ## 2026/09/24
 
 I'm noticing how I really should organize this script. Comment things so I don't get lost. It's easy to get confused with all the different predictors, ssps, and historical info.
