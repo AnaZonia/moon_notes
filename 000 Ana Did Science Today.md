@@ -25,6 +25,16 @@ think of how to incorporate negative growth rates due to the decrease in asympto
 
 
 
+Try out and see how a 10-year rolling average vs fitting a gam on the rainfall data before putting it into
+
+Main figure with climate distinction as well as land cover distinction over time.
+
+Map of current and future asymptotes (ssps 1 2 and 5)
+
+Ask fred about the drop in asymptote changing the growth rate.
+
+
+
 ## 2026/09/24
 
 I'm noticing how I really should organize this script. Comment things so I don't get lost. It's easy to get confused with all the different predictors, ssps, and historical info.
