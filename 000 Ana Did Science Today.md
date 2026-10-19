@@ -18,6 +18,17 @@ dg-publish: true
 	- [ ] Write paper - the climate change future scenarios will affect the carbon sequestration potential of the Amazon
 
 
+
+
+
+
+
+
+
+
+
+
+
 we are considering the effects of mature forest biomass changes on secondary forest growth through the asymptote
 
 think of how to incorporate negative growth rates due to the decrease in asymptote
