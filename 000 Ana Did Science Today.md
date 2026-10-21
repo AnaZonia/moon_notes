@@ -23,10 +23,23 @@ dg-publish: true
 
 
 
+huge variance of biomass
+our evidence suggests biomass is not starting at zero
+equivalent to 27 year time lag / headstart would be necessary for the leftover biomass
 
+The issue is that it is systematically ==not starting at zero.== with this we estimate growth curves starting at zero
+ 
+MapBiomas 
 
+Get pixels that have 10 years of pastureland and see the distribution of ages
 
+Check the histograms of the sampling after year 3
 
+Make a histogram of number of years under pastureland
+
+Check if that tracks for all years - 2 year olds, 3 year olds
+
+Let's see if this makes sense. Poke at it.
 
 
 we are considering the effects of mature forest biomass changes on secondary forest growth through the asymptote
