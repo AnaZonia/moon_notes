@@ -7,10 +7,6 @@ dg-publish: true
 
 ## Thesis
 
-- [ ] Chapter 2
-	- [ ] Check with Jeff whether the algorithms can be fixed
-	- [ ] Try out to detect regrowth with ESA CCI Biomass for after 2015
-	- [ ] Write paper - the differences between the regrowth algorithms and how we need to improve the methods of detecting regrowth
 - [ ] Chapter 3
 	- [x] Check whether random forest will work out with the full Amazon spread - see if I observe the same pattern that Flores did with rainfall across savannas and forests ✅ 2026-09-10
 	- [x] Build first predictive model of regrowth given the asymptote submodel with climate change ✅ 2026-09-10
@@ -22,6 +18,8 @@ dg-publish: true
 
 
 
+
+## 2026/10/29
 
 huge variance of biomass
 our evidence suggests biomass is not starting at zero
