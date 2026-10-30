@@ -3063,7 +3063,7 @@ in the Amazon, the nearest mature biomass is a much better predictor than averag
 
 # Feb 2025
 
-![](https://i.imgur.com/H33eMuH.png)
+![|605x318](https://i.imgur.com/H33eMuH.png)
 ![](https://i.imgur.com/i7TERKX.jpeg)
 ![|720x375](https://i.imgur.com/mx5Pzdw.png)
 ![](https://i.imgur.com/PntbO3q.jpeg)
