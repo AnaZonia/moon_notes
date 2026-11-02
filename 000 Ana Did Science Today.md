@@ -16,7 +16,9 @@ dg-publish: true
 
 
 
+No field data to recover from degradation
 
+Can we distinguish degradation from regrowth from zero? Would be cool if that explains the difference in agreement between the two products.
 
 
 ## 2026/10/29
