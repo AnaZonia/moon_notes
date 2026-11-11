@@ -7,18 +7,21 @@ dg-publish: true
 
 ## Thesis
 
-- [ ] Chapter 3
-	- [x] Check whether random forest will work out with the full Amazon spread - see if I observe the same pattern that Flores did with rainfall across savannas and forests ✅ 2026-09-10
-	- [x] Build first predictive model of regrowth given the asymptote submodel with climate change ✅ 2026-09-10
-	- [ ] Make the first prediction maps
-	- [ ] Write paper - the climate change future scenarios will affect the carbon sequestration potential of the Amazon
+- [x] Check whether random forest will work out with the full Amazon spread - see if I observe the same pattern that Flores did with rainfall across savannas and forests ✅ 2026-09-10
+- [x] Build first predictive model of regrowth given the asymptote submodel with climate change ✅ 2026-09-10
+- [ ] Make the first prediction maps
+- [ ] Write paper - the climate change future scenarios will affect the carbon sequestration potential of the Amazon
 
 
 
 
+## 2026/11/11
 
-
-
+Planning for the next two days at home.
+1) Write README for Climate Change chapter
+2) Generate 9 forecasts for combinations of 3 land cover scenarios and 3 climate change scenarios
+3) Update code/README for Forest Regrowth chapter
+4) Update text for Forest Regrowth chapter (including references)
 
 No field data to recover from degradation
 
